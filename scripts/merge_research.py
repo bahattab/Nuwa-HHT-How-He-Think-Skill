@@ -13,6 +13,7 @@
 输出: 打印markdown格式的摘要表格到stdout
 """
 
+import os
 import sys
 import re
 from pathlib import Path
@@ -25,12 +26,12 @@ for _s in (sys.stdout, sys.stderr):
         pass
 
 AGENTS = {
-    '01-writings': '著作',
-    '02-conversations': '对话',
-    '03-expression-dna': '表达',
-    '04-external-views': '他者',
-    '05-decisions': '决策',
-    '06-timeline': '时间线',
+    '01-writings': ('Writings', 'المؤلّفات'),
+    '02-conversations': ('Conversations', 'الحوارات'),
+    '03-expression-dna': ('Expression', 'التعبير'),
+    '04-external-views': ('External views', 'آراء الآخرين'),
+    '05-decisions': ('Decisions', 'القرارات'),
+    '06-timeline': ('Timeline', 'التسلسل الزمنيّ'),
 }
 
 
@@ -101,8 +102,10 @@ def find_contradictions(files: dict[str, str]) -> list[str]:
 
 
 def main():
+    arabic = os.environ.get("NUWA_LANG", "").lower().replace("_", "-").split("-")[0] == "ar"
+    missing_label = "❌ مفقود" if arabic else "❌ Missing"
     if len(sys.argv) < 2:
-        print("用法: python3 merge_research.py <人物Skill目录>（含 references/research/ 的那一层）")
+        print("الاستخدام: python3 merge_research.py <مجلّد المهارة الذي يحتوي على references/research/>" if arabic else "Usage: python3 merge_research.py <skill directory containing references/research/>")
         sys.exit(1)
 
     skill_dir = Path(sys.argv[1])
@@ -112,7 +115,7 @@ def main():
         research_dir = skill_dir
 
     if not research_dir.exists():
-        print(f"❌ 目录不存在: {research_dir}")
+        print(f"❌ المجلّد غير موجود: {research_dir}" if arabic else f"❌ Directory not found: {research_dir}")
         sys.exit(1)
 
     files = {}
@@ -124,11 +127,12 @@ def main():
     total_secondary = 0
     missing = []
 
-    for key, label in AGENTS.items():
+    for key, (english_label, arabic_label) in AGENTS.items():
+        label = arabic_label if arabic else english_label
         md_file = research_dir / f"{key}.md"
         if not md_file.exists():
             missing.append(label)
-            rows.append(f"│ {label:<12} │ {'❌ 缺失':<8} │ {'—':<24} │")
+            rows.append(f"│ {label:<12} │ {missing_label:<8} │ {'—':<24} │")
             continue
 
         content = md_file.read_text(encoding='utf-8')
@@ -166,42 +170,42 @@ def main():
 
     # 输出
     print("┌──────────────┬──────────┬──────────────────────────┐")
-    print("│ 调研分路      │ 来源数量  │ 关键发现                  │")
+    print("│ مسار البحث      │ المصادر  │ النتائج                  │" if arabic else "│ Track      │ Sources  │ Findings                  │")
     print("├──────────────┼──────────┼──────────────────────────┤")
     for row in rows:
         print(row)
     print("├──────────────┼──────────┼──────────────────────────┤")
 
-    primary_ratio = f"{total_primary}/{total_primary + total_secondary}" if (total_primary + total_secondary) > 0 else "未标记"
-    print(f"│ 总来源数      │ {total_sources:<8} │ 一手占比: {primary_ratio:<15} │")
+    primary_ratio = f"{total_primary}/{total_primary + total_secondary}" if (total_primary + total_secondary) > 0 else ("غير موسوم" if arabic else "Unmarked")
+    print(f"│ إجمالي المصادر      │ {total_sources:<8} │ نسبة الأوّليّة: {primary_ratio:<15} │" if arabic else f"│ Total sources      │ {total_sources:<8} │ Primary ratio: {primary_ratio:<15} │")
 
     if contradictions:
-        print(f"│ 矛盾点        │ {len(contradictions)}处      │ {contradictions[0][:24]:<24} │")
+        print(f"│ التعارضات        │ {len(contradictions)}      │ {contradictions[0][:24]:<24} │" if arabic else f"│ Conflicts        │ {len(contradictions)}      │ {contradictions[0][:24]:<24} │")
     else:
-        print(f"│ 矛盾点        │ 0处      │ {'—':<24} │")
+        print(f"│ التعارضات        │ 0      │ {'—':<24} │" if arabic else f"│ Conflicts        │ 0      │ {'—':<24} │")
 
     if missing:
-        print(f"│ 信息不足维度   │ {len(missing)}个      │ {', '.join(missing):<24} │")
+        print(f"│ المسارات الناقصة   │ {len(missing)}      │ {', '.join(missing):<24} │" if arabic else f"│ Missing tracks   │ {len(missing)}      │ {', '.join(missing):<24} │")
     else:
-        print(f"│ 信息不足维度   │ 无       │ {'—':<24} │")
+        print(f"│ المسارات الناقصة   │ لا يوجد  │ {'—':<24} │" if arabic else f"│ Missing tracks   │ None     │ {'—':<24} │")
 
     print("└──────────────┴──────────┴──────────────────────────┘")
 
-    print(f"\n和先验不一样的地方：共 {surprises['total']} 条（推翻 {surprises['推翻']} / 加深 {surprises['加深']} / 新增 {surprises['新增']}）")
+    print(f"\nالفروق عن المعرفة السابقة: {surprises['total']} (تصحيحات {surprises['推翻']} / تعميقات {surprises['加深']} / إضافات {surprises['新增']})" if arabic else f"\nDifferences from prior knowledge: {surprises['total']} (corrections {surprises['推翻']} / refinements {surprises['加深']} / additions {surprises['新增']})")
     if no_surprise_section:
-        print(f"⚠️ 这几路底稿末尾没有「和先验不一样的地方」一段: {', '.join(no_surprise_section)}")
+        print(f"⚠️ تفتقر هذه المسارات إلى قسم الفروق عن المعرفة السابقة: {', '.join(no_surprise_section)}" if arabic else f"⚠️ Missing a section on differences from prior knowledge in these tracks: {', '.join(no_surprise_section)}")
     if surprises['total'] < 8:
-        print("⚠️ 不到 8 条，说明还在复述常识：换更深的来源（长访谈原文、早期文章、当事人回忆、批评文章）再找")
+        print("⚠️ أقلّ من 8 فروق. ابحث في مصادر أعمق، مثل المقابلات الكاملة والكتابات المبكّرة والمذكّرات المباشرة والمقالات النقديّة." if arabic else "⚠️ Fewer than 8 differences. Seek richer sources such as full interviews, early writings, firsthand recollections, and critiques.")
     if not (research_dir / '00-prior.md').exists():
-        print("⚠️ 没有 00-prior.md（先验快照），无从判断哪些是增量")
+        print("⚠️ ملفّ 00-prior.md مفقود، ويتعذّر تقدير القيمة المضافة." if arabic else "⚠️ Missing 00-prior.md. The value added cannot be assessed.")
     if not (research_dir / 'holdout.md').exists():
-        print("提醒：还没有 holdout.md。提炼之前挑 3–5 件一手材料封存，留作验证的考题")
+        print("ملفّ holdout.md مفقود. احجز 3–5 مصادر أوليّة للتحقّق قبل الاستخلاص." if arabic else "Missing holdout.md. Reserve 3–5 primary sources for validation before extraction.")
 
     # 总结
     if total_sources < 10:
-        print("\n⚠️ 总来源数 <10，建议降低期望或补充调研")
+        print("\n⚠️ أقلّ من 10 مصادر. اضبط نطاق النتائج أو اجمع أدلّة إضافيّة." if arabic else "\n⚠️ Fewer than 10 sources. Narrow the scope or collect more evidence.")
     if missing:
-        print(f"\n⚠️ 缺失维度: {', '.join(missing)}，建议补充或在诚实边界中标注")
+        print(f"\n⚠️ المسارات الناقصة: {', '.join(missing)}, اجمع أدلّة إضافيّة أو وثّق القيد" if arabic else f"\n⚠️ Missing tracks: {', '.join(missing)}, collect more evidence or document the limitation")
 
 
 if __name__ == '__main__':
