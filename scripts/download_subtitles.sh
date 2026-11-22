@@ -1,28 +1,35 @@
 #!/bin/bash
-# 从YouTube视频下载字幕
-# 用法: ./download_subtitles.sh <YouTube_URL> [输出目录]
-# 优先下载人工字幕，无人工字幕则下载自动生成字幕
-# 语言优先级：中文 > 英文 > 其他
-# 输出 SRT 或 VTT（YouTube 通常只提供 VTT），两种格式 srt_to_transcript.py 都能处理
+# Download subtitles from a YouTube video.
+# Usage: ./download_subtitles.sh <YouTube_URL> [output_directory]
+# Prefer human-written subtitles, then fall back to automatic captions.
+# Language priority: Chinese, English, then other languages where supported.
+# The transcript converter accepts either SRT or VTT.
 
 set -e
+message() {
+    case "${NUWA_LANG:-en}" in
+        ar|ar-*|ar_*) printf '%s\n' "$2" ;;
+        *) printf '%s\n' "$1" ;;
+    esac
+}
+
 
 URL="$1"
 OUTPUT_DIR="${2:-.}"
 
 if [ -z "$URL" ]; then
-    echo "用法: ./download_subtitles.sh <YouTube_URL> [输出目录]"
+    message "Usage: ./download_subtitles.sh <YouTube_URL> [output_directory]" "الاستخدام: ./download_subtitles.sh <YouTube_URL> [مجلّد الإخراج]"
     exit 1
 fi
 
 mkdir -p "$OUTPUT_DIR"
 
-# 每次尝试先下载到独立的临时目录，确保只认本次新下载的文件
+# Use a fresh temporary directory so only newly downloaded files are selected.
 WORK_DIR=$(mktemp -d)
 trap 'rm -rf "$WORK_DIR"' EXIT
 
-# 用法: try_download <yt-dlp字幕参数> <语言列表>
-# 下载成功则把字幕移到输出目录并打印路径，否则返回非零
+# Usage: try_download <yt-dlp subtitle option> <language list>
+# Move a successful download and print its path. Return nonzero on failure.
 try_download() {
     rm -rf "${WORK_DIR:?}"/*
     yt-dlp "$1" --sub-langs "$2" --sub-format "srt/vtt/best" --skip-download \
@@ -34,31 +41,31 @@ try_download() {
     echo "$OUTPUT_DIR/$(basename "$file")"
 }
 
-echo ">>> 检查可用字幕..."
+message ">>> Checking available subtitles…" ">>> جارٍ التحقّق من الترجمات النصّيّة المتاحة…"
 yt-dlp --list-subs --no-download "$URL" 2>/dev/null | tail -20 || true
 
 echo ""
-echo ">>> 尝试下载人工字幕（中文优先）..."
+message ">>> Trying human-written subtitles (Chinese first)…" ">>> جارٍ البحث عن ترجماتٍ نصّيّة بشريّة، بدءًا بالصينيّة…"
 
-# 尝试1: 人工中文字幕
+# Try human-written Chinese subtitles.
 if FOUND=$(try_download --write-subs "zh-Hans,zh-Hant,zh,zh-CN,zh-TW"); then
-    echo "✅ 下载成功: $FOUND"
+    message "Downloaded: $FOUND" "تمّ التنزيل: $FOUND"
     exit 0
 fi
 
-# 尝试2: 人工英文字幕
-echo ">>> 无中文人工字幕，尝试英文..."
+# Try human-written English subtitles.
+message ">>> Trying human-written English subtitles…" ">>> جارٍ البحث عن ترجماتٍ نصّيّة بشريّة بالإنجليزيّة…"
 if FOUND=$(try_download --write-subs "en,en-US,en-GB"); then
-    echo "✅ 下载成功: $FOUND"
+    message "Downloaded: $FOUND" "تمّ التنزيل: $FOUND"
     exit 0
 fi
 
-# 尝试3: 自动生成字幕（中文优先）
-echo ">>> 无人工字幕，尝试自动生成字幕..."
+# Try automatic captions, with Chinese preferred.
+message ">>> Trying automatic captions…" ">>> جارٍ البحث عن ترجماتٍ نصّيّة آليّة…"
 if FOUND=$(try_download --write-auto-subs "zh-Hans,zh,en"); then
-    echo "✅ 自动字幕下载成功: $FOUND"
+    message "Downloaded automatic captions: $FOUND" "تمّ تنزيل الترجمة النصّيّة الآليّة: $FOUND"
     exit 0
 fi
 
-echo "❌ 未找到任何可用字幕"
+message "No subtitles found." "لم يُعثَر على ترجماتٍ نصّيّة."
 exit 1
