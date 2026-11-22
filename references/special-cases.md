@@ -1,65 +1,47 @@
-# 特殊场景
+# Special cases
 
-遇到下面的情况，先读对应一节，再回到 SKILL.md 的蒸馏流程。
+Read the applicable section, then return to the workflow in [SKILL.md](../SKILL.md). [Arabic](special-cases_AR.md) · [Chinese source](special-cases_ZH.md)
 
-## 目录
+## 1. Topic skills
 
-1. 主题 Skill（蒸馏的不是一个人）
-2. 蒸馏用户自己
-3. 在世的非公众人物
-4. 冷门人物
-5. 运行环境受限
+For a subject such as value investing, product restraint, or antifragile decision-making, adapt the workflow as follows.
 
-## 1 · 主题 Skill
-
-输入是一个主题（「价值投资」「产品克制」「反脆弱决策」）而不是人名时，各步的变化：
-
-| 步骤 | 人物 Skill | 主题 Skill |
+| Step | Person skill | Topic skill |
 |---|---|---|
-| 定题 | 确认是谁、聚焦什么 | 确认主题的边界和受众（「价值投资」是格雷厄姆一脉还是全流派？） |
-| 目录 | `[person]-perspective/` | `[topic]-framework/`，结构相同 |
-| 先验快照 | 对这个人的认识 | 对这个领域的认识：主流说法、你认为的共识 |
-| 采集 | 六路围着一个人 | 先找出这个主题的 3–5 个核心人物或流派，再按人分路，每人一到两路 |
-| 提炼 | 一个人的招式与模型 | 各流派的**共识**（都认的）和**分歧**（A 说 X，B 说 Y）；案例按流派各收代表案例 |
-| 声音 | 模拟一个人 | 不模拟任何人，中性、专业；改成领域术语表 |
-| 张力 | 一个人的内在矛盾 | 流派之间的根本分歧 |
-| 成形 | 标准骨架 | 去掉「我是谁」和第一人称，见 `skill-template.md` 末尾的变体 |
-| 验证 | 封存件是他本人的说法 | 封存件是领域里公认的经典案例及其结局 |
+| Scope | Identify the person and focus | Define the topic's boundaries and audience. Does value investing mean the Graham tradition or all schools? |
+| Directory | `[person]-perspective/` | `[topic]-framework/`, with the same structure |
+| Baseline | Prior knowledge of the person | Prevailing views and what you believe to be the field's consensus |
+| Collection | Six tracks about one person | Identify 3–5 central figures or schools, with one or two tracks per figure or school |
+| Extraction | Personal moves and models | Document shared positions and disagreements. Collect representative cases from each school. |
+| Voice | Model the person's expression | Use neutral, professional language and provide a glossary |
+| Tensions | Contradictions within one person's views | Fundamental disagreements between schools |
+| Drafting | Standard structure | Omit the persona section and first person. See the variant at the end of `skill-template.md`. |
+| Validation | Hold out the person's own statements | Hold out recognized cases and their documented outcomes |
 
-## 2 · 蒸馏用户自己
+## 2. Studying the user
 
-用户说「蒸馏我自己」时：
+1. Use user-supplied articles, recordings, decision memoranda, exported conversations, and self-descriptions.
+2. Ask the user to write their own baseline account of how they believe they think.
+3. Apply the six research tracks to the supplied materials without searching the web.
+4. Watch for self-assessment bias. Record discrepancies between actions and self-description. If feasible, ask the user to obtain brief assessments from one or two acquaintances for the external-perspectives track.
+5. Hold out actual past decisions. For validation, ask how the user would have chosen in those circumstances.
 
-1. 公开渠道搜不到，全部靠用户提供：写过的文章、录过的音视频、做决策时的备忘录、聊天记录导出、自我描述。
-2. 先验快照改成请用户自己写「我以为我是怎么想事情的」。
-3. 六路改为分析用户给的素材，不做网络搜索。
-4. 留意自我认知的偏差：人会高估某些特质、看不到自己的盲点。素材里他**做过的**和他**自称的**不一致的地方，如实记下来；条件允许时请他找一两个熟人写几句对他的评价，当作「他者」那一路。
-5. 封存件从他过去真实做过的决定里挑，验证时问「当时你会怎么选」。
+## 3. Living private figures
 
-## 3 · 在世的非公众人物
+- Use only the materials the user supplies and skip web research.
+- Before starting, recommend obtaining the person's consent and keeping the output private.
+- Messages, email, and documents often provide evidence of real working practices. Focus on observable moves and decision heuristics.
+- State in the limitations that the supplied materials reflect one person's perspective on the subject.
 
-蒸馏同事、家人、朋友、老师这类不是公众人物的人：
+## 4. Poorly documented figures
 
-- 只用用户提供的素材，不做网络搜索
-- 开工前提醒用户一句：最好征得本人同意，产物不要公开发布
-- 素材多半是聊天记录、邮件、文档——比公开材料更贴近真实的做事方式，重点提招式和启发式
-- 边界一节写明：素材只来自一个人的视角，是他眼中的这个人
+With fewer than 10 usable sources, disclose the limitation during scoping. Reduce the mental models to 2–3 and label each as based on limited evidence. Describe the specific gaps in the limitations. Prioritize firsthand books, internal recordings, or correspondence the user can supply. Skip holdout and incremental testing and explicitly record that the incremental test was omitted.
 
-## 4 · 冷门人物
+## 5. Limited runtime
 
-可用来源不足 10 条时：
-
-1. 定题阶段就告诉用户：公开信息很少，质量会受限。
-2. 心智模型减到 2–3 个，每个标注「基于有限信息」。
-3. 边界一节加大篇幅，写清哪些维度信息不足。
-4. 用户能提供一手素材（书、内部录音、通信）就优先用。
-5. 跳过封存与增量测试，在边界里写明「未做增量测试」。
-
-## 5 · 运行环境受限
-
-| 受限的地方 | 怎么办 |
+| Constraint | Response |
 |---|---|
-| 没有子代理，或后台任务会挂起 | 采集串行，做完一路落盘一路；验证按 `validation-playbook.md` 第 6 节 |
-| 上下文窗口 200k 上下 | 分三个会话：定题到采集 / 封存到提炼 / 成形到验证，每段开头读已落盘的底稿；优先选快速档 |
-| 不能联网 | 只做本地素材模式，请用户提供材料 |
-| 预算敏感 | 快速档，换轻量模型做采集，提炼和成形用更强的模型 |
+| No subagents or background jobs stall | Collect sequentially, save each completed track, and use section 6 of `validation-playbook.md` for testing |
+| Context window around 200k | Split work into three sessions: scope and collection, holdout and extraction, then drafting and validation. Read saved notes at the start of each session and prefer the quick tier. |
+| No network | Ask for user-provided materials and work from them locally |
+| Limited budget | Use the quick tier and a lighter model for collection, with a stronger model for extraction and drafting |
