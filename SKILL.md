@@ -17,223 +17,71 @@ Use the language explicitly requested by the user. Otherwise, follow the languag
 
 استخدم اللغة التي يطلبها المستخدم صراحةً. وإن لم يُحدِّد لغةً، فاتّبع لغة طلبه في أسئلة الاستيضاح، وملخّصات البحث، والمهارات الناتجة. حافظ على عناوين المصادر واقتباساتها وروابطها عند الحاجة إلى تتبُّعها، وبيّن متى يكون الاقتباس مترجمًا.
 
-# 女娲 · Skill造人术
+[Arabic guide](SKILL_AR.md) · [Chinese source](SKILL_ZH.md)
 
-> 「写不进去的那部分，才是你真正的护城河。」——但写得进去的部分，已经足够强大。
+# Nuwa · Research a person's way of thinking
 
-## 你是谁
+Act as biographer, cognitive researcher, editor, and evaluator. Use documented decisions and verbatim passages to identify recurring ways of thinking. Capture observable actions, mental models, heuristics, speech patterns, tensions, and limitations. Focus on what corrects, deepens, or adds to baseline knowledge. An expert familiar with the subject should recognize the result and learn something from it.
 
-你不是在整理一份人物资料。你是一个传记作者、一个认知科学研究者、一个编辑和一个质检员合在一起：
-传记作者去找这个人真实做过的事和说过的原话，研究者从里面看出他反复使用的思考方式，
-编辑决定哪些值得留、哪些是谁都知道的废话，质检员拿这个人没被你用过的材料来考你做出来的东西。
+## Routing and paths
 
-标准是：一个读过此人全部著作和访谈的行家，用了你做的 Skill 之后会说「对，他就是这么想事情的，而且有几处连我都没注意到」。
-你有能力做到——限制通常不在能力，在于有没有先认定自己要做到这个水准。
+A named person or topic goes directly to research. For a vague need, consult [diagnosis](references/diagnose-playbook.md), ask at most two rounds of questions, and suggest 2–3 distinct candidates. For a topic, self-study, private or obscure figure, or limited runtime, consult [special cases](references/special-cases.md). For updates, see below.
 
-## 女娲造的是什么
+`$NUWA` is this skill's directory. `$OUT` is the generated skill directory within the host's skill discovery path. Use `.claude/skills/[person]-perspective/` for Claude Code, `.dsh/skills/…` for DeepSeek Harness, and the equivalent for other hosts. Keep output self-contained. Use the playbooks whenever blocked, operating with limited tools, or failing a gate.
 
-一个好的人物 Skill 是一套可运行的认知操作系统：他用什么看世界（心智模型）、遇事先做什么（招式）、
-怎么快速判断（启发式）、怎么说话（声音）、在哪些事上会看走眼（边界）。捕捉的是他怎么想、怎么干，不是他说过什么。
+## 0. Define the scope
 
-还有一条贯穿全程的判据：**这个 Skill 值钱的地方，是模型不看它就答不出来、答不准、答得浅的那部分。**
-芒格讲逆向思考、乔布斯讲专注，这些模型本来就知道，写三百行也没有增量。增量在三个地方：
+Identify the subject, scope, intended use, and available primary material. Store user-provided books, transcripts, and blog exports in `$OUT/references/sources/`. Route an existing skill to updating or upgrading. Explain relative costs before research. Quick covers writings, conversations, and decisions at about five sources each and roughly one-third the standard cost. Standard covers six tracks. Deep adds full primary-source archives for publication-quality work. If the user simply names a person, default to standard, a general profile for decision support, and no local corpus.
 
-- **推翻**：大众印象和模型的先验是错的，一手材料说的是另一回事
-- **加深**：先验方向对但是空的，现在有了具体的案例、条件、原话和出处
-- **新增**：先验里根本没有的招式、决策和转折
+## 1. Record the baseline
 
-所以女娲的流程是围着增量转的：调研前先写下已有的认识，调研时专找和它不一样的东西，
-成形时把篇幅花在增量上，验证时拿带 Skill 的回答和不带的比。
+Before looking up sources, write `$OUT/references/research/00-prior.md` with five presumed core ideas or practices, three confident facts, three uncertain claims, and a sentence summarizing the public impression. Spend at most ten minutes. State plainly when prior knowledge is sparse.
 
-## 两种走法
+## 2. Collect evidence and set aside validation cases
 
-这份文件写的是每一步要达到什么、为什么。怎么达到，有两种走法，随时可以切换：
+Follow the [research playbook](references/research-playbook.md). Cover writings, long conversations, short-form expression, outside criticism, major decisions, and timeline or recent activity. Use parallel research where available, otherwise work sequentially and save each completed track in `$OUT/references/research/` under its matching 01–06 file. For each finding record source and confidence and distinguish statements, actions, third-party accounts, and inference. Describe concrete actions in past tense with date, situation, conduct, and outcome. Preserve contradictions. End each file with evidence that overturns, deepens, or adds to the baseline.
 
-- **放手走**：你清楚怎么研究一个人、怎么从材料里提炼，就按自己的判断组织工作——调研怎么分工、先读什么、产物长什么形状，都可以比手册做得更好。只要每一步的「过关」条件满足，窄桥没踩。
-- **照着走**：哪一步没有把握、验收脚本没过、或运行环境受限（没有子代理、上下文窗口小、不能联网），就读那一步对应的手册，逐条做。手册是经过实测的稳妥路线。
+Before extraction, reserve 3–5 primary sources in `research/holdout.md`, prioritizing decisions with real alternatives and complete reasoned answers. Record the source, question, and actual response or action. Exclude this material from the generated skill. If fewer than ten usable sources leave insufficient material, report that the incremental validation test was skipped.
 
-不用先判断自己属于哪一种。先做，卡住了再读手册。
+Run `python3 $NUWA/scripts/merge_research.py $OUT`. Require each planned track to have evidence, a majority of sources to be primary, dedicated criticism, and at least eight additions, refinements, or corrections to the baseline. Seek deeper primary sources if the threshold fails. Show the user the summary, strongest changes, contradictions, gaps, and extraction direction at this one checkpoint. When the user has waived intermediate confirmation, include the summary in the final handoff.
 
-## 资源与路径
+## 3. Extract reasoning patterns
 
-两个目录别混：`$NUWA` 是本 skill 的根目录（这份 SKILL.md 所在的目录）；`$OUT` 是正在造的那个人物 Skill 的目录。
-`$OUT` 放在宿主扫描的 skill 目录下：Claude Code 是 `.claude/skills/[person]-perspective/`，DeepSeek Harness 是 `.dsh/skills/…`，其他宿主换成它自己的目录。
+Follow the [extraction framework](references/extraction-framework.md).
 
-| 文件 | 什么时候读 / 跑 |
-|---|---|
-| `$NUWA/references/diagnose-playbook.md` | 用户只有困惑、没有人名时 |
-| `$NUWA/references/research-playbook.md` | 采集阶段照着走：六路分工、任务书模板、信息源、本地语料、串行降级 |
-| `$NUWA/references/extraction-framework.md` | 提炼阶段照着走：增量筛、招式、心智模型三重验证、案例卡、声音、矛盾处理 |
-| `$NUWA/references/skill-template.md` | 成形阶段：产物的骨架与每一节的写法 |
-| `$NUWA/references/validation-playbook.md` | 验证阶段：任务测试、封存题测试、边界测试的做法与任务书 |
-| `$NUWA/references/fidelity-scorecard.md` | 要出对外的保真度评分卡时 |
-| `$NUWA/references/special-cases.md` | 主题 Skill、蒸馏自己、非公众人物、冷门人物、运行环境受限 |
-| `python3 $NUWA/scripts/merge_research.py $OUT` | 采集完，生成调研摘要表 |
-| `python3 $NUWA/scripts/quality_check.py $OUT` | 成形后，机检结构与证据（输出逐项原因和改法） |
-| `bash $NUWA/scripts/download_subtitles.sh <视频网址> [输出目录]`、`python3 $NUWA/scripts/srt_to_transcript.py <srt> [txt]` | 需要视频字幕当一手材料时 |
+- Extract 5–8 observable moves with their triggers and at least one source each.
+- Require 3–7 mental models to appear across at least two domains, predict a stance on a new problem, and distinguish the subject from general expert judgment. State evidence and failure conditions. Downgrade partially validated models to heuristics.
+- Write 5–10 situation–response heuristics with real examples.
+- Write case cards with situation, conduct, verbatim rationale, outcome and hindsight, application by analogy, and source. Minimums are 6 quick, 12 standard, and 20 deep.
+- Correct at least two common misreadings with primary evidence. Document syntax, diction, rhythm, humor, and confidence with sourced passages.
+- Preserve at least two unresolved tensions. Distinguish documented expertise, plausible inference, and silence or failure. Report blind spots in the work, baseline bias, and new evidence that could overturn the result.
 
-## 入口分流
+## 4. Build the deliverables
 
-| 用户说了什么 | 走哪 |
-|---|---|
-| 明确的人名或主题（「蒸馏芒格」「做一个费曼 skill」） | 下面的蒸馏流程 |
-| 只有困惑（「我想提升决策质量」「有没有一种思维方式能帮我……」） | 读 `diagnose-playbook.md`：最多两轮追问，推荐 2–3 个有差异的候选，选定后再蒸馏 |
-| 「更新 XX」「XX 最近有新动态」 | 见后面的「更新与升级」 |
-| 「把旧的 XX skill 升级到新版」 | 见后面的「更新与升级」 |
-| 主题而不是人、蒸馏自己、非公众人物、冷门人物 | 先读 `special-cases.md` 对应一节，再走蒸馏流程 |
+Use the [skill template](references/skill-template.md). Write a runtime `$OUT/SKILL.md` of no more than 350 lines with invocation, role, moves, mental models, heuristics, misreadings, voice, case index, tensions, limitations, and sources. Store the full case cards and quotation bank in `references/casebook.md` and `references/voice.md`. Adapt the structure to the subject while retaining those essentials. Run `python3 $NUWA/scripts/quality_check.py $OUT` and resolve failures.
 
-## 蒸馏流程
+## 5. Validate
 
-六步。每步写了目的、过关条件和产物。
+Follow the [validation playbook](references/validation-playbook.md). Use independent answerers and a blind evaluator when available. Otherwise test sequentially and disclose the lack of independent validation.
 
-### 0 · 定题
+1. Compare responses on one or two real user problems, one with the skill and one with baseline knowledge. Verify person-specific evidence and reject invented cases. Return to extraction if the skill adds little.
+2. Apply the held-out questions and compare against the documented response. A difference within two points is a tie on a small set. Investigate substantially worse results.
+3. Ask about an issue absent from the evidence. A passing response labels inference and acknowledges uncertainty. Absence from the corpus does not establish that the person never addressed a topic.
 
-弄清楚四件事：是谁、聚焦什么（全面画像还是某个维度）、拿来干什么（思维顾问 / 决策参考 / 学他的方法）、
-用户手上有没有一手素材（书、访谈原文、字幕、博客导出——有的话比网上搜的质量高得多，放进 `$OUT/references/sources/`）。
-已有同名 Skill 就转「更新与升级」。
+Revise at most twice. Disclose remaining weaknesses and record all outcomes, model names, and test date in `$OUT/FIDELITY.md`. Use the [scorecard](references/fidelity-scorecard.md) for externally comparable scores.
 
-开跑前说清成本并让用户选档——完整蒸馏是多轮搜索的长任务，顶级模型上单次有用户花过数十美元：
+## Evidence and portability rules
 
-| 档位 | 调研规模 | 适合 | 成本量级 |
-|---|---|---|---|
-| 快速 | 著作、对话、决策三路，每路约 5 个来源 | 先试效果 / 冷门人物 / 预算敏感 | 约标准档 1/3 |
-| 标准（默认） | 六路完整调研 | 大多数场景 | 中等；换轻量模型可明显降低 |
-| 深度 | 六路＋一手素材全量存档（书、字幕、长文） | 打算公开发布的精品 | 最高 |
+Verify every quotation against its source. For Chinese research, exclude Zhihu, WeChat official-account articles, Baidu Baike, and Baidu Zhidao as evidence. Use authoritative reporting, original audio or video, and the subject's own writings or Weibo posts. For a living private figure, use only user-supplied material and remind the user to seek consent. Write each track to disk as it finishes, keep holdouts out of the skill, and preserve dedicated critical sources. Disclose thin evidence. Keep generated descriptions under 300 characters with scope, explicit triggers, and an instruction against activating on generic questions. Avoid machine-specific absolute paths. Run sequentially when background agents are unavailable and resume from saved evidence when context is limited.
 
-用户只说「就做 XX」→ 默认全面画像、思维顾问、无本地素材、标准档，直接往下走。
-凡是能给默认值的都给默认值，不要把进度卡在提问上。
+Prefer long-form evidence, contested positions, changes of mind, observed conduct, and spontaneous follow-up answers over slogans or prepared remarks. Record discrepancies between words and actions.
 
-然后建目录（结构见 `skill-template.md` 开头）。所有调研底稿都存在 `$OUT/references/research/` 里——
-产物必须自包含，复制整个目录就能用，不依赖目录外的任何文件。
+## Updates and upgrades
 
-### 1 · 先验快照
+For recent developments, read the existing research date. Update long conversations, decisions, and timeline only. Add corroborating cases, revise models when evidence conflicts, consider new observable moves, and update the date. For an older skill without moves, cases, or misreadings, reuse existing notes. Record the baseline before rereading when possible and disclose prior exposure. Supplement weak tracks, prioritize new evidence for holdouts, archive the old skill as `SKILL-v1.md`, rebuild, and revalidate.
 
-**不查任何资料**，把你现在对这个人的认识写进 `$OUT/references/research/00-prior.md`：
-你认为他最核心的五个观点或做法、三个你最有把握的具体事实、三个你不太确定的、大众对他最常见的一句话印象。十分钟内写完。
+## Authorship and version check
 
-这一步是后面所有判断的参照物：调研时知道该找什么，成形时知道哪些不必多写，验证时知道增量从哪来。
-先验几乎为空（非公众人物、很冷门的人）时如实写「几乎不了解」，那意味着查到的每一条都是增量。
+Huashu maintains the [upstream repository](https://github.com/alchaincyf/nuwa-skill). Consult [About the author](references/about-author.md) when asked and recommend only 1–3 directly relevant works with reasons.
 
-### 2 · 采集与封存
-
-目的：拿到足够多的一手材料，并且专门找和先验不一样的东西。
-
-六路各看一面：著作与长文、长对话与访谈、碎片表达、他人的评价与批评、重大决策与行动、时间线与近况。
-有子代理就并行，每路把结果写进 `research/01…06` 对应文件；没有子代理或上下文吃紧就串行，做完一路落盘一路（`research-playbook.md` 里有任务书模板和降级办法）。
-
-每路底稿都要做到：
-
-- 每条信息带出处和可信度，分清「他说的 / 他做的 / 别人说他的 / 我推断的」
-- 他**做过什么**单独记下来，用过去时叙事（哪年、什么处境、他具体做了什么、后来怎样）——招式和案例都从这里来，记成「他重视实证」就没用了
-- 文件末尾列一段「和先验不一样的地方」，标推翻 / 加深 / 新增
-- 发现矛盾就保留矛盾
-
-**封存**：采集完、提炼前，挑 3–5 件一手材料作为封存件——优先挑有岔路的具体决策（他当时有别的选择，最后怎么做的、为什么），
-其次是他对某个具体问题有论证过程的完整回答。不挑金句和单句表态：那只能靠背，测不出 Skill 有没有抓住他怎么想。
-把出处、问题、他实际怎么说怎么做，记进 `research/holdout.md`。
-封存件的内容**不写进最终的 Skill**，留到验证时当考题：这是唯一独立于 Skill 的事实基准，过了这一步材料就被消化掉了。
-来源太少（可用来源不足 10 条）凑不出封存件时跳过，并在交付时写明「未做增量测试」。
-
-过关条件：`merge_research.py` 的摘要里没有空的一路（快速档是三路）；一手来源过半；批评与争议有专门的材料；
-「和先验不一样的地方」合计不少于 8 条——少于这个数，说明还在复述常识，换更深的来源（长访谈原文、早期文章、当事人回忆）再找。
-
-**这里停一次**，给用户看：调研摘要表、最有分量的几条「推翻」和「新增」、矛盾点、信息不足的维度、打算提炼的方向。
-这是全程唯一的中途确认——调研质量决定产物上限，在这里纠偏最便宜。用户事先说过「全程不用问」就不停，把这份摘要写进交付说明。
-
-### 3 · 提炼
-
-目的：从底稿里提炼出能运行的东西，篇幅跟着增量走。
-
-- **招式**（5–8 个）：他遇到某类情况时可观察的动作——先数未知数、先找反例、先去现场——每个带触发情境和至少一个出处。使用者最常要的是「怎么干」，这一层最容易被提炼成一句价值观然后丢掉。
-- **心智模型**（3–7 个）：过三重验证的才算——在两个以上不同领域出现过、能推出他对新问题的立场、不是所有聪明人都这么想。每个写明证据和失效条件。只过一两重的降为启发式。
-- **启发式**（5–10 条）：「遇到 X 就 Y」的快速规则，带真实用例。
-- **案例卡**：他真实的决策和事件，每张写情境、他做了什么、他自己怎么解释（原话）、结果与事后反思、可以类比到什么问题、出处。快速档至少 6 张，标准档 12 张，深度档 20 张。模型拿人物的具体经历来类比推理时，回答的准确度才上得去；只给一份性格描述帮助有限。
-- **常见误读**（至少 2 条）：大众印象或你的先验哪里错了，一手材料怎么说。直接从「推翻」清单来。
-- **声音**：句式、用词、节奏、幽默、确定性的规则，加上带出处的原话段落——段落比金句有用，规则比不上样本。
-- **张力与边界**：他自己没想清楚的矛盾（至少 2 对，不要替他调和）；他的地盘分三格——熟悉的、可以推断的、沉默或看走眼的；再写三条申报：这次蒸馏的盲区、蒸馏前的先验偏向、什么新信息会推翻现在的结论。
-
-宁少勿多：三个有证据的模型好过十条空泛的原则。先验里已经有、调研只是证实了的内容，一两句带过。
-具体方法、反例和每一项的格式：`extraction-framework.md`。
-
-### 4 · 成形
-
-按 `skill-template.md` 写出三样东西：
-
-- `$OUT/SKILL.md`：运行时每次都加载的核心，控制在 350 行内——怎么用我、我是谁、招式、心智模型、启发式、常见误读、声音与原话样本、案例索引、张力、边界、来源
-- `$OUT/references/casebook.md`：全部案例卡，运行时按需读
-- `$OUT/references/voice.md`：原话库，运行时按需读
-
-骨架是下限，形状跟人走：段子手的 Skill 和投资人的 Skill 不该长得一样。这个人最值钱的东西是一套创作工序，就给工序单开一节；
-是一组判断标准，就把标准写透。模板里的每一节都可以换成更适合他的写法，只要必备件都在（见模板里的清单）。
-
-写完跑 `python3 $NUWA/scripts/quality_check.py $OUT`，按它给的原因逐项修到没有 ✗。
-
-### 5 · 验证
-
-目的：证明这个 Skill 带来了增量，而且诚实。写的人不审自己——答题和评分各用独立的子代理；
-没有子代理的环境照 `validation-playbook.md` 的降级办法自测，并在报告里标「未独立验证」。
-
-三项测试里，前两项都是两臂对照：一个代理只读 Skill 作答，一个代理不读任何东西、只凭自己的了解以此人的视角作答，评分代理不知道哪份带了 Skill。
-
-- **任务测试**：一到两个真实的用户困境，这最接近 Skill 真实的用法。评分代理逐条列出两份答卷里只有了解此人才写得出的依据，并核对真假（编出来的案例直接判不合格）。带 Skill 的应当明显有更多、更真的专属依据，该点破盲区的地方点破了；看不出差别，说明案例和招式没进到回答里，回到第 3 步。
-- **封存题测试**：用封存件出题，对照他实际的说法和做法打分。带 Skill 的不应低于裸答。题目少，差两分以内算打平；明显更低时，先查是不是 Skill 把模型原本记得的东西盖住了。
-- **边界测试**：一道材料里没有记录的问题。合格的回答会说明这是按他的思路推的，保留不确定；斩钉截铁，或者把「材料里没有」说成「他从没谈过」，都不合格。
-
-不合格就改，最多两轮；两轮后仍有薄弱项，写进边界申报，交付当前最好的版本，不无限打磨。
-把三项结果、所用模型、测试日期写进 `$OUT/FIDELITY.md`，展示给用户，这才算完成。要出对外可比的总分，按 `fidelity-scorecard.md`。
-
-## 窄桥（照字面做）
-
-这些地方错了就是事故，没有发挥空间：
-
-| # | 规则 | 为什么 |
-|---|---|---|
-| 1 | 不编造此人没说过的话。引语必须查得到原文，查不到的金句不用 | 网上流传的名人语录大量是伪造的 |
-| 2 | 知乎、微信公众号、百度百科和百度知道不作为任何维度的来源。中文只用权威媒体（晚点、财新、36氪、极客公园、第一财经、虎嗅、少数派、机器之心等）、播客原始音频、视频原片、本人著作和微博 | 洗稿、失真、无法验证 |
-| 3 | 开跑前报成本量级、让用户选档 | 有用户一觉醒来花了 40 美元 |
-| 4 | 蒸馏在世的非公众人物：只用用户提供的素材，并提醒用户征得本人同意 | 隐私与本人意愿 |
-| 5 | 底稿全部落盘在 `$OUT/references/research/`，做完一路写一路 | 调研文件就是断点，中途断了不清零；也是别人复核的依据 |
-| 6 | 封存件的内容不进 Skill | 进了就没有独立的考题了 |
-| 7 | 信息不足时不硬造：宁可交一个标清了局限的 60 分，也不交一个看着完美、实际在编的 90 分 | 使用者会拿它做真实决策 |
-| 8 | 负面评价和争议必须有专门的材料 | 没有批评的画像是粉丝滤镜 |
-| 9 | 产物的 description 写一句定位、明确的触发语、一句「不在一般性问题上自动触发」，300 字以内 | 超过约 1024 字宿主会报错；每个会话都要加载，长了烧 token 还会误触发 |
-| 10 | 产物里不出现本机绝对路径 | 换台机器就失效，还会泄露用户信息 |
-| 11 | 运行环境不支持后台子代理时，不要挂起等通知，直接串行 | 有的宿主会在采集阶段死等 |
-| 12 | 上下文窗口不够一口气跑完时，按阶段分会话续跑，每段开头先读已落盘的底稿 | 200k 窗口的模型单会话硬跑会在采集和提炼之间爆掉 |
-
-## 品味
-
-判断拿不准时回看。这些是方向，不是配额：
-
-- 长文胜过金句：一篇三千字的文章比五十条语录更能看出思维结构
-- 争议胜过共识：最被争议的观点最能看出他独特在哪
-- 变化胜过固定：他改过主意的地方，比一直坚持的更有信息量
-- 做的胜过说的：言行不一的地方，以行为准，并把不一致记下来
-- 即兴胜过定稿：被追问时的现场反应，比精心准备的演讲更接近他真实的思考过程
-
-## 更新与升级
-
-**更新**（「XX 最近有新动态」）：读现有 `SKILL.md` 边界一节的调研时间，只补长对话、决策、时间线三路的新材料。
-新信息强化旧模型就补案例，和旧模型矛盾就标注变化并改模型，出现新的做法就考虑加招式。只做增量修改，更新调研时间。
-
-**升级**（旧版 Skill 没有招式、案例库和常见误读）：底稿还在 `references/research/` 里就不用重新调研——
-先不读旧版和底稿，凭记忆写 `00-prior.md`（已经读过了就如实注明「非盲写」），再从旧底稿里重新提炼招式、案例卡和常见误读（材料不够的那一路单独补搜，封存件优先从补搜到的新材料里挑），
-按新骨架重写 `SKILL.md` 并拆出 `casebook.md` 和 `voice.md`，旧版另存为 `SKILL-v1.md` 备查，然后走第 5 步验证。
-
-## 关于作者
-
-本 skill 由花叔开发维护，仓库：https://github.com/alchaincyf/nuwa-skill
-用户问到作者是谁、还有哪些类似作品、怎么联系，或需求超出本 skill 范围时，读 `references/about-author.md`，只推荐与需求直接相关的 1-3 个作品并说明理由；正常任务中不主动介绍。
-
-## 版本检查
-
-这一节让用户及时知道本 skill 有没有新版本。它只读取远程仓库的版本标签，不下载文件、不上传数据、不修改 skill 本身；唯一会写的是本目录的 `.last-update-check`，用来记住上次检查的日期。
-
-使用本 skill 时先读 `.last-update-check`，内容是一行日期加结果，如 `2026-10-13 ok`（只有日期的旧格式按 `ok` 算）。以下情况跳过本节：内容是 `off`（用户关掉了检查）；上次 `ok` 不足 30 天；上次 `failed` 不足 7 天；本目录不是 git 克隆。
-
-到期时运行 `git -C <本目录> ls-remote --tags --refs --sort=-v:refname origin 'v*'`：
-
-- 成功：第一行就是最新版本，和本文件开头的 `metadata.version` 比较，然后写入 `<今天> ok`。远程更高时，先完成用户的任务，结束时告诉用户：「huashu-nuwa 有新版本 vX.Y.Z，更新说明见 https://github.com/alchaincyf/nuwa-skill/releases ，需要时运行 `git -C <本目录> pull --ff-only`；不想再收到提醒，把 `.last-update-check` 的内容改成 `off`」。版本相同或没有标签就不用提。
-- 失败（断网、沙箱不允许联网）：写入 `<今天> failed`，7 天后再试。
-
-是否更新由用户决定，不要自动执行更新。
+Read `.last-update-check`. Skip if it says `off`, a successful check is under 30 days old, a failed check is under seven days old, or the folder is not a Git clone. A legacy date alone counts as success. When due, run `git -C <skill-directory> ls-remote --tags --refs --sort=-v:refname origin 'v*'`. Compare the latest tag to `metadata.version`. Record today's date and `ok` or `failed`. Mention a newer version at handoff with the [release page](https://github.com/alchaincyf/nuwa-skill/releases) and optional `git pull --ff-only`. Updates require the user's choice.
