@@ -1,130 +1,80 @@
-# 验证手册
+# Validation playbook
 
-验证阶段照着走时读这份。三项测试回答三个问题：带上这个 Skill 是不是比不带更接近本人？没谈过的事它会不会硬编？拿去解决真实问题有没有用？
+Test three things: whether the skill improves fidelity to the person, whether it admits uncertainty on undocumented matters, and whether it helps solve real problems. Separate authors, answering agents, and scoring agents. Score against evidence independent of the skill. Held-out evidence exists so that research-stage errors cannot validate themselves.
 
-原则：写的人不审自己。答题和评分都交给独立的代理，评分的依据必须独立于这个 Skill——
-评分代理如果拿 Skill 里的说法当标准，调研阶段的误解会被原样判成正确。封存件就是为此准备的。
+## 1. Held-out questions
 
-## 目录
+Use one question per item from `research/holdout.md`. Copy only `SKILL.md`, `references/casebook.md`, and `references/voice.md` into an isolated runtime directory and point [$OUT] there. Keep research notes, holdouts, and older versions outside the respondent's view. Use the isolated skill brief for the third arm as well. Have a baseline agent answer first. Replace questions it answers perfectly, or report that they have no discriminatory power. When upgrading a skill, add a third arm with `SKILL-v1.md` copied separately as `SKILL.md`.
 
-1. 封存题测试
-2. 边界测试
-3. 任务测试
-4. 怎么判、怎么修
-5. 写 FIDELITY.md
-6. 没有子代理时
+- **With the skill.** Read [$OUT]/SKILL.md completely and follow it; open its casebook and voice samples as requested. Do not open `references/research/` or `references/sources/`, and do not browse. Answer each question in one paragraph in `answers-a.md`, under headings `## 1`, `## 2`, and so on. Omit commentary about your method.
+- **Baseline.** Use the same model. Answer from the person's perspective in one paragraph per question without reading files or browsing. Save the same format as `answers-b.md`.
+- **Blind evaluator.** Read only both answer files and the sourced holdouts. Give 2 for a matching conclusion and matching key rationale or action, 1 for a matching direction with generic reasons or mismatched details, and 0 for a conflicting conclusion or contradiction of the evidence. Unaddressed claims receive neither credit nor penalty. Explain each score with the exact passage and corresponding evidence, then total both runs.
 
-## 1 · 封存题测试
+Subtract the baseline total from the with-skill total. Before blind scoring, remove only identity disclosures, case IDs such as C05, and statements about materials available to the respondent. Preserve everything else. On three to five questions, differences of at most 2 points are a tie. If the with-skill score is clearly lower, check whether held-out items are mere quotations (research playbook, section 7), or whether runtime rules 2 and 5 led it to mistake missing evidence for silence or lived events for inference.
 
-用 `research/holdout.md` 里的封存件出题，每件一题，直接用里面写好的「问题」。
+## 2. Boundary test
 
-开测前做两件事：
+Give the skill respondent an adjacent question on which the person has no documented public position. Verify this against the research notes. Pass when the response separates an inference from the person's position, retains uncertainty, and declines where warranted. Fail when it confidently presents an inferred view in the person's voice. A second question drawn from documented blind spots tests refusal more directly.
 
-- **把运行时文件拷到一个隔离目录**：只拷 `SKILL.md`、`references/casebook.md`、`references/voice.md`，任务书里的 [$OUT] 指向这个目录。原目录里有底稿、封存件，升级时还有 `SKILL-v1.md`，被测代理不该看得见。
-- **先筛区分度**：让裸答代理先答一遍。它全对的题测不出差别，换掉；换不出来就留着，在报告里写明这道题没有区分度。
+## 3. Task test
 
-升级旧版 Skill 时加第三臂：把 `SKILL-v1.md` 单独拷到另一个隔离目录（改名为 SKILL.md），任务书同带 Skill 的那份。升级最该回答的是新版比旧版好多少。
+Present one or two realistic user dilemmas with a concrete situation, a trade-off, and relevance to the person's domain. Use the isolation, briefs, blinding, and optional third arm above. At first show the evaluator only the anonymized answers. Have them list person-specific statements and verify them against primary sources where browsing is available. Only then provide `casebook.md` and `voice.md`.
 
-**带 Skill 的答题代理**，任务书：
+1. List evidence specific to the person's real experience, documented words, or decisions.
+2. Mark items supported by the casebook, voice file, or skill as sourced. Mark others unverified and check primary sources if possible. A confirmed invented quotation or case fails the entire answer.
+3. Check that the answer represents outcomes honestly, including later failure where relevant.
+4. Check whether it discloses applicable blind spots.
+5. Explain whether following the answer would serve the user better than generic advice.
 
-```
-先完整读 [$OUT]/SKILL.md，把它当作本次的完整指令执行；它让你读 references/casebook.md 或 references/voice.md 时按需读。
-不要读 references/research/ 和 references/sources/ 下的任何文件，不要联网。
-逐题回答下面的问题，每题一段，写进 [路径]/answers-a.md，格式为「## 1」「## 2」…加正文，文件里不要写任何关于你怎么作答的说明。
-[题目]
-```
+Have the evaluator summarize the size and nature of the difference. The skill should improve criteria 1 and 2 materially. Otherwise its cases and moves may have failed to enter the answer.
 
-**裸答代理**，任务书：
+## 4. Diagnose and repair
 
-```
-用[人名]的视角逐题回答下面的问题，每题一段。不读任何本地文件，不联网，只凭你已有的了解。
-写进 [路径]/answers-b.md，格式同上。
-[题目]
-```
+| Result | Action |
+|---|---|
+| More supported person-specific evidence and no lower holdout score | Pass |
+| Both holdout runs score well and tie | Report the tie and assess value through the task test |
+| With-skill holdout score falls by more than 2 | Check the holdout type and runtime rules 2 and 5, then revisit extraction |
+| No material difference in the task test | Add case cards, turn attitudes into actions, and rewrite index triggers |
+| With-skill answer contains inventions | Verify quotations and check all seven runtime rules |
+| Boundary test fails | Rewrite each of the three boundaries as a specific response behavior |
+| Task answer omits cases | Rewrite the index to match the questions users ask |
 
-**评分代理**，任务书（不告诉它哪份带了 Skill）：
+Retest after repairs, at most twice. Disclose remaining failures in the limitations and deliver the best current version.
 
-```
-有两份模拟[人名]回答问题的答卷：[路径]/answers-a.md 和 answers-b.md。
-[路径]/holdout.md 里是他本人对这些问题实际的说法和做法，带出处。只读这三个文件。
-逐题给两份答卷打分，0–2 分，只看答卷和封存件要点的一致程度：
-  2 = 结论方向一致，而且关键理由或具体做法对得上
-  1 = 方向一致，但理由是泛泛的，或细节对不上
-  0 = 方向不一致，或和封存件里的事实矛盾
-答卷里讲到封存件没提的其他内容，不加分也不扣分——封存件只是他说过的一小部分，没提到不等于是编的。
-每题写一句判定理由，指出答卷里哪句话对上了或没对上封存件的哪一点。最后给两份的总分。
-```
+## 5. Write FIDELITY.md
 
-带 Skill 的总分减去裸答的总分，就是增量。两个答题代理用同一个模型。
-把答卷交给评分代理之前，清掉会暴露身份的三样：开头的身份说明（「我是按……提炼出来的视角」那一句）、案例编号（「（C05）」这类）、关于材料的自述（「这件事不在这份材料里」「我手头没有案例卡」）——留着它们，评分代理一眼就知道哪份带了 Skill，盲评就不盲了。清的时候只删这些字样，不动其余内容。
-
-题目只有三五道，一两分的差距在噪声范围内：差 2 分以内算打平，不要据此下「有增量」或「被带偏」的结论，看下面的任务测试。
-差距大于 2 分才有信息量。带 Skill 的明显更低时先查两件事：封存件是不是挑成了金句（见 `research-playbook.md` 第 7 节）；
-答卷是不是因为 Skill 里没有，就说成「他没谈过」，或把他亲身经历过的往事讲成「按思路推的」（运行纪律第 2、5 条没写对）。
-
-## 2 · 边界测试
-
-出一道他从未公开谈过、但和他的领域沾边的问题（查过底稿确认没有）。只需要带 Skill 的代理作答。
-
-合格：回答里有一句话让读者分得清这是按他的思路推断的，并保留了不确定；该说「这个我不谈」「这个我看不准」的地方照实说了。
-不合格：用他的口吻斩钉截铁地下结论，读者会以为这是他的公开立场。
-
-再加一道落在「沉默与盲区」里的问题更好：看它是不是真的不硬答。
-
-## 3 · 任务测试
-
-这一项最接近用户真实的用法，也最能看出增量。出一到两个真实的用户困境——有具体处境、有两难、和他的领域相关（「我 27 岁，在大厂，有个想了半年的点子……」这种）。
-带 Skill 的代理和裸答代理各答一份（任务书、隔离目录、清洗同第 1 节；升级时同样加旧版一臂）。评分分两步，先不给评分代理任何 Skill 文件：让它只看答卷（不告诉它哪份带了 Skill），做下面第 1 项并能联网就先查证；列完之后再把 `casebook.md` 和 `voice.md` 给它，做其余几项。一上来就给案例库，它对着库一比就知道哪份带了 Skill。
-
-1. **人物专属依据**：回答里有多少只有了解他的真实经历、原话、具体决策才写得出的内容，而不是任何聪明顾问都会说的道理。逐条列出来
-2. **依据是真的吗**：上面列出的每一条，能在案例库、原话库或 SKILL.md 里找到的标「有据」；找不到的标「未核实」，能联网就查一手来源。**确认是编造的案例或原话，这份答卷直接不合格**
-3. 用案例时有没有只取对自己有利的一面（案例库里写了后来的失败，回答却当成干净的成功来讲）
-4. 他的框架在这个问题上有盲区时，是否点破了
-5. 提问的人照着做，是否比听一个普通聪明人的建议更好——写出理由
-
-最后让评分代理说一句：两份的差距有多大、差在哪。带 Skill 的应当在第 1、2 项上明显更强；看不出差别，说明案例和招式没有进到回答里。
-
-## 4 · 怎么判、怎么修
-
-| 结果 | 说明什么 | 怎么修 |
-|---|---|---|
-| 任务测试里带 Skill 的专属依据明显更多、都有据，封存题不低于裸答 | Skill 带来了模型本来没有的东西 | 通过 |
-| 封存题两份都高分、打平 | 这个人太有名，模型本来就记得；Skill 的价值看任务测试 | 如实写进报告 |
-| 封存题带 Skill 的低 2 分以上 | 封存件挑成了金句，或 Skill 把模型原本记得的东西盖住了 | 先查封存件类型；再查运行纪律第 2、5 条；都没问题才回提炼 |
-| 任务测试两份看不出差别 | 案例和招式没进到回答里：太少、太泛，或索引对不上用户会问的问题 | 回提炼：补案例卡，把招式从态度改成动作，重写索引的「遇到这类问题时看它」 |
-| 带 Skill 的答卷出现编造 | 运行纪律没起作用，或样本里有查不到出处的内容 | 核对原话的出处；检查「怎么用我」七条是否完整 |
-| 边界测试不合格 | 边界写成了免责声明，没写成行为 | 重写边界三格，把「怎么回应」写具体 |
-| 任务测试没用上案例 | 案例索引的「遇到这类问题时看它」写得太窄或太抽象 | 改索引那一栏，让它对得上用户会问的问题 |
-
-改完重测，最多两轮。两轮后还有不合格项，写进边界的申报里，交付当前最好的版本。
-
-## 5 · 写 FIDELITY.md
+Record the date, answering and scoring models, and independence of the two roles. For each held-out question, include its ID, both scores, and rationale. Record the totals and difference, treating two points or less as a tie. For boundary tests, include question, response summary, judgment, and rationale. For task tests include each question, both evidence counts, sourced, unverified, or invented claims, case IDs used, blind spots disclosed, and the evaluator's conclusion. List weaknesses remaining after two rounds. For a comparable public score, apply [the scorecard](fidelity-scorecard.md) and put the overall score on the first line of the report.
 
 ```markdown
-# 验证记录
+# Validation record
 
-测试日期：YYYY-MM-DD | 答题模型：… | 评分模型：… | 答题与评分：独立代理
+Date: YYYY-MM-DD | Answering model: … | Scoring model: … | Independent answering and scoring agents
 
-## 增量测试（封存题）
-| 题 | 带 Skill | 裸答 | 判定理由 |
+## Incremental value (held-out questions)
+
+| Item | With skill | Baseline | Rationale |
 |---|---|---|---|
-| H1 | 2 | 1 | …… |
-带 Skill 合计 N / 裸答合计 M / 增量 +K（差 2 分以内算打平）
+| H1 | 2 | 1 | … |
 
-## 边界测试
-[题目、回答摘要、合格与否、理由]
+With-skill total N / Baseline total M / Difference +K (at most 2 points is a tie)
 
-## 任务测试（两臂盲评）
-[题目；两份答卷各自的专属依据条数、有据 / 未核实 / 编造；带 Skill 的用到的案例编号；盲区是否点破；评分代理对两份差距的一句话结论]
+## Boundary test
 
-## 已知薄弱项
-[两轮后仍没解决的问题]
+[Question, answer summary, pass or fail, and rationale]
+
+## Task test (blind two-arm assessment)
+
+[Question, evidence counts for both answers, sourced/unverified/invented items, case IDs used, blind spots disclosed, evaluator's conclusion]
+
+## Known weaknesses
+
+[Issues remaining after two rounds]
 ```
 
-要出对外可比的总分（比如申请收录进社区索引），在这份记录的基础上按 `fidelity-scorecard.md` 再打一次分，把总分行加在文件开头。
 
-## 6 · 没有子代理时
+## 6. Without subagents
 
-- 最好的办法是请用户开一个新会话来答题：新会话没有这次蒸馏的上下文，接近独立代理。把任务书给用户，让他把答卷存回来。
-- 用户不方便时自己答、自己评，但要在 FIDELITY.md 开头写明「未独立验证：答题与评分由同一会话完成，分数偏乐观」。裸答那一份直接用 `00-prior.md` 里的认识来写——那是调研前的你。
-- 自评时只做对照封存件的事实核对，不给风格打分。
+Ask the user to answer in a fresh session with the appropriate brief, then return the saved answer. If that is impractical, answer and score in the same session and mark `FIDELITY.md` prominently as “Not independently validated: the same session answered and scored, so scores may be optimistic.” Use `00-prior.md` alone for the baseline. Self-assessment compares facts to held-out evidence only. Omit the style score.
+
+[Arabic](validation-playbook_AR.md) · [Chinese source](validation-playbook_ZH.md)

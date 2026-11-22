@@ -1,15 +1,11 @@
 #!/usr/bin/env python3
-"""
-机检一个人物 Skill 的必备件：结构在不在、证据带没带、有没有会出事故的东西。
-它查的是「有没有」，不是「好不好」——好不好由验证阶段的三项测试回答。
+"""Check whether a generated person skill contains the required structure and evidence.
 
-用法:
-    python3 quality_check.py <人物Skill目录 或 SKILL.md 路径>
-
-每一项输出 ✓ / ! / ✗ 和原因；✗ 必须修，! 是提醒。有 ✗ 时退出码为 1。
-没有招式和案例库的旧版 Skill 会按旧标准检查，并提示可以升级。
+The CLI returns 1 for required-check failures and 2 for invalid invocation.
+Use NUWA_LANG=ar for Arabic diagnostics. English is the default.
 """
 
+import os
 import re
 import sys
 from pathlib import Path
@@ -99,8 +95,173 @@ def quote_blocks(text):
     return blocks
 
 
+MESSAGES = {
+    'frontmatter': ('Front matter', 'البيانات الوصفيّة'),
+    'description': ('Description', 'الوصف'),
+    '触发语': ('Trigger phrase', 'عبارة الاستدعاء'),
+    '篇幅': ('Length', 'الطول'),
+    '绝对路径': ('Absolute paths', 'المسارات المطلقة'),
+    '来源': ('Sources', 'المصادر'),
+    '一手来源占比': ('Primary-source share', 'نسبة المصادر الأوّليّة'),
+    '边界': ('Boundaries', 'الحدود'),
+    '局限': ('Limitations', 'القيود'),
+    '调研时间': ('Research date', 'تاريخ البحث'),
+    '边界三格': ('Three boundary categories', 'أقسام الحدود الثلاثة'),
+    '申报': ('Disclosure', 'الإفصاح'),
+    '运行纪律': ('Runtime rules', 'قواعد التشغيل'),
+    '招式': ('Moves', 'الإجراءات'),
+    '心智模型': ('Mental models', 'النماذج الذهنيّة'),
+    '常见误读': ('Common misreadings', 'أخطاء الفهم الشائعة'),
+    '声音': ('Voice', 'أسلوب التعبير'),
+    '原话样本': ('Quotation samples', 'نماذج الاقتباسات'),
+    '案例库': ('Casebook', 'سجلّ الحالات'),
+    '案例索引': ('Case index', 'فهرس الحالات'),
+    '原话库': ('Quotation bank', 'سجلّ الاقتباسات'),
+    '张力': ('Tensions', 'التوتّرات'),
+    '调研底稿': ('Research notes', 'مسوّدات البحث'),
+    '先验快照': ('Prior knowledge', 'المعرفة السابقة'),
+    '封存件': ('Holdout evidence', 'الأدلّة المحجوزة'),
+    '模型局限': ('Model limitations', 'قيود النماذج'),
+    '表达': ('Expression', 'التعبير'),
+    '内在张力': ('Internal tensions', 'التوتّرات الداخليّة'),
+    '缺 name 或 description': ('Missing name or description', 'حقل الاسم أو الوصف مفقود'),
+    '没有这一节': ('Section missing', 'القسم مفقود'),
+    '没有': ('None found', 'لا يوجد'),
+    '有': ('Present', 'موجود'),
+    '齐': ('Complete', 'مكتملة'),
+    '要点齐': ('Key points present', 'النقاط الرئيسة مكتملة'),
+    '没有来源一节': ('Missing sources section', 'قسم المصادر مفقود'),
+    '没有边界一节': ('Missing boundaries section', 'قسم الحدود مفقود'),
+    '没写调研时间': ('Missing research date', 'تاريخ البحث مفقود'),
+    '没有「怎么用我」一节': ('Missing usage section', 'قسم الاستخدام مفقود'),
+    '没有招式一节': ('Missing moves section', 'قسم الإجراءات مفقود'),
+    '没有心智模型一节': ('Missing mental models section', 'قسم النماذج الذهنيّة مفقود'),
+    '没有声音一节': ('Missing voice section', 'قسم أسلوب التعبير مفقود'),
+    '没有表达一节': ('Missing expression section', 'قسم التعبير مفقود'),
+    '没有 references/voice.md': ('Missing references/voice.md', 'ملفّ references/voice.md مفقود'),
+    '没有 references/research/': ('Missing references/research/', 'مجلّد references/research/ مفقود'),
+    '没有 research/00-prior.md': ('Missing research/00-prior.md', 'ملفّ research/00-prior.md مفقود'),
+    '没找到张力或矛盾的记录': ('No tensions or contradictions found', 'لم تُوثَّق توتّرات أو تناقضات'),
+    '心智模型没有写失效条件': ('Mental model failure conditions are missing', 'شروط قصور النماذج الذهنيّة مفقودة'),
+    'description 里没有明确的触发语': ('No explicit trigger in the description', 'لا يتضمّن الوصف عبارة استدعاء صريحة'),
+    '缺案例索引一节或 references/casebook.md': ('Missing case index or references/casebook.md', 'فهرس الحالات أو ملفّ references/casebook.md مفقود'),
+    '没有封存件，已在 Skill 里写明未做增量测试': ('No holdout evidence. The skill discloses the omitted incremental test.', 'لا توجد أدلّة محجوزة، وتُصرّح المهارة بعدم إجراء اختبار القيمة المضافة.'),
+    '没有 research/holdout.md，也没写明未做增量测试': ('Missing research/holdout.md and no disclosure that incremental testing was skipped', 'ملفّ research/holdout.md مفقود، ولم يُذكَر تجاوز اختبار القيمة المضافة.'),
+    '底稿必须存在产物目录内，Skill 才是自包含的': ('Keep research notes inside the skill directory so it is self-contained.', 'احفظ مسوّدات البحث داخل مجلّد المهارة لتكون مستقلّة.'),
+    '没有它就无从判断哪些是增量': ('Required to assess incremental value.', 'يلزم لتقييم القيمة المضافة.'),
+    '快速档至少著作、对话、决策三路': ('The quick tier requires writings, conversations, and decisions.', 'يتطلّب المسار السريع المؤلّفات والحوارات والقرارات.'),
+    '每张卡写出处和可信度；查不到出处的不收': ('Record a source and its reliability on every card. Omit unsourced cases.', 'اذكر المصدر وموثوقيّته في كلّ بطاقة، واستبعد الحالات غير المسندة.'),
+    '索引和 casebook.md 的编号要对得上': ('Match the identifiers in the index and casebook.md.', 'طابِق المعرّفات في الفهرس وملفّ casebook.md.'),
+    '不进索引，运行时就找不到': ('Index every case so it can be found at runtime.', 'أدرِج كلّ حالةٍ في الفهرس لتيسير العثور عليها أثناء التشغيل.'),
+    '用 > 引用块放原话，结尾写「—— 出处」': ('Use a Markdown blockquote and append the source.', 'استخدم اقتباس Markdown وألحِق به المصدر.'),
+    '规则加带出处的原话样本': ('Include expression rules and sourced quotations.', 'أدرِج قواعد التعبير واقتباساتٍ مسندة.'),
+    '文件开头用 --- 包住 name 和 description 两个字段': ('Enclose name and description in opening YAML front matter.', 'ضَع حقلي الاسم والوصف في ترويسة YAML في أوّل الملفّ.'),
+    '压到 300 字内：一句定位＋明确触发语＋一句「不在一般性问题上自动触发」': ('Keep it under 300 characters with a purpose, explicit triggers, and a rule against triggering on general questions.', 'اجعل الوصف أقلّ من 300 محرف، مع الغرض وعبارات الاستدعاء وقاعدة تمنع الاستدعاء على الأسئلة العامّة.'),
+    '删掉长尾关键词；负责命中的是人名和专属概念': ('Remove low-priority keywords. Keep names and distinctive concepts.', 'احذف الكلمات المفتاحيّة الهامشيّة وأبقِ الأسماء والمفاهيم المميّزة.'),
+    '加上「用XX的视角」「XX会怎么看」这类说法': ('Add a phrase such as “from X’s perspective” or “what would X think?”.', 'أضِف عبارةً مثل «من منظور فلان» أو «كيف يفكّر فلان؟».'),
+    '把案例详情移到 references/casebook.md，原话移到 references/voice.md，时间线和谱系移到 references/': ('Move cases to references/casebook.md, quotations to references/voice.md, and timelines and genealogies to references/.', 'انقل تفاصيل الحالات إلى references/casebook.md، والاقتباسات إلى references/voice.md، والتسلسل الزمنيّ وسلاسل التأثير إلى references/.'),
+    '核心文件每次激活都加载；只在特定问题上用到的内容下沉到 references/': ('Move material needed only for specific questions into references/ to keep the runtime file short.', 'انقل الموادّ اللازمة لأسئلة محدّدة إلى references/ لتقليل حجم ملفّ التشغيل.'),
+    '改成相对本 Skill 目录的路径（references/…）': ('Use paths relative to the skill directory, such as references/….', 'استخدم مساراتٍ نسبيّةً إلى مجلّد المهارة، مثل references/….'),
+    '列出一手来源（他本人写的、说的、做的）和二手来源': ('List primary evidence of what they wrote, said, or did, and list secondary sources.', 'اذكر المصادر الأوّليّة لما كتبه الشخص أو قاله أو فعله، والمصادر الثانويّة.'),
+    '来源没有分成「一手」「二手」两组，无法统计占比': ('The primary-source share cannot be calculated without separate primary and secondary groups.', 'يتعذّر حساب النسبة دون فصل المصادر الأوّليّة عن الثانويّة.'),
+    '用「**一手**」「**二手**」两个小标题分组，每个来源一行': ('Group sources under **Primary** and **Secondary**, one source per line.', 'افصل المصادر تحت عنوانَي **أوّليّة** و**ثانويّة**، بمصدرٍ واحدٍ في كلّ سطر.'),
+    '补本人著作、访谈原文、决策记录；二手转述找到原文再用': ('Add the subject’s writings, original interviews, and decision records. Trace secondhand accounts to the original.', 'أضِف مؤلّفات الشخص والمقابلات الأصليّة وسجلّات القرارات، وارجع إلى أصول الروايات الثانويّة.'),
+    '写清他熟悉的、可以推断的、沉默与盲区三格，以及这个 Skill 的局限': ('Describe known areas, areas of inference, silence and blind spots, and limitations of the skill.', 'بيّن مجالات الخبرة، ومجالات الاستنتاج، والسكوت والنقاط العمياء، وحدود المهارة.'),
+    '至少 3 条具体局限（哪段时间、哪类材料、哪个领域信息不足）': ('State at least 3 specific limitations in periods, evidence types, or domains.', 'اذكر 3 قيودٍ محدّدةٍ على الأقلّ في الفترات أو أنواع الأدلّة أو المجالات.'),
+    '加一行「调研时间：YYYY-MM-DD，之后的变化没有覆盖」': ('Add a research cutoff date in YYYY-MM-DD format and state that later changes are outside scope.', 'اذكر تاريخ قطع البحث بصيغة YYYY-MM-DD، وبيّن أنّ ما بعده خارج النطاق.'),
+    '每一格写话题和对应的回应方式，运行时才照得着做': ('Specify topics and response behavior for each boundary category.', 'حدّد الموضوعات وطريقة الاستجابة في كلّ قسمٍ من الحدود.'),
+    '三条申报让这份蒸馏有保质期': ('State all three disclosures so readers know when to revisit the profile.', 'اذكر الإفصاحات الثلاثة ليعرف القارئ متى يراجع الدراسة.'),
+    '按 skill-template.md 保留七条运行纪律': ('Keep the seven runtime rules in skill-template.md.', 'احتفظ بقواعد التشغيل السبع في skill-template.md.'),
+    '七条的意思一条都不能少，措辞可以换成他的口吻': ('Include the substance of all seven rules. Adapt their phrasing to the subject’s voice.', 'حافظ على مضمون القواعد السبع، ولك أن تكيّف صياغتها مع أسلوب الشخص.'),
+    '从决策与对话底稿里挑过去时的叙事句，归并成 5–8 个可照做的动作': ('Use decision and conversation notes to derive 5–8 observable actions.', 'استخرج 5–8 إجراءاتٍ قابلةٍ للملاحظة من مسوّدات القرارات والحوارات.'),
+    '检查底稿里记了事实、成品里没有对应动作的条目': ('Review evidence notes for actions omitted from the finished skill.', 'راجع المسوّدات بحثًا عن إجراءاتٍ لم تُدرج في المهارة النهائيّة.'),
+    '每个招式配一个带年份和出处的例子': ('Give a dated, sourced example for each move.', 'اذكر لكلّ إجراءٍ مثالًا مؤرّخًا ومسندًا.'),
+    '过三重验证（跨域复现、有生成力、有排他性）的 3–7 个': ('Provide 3–7 models that recur across domains, generate testable inferences, and distinguish the subject.', 'اذكر 3–7 نماذج تتكرّر عبر المجالات وتتيح استنتاجاتٍ قابلةً للاختبار وتميّز الشخص.'),
+    '太多说明没筛：只过一两重验证的降为启发式': ('Classify models that pass only one or two tests as heuristics.', 'صنّف النماذج التي تجتاز اختبارًا أو اختبارين فقط ضمن قواعد الحكم السريع.'),
+    '每个模型写证据（两个不同领域）和什么时候不灵': ('Document evidence from two domains and failure conditions for each model.', 'وثّق لكلّ نموذجٍ أدلّةً من مجالين وشروط قصوره.'),
+    '从「和先验不一样的地方」里的「推翻」挑至少 2 条': ('Select at least 2 corrections to prior knowledge.', 'اختر تصحيحَين على الأقلّ للمعرفة السابقة.'),
+    '找不到误读多半是调研还停在二手转述里': ('Check primary evidence if the research has only secondhand accounts.', 'راجع الأدلّة الأوّليّة إذا اقتصر البحث على الروايات الثانويّة.'),
+    '按 skill-template.md 的格式写案例卡，并在 SKILL.md 里建索引': ('Use the case-card format in skill-template.md and add an index to SKILL.md.', 'استخدم صيغة بطاقات الحالات في skill-template.md وأضِف فهرسًا إلى SKILL.md.'),
+    '标准档 12 张、深度档 20 张；失败和改口的案例至少占四分之一': ('Use 12 cases for standard or 20 for deep. At least one quarter should cover failures or changes of mind.', 'استخدم 12 حالةً للمسار القياسيّ أو 20 للمتعمّق، وخصّص ربعها على الأقلّ للإخفاق أو تغيّر الرأي.'),
+    '8–15 段原话，按场合分组': ('Group 8–15 verbatim quotations by setting.', 'جمّع 8–15 اقتباسًا حرفيًّا بحسب السياق.'),
+    '至少 2 对他身上真实存在的矛盾，两头各给证据，不调和': ('Document at least 2 genuine tensions, with evidence on both sides, leaving them unresolved.', 'وثّق توتّرَين فعليَّين على الأقلّ، وأسنِد كلا الجانبين دون محاولة التوفيق.'),
+    '确认案例卡写的不是封存的那段内容；是的话换一件封存件或删掉那张卡': ('Verify that the card does not contain held-out evidence. If it does, replace the holdout or remove the card.', 'تحقّق من أنّ البطاقة تخلو من الدليل المحجوز. إن ورد فيها، فاستبدل الدليل المحجوز أو احذف البطاقة.'),
+    '提炼前挑 3–5 件一手材料封存；来源不足 10 条时在边界里写「未做增量测试」': ('Reserve 3–5 primary sources before distillation. If fewer than 10 sources are available, disclose that incremental testing was skipped.', 'احجز 3–5 مصادر أوّليّة قبل الاستخلاص. إذا قلّ عدد المصادر عن 10، فصرّح بتجاوز اختبار القيمة المضافة.'),
+    '出现本机绝对路径：': ('Machine-specific paths: ', 'مسارات خاصّة بالجهاز: '),
+    '缺：': ('Missing: ', 'مفقود: '),
+    '缺证据：': ('Missing evidence: ', 'الأدلّة مفقودة: '),
+    '缺失效条件：': ('Missing failure conditions: ', 'شروط القصور مفقودة: '),
+    '索引里有、案例库里没有：': ('Indexed but absent from casebook: ', 'مُدرج في الفهرس وغائبٌ عن سجلّ الحالات: '),
+    '没有出处的案例卡：': ('Unsourced cases: ', 'حالات بلا مصادر: '),
+    '封存件的出处也出现在案例库里：': ('Holdout source also appears in the casebook: ', 'مصدر محجوز واردٌ أيضًا في سجلّ الحالات: '),
+    '熟悉': ('Known area', 'مجال الخبرة'),
+    '可以推断': ('Inferable', 'قابل للاستنتاج'),
+    '沉默与盲区': ('Silence and blind spots', 'السكوت والنقاط العمياء'),
+    '这次蒸馏的盲区': ('Blind spots in this profile', 'النقاط العمياء في الدراسة'),
+    '先验偏向': ('Prior bias', 'انحياز المعرفة السابقة'),
+    '什么会推翻结论': ('What would overturn the conclusion', 'ما الذي قد ينقض الاستنتاج'),
+    '推断要说明': ('Label inferences', 'التصريح بالاستنتاج'),
+    '先翻案例': ('Consult cases first', 'مراجعة الحالات أوّلًا'),
+    '可退出': ('Allow exit', 'إتاحة الخروج'),
+    '原话带出处': ('Cite quotations', 'إسناد الاقتباسات'),
+    '点破盲区': ('Identify blind spots', 'تحديد النقاط العمياء'),
+    '没过半': ('below the required majority', 'أقلّ من الأغلبيّة المطلوبة'),
+    '其中没带出处的：': ('without sources: ', 'بلا مصادر: '),
+    '都带例子': ('all with examples', 'جميعها مدعومة بأمثلة'),
+    '证据与失效条件齐': ('evidence and failure conditions present', 'الأدلّة وشروط القصور مذكورة'),
+    '带出处的原话段落': ('Sourced quotation passages:', 'فقرات الاقتباس المسندة:'),
+    '应为 3–7 个': ('required range: 3–7', 'النطاق المطلوب 3–7'),
+    '至少 2 条': ('at least 2 required', 'يلزم اثنان على الأقلّ'),
+    '至少 2 段': ('at least 2 required', 'يلزم مقطعان على الأقلّ'),
+    '至少 2 对': ('at least 2 required', 'يلزم زوجان على الأقلّ'),
+    '张案例卡，快速档至少': ('case cards. Quick tier requires at least', 'بطاقات حالات. المسار السريع يتطلّب على الأقلّ'),
+    '张卡，没进索引的：': ('cards missing from the index:', 'بطاقات غائبة عن الفهرس:'),
+    '张，够快速档；标准档要': ('cards meet the quick minimum. Standard tier requires', 'بطاقات تستوفي الحدّ السريع. يتطلّب المسار القياسيّ'),
+    '张，索引对得上，都有出处': ('cards, indexed and sourced', 'بطاقات مفهرسة ومسندة'),
+    '只有': ('Only', 'فقط'),
+    '路底稿': ('research tracks', 'مسارات بحث'),
+    '边界一节只有': ('The boundaries section has only', 'يتضمّن قسم الحدود فقط'),
+    '条列表项': ('list items', 'عناصر قائمة'),
+    '字，超过宿主约': ('characters, exceeding the host’s approximately', 'محرفًا، تتجاوز حدّ المضيف التقريبيّ البالغ'),
+    '字的上限，会加载失败': ('character load limit', 'محرفًا، ما يمنع التحميل'),
+    '字，建议': ('characters. Recommended maximum:', 'محرفًا. الحدّ الموصى به:'),
+    '字内': ('characters', 'محرفًا'),
+    '行，超过': ('lines, exceeding', 'سطرًا، تتجاوز'),
+    '行，建议': ('lines. Recommended maximum:', 'سطرًا. الحدّ الموصى به:'),
+    '行内': ('lines', 'سطرًا'),
+    '至少': ('at least', 'على الأقلّ'),
+    '个': ('items', 'عناصر'),
+    '条': ('items', 'عناصر'),
+    '段': ('passages', 'مقاطع'),
+    '对': ('pairs', 'أزواج'),
+    '处': ('instances', 'مواضع'),
+    '路': ('tracks', 'مسارات'),
+    '张': ('cards', 'بطاقات'),
+    '件': ('items', 'عناصر'),
+    '字': ('characters', 'محارف'),
+    '行': ('lines', 'أسطر'),
+    '、': (', ', '، '),
+    '；': ('; ', '، '),
+    '，': (', ', '، '),
+    '有，': ('Present:', 'موجودة:'),
+}
+
+DIAGNOSTIC_PATTERN = re.compile("|".join(re.escape(item) for item in sorted(MESSAGES, key=len, reverse=True) if len(item) > 1 or item in "、；，"))
+
+
+
+def diagnostic(text, arabic):
+    column = 1 if arabic else 0
+    if text in MESSAGES:
+        return MESSAGES[text][column]
+    text = DIAGNOSTIC_PATTERN.sub(lambda match: MESSAGES[match[0]][column], text)
+    for unit in "字行个条段对处路张件":
+        text = re.sub(rf"(?<=\d) {unit}(?=$|[،,; ])", " " + MESSAGES[unit][column], text)
+    return text
+
 class Report:
-    def __init__(self):
+    def __init__(self, arabic=False):
+        self.arabic = arabic
         self.rows = []
 
     def add(self, mark, name, msg, fix=""):
@@ -108,18 +269,18 @@ class Report:
 
     def dump(self):
         for mark, name, msg, fix in self.rows:
-            print(f"  {mark} {name}：{msg}")
+            print(f"  {mark} {diagnostic(name, self.arabic)}: {diagnostic(msg, self.arabic)}")
             if fix and mark != OK:
-                print(f"      → {fix}")
+                print(f"      → {diagnostic(fix, self.arabic)}")
         bad = sum(1 for r in self.rows if r[0] == BAD)
         warn = sum(1 for r in self.rows if r[0] == WARN)
         print("-" * 56)
         if bad:
-            print(f"{bad} 项必须修（✗），{warn} 项提醒（!）。按箭头后的改法逐项处理，再跑一遍。")
+            print(f"الإخفاقات: {bad}، والتنبيهات: {warn}. عالِج الإخفاقات وأعِد الفحص." if self.arabic else f"Failures: {bad}, warnings: {warn}. Fix the failures and run the check again.")
         elif warn:
-            print(f"必备件齐了，有 {warn} 项提醒。接下来做验证阶段的三项测试。")
+            print(f"اكتملت المتطلّبات مع {warn} من التنبيهات. نفِّذ اختبارات التحقّق الثلاثة." if self.arabic else f"Required checks passed with {warn} warnings. Run the three validation tests.")
         else:
-            print("必备件齐了。接下来做验证阶段的三项测试。")
+            print("اكتملت المتطلّبات. نفِّذ اختبارات التحقّق الثلاثة." if self.arabic else "Required checks passed. Run the three validation tests.")
         return 1 if bad else 0
 
 
@@ -382,14 +543,15 @@ def check_v1(rep, secs, text):
 
 
 def main():
+    arabic = os.environ.get("NUWA_LANG", "").lower().replace("_", "-").split("-")[0] == "ar"
     if len(sys.argv) < 2:
-        print(__doc__.strip())
+        print(("الاستخدام" if arabic else "Usage") + ": python3 quality_check.py <skill directory or SKILL.md>")
         sys.exit(2)
     p = Path(sys.argv[1])
     root = p if p.is_dir() else p.parent
     skill = root / "SKILL.md"
     if not skill.exists():
-        print(f"✗ 找不到 {skill}。参数应是人物 Skill 的目录，或其中的 SKILL.md。")
+        print(f"✗ لم يُعثَر على {skill}. حدِّد مجلّد المهارة أو ملفّ SKILL.md." if arabic else f"✗ {skill} was not found. Supply a skill directory or its SKILL.md.")
         sys.exit(2)
 
     text = skill.read_text(encoding="utf-8", errors="replace")
@@ -397,8 +559,10 @@ def main():
     secs = sections(body, 2)
     v2 = (root / "references" / "casebook.md").exists() or find(secs, r"招式|动手")[1] is not None
 
-    rep = Report()
-    print(f"机检：{root.name}（{'新骨架' if v2 else '旧版骨架'}）")
+    rep = Report(arabic)
+    layout = ("حديثة" if v2 else "قديمة") if arabic else ("current" if v2 else "legacy")
+    heading = "فحص الجودة" if arabic else "Quality check"
+    print(f"{heading}: {root.name} ({layout})")
     print("-" * 56)
     check_common(rep, root, text, fm, body)
     if v2:
@@ -407,7 +571,7 @@ def main():
         check_v1(rep, secs, text)
     code = rep.dump()
     if not v2:
-        print("这是没有招式、案例库和常见误读的旧版 Skill。底稿还在的话，可以让女娲「升级」它，不用重新调研。")
+        print("هذه مهارة قديمة تفتقر إلى الإجراءات وسجلّ الحالات وأخطاء الفهم الشائعة. يمكن ترقيتها من المسوّدات المحفوظة." if arabic else "This legacy skill lacks moves, a casebook, and common misreadings. Upgrade it using any saved research notes.")
     sys.exit(code)
 
 
