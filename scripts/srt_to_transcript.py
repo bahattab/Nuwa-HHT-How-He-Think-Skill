@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 """
-将SRT/VTT字幕文件清洗为干净的纯文本transcript。
-去除时间戳、序号、重复行、HTML标签，输出可直接阅读的文本。
+Convert SRT/VTT subtitles to a plain-text transcript.
+Remove timestamps, cue numbers, duplicate lines, and HTML tags.
 
-用法:
+Usage:
     python3 srt_to_transcript.py input.srt [output.txt]
     python3 srt_to_transcript.py input.vtt [output.txt]
 
-如果不指定输出文件，默认输出到 input_transcript.txt
+When no output path is specified, write to input_transcript.txt.
 """
 
 import sys
+import os
 import re
 from pathlib import Path
 
-# Windows 的 GBK 控制台打不出 ✅ 和中文，统一成 UTF-8
+# Use UTF-8 for console output on Windows.
 for _s in (sys.stdout, sys.stderr):
     try:
         _s.reconfigure(encoding="utf-8", errors="replace")
@@ -23,41 +24,41 @@ for _s in (sys.stdout, sys.stderr):
 
 
 def clean_srt(content: str) -> str:
-    """清洗SRT格式字幕"""
+    """Clean subtitles in SRT format."""
     lines = content.strip().split('\n')
     texts = []
 
     for line in lines:
         line = line.strip()
-        # 跳过序号行（纯数字）
+        # Skip numeric cue identifiers.
         if re.match(r'^\d+$', line):
             continue
-        # 跳过时间戳行
+        # Skip timestamp lines.
         if re.match(r'\d{2}:\d{2}:\d{2}', line):
             continue
-        # 跳过空行
+        # Skip blank lines.
         if not line:
             continue
-        # 去除HTML标签
+        # Strip HTML tags.
         line = re.sub(r'<[^>]+>', '', line)
-        # 去除VTT的position标记
+        # Remove VTT position markers.
         line = re.sub(r'align:.*$|position:.*$', '', line).strip()
         if line:
             texts.append(line)
 
-    # 去重（自动字幕常有连续重复行）
+    # Remove consecutive duplicates found in automatic captions.
     deduped = []
     for text in texts:
         if not deduped or text != deduped[-1]:
             deduped.append(text)
 
-    # 合并成段落：连续的短句合并，遇到句末标点或长停顿换行
+    # Merge short lines into paragraphs.
     result = []
     current = []
 
     for text in deduped:
         current.append(text)
-        # 如果当前累积文本够长或遇到句末标点，形成一个段落
+        # Flush the paragraph at the length threshold or sentence punctuation.
         joined = ' '.join(current)
         if len(joined) > 200 or re.search(r'[。！？.!?]$', text):
             result.append(joined)
@@ -70,31 +71,32 @@ def clean_srt(content: str) -> str:
 
 
 def clean_vtt(content: str) -> str:
-    """清洗VTT格式字幕（先去掉VTT头部，然后按SRT逻辑处理）"""
-    # 去掉WEBVTT头部
+    """Remove the VTT header, then clean cues with the SRT parser."""
+    # Remove the WEBVTT header.
     content = re.sub(r'^WEBVTT.*?\n\n', '', content, flags=re.DOTALL)
-    # 去掉NOTE块
+    # Remove NOTE blocks.
     content = re.sub(r'NOTE.*?\n\n', '', content, flags=re.DOTALL)
     return clean_srt(content)
 
 
 def main():
+    arabic = os.environ.get("NUWA_LANG", "").lower().replace("_", "-").split("-")[0] == "ar"
     if len(sys.argv) < 2:
-        print("用法: python3 srt_to_transcript.py <input.srt|input.vtt> [output.txt]")
+        print(("الاستخدام" if arabic else "Usage") + ": python3 srt_to_transcript.py <input.srt|input.vtt> [output.txt]")
         sys.exit(1)
 
     input_path = Path(sys.argv[1])
     if not input_path.exists():
-        print(f"❌ 文件不存在: {input_path}")
+        print(f"{'الملفّ غير موجود' if arabic else 'File not found'}: {input_path}")
         sys.exit(1)
 
-    # 默认输出文件名
+    # Choose the default output filename.
     if len(sys.argv) >= 3:
         output_path = Path(sys.argv[2])
     else:
         output_path = input_path.parent / f"{input_path.stem}_transcript.txt"
 
-    # 读取并检测格式
+    # Read the input and detect its format.
     content = input_path.read_text(encoding='utf-8')
 
     if input_path.suffix.lower() == '.vtt' or content.startswith('WEBVTT'):
@@ -104,11 +106,11 @@ def main():
 
     output_path.write_text(transcript, encoding='utf-8')
 
-    # 统计
+    # Count words and paragraphs.
     word_count = len(transcript)
     line_count = transcript.count('\n') + 1
-    print(f"✅ 转换完成: {output_path}")
-    print(f"   字数: {word_count}  段落数: {line_count}")
+    print(f"{'اكتمل التحويل' if arabic else 'Conversion complete'}: {output_path}")
+    print(f"   {'الكلمات' if arabic else 'Words'}: {word_count}  {'الفقرات' if arabic else 'Paragraphs'}: {line_count}")
 
 
 if __name__ == '__main__':
