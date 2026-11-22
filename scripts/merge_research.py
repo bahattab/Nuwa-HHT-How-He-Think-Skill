@@ -41,8 +41,8 @@ def count_sources(content: str) -> dict:
     urls = re.findall(r'https?://[^\s\)]+', content)
 
     # 检测一手/二手标记
-    primary_markers = len(re.findall(r'一手|primary|本人|原文|原始|直接引用', content, re.IGNORECASE))
-    secondary_markers = len(re.findall(r'二手|secondary|转述|总结|评论|分析', content, re.IGNORECASE))
+    primary_markers = len(re.findall(r'一手|\bprimary\b|本人|原文|原始|直接引用|مص(?:در|ادر) أولي[ّةه]+', content, re.IGNORECASE))
+    secondary_markers = len(re.findall(r'二手|\bsecondary\b|转述|总结|评论|分析|مص(?:در|ادر) ثانوي[ّةه]+', content, re.IGNORECASE))
 
     return {
         'url_count': len(urls),
@@ -71,7 +71,7 @@ def extract_key_findings(content: str, max_items: int = 3) -> list[str]:
 
 def count_surprises(content: str) -> dict:
     """数「和先验不一样的地方」一段里推翻/加深/新增各几条。"""
-    m = re.search(r'^#+\s*.*(?:和先验不一样|先验).*$', content, re.MULTILINE)
+    m = re.search(r'^#+\s*.*(?:和先验不一样|先验|differences from prior knowledge|الفروق عن المعرفة السابقة).*$', content, re.MULTILINE | re.IGNORECASE)
     if not m:
         return None
     tail = content[m.end():]
@@ -83,21 +83,21 @@ def count_surprises(content: str) -> dict:
         rows = [l for l in seg.split('\n') if l.strip().startswith('|')]
         items = [l for l in rows[2:] if not re.match(r'^\s*\|[\s:|-]+\|\s*$', l)]
     return {
-        '推翻': sum(1 for l in items if '推翻' in l),
-        '加深': sum(1 for l in items if '加深' in l),
-        '新增': sum(1 for l in items if '新增' in l),
+        '推翻': sum(1 for l in items if re.search(r'推翻|\bcorrections?\b|تصحيح|تصحيحات', l, re.IGNORECASE)),
+        '加深': sum(1 for l in items if re.search(r'加深|\brefinements?\b|تعميق|تعميقات', l, re.IGNORECASE)),
+        '新增': sum(1 for l in items if re.search(r'新增|\badditions?\b|إضافة|إضافات', l, re.IGNORECASE)),
         'total': len(items),
     }
 
 
-def find_contradictions(files: dict[str, str]) -> list[str]:
+def find_contradictions(files: dict[str, str], language_index: int = 0) -> list[str]:
     """简单检测跨文件矛盾（同一关键词出现不同判断）"""
     contradictions = []
     # 检测「但是」「然而」「相反」「矛盾」等矛盾标记
     for name, content in files.items():
         matches = re.findall(r'(?:矛盾|相反|但实际上|然而.*?不同|争议).{0,100}', content)
         for m in matches:
-            contradictions.append(f"{AGENTS.get(name, name)}: {m[:80]}")
+            contradictions.append(f"{AGENTS.get(name, (name, name))[language_index]}: {m[:80]}")
     return contradictions[:5]  # 最多5条
 
 
@@ -166,7 +166,7 @@ def main():
                 surprises[k] += sp[k]
 
     # 矛盾检测
-    contradictions = find_contradictions(files)
+    contradictions = find_contradictions(files, int(arabic))
 
     # 输出
     print("┌──────────────┬──────────┬──────────────────────────┐")
