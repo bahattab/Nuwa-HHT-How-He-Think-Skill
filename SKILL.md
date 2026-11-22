@@ -1,17 +1,21 @@
 ---
 name: huashu-nuwa
 description: |
-  女娲造人：输入人名/主题/甚至只是模糊需求，自动深度调研→思维框架提炼→生成可运行的人物Skill。
-  两种入口：(1)明确人名→直接蒸馏 (2)模糊需求→诊断推荐→再蒸馏。
-  触发词：「造skill」「蒸馏XX」「女娲」「造人」「XX的思维方式」「做个XX视角」「更新XX的skill」「升级XX的skill」。
-  模糊需求也触发：「我想提升决策质量」「有没有一种思维方式能帮我...」「我需要一个思维顾问」。
-  English triggers: "distill [person]", "nuwa", "create a [person] perspective skill", "how does [person] think", "I need a thinking advisor".
+  Research how a public figure thinks and turn documented mental models, decision heuristics, and communication patterns into a reusable perspective skill. Accepts a named figure or topic, a vague need for a thinking adviser, or a request to update an existing perspective.
+  English triggers include "hht", "how does [person] think", "distill [person]", and "create a [person] perspective skill".
+  عبارات التفعيل تشمل «كيف يُفكِّر [الشخص]؟»، و«حلِّل طريقة تفكير [الشخص]»، و«أنشئ مهارةً تستخلص منهج [الشخص] في التفكير».
 metadata:
   author: "花叔"
   homepage: "https://github.com/alchaincyf"
   repository: "https://github.com/alchaincyf/nuwa-skill"
   version: "2.0.2"
 ---
+
+## Working language / لغة العمل
+
+Use the language explicitly requested by the user. Otherwise, follow the language of their request. Apply that choice to clarification questions, research summaries, and generated perspective skills. Preserve original titles, quotations, and URLs when needed for source traceability, and label any translated quotation.
+
+استخدم اللغة التي يطلبها المستخدم صراحةً. وإن لم يُحدِّد لغةً، فاتّبع لغة طلبه في أسئلة الاستيضاح، وملخّصات البحث، والمهارات الناتجة. حافظ على عناوين المصادر واقتباساتها وروابطها عند الحاجة إلى تتبُّعها، وبيّن متى يكون الاقتباس مترجمًا.
 
 # 女娲 · Skill造人术
 
