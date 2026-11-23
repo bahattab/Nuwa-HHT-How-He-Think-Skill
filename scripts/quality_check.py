@@ -465,7 +465,7 @@ def check_v2(rep, root, secs, text):
         cards = sections(cb, 2)
         ids = {m.group(1) for s, _ in cards for m in [re.match(r"(C\d+)", s)] if m}
         idx = set(re.findall(r"\bC\d+\b", t))
-        nosrc = [s.split("·")[0].strip() for s, b in cards if re.match(r"C\d+", s) and not re.search(r"出处|https?://|《", b)]
+        nosrc = [s.split("·")[0].strip() for s, b in cards if re.match(r"C\d+", s) and not re.search(r"出处|https?://|《|(?im:^\s*[-*]\s+\*\*(?:Sources?|المصدر|المصادر)[.:：]?[ ]*\*\*)", b)]
         if len(ids) < MIN_CASES:
             rep.add(BAD, "案例库", f"{len(ids)} 张案例卡，快速档至少 {MIN_CASES} 张", "标准档 12 张、深度档 20 张；失败和改口的案例至少占四分之一")
         elif idx - ids:
