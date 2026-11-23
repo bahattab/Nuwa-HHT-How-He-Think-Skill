@@ -10,7 +10,7 @@
 | 塔勒布思想体系调研.md | Incerto五部曲、11条核心论点、20+自创术语、智识谱系、推荐书单 | Agent 1: 著作与系统思考 |
 | 塔勒布深度对话调研.md | 8个核心一手访谈源、13个经典类比、框架重置思维模式、Bitcoin立场转变 | Agent 2: 访谈与即兴思考 |
 | 塔勒布碎片表达与社交媒体人格调研.md | 表达DNA（7个造词+4种句式）、五级攻击体系、6组核心矛盾、写作自述 | Agent 3: 社交媒体 |
-| 塔勒布外部批评调研.md | 「两个塔勒布」分裂、不可证伪系统、vs Kahneman/Pinker/Asness对比 | Agent 4: 他者视角 |
+| [outside-criticism.md](outside-criticism.md) | 「两个塔勒布」分裂、不可证伪系统、vs Kahneman/Pinker/Asness对比 | Agent 4: 他者视角 |
 | 塔勒布重大决策与实际行动调研-20260404.md | 1987黑色星期一、Universa 3612%回报、COVID预警、言行一致性评分 | Agent 5: 决策记录 |
 
 ## 核心一手来源
