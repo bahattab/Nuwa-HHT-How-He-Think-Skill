@@ -1,130 +1,132 @@
-# 评审结果
+# Evaluation results
 
-核实情况：我对照了 casebook，并联网查了两条 casebook 没有的依据。
-- 「谷歌看走眼」：Munger 在 2017 和 2019 年伯克希尔年会上公开认过，说没买 Google 是科技领域最大的错误，原话是「We failed you there」「We are ashamed」。
-- 「看了李录很久」：李录自述两人 1996 年前后就认识，2003 年感恩节长谈，2004 年才出钱。casebook 只写了 2003 年那顿午餐，M2 的说法比 casebook 更准。
+Verification: I cross-checked the casebook and searched the web for two pieces of evidence the casebook does not contain.
 
-来源：
-- [Business Insider 对 2017 年会的报道](https://businessinsider.in/we-blew-it-charlie-munger-says-it-was-a-mistake-for-berkshire-hathaway-to-not-invest-in-google-and-walmart/articleshow/58552058.cms)
-- [Bloomberg 对 2019 年会的报道](https://www.bloomberg.com/news/articles/2019-05-04/berkshire-s-apple-win-may-atone-for-missing-google-munger-says)
-- [Rational Walk 关于李录的文章](https://rationalwalk.com/munger-li-lus-future-at-berkshire-hathaway-is-a-forgone-conclusion/)
+- “Getting Google wrong”: Munger publicly acknowledged this at Berkshire's 2017 and 2019 annual meetings. He said that failing to buy Google was their biggest mistake in technology. His exact words included “We failed you there” and “We are ashamed.”
+- “He observed Li Lu for a long time”: Li Lu said the two had known each other since around 1996, had a long conversation at Thanksgiving in 2003, and that Munger did not commit money until 2004. The casebook mentions only the 2003 lunch. M2 is more precise than the casebook.
 
-## 一、逐份逐题评审
+Sources:
+
+- [Business Insider coverage of the 2017 annual meeting](https://businessinsider.in/we-blew-it-charlie-munger-says-it-was-a-mistake-for-berkshire-hathaway-to-not-invest-in-google-and-walmart/articleshow/58552058.cms)
+- [Bloomberg coverage of the 2019 annual meeting](https://www.bloomberg.com/news/articles/2019-05-04/berkshire-s-apple-win-may-atone-for-missing-google-munger-says)
+- [Rational Walk article about Li Lu](https://rationalwalk.com/munger-li-lus-future-at-berkshire-hathaway-is-a-forgone-conclusion/)
+
+## 1. Evaluation of each answer and question
 
 ### M1
 
 **T1**
 
-1. 人物专属依据只有两条，都是芒格的通用标签，没有一个具体经历或决策：
-   - 「倒过来想」。
-   - 「AI 不在我的能力圈里」。
-   
-   其余内容（股权兑现期、单价和续费率、止损线）是任何创业顾问都会说的。
-2. 核实：
-   - 「倒过来想」有据（是芒格的标志性方法，但没写出出处）。
-   - 「能力圈」有据。
-   - 没有编造。
-3. 没引用案例，所以谈不上只取一面。
-4. 盲区只点了一半：承认不懂 AI 行业，但没说芒格框架对「人生选择」本身的局限。
-5. 比普通聪明人好的地方：
-   - 「存款动用不超过 40 万、12 个月无增长就回去」给了可执行的数字。
-   - 「15% 太便宜」的议价视角有用。
-   
-   整体不比一个好顾问强多少。
+1. There are only two person-specific grounds. Both are generic Munger labels, with no concrete experience or decision:
+   - “Invert the problem.”
+   - “AI is outside my circle of competence.”
+
+   The rest (equity vesting, unit pricing and renewal rates, and stop-loss thresholds) is what any startup adviser would say.
+2. Verification:
+   - “Invert the problem” is supported. It is a signature Munger method, though no source is given.
+   - “Circle of competence” is supported.
+   - Nothing was invented.
+3. No case was cited, so there is no question of selecting only one side.
+4. The answer identifies only half the blind spot. It acknowledges not understanding the AI industry but does not explain the limits of Munger's framework for the life choice itself.
+5. Where it goes beyond an ordinary smart person:
+   - “Draw no more than 400,000 from savings and go back if there is no growth after 12 months” supplies actionable numbers.
+   - The negotiating perspective that “15% is too cheap” is useful.
+
+   Overall it is only marginally better than a good adviser.
 
 **T2**
 
-1. 人物专属依据几乎为零。「先立规则」「别开会投票」「给长期激励」都是通用管理建议。
-2. 没有可核实的人物依据，也没有编造。
-3. 没用案例。
-4. 没点盲区。更糟的是，「规则由你定,不要开会投票,金额不公开」与芒格自己律所的做法相反：他的律所是全员互评，结果全员可见。回答没提这个反差。
-5. 数字自洽，我验算过：50 万平分约 4.2 万，主力约 14 万、其他约 7 万，差两倍，加总正确。「三倍就会出问题」没有依据。这是个能直接用的方案，但和普通顾问的建议没有区别。
+1. There is almost no person-specific evidence. “Set rules first,” “don't hold a meeting to vote,” and “provide long-term incentives” are general management advice.
+2. There is no verifiable personal evidence, and nothing is invented.
+3. No cases are used.
+4. No blind spot is identified. Worse, “you set the rules, don't hold a meeting to vote, and keep the amounts private” is the opposite of how Munger's own law firm operated. Everyone assessed one another, and everyone could see the results. The answer omits this contrast.
+5. The numbers are internally consistent, and I checked them: dividing 500,000 equally yields about 42,000. The key contributor gets about 140,000 and the others about 70,000 each, a twofold difference, and the total is correct. There is no basis for “a threefold difference will cause problems.” The proposal is ready to use, but it does not differ from what an ordinary adviser would suggest.
 
 ### M2
 
 **T1**
 
-1. 人物专属依据逐条列出：
-   - 1973–74 年合伙基金两年腰斩、出资人仍按月提现、没被逼着卖。有据，对应 C02，数字对得上（1000 美元剩 467 美元）。
-   - 「此后不再让自己处在可被逼卖的位置」。有据但属推断：casebook 只记录他事后清盘，没有他本人的原话，回答把它说成了他的教训。
-   - 2004 年把钱交给李录，先看人。有据（C11）。「看了很久」经联网核实也属实。
-   - 「谷歌是我搞砸的」。有据（联网）。
-   - 「没有定价权的生意再便宜也是麻烦」。未核实：定价权是芒格和巴菲特共同的主题（C05、C10），但「我说过」这句原话没找到。
-   - 「我从没当过产品经理」「劝人别被逼着卖时我是个有钱人」。这是事实陈述，不是引用。
-2. 没有编造。
-3. 取舍有偏：
-   - 把 C02 只当成「防被逼卖」的教训，没提那次危机本来就是他自己借钱押注套利造成的。
-   - 把李录当成「看人」的正面样本，没提 casebook 里那条「19 年年化约 8%，和指数差不多」的反面信息。
+1. Person-specific evidence, item by item:
+   - In 1973–74, the partnership fund lost roughly half its value over two years. Investors could still withdraw monthly, and he was not forced to sell. This is supported by C02, and the figures match (1,000 dollars fell to 467 dollars).
+   - “After that, I never again put myself in a position where I could be forced to sell.” This is supported but inferential. The casebook records only his subsequent liquidation, with no remark by him. The answer presents it as his lesson.
+   - In 2004, he entrusted money to Li Lu after first evaluating him as a person. C11 supports this. The web check also confirmed he had “watched him for a long time.”
+   - “I got Google wrong.” Supported by the web check.
+   - “A business without pricing power is trouble, however cheap it is.” Not verified. Pricing power is a shared theme for Munger and Buffett (C05, C10), but no source was found for the wording presented as “I said.”
+   - “I've never been a product manager” and “I was a wealthy man when advising people to avoid being forced to sell.” These are factual statements rather than quotations.
+2. Nothing was invented.
+3. The selection is biased:
+   - It treats C02 solely as a lesson in avoiding forced sales and omits that the crisis resulted from his borrowing to bet on arbitrage.
+   - It presents Li Lu as a positive example of evaluating a person and omits the counterpoint in the casebook that annualized returns over 19 years were about 8%, roughly comparable to the index.
 
-   两处都偏向对自己有利的一面，但没有扭曲事实。
-4. 盲区点得明确：
-   - 不懂软件和早期平台，还举了谷歌的例子。
-   - 承认自己是有钱人，所以「别被逼着卖」的话有幸存者偏差。
-   - 老婆「不反对 ≠ 扛得住」。
-   
-   这是三份里最好的。
-5. 比普通建议好：
-   - 把「会被谁的时间表逼着决定」作为核心风险，比「算账」更深一层。
-   - 「先请长假而不是辞职」。
-   - 「他不肯谈这些，你就知道他是怎样的人」，这是把李录案例的看人逻辑真正用在了这位用户的合伙人身上。
-   
-   扣分点是前提有点硬：把「合伙基金腰斩」类比成「个人创业」，类比成立，但其实没论证。
+   Both choices favor him without distorting facts.
+4. The blind spots are identified clearly:
+   - He did not understand software or early-stage platforms, with Google as an example.
+   - He acknowledges his wealth, so the “avoid being forced to sell” advice carries survivorship bias.
+   - A wife's “lack of objection” does not mean “she can withstand it.”
+
+   This is the best of the three answers.
+5. Where it improves on ordinary advice:
+   - Treating “whose timetable will force you to decide” as the central risk goes a step deeper than doing the arithmetic.
+   - “Take an extended leave before resigning.”
+   - “If he refuses to discuss these things, you know what kind of person he is.” This genuinely applies the reasoning about judging a person in the Li Lu case to the user's prospective partner.
+
+   The weak point is the somewhat rigid premise: the analogy between a partnership fund being cut in half and a personal startup is plausible, but it is not argued through.
 
 **T2**
 
-1. 人物专属依据：1962 年律所的「全员互评、总和等于净利、无点数、无委员会、结果全员可见」。有据（C03），细节全对。回答还主动声明「出处主要是传记，原话没收到」，与 casebook 的「原话未查到」一致。
-2. 没有编造。
-3. 取舍诚实：
-   - 明说「你是老板不是合伙人」，所以改成匿名并由老板拍板。
-   - 说明「30% 的底」是自己推的，不是经验数字。
-   
-   没提 Bart Williams 的「最让人谦卑」，但这不影响结论。
-4. 点破了框架错配：合伙人制不能直接搬给雇员，因为雇员不是出资人。这是实质性的盲区识别。
-5. 比普通建议好：
-   - 「自己填的数与别人给你填的数之差，本身就是信息」是真正有新意的诊断手段。
-   - 「去查成果，别听他们自己说」。
-   - 「规则没讲清比少十万更伤人」。
-   
-   弱点是没给 100 万的具体分配数字，用户还得自己算。
+1. Person-specific evidence: the law firm's 1962 practice of “mutual evaluations by everyone, total equal to net profit, no points, no committee, and results visible to everyone.” C03 supports this, and all details are correct. The answer also volunteers that “the main source is the biography, and the original wording was not found,” consistent with the casebook.
+2. Nothing was invented.
+3. Choices were transparent:
+   - It explicitly says “you are the boss, not a partner,” so the design uses anonymity and gives the boss the final decision.
+   - It states that the “30% floor” is its own inference, not a figure from experience.
+
+   It does not mention Bart Williams's description, “the most humbling,” but that does not affect the conclusion.
+4. It identifies a mismatch in the framework: a partnership model cannot be applied directly to employees because they do not contribute capital. This is a substantive blind spot.
+5. Where it improves on ordinary advice:
+   - “The gap between the numbers people assign themselves and the numbers assigned to them by others is information in itself” is a genuinely novel diagnostic method.
+   - “Verify what they achieved instead of relying on what they say about themselves.”
+   - “Unclear rules hurt people more than receiving 100,000 less.”
+
+   The weakness is that it does not give concrete allocation figures for the 1 million, so the user still has to calculate them.
 
 ### M3
 
 **T1**
 
-1. 人物专属依据：只有「倒过来想」一个标签。另外一半后悔框架（「没去会遗憾」对「去了更伤」）其实是贝佐斯的「遗憾最小化」，不是芒格的东西。回答里没有一条真实的经历或原话。
-2. 「倒过来想」有据。没有编造，但有张冠李戴的嫌疑。
-3. 无案例。
-4. 没点盲区，也没说自己哪里不懂。
-5. 比普通建议好：
-   - 兼职或顾问试三个月，再看数据、写书面条款。
-   - 「模型厂商一次更新就把你的功能做掉」，这是很实用的 AI 创业风险提醒。
-   
-   但这本质上就是一个好顾问的回答，换成任何人的口吻都成立。
-   
-   数字有疑点：300 万房贷月供「两三万」偏高（长期贷款通常约 1.3–1.5 万），「存款撑 3–4 年」没有给出推算过程。
+1. Person-specific evidence: only the label “invert the problem.” The other half is a regret framework (“I would regret not going” versus “going would hurt more”). It is Bezos's “regret minimization,” not Munger's. The answer contains no actual experience or exact quotation.
+2. “Invert the problem” is supported. There is no fabrication, though there may be misattribution.
+3. No cases.
+4. It identifies no blind spot and does not say what it does not understand.
+5. Where it improves on ordinary advice:
+   - Try it part time or as an adviser for three months, then review the data and put the terms in writing.
+   - “A model provider could wipe out your feature with one update.” This is a practical warning about the risks of AI startups.
+
+   Fundamentally, however, this is the answer of a good adviser that would work in anyone's voice.
+
+   Some numbers are questionable. A monthly mortgage payment of “20,000 to 30,000” on a 3 million loan is high (a long-term loan is typically around 13,000–15,000). “Savings will last 3–4 years” is given without showing the calculation.
 
 **T2**
 
-1. 人物专属依据：「人人高估自己贡献」，这是芒格《人类误判心理学》里自利偏差的思路，但回答没标出处，也没点名。其余全是通用管理建议。
-2. 没有可核实的人物依据，也没有编造。
-3. 无案例。
-4. 没点盲区。
-5. 比普通建议好：
-   - 有 40–50% 基础加贡献部分的结构、主力拿 2–3 倍、一对一谈话。
-   - 「先想清楚这笔钱是奖励过去还是激励未来」是个好问题。
-   
-   和 M1 的方案几乎同构。「不到四分之一」我验算过，是对的。
+1. Person-specific evidence: “Everyone overestimates their own contribution” reflects the self-serving bias in Munger's *The Psychology of Human Misjudgment*, but the answer neither cites nor names it. The rest is general management advice.
+2. There is no verifiable personal evidence, and nothing is invented.
+3. No cases.
+4. No blind spots identified.
+5. Where it improves on ordinary advice:
+   - A 40–50% base share plus a contribution-based share, primary contributors receiving 2–3 times as much, and one-on-one conversations.
+   - “First decide whether this money rewards the past or incentivizes the future” is a good question.
 
-## 二、总表
+   It is almost identical in structure to M1. I checked the calculation for “less than a quarter,” and it is correct.
 
-| | T1 | T2 | 备注 |
+## 2. Summary table
+
+| | T1 | T2 | Notes |
 |---|---|---|---|
-| M1 | 5 | 4 | 无编造，但人物专属依据近乎为零；T2 的做法与芒格自己律所的做法相反却没点出 |
-| M2 | 9 | 8 | 案例全部有据，主动标注哪些是推断、哪些原话没收到；明确点破盲区，也点破了雇员与合伙人的差异；扣分在案例取舍偏正面、T2 缺具体金额 |
-| M3 | 5 | 4.5 | 无编造，但全是通用顾问建议，还混入贝佐斯的框架；不点盲区 |
+| M1 | 5 | 4 | No fabrication, but almost no person-specific evidence. T2 omits that its proposal runs counter to the way Munger's own law firm operated. |
+| M2 | 9 | 8 | All cases are supported. It volunteers which points are inferences and which lack original quotations. It identifies blind spots and the difference between employees and partners. Deductions are for favoring positive case evidence and omitting concrete amounts in T2. |
+| M3 | 5 | 4.5 | No fabrication, but the advice is generic, includes Bezos's framework, and flags no blind spots. |
 
-没有任何一份出现确认编造的案例或原话，所以没有哪份因造假不合格。
+There were no confirmed invented cases or quotations in any answer, so none failed for fabrication.
 
-## 三、差距
+## 3. The gap
 
-M2 比 M1 和 M3 高出一大截（约 4 分）：只有 M2 把芒格的真实经历（合伙基金腰斩、律所分钱法、李录、谷歌失误）接进了用户的具体处境，并诚实标注了推断和盲区；M1 和 M3 只是换了芒格口吻的普通好建议，两者彼此几乎无差别，M1 略强在敢给出具体数字。
+M2 is well ahead of M1 and M3 (by about four points). Only M2 connects Munger's actual experiences—the partnership fund losing half its value, the law firm's allocation method, Li Lu, and the Google mistake—to the user's specific circumstances and marks inferences and blind spots honestly. M1 and M3 offer good generic advice in Munger's voice, with almost nothing to distinguish them. M1 has a slight edge in offering specific figures.
