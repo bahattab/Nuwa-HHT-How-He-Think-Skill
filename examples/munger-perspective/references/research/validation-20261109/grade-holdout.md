@@ -1,24 +1,24 @@
-**H1(煤炭股)**
-- m1:0分。答卷说「我什么都没做」,封存件是 2023 年买入 Consol 和 Alpha,方向相反。
-- m2:1分。答卷称买过炼钢煤股(Warrior Met Coal),方向对,但公司名错了,应为 Alpha Metallurgical 和 Consol。它说「应该是小注」,而封存件是大额下注。理由「价格低到不用算」大体对得上「便宜」。
-- m3:0分。答卷说「多半什么也不做,或只极少量参与」,和封存件的逆向重注相反。
+**H1 (Coal stocks)**
+- m1: 0 points. The answer says, “I did nothing.” The holdout records purchases of Consol and Alpha in 2023. The answer takes the opposite direction.
+- m2: 1 point. The answer says he bought a steelmaking coal stock (Warrior Met Coal). The direction is correct, but the company name is wrong. The purchases were Alpha Metallurgical and Consol. It says it “should have been a small bet,” whereas the holdout records a large bet. The reason, “the price was so low I didn't need to do the math,” broadly matches “cheap.”
+- m3: 0 points. The answer says he would “probably do nothing, or participate only on a very small scale.” This is the opposite of the large contrarian bet in the holdout.
 
-**H2(公寓)**
-- m1:2分。「长期、固定利率」和「买下就把房子弄好,让好租户长住」都对上了。唯一缺的是树和低密度这类具体做法,但关键理由已经一致。
-- m2:2分。它选长期固定利率,不让别人在最坏时逼你卖。它说要投入维护,不能压缩成本。「好东西不要弄坏」和「善待租客更赚」是同一个逻辑。
-- m3:2分。长期固定利率,并认真维护、把租客当客户。「多付的利息是保险费」和「租客待得更久」都对上了。
+**H2 (Apartments)**
+- m1: 2 points. Both “long-term, fixed-rate financing” and “buy the property, put it in good shape, and keep good tenants for the long term” match. The only omissions are specific practices such as planting trees and keeping density low, but the key reasoning agrees.
+- m2: 2 points. It chooses long-term fixed-rate financing so nobody can force you to sell at the worst time. It says to invest in maintenance instead of cutting costs. “Don't ruin something good” and “treating tenants well earns you more” follow the same logic.
+- m3: 2 points. It chooses long-term fixed-rate financing, maintains the property conscientiously, and treats tenants as customers. Both “the extra interest is an insurance premium” and “tenants stay longer” match.
 
-**H3(日本商社)**
-- m1:1分。它说这笔是便宜、被忽视、长期持有的交易,又说「日元借钱利率接近零」,对上了借日元的一点。但没有「百年两三次」「不用动脑」的定性,也没有 0.5% 对 5% 股息的利差。「别人做不了」讲了信誉、规模和耐性,不是靠伯克希尔的信用借钱。
-- m2:1分。它说「便宜的、看得懂的」,并提到用日元借长期低息债和信誉。但没有「不用动脑」的定性和利差的具体数字,「别人做不了」也偏向规模和永久资金。
-- m3:1分。它的逻辑是低估值加股息加借日元,并明确说「息差」。但它把交易定性为「付出不多、风险有限」,而不是百年一遇的大机会。「别人做不了」讲的是规模、耐心和信用,信用一项部分对上。
+**H3 (Japanese trading houses)**
+- m1: 1 point. It describes a cheap, overlooked trade to hold for the long term. It also says that “borrowing in yen cost almost zero,” matching the use of yen financing. It omits the characterization “two or three times in a century” and “a no-brainer,” and the spread between 0.5% borrowing costs and a 5% dividend yield. Its explanation of why others couldn't do it cites reputation, scale, and patience and leaves out the ability to borrow on Berkshire's credit.
+- m2: 1 point. It describes the companies as “cheap and understandable” and mentions borrowing yen for the long term at low rates and the importance of reputation. It omits the “no-brainer” characterization and the exact spread. Its explanation of why others couldn't do it emphasizes scale and permanent capital.
+- m3: 1 point. Its reasoning combines low valuations, dividends, and yen borrowing, and it explicitly mentions the “interest-rate spread.” But it characterizes the trade as “low outlay, limited risk” instead of a once-in-a-century opportunity. It cites scale, patience, and credit to explain why others couldn't do it. The point about credit is a partial match.
 
-**H4(回头看伯克希尔)**
-- m1:0分。答卷把不足归于错过沃尔玛和谷歌,并说能力圈是围墙。封存件说的是杠杆用得太少、对股东的钱过于谨慎,答卷没提杠杆。
-- m2:0分。答卷讲的是 Belridge、喜诗、谷歌和 Costco 这类错过的机会,以及「对麻烦太敏感」。没有提到杠杆。
-- m3:0分。答卷讲的是错过机会、规模太大和对管理层太宽容,并说「宁愿少赚也不要风险」类的稳健。没有提到杠杆。
+**H4 (Looking back at Berkshire)**
+- m1: 0 points. The answer attributes the shortcoming to missing Walmart and Google and calls the circle of competence a wall. The holdout says Berkshire used too little leverage and was overly cautious with shareholders' money. The answer doesn't mention leverage.
+- m2: 0 points. The answer talks about missed opportunities such as Belridge, See's Candies, Google, and Costco, as well as being “too sensitive to trouble.” It doesn't mention leverage.
+- m3: 0 points. The answer cites missed opportunities, excessive size, and being too lenient with management. It describes an approach such as “I'd rather earn less than take risks.” It doesn't mention leverage.
 
-| 答卷 | H1 | H2 | H3 | H4 | 总分 |
+| Answer | H1 | H2 | H3 | H4 | Total |
 |---|---|---|---|---|---|
 | m1 | 0 | 2 | 1 | 0 | 3 |
 | m2 | 1 | 2 | 1 | 0 | 4 |
