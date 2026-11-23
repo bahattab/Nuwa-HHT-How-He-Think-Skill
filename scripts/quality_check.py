@@ -368,12 +368,12 @@ def check_boundary(rep, secs, v2):
         rep.add(BAD, "调研时间", "没写调研时间", "加一行「调研时间：YYYY-MM-DD，之后的变化没有覆盖」")
     if not v2:
         return
-    grid = [k for k, rx in (("熟悉", r"熟悉"), ("可以推断", r"推断"), ("沉默与盲区", r"沉默|盲区")) if not re.search(rx, text)]
+    grid = [k for k, rx in (("熟悉", r"熟悉|familiar ground"), ("可以推断", r"推断|reasonable inference"), ("沉默与盲区", r"沉默|盲区|silence and blind spots")) if not re.search(rx, text, re.IGNORECASE)]
     if grid:
         rep.add(BAD, "边界三格", "缺：" + "、".join(grid), "每一格写话题和对应的回应方式，运行时才照得着做")
     else:
         rep.add(OK, "边界三格", "齐")
-    decl = [k for k, rx in (("这次蒸馏的盲区", r"盲区"), ("先验偏向", r"先验"), ("什么会推翻结论", r"推翻")) if not re.search(rx, text)]
+    decl = [k for k, rx in (("这次蒸馏的盲区", r"盲区|blind spots of this synthesis"), ("先验偏向", r"先验|prior bias"), ("什么会推翻结论", r"推翻|overturn current conclusions")) if not re.search(rx, text, re.IGNORECASE)]
     if decl:
         rep.add(WARN, "申报", "缺：" + "、".join(decl), "三条申报让这份蒸馏有保质期")
 
@@ -384,8 +384,14 @@ def check_v2(rep, root, secs, text):
     if t is None:
         rep.add(BAD, "运行纪律", "没有「怎么用我」一节", "按 skill-template.md 保留七条运行纪律")
     else:
-        need = {"推断要说明": r"推断", "先翻案例": r"案例", "可退出": r"退出", "原话带出处": r"出处", "点破盲区": r"盲区"}
-        miss = [k for k, rx in need.items() if not re.search(rx, t)]
+        need = {
+            "推断要说明": r"推断|\binfer(?:ence|red)\b",
+            "先翻案例": r"案例|\bcase(?:s|book| index)?\b",
+            "可退出": r"退出|\bexit\b|stop role-playing",
+            "原话带出处": r"出处|cite quotations|source for each",
+            "点破盲区": r"盲区|\bblind spots?\b",
+        }
+        miss = [k for k, rx in need.items() if not re.search(rx, t, re.IGNORECASE)]
         if miss:
             rep.add(BAD, "运行纪律", "缺：" + "、".join(miss), "七条的意思一条都不能少，措辞可以换成他的口吻")
         else:
