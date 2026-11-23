@@ -27,7 +27,7 @@ Just input a name — Nuwa handles research, extraction, and validation automati
 
 **Other Languages:**
 
-[العربية](README_AR.md) · [中文](README_ZH.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+[العربية](README_AR.md)
 
 </div>
 

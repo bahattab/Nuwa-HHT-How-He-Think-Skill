@@ -1,6 +1,6 @@
 # Special cases
 
-Read the applicable section, then return to the workflow in [SKILL.md](../SKILL.md). [Arabic](special-cases_AR.md) · [Chinese source](special-cases_ZH.md)
+Read the applicable section, then return to the workflow in [SKILL.md](../SKILL.md). [Arabic](special-cases_AR.md)
 
 ## 1. Topic skills
 

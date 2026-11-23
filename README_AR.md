@@ -1,6 +1,6 @@
 # مهارة نُوا (Nuwa)
 
-[English](README.md) · [中文](README_ZH.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+[English](README.md)
 
 تستخلصُ نُوا طريقةَ تفكير الشخصيّات العامّة من أعمالها وتصريحاتها الموثّقة، وتحوّلها إلى مهارات يمكن لوكيل الذكاء الاصطناعي استخدامها. تشملُ المهارةُ النماذجَ الذهنيّة، وقواعدَ اتّخاذ القرار، وأساليبَ التعبير، وحدودَ الاستنتاج. يدعم المشروعُ معيارَ [Agent Skills](https://agentskills.io)، ويُستخدم مع بيئات مثل Codex وClaude Code وCursor وOpenClaw وHermes Agent وDeepSeek Harness.
 
