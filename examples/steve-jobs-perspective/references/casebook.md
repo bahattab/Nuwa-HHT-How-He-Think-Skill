@@ -1,193 +1,193 @@
-# Steve Jobs · 案例库
+# Steve Jobs · Casebook
 
-21 张卡。标「败」的是失败、改口、言行不一或有争议的（9 张）。原话保留英文；查不到当次原话的写「当次原话未收」，不从别处搬一句来配。
-书名简写：Isaacson =《Steve Jobs》（Walter Isaacson，2011）；Fortune 2008 = Betsy Morris 访谈逐字稿；Lost = 1995 年 Lost Interview 逐字稿。
+The casebook contains 21 cards. Nine carry a failure label because they involve a failure, reversal, inconsistency between words and actions, or controversy. Quotations stay in the original English. Where no quotation from the event was located, the card says so and does not substitute an unrelated quotation.
+Abbreviations: Isaacson means Walter Isaacson’s Steve Jobs (2011). Fortune 2008 means the transcript of Betsy Morris’s interview. Lost means the 1995 Lost Interview transcript.
 
-## C01 · 1985 · 想把 Sculley 赶走，自己被解除职务（败）
+## C01 · 1985 · Tried to remove Sculley and was relieved of his own duties (failure)
 
-- **处境**：Mac 上市一年销量远低于预期。4 月董事会支持 Sculley 把他调离 Mac 部门。他可以接受一个研发性质的闲职，可以离开，也可以反击。
-- **他做了什么**：5 月串联高管，打算趁 Sculley 去中国时夺权。计划被告诉了 Sculley。5 月 24 日高管会上 Sculley 当面摊牌，让在场的人逐个表态，全都站在 Sculley 一边。5 月 31 日他被解除全部运营职务，9 月 17 日辞职，带走五个人办了 NeXT。
-- **他自己怎么解释**：「our visions of the future began to diverge and eventually we had a falling out. When we did, our Board of Directors sided with him. So at 30 I was out. And very publicly out.」—— 斯坦福毕业演讲，2005
-- **后来**：他后来说这是发生在他身上最好的事，「The heaviness of being successful was replaced by the lightness of being a beginner again」（同上）。但 1988 年他对 Newsweek 重复说「I'm not bitter」，这个转念用了很多年。
-- **可以类比到**：和搭档或董事会公开决裂前、觉得「公司离了我不行」时、政治上高估自己时。
-- **出处**：Isaacson 第 17 章；斯坦福演讲原文 · 可信度：二手交叉印证＋一手
+- **Situation:** A year after the Mac launched, sales were far below expectations. In April the board backed Sculley in moving Jobs out of the Mac division. Jobs could accept a largely nominal research position, leave, or fight back.
+- **What he did:** In May he rallied executives and planned to take control while Sculley was away in China. Someone told Sculley. At the May 24 executive meeting, Sculley confronted Jobs and asked each person to state a position. Everyone sided with Sculley. Jobs lost all operating duties on May 31 and resigned on September 17. Five people left with him to start NeXT.
+- **His explanation:** “our visions of the future began to diverge and eventually we had a falling out. When we did, our Board of Directors sided with him. So at 30 I was out. And very publicly out.” — Stanford commencement address, 2005
+- **Afterward:** He later called this the best thing that had happened to him. “The heaviness of being successful was replaced by the lightness of being a beginner again” (same source). Yet he repeatedly told Newsweek in 1988, “I'm not bitter.” That change of perspective took years.
+- **Applies to:** An impending public split with a partner or board, believing the company cannot do without you, and overestimating your political support.
+- **Sources:** Isaacson, chapter 17, and the Stanford speech transcript. **Confidence:** Corroborated secondary and primary evidence.
 
-## C02 · 1988–1993 · NeXT：把电脑做成完美的立方体，然后卖不动（败）
+## C02 · 1988–1993 · NeXT built a computer as a perfect cube and could not sell it (failure)
 
-- **处境**：离开苹果后手里有钱、有名气、有五个苹果老部下。可以做一台价格够得着的工作站，也可以不计成本做一台他心目中完美的机器。
-- **他做了什么**：选了后者。镁合金机箱做成正一英尺的立方体，内部也要好看；在 Fremont 建了一座高度自动化的工厂；1988 年 10 月发布，定价 6500 美元，不带软驱。几年里总共只卖出约五万台。1993 年 2 月放弃硬件，裁掉一半以上的人，只做 NeXTSTEP 软件。
-- **他自己怎么解释**：当次原话未收。
-- **后来**：1996 年底苹果以约 4 亿美元买下 NeXT，NeXTSTEP 成了 Mac OS X 和后来 iOS 的底子。硬件是失败，软件救了两家公司。
-- **可以类比到**：手里资源充足、没人能拦你时的过度设计；「先做到完美再谈价格」的冲动；主业失败后哪一块资产值得留。
-- **出处**：Isaacson 第 18、22 章；Schlender & Tetzeli《Becoming Steve Jobs》（2015） · 可信度：二手交叉印证
+- **Situation:** After leaving Apple, Jobs had money, a reputation, and five former Apple employees. He could make an affordable workstation or build his idea of the perfect machine regardless of cost.
+- **What he did:** He chose the latter. The magnesium-alloy case was a perfect one-foot cube, and he insisted it look good inside. He built a highly automated factory in Fremont. Launched in October 1988, the computer cost $6,500 and had no floppy drive. Only about 50,000 sold in several years. In February 1993, NeXT dropped hardware, laid off more than half its employees, and concentrated on NeXTSTEP software.
+- **His explanation:** No quotation from the event was collected.
+- **Afterward:** In late 1996 Apple bought NeXT for about $400 million. NeXTSTEP became the foundation for Mac OS X and later iOS. The hardware failed, but the software saved two companies.
+- **Applies to:** Overdesign when resources are abundant and no one can stop you, the urge to perfect something before discussing price, and deciding what asset to keep after the main business fails.
+- **Sources:** Isaacson, chapters 18 and 22, and Schlender and Tetzeli’s Becoming Steve Jobs (2015). **Confidence:** Corroborated secondary sources.
 
-## C03 · 1986–1995 · Pixar：方向看错、想卖没卖掉、等到了 Toy Story（败）
+## C03 · 1986–1995 · Misread Pixar, tried and failed to sell it, and held on until Toy Story (failure)
 
-- **处境**：1986 年他从卢卡斯手里买下这个图形团队，当它是一家卖高端图形电脑的硬件公司。硬件卖不动，公司年年亏，他不断自己掏钱。
-- **他做了什么**：砍了硬件业务，几轮裁员，同时一直留着 Lasseter 的动画小组。到 1994 年他已经投进约 5000 万美元。他考虑过把公司卖掉，Fortune 1995 年报道过他和微软谈过。1991 年和迪士尼签下三部长片的合约后，他把注押在第一部片子上，并安排在《Toy Story》上映一周后 IPO。
-- **他自己怎么解释**：当次原话未收。前 CFO Lawrence Levy 的说法：1994 年他「had put $50 million into Pixar and had nothing to show for it」。
-- **后来**：1995 年 11 月《Toy Story》上映，IPO 当天他持有的八成股份值十多亿美元。这是运气和没放手叠在一起的结果，不是一开始就看准了。
-- **可以类比到**：一个项目烧了很多年还该不该撑；怎么区分「方向错了」和「团队值钱」；别把事后的成功讲成事先的远见。
-- **出处**：Levy 访谈，CNBC 2016-11-03；Fortune 1995 报道（Business Insider 2011-10 转述）；Isaacson 第 19、22 章 · 可信度：二手交叉印证
+- **Situation:** In 1986 Jobs bought the graphics team from Lucas, thinking it was a hardware company selling high-end graphics computers. The hardware would not sell. The company lost money year after year, and Jobs repeatedly paid out of his own pocket.
+- **What he did:** He cut the hardware business, conducted several rounds of layoffs, and kept Lasseter’s animation team throughout. By 1994 he had put in about $50 million. He considered selling Pixar. Fortune reported in 1995 that Jobs had spoken to Microsoft. After signing a three-feature agreement with Disney in 1991, he bet on the first film and scheduled the IPO for one week after Toy Story’s release.
+- **His explanation:** No quotation from the event was collected. Former CFO Lawrence Levy said that in 1994 Jobs “had put $50 million into Pixar and had nothing to show for it.”
+- **Afterward:** Toy Story opened in November 1995. On IPO day, his 80% stake was worth over $1 billion. The outcome came from a combination of luck and holding on. He had not read the company correctly at the start.
+- **Applies to:** Deciding whether to sustain a project after years of spending, distinguishing a wrong direction from a valuable team, and avoiding the temptation to recast success as foresight.
+- **Sources:** Levy interview, CNBC 2016-11-03, Fortune coverage in 1995 (recounted by Business Insider in 2011-10), and Isaacson, chapters 19 and 22. **Confidence:** Corroborated secondary sources.
 
-## C04 · 1993–1994 · Toy Story 故事不行，停工五个月
+## C04 · 1993–1994 · Toy Story's story fell short, and production halted for five months
 
-- **处境**：片子做到一半，故事立不住。继续做能按期交，停下来要白付全组工资。
-- **他做了什么**：承认故事不行，停了五个月，把故事改到能用才复工。
-- **他自己怎么解释**：「there came a time when we were forced to admit that the story wasn't great. It just wasn't great. We stopped production for five months... And if they hadn't had the courage to stop, there would have never been a Toy Story the way it is, and there probably would have never been a Pixar.」「it's so easy to fool yourself - to convince yourself that it is when you know in your heart that it isn't.」—— Fortune 2008
-- **后来**：他说之后每部片子都有一次「故事危机」，只是不再停那么久；苹果几乎每个大项目也一样（见 C14）。
-- **可以类比到**：做到一半发现核心不成立，是硬着头皮交还是停下来；怎么识别自己在骗自己。
-- **出处**：https://allaboutstevejobs.com/verbatim/interviews/fortune_2008 · 可信度：一手
+- **Situation:** Halfway through the film, the story didn't hold up. Continuing would deliver it on schedule. Stopping meant paying the whole crew while no production took place.
+- **What he did:** He acknowledged that the story didn't work. Production stopped for five months and resumed only once the story had been improved enough to use.
+- **His explanation:** 「there came a time when we were forced to admit that the story wasn't great. It just wasn't great. We stopped production for five months... And if they hadn't had the courage to stop, there would have never been a Toy Story the way it is, and there probably would have never been a Pixar.」「it's so easy to fool yourself - to convince yourself that it is when you know in your heart that it isn't.」— Fortune 2008
+- **Afterward:** He said every later film hit a “story crisis,” but they no longer stopped for so long. Virtually every major Apple project had one too (see C14).
+- **Applies to:** Discovering halfway through that the main idea doesn't work, deciding whether to deliver it anyway or stop, and recognizing when you are fooling yourself.
+- **Sources:** https://allaboutstevejobs.com/verbatim/interviews/fortune_2008 · **Confidence:** Primary evidence.
 
-## C05 · 1997 · 四格：把一堆型号砍成四个产品
+## C05 · 1997 · Four quadrants reduced a mass of models to four products
 
-- **处境**：回苹果时公司一年亏掉十亿美元，在卖十几种 Mac 和一堆打印机、掌上设备。每条线都有团队和理由。
-- **他做了什么**：几周的产品评审后，在白板上画了个两行两列的格子：消费 / 专业，台式 / 便携，一格一个产品，其余全停。砍掉约七成型号和产品，停了 Newton，收回了 Mac 兼容机授权，裁了三千多人。
-- **他自己怎么解释**：「we went back to business school 101, and we said... what do our customers want in our products?... They wanted consumer products and they wanted pro products... they also wanted two different kinds of each one, desktop and portable... We've got to make four great products」—— iMac 发布会，1998-05-06。他对 Isaacson 说的另一句：「Deciding what not to do is as important as deciding what to do.」
-- **后来**：1998 财年扭亏。流传的「350 个产品砍到 10 个」查不到出处，不要用。
-- **可以类比到**：产品线、功能列表、路线图太长；团队说每一项都重要；资源明显不够分。
-- **出处**：https://allaboutstevejobs.com/videos/keynotes/imac_introduction_1998 ；Isaacson，《The Real Leadership Lessons of Steve Jobs》，HBR 2012-04 · 可信度：一手＋二手
+- **Situation:** When Jobs returned to Apple, the company was losing a billion dollars a year and selling more than a dozen Mac models along with printers and handheld devices. Every line had a team and a reason to exist.
+- **What he did:** After weeks of product reviews, he drew a two-by-two grid on the whiteboard, with consumer and professional across one axis and desktop and portable across the other. Each quadrant would have one product, and everything else would stop. He cut about 70% of models and products, stopped Newton, withdrew Mac-clone licenses, and laid off more than 3,000 people.
+- **His explanation:** 「we went back to business school 101, and we said... what do our customers want in our products?... They wanted consumer products and they wanted pro products... they also wanted two different kinds of each one, desktop and portable... We've got to make four great products」— iMac launch, 1998-05-06. Another remark he made to Isaacson: 「Deciding what not to do is as important as deciding what to do.」
+- **Afterward:** Apple returned to profitability in fiscal 1998. No source has been found for the widely repeated claim that he cut 350 products to 10. Do not use it.
+- **Applies to:** An overlong product line, feature list, or roadmap, teams insisting every item matters, and visibly insufficient resources to go around.
+- **Sources:** https://allaboutstevejobs.com/videos/keynotes/imac_introduction_1998 and Isaacson, The Real Leadership Lessons of Steve Jobs, HBR 2012-04. **Confidence:** Primary and secondary evidence.
 
-## C06 · 1997 · 当着苹果粉丝的面和微软讲和
+## C06 · 1997 · Made peace with Microsoft in front of Apple fans
 
-- **处境**：苹果缺钱，更缺的是 Office 继续出 Mac 版的承诺。粉丝把微软当死敌，两家还有专利官司。
-- **他做了什么**：8 月 Macworld Boston 上宣布：微软投 1.5 亿美元（无投票权股份）、承诺五年内继续做 Mac 版 Office、IE 成为 Mac 默认浏览器、专利纠纷了结。盖茨通过卫星出现在大屏幕上，台下一片嘘声。
-- **他自己怎么解释**：「We have to let go of this notion that for Apple to win, Microsoft has to lose.」—— Macworld Boston，1997-08-06
-- **后来**：他事后对 Isaacson 说，让盖茨的脸悬在自己头顶的大屏幕上，是他办过最糟的一次舞台安排，那让他和苹果都显得很小。交易本身他没后悔过。
-- **可以类比到**：活下去需要向对手低头；团队或用户的情绪和公司的利益不一致；决定对但呈现方式砸了。
-- **出处**：Macworld Boston 1997 原片；Isaacson 第 24 章 · 可信度：一手＋二手
+- **Situation:** Apple needed money, and even more it needed a commitment that Office for Mac would continue. Fans treated Microsoft as a sworn enemy, and the two companies were in patent litigation.
+- **What he did:** At Macworld Boston in August, he announced that Microsoft would invest $150 million in nonvoting shares, commit to producing Office for Mac for five years, make IE the default Mac browser, and settle the patent dispute. Gates appeared on the giant screen by satellite. The audience booed.
+- **His explanation:** “We have to let go of this notion that for Apple to win, Microsoft has to lose.” — Macworld Boston, 1997-08-06
+- **Afterward:** He told Isaacson that having Gates's face on the giant screen above his head was the worst stage arrangement he had ever put on and that it made both him and Apple look small. He did not regret the deal itself.
+- **Applies to:** Conceding to a rival to survive, team or user sentiment diverging from company interests, and getting a decision right while botching the presentation.
+- **Sources:** Original Macworld Boston 1997 footage and Isaacson, chapter 24. **Confidence:** Primary and secondary evidence.
 
-## C07 · 1997 · WWDC 被开发者当众说「你根本不懂」
+## C07 · 1997 · A developer at WWDC publicly told him, “You don't understand at all”
 
-- **处境**：他刚砍了 OpenDoc。问答环节一位开发者站起来说他显然不懂自己在讲什么，并问他这七年干了什么。
-- **他做了什么**：停了几秒，先说对方在某些地方是对的，然后没有争技术细节，讲了他怎么定产品方向，并替做了决定的团队站台。
-- **他自己怎么解释**：「One of the hardest things when you're trying to effect change is that people like this gentleman are right in some areas.」「You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to try to sell it.」—— WWDC 1997 问答
-- **后来**：这段成了他被引用最多的即兴回答之一。
-- **可以类比到**：被公开质疑专业性；砍掉一个技术上很好的东西后怎么面对做它的人。
-- **出处**：WWDC 1997 原片及逐字稿 https://sebastiaanvanderlans.com/steve-jobs-wwdc-1997/ · 可信度：一手
+- **Situation:** Jobs had just cut OpenDoc. During the Q&A, a developer stood up and said Jobs plainly did not know what he was talking about, then asked what he had been doing for the past seven years.
+- **What he did:** He paused for a few seconds and first conceded that the developer was right in some areas. He did not debate the technical details. Instead he explained how he set product direction and publicly backed the team that had made the decision.
+- **His explanation:** “One of the hardest things when you're trying to effect change is that people like this gentleman are right in some areas.” “You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to try to sell it.” — WWDC 1997 Q&A
+- **Afterward:** This became one of his most frequently quoted impromptu answers.
+- **Applies to:** Responding when your competence is publicly challenged and facing the people who made something you cut despite its technical merits.
+- **Sources:** WWDC 1997 original footage and transcript https://sebastiaanvanderlans.com/steve-jobs-wwdc-1997/ · **Confidence:** Primary evidence.
 
-## C08 · 1998 · 把运营整个交给 Tim Cook
+## C08 · 1998 · Handed all operations to Tim Cook
 
-- **处境**：他不擅长也不想管供应链。苹果当时库存积压严重，自己有工厂和仓库。
-- **他做了什么**：从康柏挖来 Cook，把运营全交出去。Cook 把库存从按月计压到按天计，关掉了大部分自有仓库和工厂。之后他陆续把销售、Mac 部门也交给 Cook。
-- **他自己怎么解释**：「We could interact at a high strategic level, and I could just forget about a lot of things unless he came and pinged me.」—— 对 Isaacson。「I made Tim COO and gave him the Mac division and he's done brilliantly.」—— Fortune 2008
-- **后来**：2011 年 8 月交班给 Cook。Cook 转述他的嘱咐是：别问我会怎么做，做对的事。
-- **可以类比到**：创始人该不该自己管不擅长的事；找互补的人还是找像自己的人。
-- **出处**：Isaacson 第 27 章；Fortune 2008 逐字稿；Cook 在 CBS Sunday Morning 的访谈 · 可信度：二手交叉印证＋一手
+- **Situation:** He neither excelled at nor wanted to manage the supply chain. Apple had a serious inventory backlog and owned its factories and warehouses.
+- **What he did:** He recruited Cook from Compaq and handed over all operations. Cook reduced inventory from months to days and shut most company-owned warehouses and factories. Jobs subsequently put Cook in charge of sales and the Mac division as well.
+- **His explanation:** “We could interact at a high strategic level, and I could just forget about a lot of things unless he came and pinged me.” — Isaacson. “I made Tim COO and gave him the Mac division and he's done brilliantly.” — Fortune 2008
+- **Afterward:** In August 2011 Jobs handed over leadership to Cook. Cook recalled the instruction: Don’t ask what I would do. Do the right thing.
+- **Applies to:** Whether founders should personally run work they do poorly, and whether to recruit someone complementary or someone like themselves.
+- **Sources:** Isaacson, chapter 27, the Fortune 2008 transcript, and Cook’s CBS Sunday Morning interview. **Confidence:** Corroborated secondary and primary evidence.
 
-## C09 · 2000–2001 · Power Mac G4 Cube：博物馆收了，顾客没买（败）
+## C09 · 2000–2001 · Power Mac G4 Cube: The museum took it, but customers did not buy it (failure)
 
-- **处境**：四格之外，他想加一台介于 iMac 和专业机之间的机器。
-- **他做了什么**：做了一台悬在透明外壳里的八英寸立方体，没有风扇，1799 美元还不含显示器。设计界一片赞誉。销量只有预期的三分之一左右，外壳还出现细纹。上市一年后苹果宣布「搁置」。
-- **他自己怎么解释**：当次原话未收。Isaacson 的转述：他后来承认这台机器设计过度、定价过高，和 NeXT 犯的是同一个错。
-- **后来**：从发现卖不动到叫停只用了一年，没有再出第二代去救。
-- **可以类比到**：自己最得意的作品市场不买账；为设计师而不是为顾客做的产品；什么时候该止损。
-- **出处**：Isaacson 第 34 章；苹果 2001-07-03 新闻稿 · 可信度：二手交叉印证
+- **Situation:** He wanted to add a machine outside the four-quadrant grid, between the iMac and the professional models.
+- **What he did:** He made an eight-inch cube suspended within a transparent enclosure, without a fan, priced at $1,799 without a display. The design world praised it. Sales reached only about one-third of expectations, and hairline marks appeared on the enclosure. One year after launch, Apple said it was putting the product on hold.
+- **His explanation:** No quotation from the event was collected. Isaacson reports that Jobs later conceded the machine was overdesigned and overpriced, the same mistake as NeXT.
+- **Afterward:** Only one year passed before it was stopped once it was clear it would not sell. They did not try to rescue it with a second generation.
+- **Applies to:** When the market rejects the work you are most proud of, designing for designers instead of customers, and knowing when to cut losses.
+- **Sources:** Isaacson, chapter 34, and Apple’s press release of 2001-07-03. **Confidence:** Corroborated secondary sources.
 
-## C10 · 2001 · Apple Store 样板店做了半年，开业前推倒重来
+## C10 · 2001 · Rebuilt the full-scale Apple Store prototype after six months, just before opening
 
-- **处境**：他在库比蒂诺附近的仓库里搭了一间一比一的样板店，每周去改，磨了半年。首批门店临近开业时，零售负责人 Ron Johnson 在去开会的车上告诉他：店是按产品摆的，应该按人们要做的事（音乐、影片）来摆。
-- **他做了什么**：先顶了回去。十分钟后走进会议室，当众说 Ron 是对的，然后离场，让 Ron 带团队重做。开业推迟了几个月。
-- **他自己怎么解释**：Johnson 记下的原话：「Do you know how big a change that is? I don't have time to redesign the store.」十分钟后：「Well, Ron thinks our store is all wrong. And he's right, so I'm going to leave now. And Ron, you work with the team and design the store.」选址的理由他自己讲过：Windows 用户不会为了一台他们不觉得想要的 Mac 专程开车，「we reduce that risk from a 20-minute drive to 20 footsteps」—— Fortune 2008
-- **后来**：2001 年 5 月首批两家店开业。当时媒体普遍看衰，三年后零售年销售额过十亿美元。
-- **可以类比到**：下属在临交付时指出根本性的问题；新东西没把握时先做一比一的样板；让顾客试一下的成本怎么降。
-- **出处**：Ron Johnson 口述，Engadget 2014-07-17、Business Insider 2014-07；Isaacson 第 29 章；Fortune 2008 逐字稿 · 可信度：二手交叉印证＋一手
+- **Situation:** Jobs built a full-scale prototype store in a warehouse near Cupertino and revised it on weekly visits for six months. With the opening approaching, retail chief Ron Johnson told him on the drive to a meeting that the store was organized by product and should instead be organized around what people wanted to do, such as music and movies.
+- **What he did:** He initially pushed back. Ten minutes later, he entered the meeting room, told everyone Ron was right, and left, putting Ron in charge of redesigning the store with the team. The opening was delayed by several months.
+- **His explanation:** Johnson recalled Jobs’s words: “Do you know how big a change that is? I don't have time to redesign the store.” Ten minutes later: “Well, Ron thinks our store is all wrong. And he's right, so I'm going to leave now. And Ron, you work with the team and design the store.” Jobs explained his choice of location: Windows users would not make a special drive to see a Mac they did not think they wanted. “we reduce that risk from a 20-minute drive to 20 footsteps” — Fortune 2008
+- **Afterward:** The first two stores opened in May 2001. The press was generally pessimistic. Three years later, annual retail sales exceeded $1 billion.
+- **Applies to:** A subordinate points out a fundamental issue just before delivery, building a full-scale prototype when a new idea is uncertain, and reducing the cost of trying a product.
+- **Sources:** Ron Johnson’s oral account, Engadget 2014-07-17 and Business Insider 2014-07, Isaacson chapter 29, and the Fortune 2008 transcript. **Confidence:** Corroborated secondary and primary evidence.
 
-## C11 · 2001 · iPod：入场晚，功能少，三次点击
+## C11 · 2001 · iPod: Entered late, with fewer features and three clicks
 
-- **处境**：市面上已有不少 MP3 播放器，容量小或者难用。他的硬件负责人 Rubinstein 在东芝看到一款还没人要的 1.8 英寸硬盘。
-- **他做了什么**：当即批钱把这款硬盘的供货包下来。八个多月做出产品。评审界面时逐屏过，任何一首歌要在三次点击内到达，点哪里得一看就懂；去掉了电源键；播放列表只能在电脑上的 iTunes 里编，设备上不能编。发布时没讲 5GB，讲的是「1,000 songs in your pocket」。
-- **他自己怎么解释**：「In order to make the iPod really easy to use... we needed to limit what the device itself would do. Instead we put that functionality in iTunes on the computer... That was controversial. But what made the Rio and other devices so brain-dead was that they were complicated.」—— 对 Isaacson。「the first few hundred customers were us.」—— Fortune 2008
-- **后来**：发布时被嘲笑贵、功能比对手少。三年后占了七成市场。
-- **可以类比到**：后入场怎么赢；哪些功能该从主产品里拿走、放到别处；怎么用一句话讲一个产品。
-- **出处**：Isaacson 第 29 章（Macworld 2011-10 的书摘可查）；Fortune 2008 逐字稿 · 可信度：二手＋一手
+- **Situation:** There were already many MP3 players, but they had little capacity or were difficult to use. At Toshiba, hardware chief Rubinstein saw a 1.8-inch drive that nobody had claimed.
+- **What he did:** Jobs immediately authorized funding to lock up the drive supply. The product was ready in just over eight months. During interface reviews, he went screen by screen. Every song had to be reachable in three clicks, and it had to be obvious where to click. He removed the power button. Playlists could only be made in iTunes on the computer, not on the device. At launch, he spoke of “1,000 songs in your pocket” rather than 5 GB.
+- **His explanation:** “In order to make the iPod really easy to use... we needed to limit what the device itself would do. Instead we put that functionality in iTunes on the computer... That was controversial. But what made the Rio and other devices so brain-dead was that they were complicated.” — In conversation with Isaacson. “the first few hundred customers were us.” — Fortune 2008
+- **Afterward:** At launch, critics mocked the price and the fact that it had fewer features than competing products. Three years later it held 70% of the market.
+- **Applies to:** How to win as a late entrant, deciding which functions to move out of the main product, and explaining a product in a sentence.
+- **Sources:** Isaacson, chapter 29 (excerpt in Macworld, 2011-10), and the Fortune 2008 transcript. **Confidence:** Secondary and primary evidence.
 
-## C12 · 2003 · iTunes 音乐商店：说服五家唱片公司按 99 美分单曲卖
+## C12 · 2003 · iTunes Music Store: Persuaded five labels to sell tracks for 99 cents
 
-- **处境**：盗版把唱片业打懵了，各家自己做的数字商店都难用，而且互相不授权。唱片公司不信任科技公司，也不愿拆开专辑卖单曲。
-- **他做了什么**：自己一家一家去谈，当面演示做好的商店。先拿下华纳和环球，再用它们说服其余三家。条件是：单曲 99 美分、可以拆专辑、买了就归你。首发只在 Mac 上，他用「Mac 只占百分之五的市场，出了问题也是小范围」来降低对方的戒心。
-- **他自己怎么解释**：「it just seemed like writing on the wall, that eventually all music would be distributed electronically... Why have all this [overhead] when you can just send electrons around easily?」—— Fortune 2008
-- **后来**：六天卖出一百万首。2007 年他写公开信《Thoughts on Music》要求唱片公司放弃 DRM，同年 EMI 第一个同意。
-- **可以类比到**：要说服一个不信任你的行业；用「小范围试」换对方点头；自己不占优势的谈判。
-- **出处**：Isaacson 第 30 章；Fortune 2008 逐字稿；苹果公开信《Thoughts on Music》2007-02-06 · 可信度：二手＋一手
+- **Situation:** Piracy had stunned the record industry. Its own digital stores were difficult to use, and the labels did not license to one another. They distrusted technology companies and refused to split albums into individual tracks.
+- **What he did:** He negotiated personally with each label and demonstrated the finished store in person. Warner and Universal agreed first, and he used their agreement to persuade the other three. Tracks cost 99 cents, albums could be split, and buyers owned their purchases. Initial availability was Mac-only. He reassured labels that Mac represented only five percent of the market, so any problem would be contained.
+- **His explanation:** He explained: “it just seemed like writing on the wall, that eventually all music would be distributed electronically... Why have all this [overhead] when you can just send electrons around easily?” — Fortune 2008
+- **Afterward:** One million songs sold in six days. In 2007 he published Thoughts on Music, asking labels to abandon DRM. EMI agreed first that year.
+- **Applies to:** Persuading an industry that mistrusts you, obtaining agreement through a small pilot, and negotiating without the upper hand.
+- **Sources:** Isaacson, chapter 30, the Fortune 2008 transcript, and Apple’s Thoughts on Music, 2007-02-06. Secondary and primary evidence.
 
-## C13 · 2005 · 在卖得最好的时候停掉 iPod mini
+## C13 · 2005 · Discontinued iPod mini while it was the bestseller
 
-- **处境**：iPod mini 上市一年多，是当时卖得最好的 iPod。闪存价格在快速下降，对手迟早会用它做更小的播放器。
-- **他做了什么**：2005 年 9 月发布 iPod nano，同一天停产 mini。当年又向几家闪存厂预付了大笔货款，把之后几年的供应锁住。
-- **他自己怎么解释**：当次原话未收。Isaacson 记他的一条原则：「If you don't cannibalize yourself, someone else will.」（不是这一次说的。）
-- **后来**：nano 成了新的销量主力。两年后 iPhone 又对整个 iPod 线做了同样的事。
-- **可以类比到**：现金牛还在涨，要不要自己出一个东西替掉它；新技术曲线出现时的时机。
-- **出处**：苹果 2005-09-07 发布会；Isaacson 第 32 章 · 可信度：一手（事实）＋二手（原则）
+- **Situation:** The iPod mini had been on sale for over a year and was the best-selling iPod. Flash prices were falling quickly. Competitors would sooner or later use flash to make smaller players.
+- **What he did:** He unveiled the iPod nano in September 2005 and discontinued the mini the same day. That year Apple also paid several flash manufacturers large advances to secure supply for the next few years.
+- **His explanation:** No remarks from the event were collected. Isaacson records one of his principles: “If you don't cannibalize yourself, someone else will.” He did not say it on this occasion.
+- **Afterward:** The nano became the main seller. Two years later, iPhone did the same to the entire iPod line.
+- **Applies to:** Whether to replace a cash cow while it is still growing, and when to act as a new technology curve emerges.
+- **Sources:** Apple’s 2005-09-07 launch event and Isaacson, chapter 32. Primary evidence for facts and secondary evidence for the principle.
 
-## C14 · 2006–2007 · iPhone 外壳做了一年推翻，塑料屏换玻璃
+## C14 · 2006–2007 · Discarded a year of iPhone enclosure design and replaced the plastic screen with glass
 
-- **处境**：iPhone 的外壳设计已经定了很久，离发布很近。他总觉得不对。另一件事：样机在他口袋里和钥匙放了几周，塑料屏被划花了。
-- **他做了什么**：一个周一早上到公司，说他没法爱上这个设计，全部重来。屏幕改用玻璃，找到康宁的 CEO Wendell Weeks，要他在半年内量产一种康宁从没量产过的强化玻璃。会面开头他给 Weeks 讲玻璃该怎么做，被对方打断要求先听，他听了。Weeks 说产能做不到，他坚持对方做得到。康宁把一家肯塔基的工厂改了线，按时交货。
-- **他自己怎么解释**：「I came in one Monday morning, I said, 'I just don't love this. I can't convince myself to fall in love with this. And this is the most important product we've ever done.' And we pushed the reset button... It was hell because we had to go to the team and say, 'All this work you've [done] for the last year, we're going to have to throw it away and start over'... And you know what everybody said? 'Sign us up.'」—— Fortune 2008。对 Weeks 那句话有两个版本：Isaacson 记的是「Don't be afraid. You can do it.」；Weeks 2025 年自己回忆的是「Do you know what your biggest problem is? You're afraid.」
-- **后来**：2007 年 6 月上市。他说苹果几乎每个大项目都有这么一次。
-- **可以类比到**：临近发布，东西「能交」但自己不爱；供应商或团队说做不到；要不要为一个细节推迟。
-- **出处**：Fortune 2008 逐字稿；Isaacson 第 36 章；Wendell Weeks，Fortune Leadership Next 播客，2025-10 · 可信度：一手＋二手交叉印证
+- **Situation:** The enclosure had long been settled, and launch was close. It always felt wrong to him. Separately, his keys scratched the prototype's plastic screen after several weeks in his pocket.
+- **What he did:** One Monday he arrived and said he could not fall in love with it. They started over. He switched the screen to glass and asked Corning CEO Wendell Weeks to mass-produce a strengthened glass Corning had never mass-produced, within six months. Jobs began telling Weeks how to make glass. Weeks interrupted and asked him to listen, and Jobs did. Weeks said the capacity was unavailable. Jobs insisted it could be done. Corning converted a Kentucky production line and delivered on time.
+- **His explanation:** “I came in one Monday morning, I said, 'I just don't love this. I can't convince myself to fall in love with this. And this is the most important product we've ever done.' And we pushed the reset button... It was hell because we had to go to the team and say, 'All this work you've [done] for the last year, we're going to have to throw it away and start over'... And you know what everybody said? 'Sign us up.'” — Fortune 2008. Two versions of what he said to Weeks exist. Isaacson recorded “Don't be afraid. You can do it.” Weeks himself recalled in 2025: “Do you know what your biggest problem is? You're afraid.”
+- **Afterward:** It launched in June 2007. He said almost every major Apple project had such a moment.
+- **Applies to:** Near launch, the product is shippable but you do not love it. A supplier or team says something is impossible. Decide whether a detail justifies postponement.
+- **Sources:** Fortune 2008 transcript, Isaacson chapter 36, and Wendell Weeks on Fortune Leadership Next, 2025-10. Primary and corroborated secondary evidence.
 
-## C15 · 2007 · 第三方应用：公开说不要，四个月后改口（败）
+## C15 · 2007 · Third-party apps: Publicly rejected them and reversed course in four months (failure)
 
-- **处境**：iPhone 发布时不允许装第三方原生应用。董事 Art Levinson、营销负责人 Schiller 都劝他开放，黑客已经在自己破解装应用。
-- **他做了什么**：1 月对《纽约时报》说不想让手机变成 PC。6 月在 WWDC 上把网页应用称作给开发者的方案，反应很冷。上市不到四个月，10 月 17 日他在苹果官网发文宣布次年 2 月给出原生 SDK。2008 年 7 月 App Store 上线，苹果审核每个应用、抽三成。
-- **他自己怎么解释**：1 月的说法：「You don't want your phone to be like a PC. The last thing you want is to have loaded three apps on your phone and then you go to make a call and it doesn't work anymore.」—— 纽约时报，2007-01-11。10 月的说法：「Let me just say it: We want native third party applications on the iPhone, and we plan to have an SDK in developers' hands in February.」—— 苹果官网，2007-10-17
-- **后来**：开放了，但他最初担心的事（质量、安全）变成了审核制度。他没有为之前的立场公开道过歉，直接换了说法。
-- **可以类比到**：自己公开反对过的方向被证明是对的；怎么在让步的同时保住原来在乎的东西。
-- **出处**：John Markoff，纽约时报 2007-01-11；苹果 Hot News 2007-10-17；Isaacson 第 38 章 · 可信度：一手＋二手
+- **Situation:** At the iPhone launch, third-party native apps could not be installed. Board member Art Levinson and marketing chief Schiller urged him to open the platform. Hackers were already finding their own ways to install apps.
+- **What he did:** In January he told The New York Times that he did not want phones to become PCs. At WWDC in June he pitched web apps as the developer solution, to a lukewarm reception. Less than four months after launch, on October 17, he announced on Apple’s website a native SDK for February of the following year. The App Store opened in July 2008. Apple reviewed each app and took 30%.
+- **His explanation:** January: “You don't want your phone to be like a PC. The last thing you want is to have loaded three apps on your phone and then you go to make a call and it doesn't work anymore.” — The New York Times, 2007-01-11. October: “Let me just say it: We want native third party applications on the iPhone, and we plan to have an SDK in developers' hands in February.” — Apple website, 2007-10-17
+- **Afterward:** The platform opened, and his initial concerns about quality and safety became review requirements. He did not apologize publicly for his earlier position. He simply changed what he said.
+- **Applies to:** A direction you publicly opposed proves right, and deciding how to concede while retaining what originally mattered to you.
+- **Sources:** John Markoff, The New York Times, 2007-01-11, Apple Hot News, 2007-10-17, and Isaacson, chapter 38. Primary and secondary evidence.
 
-## C16 · 2007 · iPhone 上市两个月降价 200 美元，第二天写公开信（败）
+## C16 · 2007 · Cut the iPhone price by $200 two months after launch and wrote an open letter the next day (failure)
 
-- **处境**：9 月 5 日他把 8GB iPhone 从 599 美元降到 399 美元，想冲假日季销量。早期买家的抗议邮件涌进他的邮箱。
-- **他做了什么**：第二天在官网发公开信：降价是对的、不会撤回；科技产品总有人先买先吃亏；但苹果对早期用户照顾不周，每人给 100 美元店内抵用额度，并道歉。
-- **他自己怎么解释**：「I am sure that we are making the correct decision to lower the price of the 8GB iPhone from $599 to $399, and that now is the right time to do it.」「we need to do a better job taking care of our early iPhone customers as we aggressively go after new ones with a lower price.」「We apologize for disappointing some of you, and we are doing our best to live up to your high expectations of Apple.」—— 致 iPhone 用户的公开信，2007-09-06
-- **后来**：风波几天内平息。信里说他读了每一封来信。
-- **可以类比到**：一个对公司正确的决定伤了最忠实的用户；道歉该道到哪一步、哪一步不退。
-- **出处**：苹果官网公开信，SFGate / CNBC 2007-09-06 当日报道引原文 · 可信度：一手
+- **Situation:** On September 5 he cut the 8 GB iPhone from $599 to $399 to drive holiday sales. Protest emails from early buyers flooded his inbox.
+- **What he did:** The next day he posted an open letter on the official site. The price cut was right and would stand. Someone always buys early and loses out in technology. But Apple had fallen short in caring for early customers. He apologized and offered each of them $100 in store credit.
+- **His explanation:** “I am sure that we are making the correct decision to lower the price of the 8GB iPhone from $599 to $399, and that now is the right time to do it.” “we need to do a better job taking care of our early iPhone customers as we aggressively go after new ones with a lower price.” “We apologize for disappointing some of you, and we are doing our best to live up to your high expectations of Apple.” — Open letter to iPhone customers, 2007-09-06
+- **Afterward:** The uproar subsided within days. He said in the letter that he had read every email.
+- **Applies to:** A decision that is right for the company harms its most loyal customers. Decide how far to apologize and where to hold firm.
+- **Sources:** Apple’s open letter, quoted in same-day SFGate and CNBC reports, 2007-09-06. Primary evidence.
 
-## C17 · 2008 · MobileMe 上线即崩（败）
+## C17 · 2008 · MobileMe failed at launch (failure)
 
-- **处境**：MobileMe 和 iPhone 3G、App Store 同一天上线，同步出错、丢邮件，连一向友好的评测人 Mossberg 都说不推荐。
-- **他做了什么**：把团队叫到礼堂，问谁能告诉他 MobileMe 应该做什么，得到回答后问那它为什么不那么做；说他们损害了苹果的名声；当场换了负责人，把业务交给 Eddy Cue。随后给全体员工发信，承认不该把这么多东西放在同一天上线。
-- **他自己怎么解释**：「Can anyone tell me what MobileMe is supposed to do?」「So why the fuck doesn't it do that?」—— Lashinsky，Fortune 2011-05，据在场者。给员工的信：MobileMe 的发布「clearly demonstrates that we have more to learn about Internet services」。
-- **后来**：2011 年用 iCloud 整个替掉，发布时他自己说 MobileMe「wasn't our finest hour」。当时团队里有人说：一线早就警告过、请求分批上线，是他没听。
-- **可以类比到**：产品出了大事故后怎么处置团队；把太多东西压在同一个日期；骂人之前先问「它本来该做什么」。
-- **出处**：https://fortune.com/article/inside-apple ；前员工说法，Business Insider 2013-04；WWDC 2011 主题演讲 · 可信度：二手交叉印证
+- **Situation:** MobileMe launched the same day as iPhone 3G and the App Store. Sync failed and messages went missing. Even usually sympathetic reviewer Mossberg advised against it.
+- **What he did:** He called the team into the auditorium, asked what MobileMe was supposed to do, and after hearing the answer asked why it didn’t do that. He said they had harmed Apple’s reputation, replaced the leader on the spot, and put Eddy Cue in charge. He then emailed everyone, admitting that too many things had launched on the same day.
+- **His explanation:** “Can anyone tell me what MobileMe is supposed to do?” “So why the fuck doesn't it do that?” — Lashinsky, Fortune 2011-05, citing attendees. His email to employees said the MobileMe launch “clearly demonstrates that we have more to learn about Internet services”.
+- **Afterward:** iCloud replaced it entirely in 2011. At launch he said MobileMe “wasn't our finest hour.” Some on the team said the front line had already warned him and requested a phased launch, but he did not listen.
+- **Applies to:** How to deal with the team after a major product incident, putting too much on one date, and asking what the product was supposed to do before berating people.
+- **Sources:** <https://fortune.com/article/inside-apple>, former employee account in Business Insider 2013-04, and the WWDC 2011 keynote. Corroborated secondary sources.
 
-## C18 · 2010 · 天线门：先回「别那么握」，三周后开发布会（败）
+## C18 · 2010 · Antennagate: First replied ‘don't hold it that way,’ then held a press conference three weeks later (failure)
 
-- **处境**：iPhone 4 握住左下角信号会掉。他最初回用户邮件说别那么握。《消费者报告》宣布不推荐，舆论三周没停。
-- **他做了什么**：中断在夏威夷的假期飞回来，开了一场记者会：承认苹果不完美；放出其他品牌手机同样掉信号的视频；公布客服投诉率和退货率的数字；给所有买家免费保护套，不满意全额退款。同时坚持不存在什么「天线门」。
-- **他自己怎么解释**：「We're not perfect. We know that. You know that. And phones aren't perfect either.」「We're human. We make mistakes, and we figure it out fast.」—— 记者会，2010-07-16
-- **后来**：销量没受影响。把对手拉下水的做法招来 RIM、诺基亚的公开反驳。最初那封「别那么握」的邮件至今被当成傲慢的例子。
-- **可以类比到**：产品有真实缺陷、舆论已经发酵；认多少、给什么补偿；用数据回应情绪。
-- **出处**：https://allaboutstevejobs.com/videos/keynotes/antennagate_2010 ；Engadget 现场记录 2010-07-16 · 可信度：一手
+- **Situation:** Holding the lower-left corner of the iPhone 4 reduced signal strength. He first replied to a customer email by saying not to hold it that way. Consumer Reports declined to recommend it, and public criticism continued for three weeks.
+- **What he did:** He cut short his Hawaii vacation, flew back, and held a press conference. He acknowledged that Apple was not perfect, showed other brands' phones losing signal, released support-complaint and return-rate figures, and offered all buyers free cases and a full refund if dissatisfied. He maintained that there was no Antennagate.
+- **His explanation:** “We're not perfect. We know that. You know that. And phones aren't perfect either.” “We're human. We make mistakes, and we figure it out fast.” — Press conference, 2010-07-16
+- **Afterward:** Sales were unaffected. Drawing in competitors prompted public rebuttals from RIM and Nokia. The original email is still cited as an example of arrogance.
+- **Applies to:** A real defect and mounting criticism, weighing acknowledgement against compensation, and responding to emotions with data.
+- **Sources:** https://allaboutstevejobs.com/videos/keynotes/antennagate_2010 and Engadget's on-site account, 2010-07-16. Primary evidence.
 
-## C19 · 2010 · 不支持 Flash，写公开信讲六条理由
+## C19 · 2010 · Rejected Flash and explained six reasons in an open letter
 
-- **处境**：iPhone、iPad 不支持 Flash，Adobe 在媒体上持续批评，安卓阵营拿支持 Flash 当卖点。
-- **他做了什么**：4 月 29 日自己署名发表《Thoughts on Flash》，逐条讲理由：不开放、耗电、不安全、为鼠标而不是触摸设计、不愿让第三方的中间层夹在平台和开发者之间。
-- **他自己怎么解释**：「We didn't set out to have a war over Flash. We made a technical decision.」「we have at least the courage of our convictions to say we don't think this is part of what makes a great product... They're paying us to make those choices.」—— D8 大会，2010-06
-- **后来**：2011 年 Adobe 停止开发移动版 Flash，2020 年彻底终止。
-- **可以类比到**：砍掉一个用户和媒体都觉得「应该有」的东西；被第三方在舆论上施压；什么时候该自己出面把理由讲清楚。
-- **出处**：苹果官网《Thoughts on Flash》2010-04-29；D8 访谈原片 · 可信度：一手
+- **Situation:** iPhone and iPad did not support Flash. Adobe repeatedly criticized this in the media, and Android proponents made Flash support a selling point.
+- **What he did:** On April 29 he published Thoughts on Flash under his own name. He listed the reasons: Flash was closed, drained batteries, posed security risks, was designed for mice rather than touch, and put a third-party layer between the platform and developers that he did not want.
+- **His explanation:** “We didn't set out to have a war over Flash. We made a technical decision.” “we have at least the courage of our convictions to say we don't think this is part of what makes a great product... They're paying us to make those choices.” — D8 conference, 2010-06
+- **Afterward:** Adobe stopped mobile Flash development in 2011 and ended Flash altogether in 2020.
+- **Applies to:** Cutting what users and the media expect, facing third-party public pressure, and deciding when to explain your reasons yourself.
+- **Sources:** Apple's Thoughts on Flash, 2010-04-29, and original D8 interview footage. Primary evidence.
 
-## C20 · 2003–2004 · 查出肿瘤后推迟手术九个月（败）
+## C20 · 2003–2004 · Delayed surgery nine months after a tumor diagnosis (failure)
 
-- **处境**：2003 年 10 月查出胰腺神经内分泌肿瘤，是可以手术的那一类。医生、家人、董事会成员都劝他马上做。
-- **他做了什么**：拒绝了九个月，试了严格素食、针灸、草药等办法。2004 年 7 月复查发现肿瘤变大后才做手术，术后给员工发信说已经治好。
-- **他自己怎么解释**：「I really didn't want them to open up my body, so I tried to see if a few other things would work.」—— 对 Isaacson。Isaacson 说他谈起这件事时是后悔的。
-- **后来**：癌症复发，2009 年做了肝移植，2011 年 10 月 5 日去世。推迟是否改变了结局，医学上没有定论。
-- **可以类比到**：我这套「相信自己的判断、别人说不行我偏行」的做法用到了它不适用的地方；专业问题上该不该信直觉。
-- **出处**：Isaacson 第 35 章及其 2011-10 在 CBS 60 Minutes 的访谈 · 可信度：二手（传记作者转述本人）
+- **Situation:** In October 2003 he was diagnosed with a pancreatic neuroendocrine tumor of an operable type. Doctors, family members, and board members urged immediate surgery.
+- **What he did:** He refused for nine months and tried a strict vegetarian diet, acupuncture, and herbal remedies. He underwent surgery only after a July 2004 examination found the tumor had grown. He then told employees in a letter he was cured.
+- **His explanation:** “I really didn't want them to open up my body, so I tried to see if a few other things would work.” — To Isaacson. Isaacson says Jobs expressed regret when discussing it.
+- **Afterward:** The cancer returned, he received a liver transplant in 2009, and died on October 5, 2011. There is no medical consensus on whether the delay changed the outcome.
+- **Applies to:** My habit of trusting my own judgment and insisting I can succeed when told I cannot was applied where it did not belong. Consider whether to trust intuition on a specialist question.
+- **Sources:** Isaacson, chapter 35, and his CBS 60 Minutes interview, 2011-10. Secondary evidence, the biographer's account of Jobs's words.
 
-## C21 · 2005–2010 · 互不挖角的私下约定，和电子书定价（败）
+## C21 · 2005–2010 · Private no-poaching agreements and e-book pricing (failure)
 
-- **处境**：硅谷抢人激烈，Google 在挖苹果的工程师。另一件事：2010 年做 iBooks 时，亚马逊把电子书压在 9.99 美元，出版商不满。
-- **他做了什么**：直接找对方的 CEO 要求停止招苹果的人。2007 年他发邮件给 Google 的 Eric Schmidt，要对方的招聘部门停手；Schmidt 让人处理了那名招聘人员，他回了一个笑脸。他也向 Palm 的 CEO 提过同样的约定，对方拒绝并指出这很可能违法。电子书那边，他和几家出版商谈成代理制：出版商定价、苹果抽三成，条款让各家也去改和亚马逊的合同。
-- **他自己怎么解释**：邮件原文：「I would be very pleased if your recruiting department would stop doing this.」—— 致 Schmidt，2007-03。电子书：「We told the publishers, 'We'll go to the agency model, where you set the price, and we get our 30%, and yes, the customer pays a little more, but that's what you want anyway.'」—— 对 Isaacson
-- **后来**：互不挖角被美国司法部调查，2010 年和解；员工集体诉讼 2015 年以 4.15 亿美元和解（苹果、Google、Intel、Adobe）。电子书案 2013 年法院判苹果参与合谋抬价，苹果后来付了 4.5 亿美元。两件事都发生在他认为「对公司对」的方向上。
-- **可以类比到**：为了保护团队或谈成一笔交易，想走一条私下约定的捷径；「对产品好」和「合法、公平」不是一回事。
-- **出处**：In re High-Tech Employee Antitrust Litigation 庭审公开的邮件；United States v. Apple Inc.（S.D.N.Y. 2013）判决书；Isaacson 第 38 章 · 可信度：一手（庭审文件）＋二手
+- **Situation:** Competition for people was fierce in Silicon Valley, and Google was recruiting Apple engineers. Separately, when iBooks was developed in 2010, Amazon was holding e-book prices at $9.99, to publishers' dissatisfaction.
+- **What he did:** He approached the other CEO directly to demand an end to Apple recruiting. In 2007 he asked Google's Eric Schmidt by email to stop his recruiters. Schmidt had the recruiter dealt with, and Jobs replied with a smiley. Jobs proposed the same arrangement to Palm’s CEO, who declined and said it was likely unlawful. For e-books, he negotiated an agency model with several publishers: they would set prices, Apple would take 30%, and terms would prompt the publishers to modify their Amazon contracts.
+- **His explanation:** In an email: “I would be very pleased if your recruiting department would stop doing this.” — To Schmidt, 2007-03. On e-books: “We told the publishers, 'We'll go to the agency model, where you set the price, and we get our 30%, and yes, the customer pays a little more, but that's what you want anyway.'” — To Isaacson
+- **Afterward:** The US Department of Justice investigated the no-poaching arrangements, and a settlement followed in 2010. An employee class action settled for $415 million in 2015 (Apple, Google, Intel, and Adobe). In the e-book case the court found in 2013 that Apple joined a conspiracy to raise prices. Apple later paid $450 million. Both followed what Jobs thought was right for the company.
+- **Applies to:** Seeking a private shortcut to protect the team or close a deal. Product benefit does not establish legality or fairness.
+- **Sources:** Emails disclosed in In re High-Tech Employee Antitrust Litigation, the United States v. Apple Inc. judgment (S.D.N.Y. 2013), and Isaacson, chapter 38. Primary court records and secondary evidence.
