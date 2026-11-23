@@ -1,175 +1,175 @@
-# 张一鸣完整时间线
+# Complete timeline of Zhang Yiming
 
-> 信息截止日期：2026年4月6日
-> 主要来源：Wikipedia、晚点LatePost、36氪、South China Morning Post、Bloomberg、TechNode、界面新闻、澎湃新闻
-
----
-
-## 完整生平时间线
-
-### 早年与教育
-
-**1983年** 出生于福建省龙岩市永定区，父母为公务员，独生子。
-
-**2001年** 考入南开大学，初读微电子学专业，后转入软件工程专业。
-
-**2005年** 南开大学毕业，获计算机工程学士学位。
+> Information cutoff: April 6, 2026
+> Main sources: Wikipedia, LatePost, 36Kr, South China Morning Post, Bloomberg, TechNode, Jiemian News, and The Paper
 
 ---
 
-### 第一阶段：职场历练（2006-2009）
+## Complete life timeline
 
-**2006年2月** 以第五名员工（首位工程师）身份加入旅游搜索网站酷讯（Kuxun），负责后端架构，后晋升技术总监，管理40-50名工程师。
+### Early life and education
 
-**2008年** 短暂加入微软，再入职社交平台饭否（Fanfou）。
+**1983** Born in Yongding District, Longyan, Fujian. He was an only child, and both parents were civil servants.
 
-**2009年** 酷讯被亿客行收购。
+**2001** Entered Nankai University. Initially studied microelectronics, then transferred to software engineering.
 
----
-
-### 第二阶段：首次独立创业（2009-2011）
-
-**2009年10月** 与大学室友梁汝波（后成为字节跳动联合创始人）共同创办垂直房产搜索引擎「九九房」（99fang.com）。6个月内推出掌上租房、掌上买房等5款移动应用，积累150万用户。
-
-💡 **思想转折点①：发现移动互联网机会**
-这段时间张一鸣深刻意识到：移动互联网是下一个入口，但当时几乎所有信息分发仍停留在PC逻辑。他开始思考「信息怎么找到人」而不是「人怎么找到信息」——这是算法推荐思想的萌芽。
-
-**2011年** 引入职业CEO运营九九房，张一鸣自己专注筹备新方向。
+**2005** Graduated from Nankai University with a bachelor's degree in computer engineering.
 
 ---
 
-### 第三阶段：创立字节跳动（2012-2016）
+### Stage 1: Professional experience (2006–2009)
 
-**2012年3月** 在北京创立字节跳动（Beijing Bytedance Technology Co., Ltd.）。获得源码资本曹毅、天使投资人刘峻、周子敬的天使轮数百万元人民币投资。
+**February 2006** Joined the travel search site Kuxun as its fifth employee and first engineer. Responsible for the back-end architecture, he was later promoted to technical director and managed 40–50 engineers.
 
-核心理念：用算法替代人工编辑判断，实现个性化内容分发。
+**2008** Briefly joined Microsoft, then worked at the social platform Fanfou.
 
-**2012年7月** 获得SIG海纳亚洲100万美元A轮融资。
-
-**2012年8月** 今日头条正式上线，以AI算法推荐新闻为核心差异化能力。上线90天，用户破500万。
-
-**2013年9月** 获得DST等机构数千万美元B轮投资。两年内今日头条日活用户超1300万。
-
-**2014年6月** 红杉资本领投1亿美元C轮融资。
-
-💡 **思想转折点②：「算法没有价值观」的争议期**
-今日头条因内容质量和版权问题持续被诟病、被官方约谈。张一鸣的公开立场引发争议：他认为平台是信息管道，不应像媒体一样输出价值观判断，只提供「信息吞吐量和多样性」。这一理念后来被他自己部分修正——2021年卸任内部信中他承认对「社会责任」思考不足。
-
-**2016年9月** 推出短视频产品「抖音」（Douyin）。
-
-**2016年12月** 获得红杉资本中国、建银国际10亿美元D轮融资，公司估值约110亿美元。
+**2009** Expedia acquired Kuxun.
 
 ---
 
-### 第四阶段：全球化扩张（2017-2019）
+### Stage 2: First independent venture (2009–2011)
 
-**2017年7-8月** 抖音国际版TikTok及火山小视频海外版Hypstar相继上线。
+**October 2009** Co-founded the specialized property search engine 99fang.com with his university roommate Liang Rubo, who later co-founded ByteDance. Within six months, the company released five mobile apps, including apps for renting and buying homes, and accumulated 1.5 million users.
 
-**2017年** 以8亿美元收购美国应用Musical.ly（由中国人在美国创办），将其整合并入TikTok，获得大量北美年轻用户。
+💡 **Turning point 1: Recognizing the mobile internet opportunity**
+Zhang realized that the mobile internet would be the next gateway, yet almost all information distribution still followed the logic of desktop computing. He began asking how information could find people rather than how people could find information. This was the germ of algorithmic recommendation.
 
-💡 **思想转折点③：真正的全球化野心觉醒**
-张一鸣是极少数在公司早期就坚持「全球化」的中国互联网创始人。他认为：中国用户规模带来的红利总有天花板，算法没有国界，内容推荐逻辑可以跨语言文化迁移。这在2017年后被证明是字节区别于其他中国科技公司的根本战略分歧。
-
-**2018年8月** Musical.ly正式并入TikTok，全球统一品牌。
-
-**2018年底** 字节跳动估值达750亿美元，超越Uber成为全球最贵未上市科技公司。
+**2011** Brought in a professional CEO to run 99fang while he prepared to pursue a new direction.
 
 ---
 
-### 第五阶段：鼎盛与压力（2019-2021）
+### Stage 3: Founding ByteDance (2012–2016)
 
-**2019年** 字节跳动盈利约30亿美元（据CNBC报道），TikTok月活破10亿。
+**March 2012** Founded ByteDance (Beijing Bytedance Technology Co., Ltd.) in Beijing. Obtained several million yuan in angel funding from Cao Yi of Source Code Capital and angel investors Liu Jun and Zhou Zijing.
 
-**2019-2020年** TikTok遭美国特朗普政府施压，以「国家安全」为由要求剥离或封禁。张一鸣亲自参与谈判，一度与Oracle达成协议方案，但最终悬而未决。
+Core idea: replace human editorial judgment with algorithms to personalize content distribution.
 
-**2020年** 字节跳动营收达343亿美元。
+**July 2012** Raised $1 million in Series A funding from SIG Asia Investments.
 
-**2021年4月** 公司估值一度接近4000亿美元，传闻筹备抖音独立IPO。
+**August 2012** Officially launched Toutiao, with AI-driven news recommendations as its chief differentiator. It surpassed five million users within 90 days.
 
-**2021年5月20日** 张一鸣发布内部全员信，正式宣布卸任字节跳动CEO，由联合创始人梁汝波接任。他担任董事长职位，专注长期战略。
+**September 2013** Raised tens of millions of dollars in Series B funding from DST and others. Toutiao passed 13 million daily active users within two years.
 
-**卸任原因（本人原话）：**
-- 「作为中心节点的CEO容易陷入被动：每天要听很多汇报总结，做很多审批和决策，容易导致内部视角，知识结构更新缓慢。」
-- 「感觉这几年一直在吃老本，缺乏对新技术的学习。」
-- 「我不是传统意义上的成熟管理者，我也不是很擅长社交，我更喜欢研究组织和市场原理来减少管理，喜欢自己上网、看书、听歌、发呆。」
-- 希望「以十年为期，为公司创造更多可能」。
+**June 2014** Sequoia Capital led a $100 million Series C round.
 
-💡 **思想转折点④：从「做大公司」到「做对的事」**
-卸任内部信是张一鸣最诚实的一次自我剖析。他承认对「远景战略、组织管理、社会责任」三个年度OKR都不满意，隐含了对过去几年公司在内容责任方面的反思。这标志着他从一个「算法效率至上」的创业者，开始转向更宏观的战略思考者和技术探索者。
+💡 **Turning point 2: Controversy over “algorithms have no values”**
+Toutiao drew persistent criticism over content quality and copyright, and officials summoned the company for discussions. Zhang's public position was controversial: he held that the platform was an information conduit and should refrain from making value judgments like a media outlet, providing only “information throughput and diversity.” He later partly revised this view. In his 2021 internal resignation letter, he acknowledged he had given insufficient thought to social responsibility.
 
-**2021年底** 完成与梁汝波的权力交接，同年辞去字节跳动董事会主席一职。
+**September 2016** Launched the short-video product Douyin.
+
+**December 2016** Raised $1 billion in Series D funding from Sequoia Capital China and CCB International, valuing the company at about $11 billion.
 
 ---
 
-### 第六阶段：隐退与蛰伏（2021-2024）
+### Stage 4: Global expansion (2017–2019)
 
-**2021年后** 移居新加坡，低调生活。公开活动极少，几乎从媒体视野消失。
+**July–August 2017** TikTok, the international version of Douyin, and Hypstar, the overseas version of Huoshan Short Video, launched in succession.
 
-**2022-2023年** 极少公开露面。外界猜测其在新加坡专注读书、研究新技术，偶有消息称其密切关注AI大模型进展。
+**2017** Acquired the American app Musical.ly, founded in the United States by Chinese entrepreneurs, for $800 million. Integrating it into TikTok brought in a large young North American audience.
 
-**2024年10月29日** 胡润百富榜：张一鸣以3500亿元人民币财富首次登顶中国首富，成为首位「80后」白手起家的中国首富，也是26年来第18位中国首富。
+💡 **Turning point 3: A truly global ambition**
+Zhang was one of very few Chinese internet founders to insist on going global from the company's early days. He believed that the growth advantage of China's user base had a ceiling, that algorithms had no national borders, and that content recommendation logic could transfer across languages and cultures. After 2017 this proved to be the fundamental strategic difference between ByteDance and other Chinese technology companies.
 
-财富来源：字节跳动因AI业务估值大幅上涨（豆包日活破亿、模型能力跃升）。
+**August 2018** Musical.ly formally merged into TikTok, unifying the brand globally.
 
----
-
-## 2025-2026最新动态
-
-### 财富与市场地位
-
-**2025年3月** 财富达4350亿元，较2024年增长76%，蝉联中国首富。2026年初，张一鸣个人财富约693亿美元（Forbes数据）。
-
-**2025年6月** 新财富创富榜：张一鸣问鼎首富，钟睒睒跌至第二位。
-
-### 重回公众视野
-
-**2025年6月** 晚点等媒体报道：张一鸣主要办公地已从新加坡转回北京，每月往返新加坡与北京之间。每月参加一次字节Seed核心AI研究团队的复盘和讨论会，直接关注模型研发进展，深夜看论文，主动拜访AI前沿研究者。
-
-**2025年9月** 字节内部传闻：张一鸣亲自主导两个独立AI组织——Flow和Seed——直接向他汇报，绕开常规管理层，加速AI创新。他亲自充当「猎头」，参与从竞争对手挖角AI顶尖人才。
-
-**2025年10月9日** 四年多来首次公开亮相：出席上海徐汇「知春创新中心」开业典礼。该机构由张一鸣与上海交通大学ACM班创始人俞勇教授共同发起，定位民办非营利性机构，面向对泛计算机与AI感兴趣的年轻人，从预备研究员阶段开始系统培养。
-
-张一鸣在现场以机器学习「过拟合」比喻人才培养问题：「有的人技能精准，但面对创新任务就失灵——这就是过拟合。」
-
-**2025年10月11日** 媒体报道解读：张一鸣此次露面，角色定位类似谷歌联合创始人谢尔盖·布林回归后的状态——专注AI核心研究团队，非「重回一线管理」。
-
-**2025年12月1日** 字节跳动与中兴旗下努比亚联合发布「豆包AI Phone」，标志字节正式进军AI硬件。
-
-**2026年2月** 获评「2025年度中国经济峰会论坛十大创新经济人物」之一。同月，字节跳动宣布豆包大模型2.0系列正式发布。
-
-**2026年资本开支计划** 字节跳动计划2026年资本开支约1600亿元人民币（约230亿美元），其中约半数用于AI芯片采购，另拨850亿元用于处理器，全力押注AGI研究。
-
-### 对AI的核心判断（2025年已知立场）
-
-据内部传闻及媒体报道，张一鸣当前核心关注：
-- AGI实现路径，对类人智能系统的可能性持积极预期
-- AI人才培育体系（知春创新中心即为实践）
-- 字节如何从「算法推荐公司」真正转型为「AI原生公司」
+**Late 2018** ByteDance's valuation reached $75 billion, overtaking Uber as the world's most valuable privately held technology company.
 
 ---
 
-## 思想转折点总结
+### Stage 5: Peak and pressure (2019–2021)
 
-| 时间节点 | 转折内容 |
-|--------|---------|
-| 2009-2011 | 从「人找信息」到「信息找人」——算法推荐思想萌芽 |
-| 2012-2016 | 「算法没有价值观」——平台中立立场，后被争议 |
-| 2017-2018 | 全球化战略觉醒——认定算法可跨越文化边界 |
-| 2021 | 卸任反思——承认「吃老本」，开始质疑纯效率管理的局限 |
-| 2024-2026 | AGI押注——从内容分发创业者转型为AI未来探索者 |
+**2019** ByteDance earned about $3 billion in profit, according to CNBC, and TikTok passed one billion monthly active users.
+
+**2019–2020** The Trump administration pressured TikTok to divest or face a ban on national security grounds. Zhang personally took part in negotiations and at one point reached a proposed agreement with Oracle, but the matter remained unresolved.
+
+**2020** ByteDance revenue reached $34.3 billion.
+
+**April 2021** Its valuation approached $400 billion at one point, amid rumors of a separate Douyin IPO.
+
+**May 20, 2021** Zhang sent an internal letter to all employees formally announcing that he would step down as ByteDance CEO and co-founder Liang Rubo would succeed him. He served as chairman, focusing on long-term strategy.
+
+**Reasons for stepping down, in his own words:**
+- “The CEO, as the central node, easily becomes reactive. Every day you listen to many reports and summaries and make many approvals and decisions. It is easy to develop an inward-looking perspective and update your knowledge slowly.”
+- “I feel that for the past few years I've been living off what I already knew and haven't learned enough about new technologies.”
+- “I'm not a mature manager in the traditional sense, and I'm not very good at socializing. I prefer studying how organizations and markets work so that less management is needed. I like browsing the internet on my own, reading, listening to music, and daydreaming.”
+- He hoped to “take ten years as the time horizon and create more possibilities for the company.”
+
+💡 **Turning point 4: From building a big company to doing the right thing**
+The internal resignation letter was Zhang's most candid self-assessment. He acknowledged dissatisfaction with all three annual OKRs, on long-term strategy, organizational management, and social responsibility, implicitly reflecting on the company's content responsibilities in previous years. This marked the beginning of a shift from an entrepreneur who put algorithmic efficiency first to a broader strategic thinker and technology explorer.
+
+**Late 2021** Completed the handover to Liang Rubo and resigned as chair of ByteDance's board in the same year.
 
 ---
 
-## 核心理念演变脉络
+### Stage 6: Retreat from public view (2021–2024)
 
-早期张一鸣：实证理性、效率优先、相信算法可以中立地解决问题，管理上主张「Context not Control」，通过机制而非管控实现规模化。
+**After 2021** Moved to Singapore and lived quietly. He rarely appeared in public and all but disappeared from the media.
 
-卸任后张一鸣：更注重长期主义、系统思考，开始重视「社会责任」维度，对纯效率逻辑有所保留。目前他的注意力集中在AGI的可能性与AI人才培养体系上，表现出从「商业创始人」向「技术思想者」的转型意图。
+**2022–2023** Made very few public appearances. Outside observers speculated that he focused on reading and studying new technology in Singapore, with occasional reports that he closely followed progress in large AI models.
 
-他从未公开谈论退休，也从未真正退出——更像是把精力集中在他认为「下一个十年最重要的事」上。
+**October 29, 2024** Zhang topped the Hurun Rich List for the first time, with wealth of 350 billion yuan. He was the first self-made richest person in China born in the 1980s, and the eighteenth occupant of the top spot in 26 years.
+
+Source of wealth: ByteDance's valuation rose sharply on the strength of its AI business, with Doubao surpassing 100 million daily active users and its models making substantial gains.
 
 ---
 
-> 信息来源：Wikipedia (张一鸣词条)、36氪、晚点LatePost相关报道、South China Morning Post、TechNode、界面新闻、澎湃新闻、新财富创富榜、胡润百富榜、Bloomberg、Sacra Research
-> 信息截止：2026年4月6日
-> 2025年以前信息较为完整；2025年10月后信息依赖媒体报道，部分细节未经官方证实
+## Latest developments, 2025–2026
+
+### Wealth and market position
+
+**March 2025** His wealth reached 435 billion yuan, up 76% from 2024, and he remained China's richest person. In early 2026, Forbes put his personal wealth at about $69.3 billion.
+
+**June 2025** Zhang topped the New Fortune wealth list, with Zhong Shanshan dropping to second.
+
+### Return to public view
+
+**June 2025** LatePost and others reported that Zhang had moved his principal workplace from Singapore back to Beijing and was traveling between the two monthly. Once a month he attended a review and discussion meeting with ByteDance's core Seed AI research team. He followed model development directly, read papers late at night, and proactively visited researchers working on frontier AI.
+
+**September 2025** Internal ByteDance rumors said Zhang personally led two independent AI units, Flow and Seed, which reported directly to him, bypassing normal management to accelerate innovation. He acted as a headhunter himself, helping recruit top AI talent from rivals.
+
+**October 9, 2025** Made his first public appearance in more than four years at the opening of Zhichun Innovation Center in Shanghai's Xuhui District. He co-founded the center with Professor Yu Yong, founder of Shanghai Jiao Tong University's ACM class. A private nonprofit, the center systematically trains young people interested in computing and AI, beginning with a pre-researcher stage.
+
+At the event, Zhang used machine-learning overfitting as an analogy for talent development: “Some people have very precise skills, but they fail at an innovation task. That's overfitting.”
+
+**October 11, 2025** Media coverage likened his role to Google cofounder Sergey Brin's after returning, focused on the core AI research team rather than resuming day-to-day management.
+
+**December 1, 2025** ByteDance and ZTE subsidiary Nubia jointly launched the Doubao AI Phone, marking ByteDance's formal entry into AI hardware.
+
+**February 2026** Selected as one of the ten innovators in economics at the 2025 China Economic Summit Forum. That month ByteDance formally announced the Doubao Large Model 2.0 series.
+
+**2026 capital spending plan** ByteDance planned capital expenditure of about 160 billion yuan (about $23 billion), with roughly half for AI-chip procurement and another 85 billion yuan for processors, staking heavily on AGI research.
+
+### Core views on AI (positions known in 2025)
+
+According to internal rumors and media reports, Zhang's main interests are:
+- Paths to AGI, with optimism about the possibility of human-like intelligent systems
+- AI talent development, with Zhichun Innovation Center putting that priority into practice
+- How ByteDance can genuinely transform from an algorithmic recommendation company into an AI-native company
+
+---
+
+## Summary of intellectual turning points
+
+| Period | Turning point |
+|---|---|
+| 2009–2011 | From people finding information to information finding people: the beginnings of algorithmic recommendation |
+| 2012–2016 | “Algorithms have no values”: a platform-neutrality stance that later drew controversy |
+| 2017–2018 | Global ambition: the belief that algorithms can cross cultural boundaries |
+| 2021 | Reflection on stepping down: admitted living off past knowledge and began questioning the limits of purely efficiency-driven management |
+| 2024–2026 | Bet on AGI: from content distribution entrepreneur to explorer of AI's future |
+
+---
+
+## Evolution of core ideas
+
+Early Zhang emphasized empirical rationality and efficiency, trusted algorithms to solve problems neutrally, and advocated “Context not Control” in management, scaling through mechanisms rather than top-down control.
+
+After stepping down, he placed greater emphasis on long-term and systems thinking and began to take social responsibility seriously, with reservations about a purely efficiency-driven approach. Today his attention is on the possibility of AGI and systems for developing AI talent, suggesting an intention to evolve from business founder into a technology thinker.
+
+He has never spoken publicly about retirement or actually withdrawn. He appears instead to be focusing his energy on what he considers most important for the next decade.
+
+---
+
+> Sources: Wikipedia's Zhang Yiming entry, 36Kr, LatePost coverage, South China Morning Post, TechNode, Jiemian News, The Paper, New Fortune's wealth list, Hurun Rich List, Bloomberg, and Sacra Research
+> Information cutoff: April 6, 2026
+> Information before 2025 is relatively complete. After October 2025, the account relies on media reports and some details remain unconfirmed officially.
