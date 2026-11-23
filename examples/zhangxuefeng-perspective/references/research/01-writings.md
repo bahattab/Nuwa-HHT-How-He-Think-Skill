@@ -1,60 +1,53 @@
-# 张雪峰 - 著作与系统思考
+# Zhang Xuefeng – Writings and systematic thinking
 
-## 出版书籍（5本）
+## Published books (5)
 
-| 书名 | 年份 | 核心内容 |
-|------|------|---------|
-| 《你离考研成功，就差这本书》 | 2016 | 考研辅导，院校选择策略 |
-| 《方向比努力更重要》 | 2021 | 职业规划、人生方向选择 |
-| 《选择比努力更重要》 | 2021/2023修订 | 高考志愿填报方法论 |
-| 《决胜大学》 | 2024 | 大学阶段规划与就业准备 |
-| 《从就业看专业》 | 2025（遗作） | 以就业数据反推专业选择 |
+| Title (English rendering) | Year | Main content |
+|---|---|---|
+| This Book Is All That Stands Between You and Postgraduate Exam Success | 2016 | Exam preparation and strategies for choosing institutions |
+| Direction Matters More Than Effort | 2021 | Career planning and choosing a direction in life |
+| Choice Matters More Than Effort | 2021 / revised 2023 | How to rank university and program choices after the gaokao |
+| Succeeding at University | 2024 | Planning for university and preparing for employment |
+| Choosing a Major Through the Lens of Employment | 2025 (final work, as described in the notes) | Using employment data to inform choice of major |
 
-## 核心论点体系（反复出现≥3次 = 真信念）
+## Main arguments
 
-### 1. 选择 > 努力
-贯穿全部著作，两本书直接以此命名。核心逻辑：方向错误的努力是浪费，选对赛道比拼命奔跑重要。
+The notes treat an idea repeated at least three times as evidence of a settled belief.
 
-### 2. 社会筛子论
-社会用三层筛子筛选人：房子、工作、学历。普通家庭的孩子只有学历这一个可控变量。
+1. **Choice matters more than effort.** This theme recurs throughout his books and directly informs two titles. Effort in the wrong direction wastes resources. Choosing the right path matters more than running hard.
+2. **Society's three filters.** Housing, work, and educational credentials filter people. For children from ordinary families, credentials are the only one of these variables they can control.
+3. **High-risk majors.** He identified biology and chemistry, environmental studies, and materials disciplines (grouped in Chinese as 生化环材) as fields with low returns, narrow undergraduate job prospects, and uncertain prospects even after postgraduate study.
+4. **Choose with employment in mind.** In science and engineering, prioritize the major because skills drive employment. In humanities, prioritize the institution because its platform shapes the starting point. Employment is the ultimate consideration.
+5. **Education as the main tool for social mobility.** A child's education is an ordinary family's greatest asset, ahead of housing. Education offers the most controllable route out of entrenched class barriers.
+6. **Stability comes from being difficult to replace.** Develop professional skills that are hard to substitute. Holding a secure job alone does not provide that protection.
 
-### 3. 天坑专业论
-生化环材是四大天坑专业。这些专业投入产出比极低，本科就业面窄，读研读博也未必有好出路。
+## Distinctive terms and frameworks
 
-### 4. 就业导向的专业选择观
-理工科选专业（技能决定就业），文科选学校（平台决定起点）。所有选择最终指向就业。
+- **Eight probing questions:** follow-ups to clarify a student's priorities.
+- **Society's three filters:** housing, work, and educational credentials.
+- **Six steps for ranking applications:** a structured gaokao application process.
+- **Different rules for STEM and humanities:** prioritize the STEM major and the humanities institution.
+- **High-risk majors:** the biology, chemistry, environmental, and materials grouping. Zhang popularized the term but did not coin it.
 
-### 5. 教育是阶层流动的核心工具
-普通家庭最大的资产不是房子而是孩子的学历。教育是打破阶层固化最可控的路径。
+## Paid products from Fengxue Weilai
 
-### 6. 稳定 = 不可替代性
-真正的稳定不是铁饭碗，而是让自己具备不可替代的专业能力。
+- Zhang held a 75% stake.
+- The Dream Card cost CNY 12,999 and the Dream Fulfillment Card cost CNY 18,999. Both provided one-on-one admissions guidance.
+- Annual revenue exceeded CNY 800 million.
+- Demand was so high during the 2024 gaokao season that the service was temporarily suspended.
 
-## 自创术语/独特框架
+## Background recorded in the source
 
-- **灵魂八连问**：帮学生定位的系列追问框架
-- **社会筛子论**：房子/工作/学历三层筛选
-- **志愿填报六步法**：系统化的高考志愿决策流程
-- **文理分选原则**：理工选专业、文科选学校
-- **天坑专业**：生化环材（他未发明但大力推广）
+The research notes state that Zhang Xuefeng died of sudden cardiac death on 2026-03-24, aged 41. They describe the skill as based on his public statements and publications during his lifetime.
 
-## 付费产品：峰学蔚来
+## Source index
 
-- 张雪峰持股75%
-- 核心产品：梦想卡12999元/圆梦卡18999元（一对一志愿填报服务）
-- 年营收超8亿
-- 2024年高考季服务量巨大，一度暂停服务
-
-## 重要背景
-
-**张雪峰于2026年3月24日因心源性猝死去世，享年41岁。** 此Skill基于其生前全部公开言论和著作。
-
-## 来源索引
-
-- 维基百科 - 张雪峰词条（基本信息交叉验证）可信度：中等
-- 36氪 - 峰学蔚来商业分析 可信度：一手报道
-- 蓝鲸财经 - 张雪峰商业模式分析 可信度：一手报道
-- 钛媒体 - 教育咨询行业分析 可信度：一手报道
-- 界面新闻 - 张雪峰争议报道 可信度：一手报道
-- 科学网 - 学术界对张雪峰观点的回应 可信度：一手
-- 南方周末 - 张雪峰现象分析 可信度：一手报道
+| Source | Coverage | Assessment recorded in the notes |
+|---|---|---|
+| Wikipedia | Zhang Xuefeng entry, used to cross-check basic information | Moderate confidence |
+| 36Kr | Fengxue Weilai business analysis | Firsthand reporting |
+| Blue Whale Finance | Zhang's business model | Firsthand reporting |
+| TMTPost | Education-consulting industry analysis | Firsthand reporting |
+| Jiemian News | Controversies involving Zhang | Firsthand reporting |
+| ScienceNet | Academic responses to Zhang's views | Primary source |
+| Southern Weekly | Analysis of the Zhang Xuefeng phenomenon | Firsthand reporting |
