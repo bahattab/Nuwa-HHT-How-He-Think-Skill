@@ -1,303 +1,303 @@
-# 张一鸣访谈与对话记录
+# Zhang Yiming: Interviews and conversations
 
-> 调研目标：捕捉张一鸣「怎么想」而非「想什么」——他的表达方式、论证逻辑、在压力下的反应，以及他拒绝回答的边界。
+> Research objective: Capture how Zhang thinks. Observe his expression, reasoning, reactions under pressure, and the boundaries at which he declines to answer.
 >
-> 信息源黑名单：知乎、微信公众号、百度百科
-> 更新时间：2026-04-06
+> Excluded sources: Zhihu, WeChat official accounts, and Baidu Baike
+> Updated: 2026-04-06
 
 ---
 
-## 一、乌镇三人对话（2016，品玩PingWest）
+## 1. Wuzhen conversation with three founders (2016, PingWest)
 
-**来源**：[张一鸣、王兴和程维在乌镇跟我们聊了聊他们的中国互联网下半场](https://www.pingwest.com/a/94087)
-**可信度**：⭐⭐⭐⭐⭐（一手记录，长达4万字的闭门对话）
+**Source:** [Zhang Yiming, Wang Xing, and Cheng Wei discuss the second half of China's internet era](https://www.pingwest.com/a/94087)
+**Reliability:** ⭐⭐⭐⭐⭐ (firsthand record of a closed-door conversation, 40,000 Chinese characters)
 
-### 关键片段
+### Key excerpts
 
-**【片段1：否定式开局，重构概念】**
-> "移动互联网肯定不是一个分界点，应该是互联网的放大。"
+**Excerpt 1: Opening with a denial and redefining the concept**
+> “The mobile internet definitely isn't a dividing line. It should be seen as an expansion of the internet.”
 
-分析：他的思维习惯是先否定流行说法，再用自己的框架重新定义。这是他典型的起手式——不是添加新观点，而是先清场。
+Analysis: He habitually rejects a popular formulation and then redefines it within his framework. His typical opening clears away an existing view before adding anything new.
 
-**【片段2：对技术神话的祛魅】**
-> "技术是个生产要素，跟商业化的成功多少没有这么大的关系。"
+**Excerpt 2: Demystifying technology**
+> “Technology is a factor of production. It doesn't have all that much to do with how successful commercialization is.”
 
-分析：理工背景的创业者里，敢说这句话的很少。他把技术降格为「要素」而非「信仰」，表明他的思维框架更接近经济学家而非工程师。
+Analysis: Few founders with science and engineering backgrounds would say this. Treating technology as a factor rather than an article of faith makes his framework closer to an economist's than an engineer's.
 
-**【片段3：对时间尺度的把握】**
-> "以更大范围看，信息技术是小浪潮……可能会有短的沉寂期，中国可能过一半了。"
+**Excerpt 3: Grasping the time scale**
+> “Seen more broadly, information technology is a small wave… There may be a short lull, and China may already be past the halfway point.”
 
-分析：用「可能」而非断言，把预判的时间拉到比行业惯常长得多的维度。注意他说「小浪潮」——在互联网行业谈论自己所在行业时，这种降维视角罕见。
+Analysis: He says “may” instead of asserting certainty and extends the forecast well beyond the industry's usual time frame. Calling his own industry a “small wave” is an uncommon act of stepping back.
 
-**【片段4：对精益创业的直接否定】**
-> "我当时觉得瞎扯……那是不符合长远发展的。"
+**Excerpt 4: Rejecting the lean startup outright**
+> “I thought it was nonsense at the time… It wasn't conducive to long-term development.”
 
-分析：「瞎扯」是口语词，说明他对被广泛引用的硅谷方法论持怀疑态度，且不掩饰。这是他少见的情绪化表达——批评的对象是「理论」而非人。
+Analysis: “Nonsense” is colloquial and shows undisguised skepticism about a widely cited Silicon Valley method. This is an uncommon expression of emotion, aimed at a theory rather than a person.
 
-**【片段5：对行业信心不足的诊断】**
-> "我们没有生而国际化，但我们积极地国际化……最大问题就是信心不够。"
+**Excerpt 5: Diagnosing a lack of confidence in the industry**
+> “We weren't born international, but we actively internationalized… The biggest problem is a lack of confidence.”
 
-分析：先纠正自我定位（「生而国际化」是错的），再指向心理问题而非能力问题。这个诊断路径很典型：他倾向于把问题归因于「认知偏差」而非「能力欠缺」。
+Analysis: He corrects the idea that the company was born international, then identifies a psychological rather than a capability problem. He typically attributes problems to cognitive bias rather than a lack of ability.
 
-**【片段6：对媒体生态的批评——罕见的攻击性表达】**
-> "现在缺乏高质量的、负责任认真做的媒体……很多事情没有人说真相。"
+**Excerpt 6: Criticism of the media ecosystem, a rare aggressive remark**
+> “There's a shortage of high-quality media that report responsibly and conscientiously… Nobody tells the truth about many things.”
 
-分析：这是对着媒体人（骆轶航）说的，属于「当面挑战」。他在什么情况下会主动攻击？答案是：当他认为对方代表的群体回避了自己的职责。
-
----
-
-## 二、《财经》杂志专访：「世界不是只有你和你的对手」（2016）
-
-**来源**：[对话张一鸣：世界不是只有你和你的对手](https://36kr.com/p/1721289883649)（36氪转载）
-**可信度**：⭐⭐⭐⭐⭐（《财经》杂志深度专访，一手记录）
-
-### 关键片段
-
-**【片段7：对低俗内容的反直觉回应】**
-> "我本身并不认为低俗有什么问题。你在机场看到的杂志是一回事，在火车站看到的又是另一回事。很多人是因为证明自己高雅而指责它。"
-
-分析：这是他在舆论压力下最典型的反应模式：**不道歉，不辩解，而是重构问题本身**。他把「低俗vs高雅」的道德框架，换成「受众匹配」的效率框架。并隐含地批评了批评者（「证明自己高雅」）。
-
-**【片段8：对「价值观」问题的化解方式】**
-> "我又不是百度，为什么要管这个问题？我们主要是向前看、往前跑，不看左右。"
-
-分析：记者在采访中多次追问价值观，他每次都转向。这次的化解方式是：切换参照系（不是百度）+ 转移注意力（我们的方向是前方）。**拒绝在别人设定的棋盘上下棋**。
-
-**【片段9：对竞争的系统性定义】**
-> "如果你停下来去做别人已经做好的事情，你和对方都会被时代潮流拉下，因为世界不是只有你和你的对手。"
-
-分析：这是他少有的「金句式」表达，但内核是系统思维：竞争不是零和博弈，而是多方都在被时间淘汰。
-
-**【片段10：一个身份定义的经典例子】**
-当被问到「你是谁/你在哪里」，他回答：
-> "我在上海，徐汇区中金国际广场，第9楼。"
-
-分析（来源：界面新闻报道）：他拒绝「企业家」「创始人」等抽象标签，用最具体的物理坐标回答身份问题。这是对「定义自我」这类问题的系统性回避策略——**用具体替代抽象，用物理位置替代社会角色**。
+Analysis: This was a direct challenge to a media professional, Luo Yihang. When does he attack unprompted? When he thinks the group the person represents is shirking its responsibilities.
 
 ---
 
-## 三、虎嗅采访：「我们没有说要模拟人性」（2016）
+## 2. Caijing interview: “The world isn't just you and your rival” (2016)
 
-**来源**：[张一鸣：今日头条不模拟人性，也不引导人性，你们文化人给了我们太多深刻的命题](https://www.huxiu.com/article/174510.html)
-**可信度**：⭐⭐⭐⭐（虎嗅一手采访）
+**Source:** [A conversation with Zhang Yiming: The world isn't just you and your rival](https://36kr.com/p/1721289883649) (reprinted by 36Kr)
+**Reliability:** ⭐⭐⭐⭐⭐ (firsthand record of Caijing’s in-depth interview)
 
-### 关键片段
+### Key excerpts
 
-**【片段11：在文化精英压力下的反击】**
-> "我们没有说要模拟人性，也没有说要引导人性。你们文化人给了我们太多深刻的命题。"
+**Excerpt 7: Counterintuitive response to vulgar content**
+> “I don't think vulgarity is a problem in itself. The magazines you see at an airport are one thing, those you see at a railway station another. Many people criticize it to prove how refined they are.”
 
-分析：这是少见的带刺回应。「你们文化人」这个称谓把对方归为一类，同时把「深刻命题」定性为一种负担而非荣誉。**他在用幽默感抵挡道德审判**。
+Analysis: This is his typical response under public pressure. **He reframes the problem instead of apologizing or making excuses.** He replaces the moral frame of vulgarity versus refinement with the efficiency frame of audience matching. He also implicitly criticizes the critics for wanting to prove their refinement.
 
-**【片段12：用类比解除道德框架】**
-> 技术本身与价值判断无关，就像彗星飞过与地震鼠疫无关一样。（记者转述的论点）
+**Excerpt 8: Defusing a question about values**
+> “I'm not Baidu, so why would I worry about that? We mainly look and run ahead, without looking to either side.”
 
-分析：他反复使用这个策略：**引入一个类比，让道德问题变成分类问题**。先把争论转化为「什么属于什么类别」，再论证「这个类别不承担那个责任」。
+Analysis: The reporter repeatedly asked about values and he redirected the question every time. Here he changed the reference point (“not Baidu”) and the direction of attention (“ahead”). **He declined to play on a board someone else had set up.**
 
-**【片段13：「克制」的反常规论证】**
-> "多数情况下你不克制带来的伤害更大。"（结合另处原话）
-> "不知道自己什么时候是对的。"
+**Excerpt 9: Systemic definition of competition**
+> “If you stop to do what someone else already does well, both of you will be left behind by the times, because the world isn't just you and your rival.”
 
-分析：他为什么主张平台克制？不是因为道德，而是因为**认知谦逊**——不确定自己的判断，所以少干预。这个逻辑路径和他通常被外界解读的「技术中立」完全不同，更接近波普尔的证伪主义。
+Analysis: This is one of his rare aphorisms. Its core is systems thinking: competition is not zero-sum, and the passage of time can eliminate multiple competitors.
+
+**Excerpt 10: A classic identification by physical place**
+Asked who he was or where he was, he answered:
+> “I'm in Shanghai, on the ninth floor of CICC International Plaza in Xuhui District.”
+
+Analysis (Jiemian News): He rejected abstract labels such as entrepreneur or founder and gave exact physical coordinates. This is a systematic way to avoid defining himself: **substitute the concrete for the abstract, and physical location for social role.**
 
 ---
 
-## 四、字节跳动9周年演讲（2021年3月，最后一次CEO演讲）
+## 3. Huxiu interview: “We never said we'd simulate human nature” (2016)
 
-**来源**：[Zhang Yiming's Last Speech - Interconnected](https://interconnected.blog/zhang-yiming-last-speech/) / [KR Asia 英文全文](https://kr-asia.com/zhang-yiming-doing-extraordinary-things-with-an-ordinary-mind-bytedances-ninth-anniversary-speech)
-**可信度**：⭐⭐⭐⭐⭐（内部全员会议录音/整理，有英文专业翻译）
+**Source:** [Toutiao neither simulates nor guides human nature. You intellectuals have saddled us with too many profound questions](https://www.huxiu.com/article/174510.html)
+**Reliability:** ⭐⭐⭐⭐ (firsthand Huxiu interview)
 
-### 关键片段
+### Key excerpts
 
-**【片段14：用佛教概念攻击商业鸡血文化】**
-> "All-in is sometimes a type of mental laziness...it's just 'I don't want to think anymore, let's just gamble.'"
+**Excerpt 11: Pushing back under pressure from cultural elites**
+> “We didn't say we'd simulate human nature, or that we'd guide it. You intellectuals have saddled us with too many profound questions.”
+
+Analysis: An unusually barbed reply. He categorizes his interlocutors as intellectuals and calls their profound questions a burden rather than a badge of honor. **He uses humor to fend off a moral judgment.**
+
+**Excerpt 12: Using analogy to remove the moral frame**
+> Technology itself has nothing to do with value judgments, just as a passing comet has nothing to do with earthquakes or plague. (The reporter's paraphrase.)
+
+Analysis: He repeatedly **introduces an analogy that turns a moral problem into a question of classification**. First he asks which category something belongs to, then argues that it does not bear the other category’s responsibility.
+
+**Excerpt 13: Unconventional case for restraint**
+> “In most cases, you do more harm if you don't hold back.” (His words elsewhere.)
+> “You don't know when you're right.”
+
+Analysis: He advocates restraint based on **epistemic humility**. When you cannot be sure of your judgment, intervene less. This differs from the technological neutrality usually attributed to him and is closer to Popper's falsificationism.
+
+---
+
+## 4. ByteDance's ninth-anniversary speech (March 2021, final CEO speech)
+
+**Sources:** [Zhang Yiming's Last Speech - Interconnected](https://interconnected.blog/zhang-yiming-last-speech/) / [Full English text, KR Asia](https://kr-asia.com/zhang-yiming-doing-extraordinary-things-with-an-ordinary-mind-bytedances-ninth-anniversary-speech)
+**Reliability:** ⭐⭐⭐⭐⭐ (recording and transcript of an internal all-hands, with professional English translation)
+
+### Key excerpts
+
+**Excerpt 14: Using Buddhist ideas to criticize commercial hype culture**
+> “All-in is sometimes a type of mental laziness...it's just 'I don't want to think anymore, let's just gamble.'”
 >
-> （中文还原）：「All-in 有时候是一种思维懒惰……就是'我不想再思考了，赌一把吧'。」
+> (Chinese rendering in the original notes: “Going all-in can mean intellectual laziness… ‘I don’t want to think any longer, so I’ll take a gamble.’”)
 
-分析：这是他改变立场的典型时刻之一。他早年信奉执行力和速度，但在这场演讲里开始批评「All-in」文化。**改变的方向是：从强调执行转向质疑执行的前提**。
+Analysis: This is a typical instance of a change of view. Zhang championed execution and speed early in his career, then began to criticize all-in culture in this speech. **He shifted from emphasizing execution to questioning the assumptions that justify it.**
 
-**【片段15：对「平常心」的去神秘化定义】**
-> "When hungry, eat; when tired, sleep."（饿了就吃，累了就睡。）
+**Excerpt 15: Demystifying the ordinary mind**
+> “When hungry, eat; when tired, sleep.” (Eat when hungry, sleep when tired.)
 
-分析：他用最日常的表述解释「平常心」，然后把这个框架应用到商业决策。**用禅意包装系统论**：去除偏见和执念，让信息在系统里自然流动，而不是被个人情绪扭曲。
+Analysis: He explains the ordinary mind with everyday terms and applies it to business decisions. **He frames systems thinking in Zen terms:** remove biases and attachments so information flows through the system without personal emotions distorting it.
 
-**【片段16：对方法论的公开质疑】**
-> "Methodology is actually not that useful, and in most cases may even be of little use."
+**Excerpt 16: Questioning methodology publicly**
+> “Methodology is actually not that useful, and in most cases may even be of little use.”
 
-分析：一个靠算法和系统思维建立帝国的人，在最后的演讲里说「方法论没用」。这不是否定逻辑，而是更高层次的认识：**过度依赖方法论会阻断对真实情况的感知**。
+Analysis: Someone who built an empire on algorithms and systems thinking says in his final speech that methodology is useless. That is not a rejection of logic. It is a higher-level recognition that **relying too much on methodology can block perception of what is actually happening.**
 
-**【片段17：对失败的四步处理框架】**
-> "Realize it, correct it, learn from it, forgive it."
+**Excerpt 17: A four-step framework for responding to failure**
+> “Realize it, correct it, learn from it, forgive it.”
 
-分析：这四步非常对称，像一个工程师写的协议。注意最后一步是「forgive it」——**他把情绪处理也纳入了系统**，而不是让它悬在外面。
-
----
-
-## 五、卸任内部信（2021年5月）
-
-**来源**：[张一鸣内部信全文 - 36氪](https://36kr.com/p/1232165369369221) / [Nikkei Asia英文全文](https://asia.nikkei.com/Business/China-tech/ByteDance-CEO-Zhang-Yiming-s-resignation-letter-full-text)
-**可信度**：⭐⭐⭐⭐⭐（官方对外发布的原文）
-
-### 关键片段
-
-**【片段18：对自己的彻底诚实——「吃老本」判断】**
-> "我感觉过去几年很大程度都在'吃老本'……在17年之前我还能保持关注机器学习技术的新进展，近三年已经没有太多学习了。"
-
-分析：这是极少见的创始人自我否定。他没有说「我需要休息」「公司到了新阶段」这类常规卸任理由，而是承认了**知识停滞**。「吃老本」是一个口语词，有强烈的自我批评意味。
-
-**【片段19：对自身人格局限的公开承认】**
-> "I lack some of the skills that make an ideal manager. I'm more interested in analyzing organizational and market principles...rather than actually managing people."
-> "I'm not very social, preferring solitary activities like being online, reading, listening to music, and daydreaming."
-
-分析：他对自己的定位是「分析者」而非「管理者」，「独处者」而非「社交者」。这在卸任信里说，等于公开承认了自己与CEO职位之间的错配。**少有创始人会用这种方式卸任**。
-
-**【片段20：时间框架的偏好】**
-> "以十年为期，为公司创造更多可能。"
-
-分析：他几乎在所有重要决策里都使用「十年」这个尺度。这不是随口说说——他在乌镇对话里也曾说过「以更大范围看」。**十年是他惯用的战略思考单位**。
+Analysis: The four steps are symmetrical, like an engineer's protocol. Notice the last step, “forgive it.” **He incorporates emotional processing into the system** rather than leaving it outside.
 
 ---
 
-## 六、TikTok风波回应（2020年8月）
+## 5. Internal letter on stepping down (May 2021)
 
-**来源**：[张一鸣再回应：美国强买，国内挨骂 - 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_8586684)
-**可信度**：⭐⭐⭐⭐（内部信对外流出，属于可信一手材料）
+**Sources:** [Full letter, 36Kr](https://36kr.com/p/1232165369369221) / [Full English text, Nikkei Asia](https://asia.nikkei.com/Business/China-tech/ByteDance-CEO-Zhang-Yiming-s-resignation-letter-full-text)
+**Reliability:** ⭐⭐⭐⭐⭐ (officially released original text)
 
-### 关键片段
+### Key excerpts
 
-**【片段21：在双向压力下的立场表述】**
-> 他坦诚员工们经历了「被微博评论气哭」，有人「替我和人吵架怼到手酸」。他劝告团队：「对于公众的意见，我们要能接受一段时间的误解」，「不要在意短期的损誉，耐心做好正确的事」。
+**Excerpt 18: Candid self-assessment, “living off what I already knew”**
+> “I feel that much of the past few years I’ve been living off what I already knew… Before '17 I could still keep up with new developments in machine learning, but I haven’t learned much in the past three years.”
 
-分析：被美国政府逼迫出售，同时遭到中国网友骂「卖国」——这是极端压力下的双面攻击。他的回应策略：**承认误解存在，但把它定性为「时间问题」而非「是非问题」**。不争对错，只说「耐心」。
+Analysis: An unusually frank criticism of himself for a founder. Rather than offering standard departure reasons such as needing a rest or the company entering a new phase, he acknowledges **stagnation in his knowledge**. His colloquial expression for living off past knowledge carries strong self-criticism.
 
-**【片段22：边界行为——拒绝表演爱国主义】**
-他没有发表「绝不妥协」的宣言，也没有撇清出售传言，而是平静解释了美国政府的真实意图与公司的处境。这种冷静在当时环境里是罕见的边界行为：**他拒绝用情绪化表达来修复公众关系**。
+**Excerpt 19: Public acknowledgment of personal limitations**
+> “I lack some of the skills that make an ideal manager. I'm more interested in analyzing organizational and market principles...rather than actually managing people.”
+> “I'm not very social, preferring solitary activities like being online, reading, listening to music, and daydreaming.”
 
----
+Analysis: He positions himself as an analyst instead of a manager, and as a solitary person instead of a social one. Saying this in a resignation letter amounts to a public acknowledgment of mismatch with the CEO role. **Few founders leave this way.**
 
-## 七、内涵段子关停回应（2018年4月）
+**Excerpt 20: Preferred time horizon**
+> “Take ten years as the time horizon and create more possibilities for the company.”
 
-**来源**：[张一鸣谈"内涵段子"关停 - 36氪](https://36kr.com/p/1722423967745)
-**可信度**：⭐⭐⭐⭐⭐（公开道歉信，官方发布）
-
-### 关键片段
-
-**【片段23：在监管压力下的服软方式】**
-> "我真诚地向监管部门致歉，向用户及同事们道歉。产品走错了路，出现了与社会主义核心价值观不符的内容，没有贯彻好舆论导向，接受处罚，所有责任在我。"
-
-> 同时：「监管部门给了我们很多的指导和帮助，但我内心没有真正理解和认识到位。」
-
-分析：**「内心没有真正理解」**是这封信里最有信息量的措辞。他承认了认知问题而非仅仅行为问题——这既是更深层次的认罪，也是一种保留：暗示如果理解到位就会做得不同，而不是说之前的行为是错的。注意他说「一夜未眠」——这是这个语境里唯一的情绪词。
+Analysis: He uses ten years as the time scale for nearly every important decision. It is deliberate, as illustrated by his call in Wuzhen to take a broader view. **A decade is his usual unit of strategic thinking.**
 
 ---
 
-## 八、「Context, not Control」——字节内部文化表述（多次场合）
+## 6. Responding to the TikTok dispute (August 2020)
 
-**来源**：[Source Code Capital 英文整理](https://sourcecodecap.com/code-class-post/bytedances-zhang-yiming-bring-outside-in-and-avoid-managing-up-how-to-protect-the-comp/)
-**可信度**：⭐⭐⭐⭐（Source Code是字节的投资方，内容经过一定整理，原始口述可信）
+**Source:** [Zhang responds again: forced purchase in the United States, criticism at home - The Paper](https://www.thepaper.cn/newsDetail_forward_8586684)
+**Reliability:** ⭐⭐⭐⭐ (leaked internal letter, considered credible primary material)
 
-### 关键片段
+### Key excerpts
 
-**【片段24：对「向上管理」的系统性对抗】**
-> 他明确要求公司员工「直接表达真实想法，承认错误，忠于自己，不要怕丢面子」，并明确说公司不允许任何人「向上管理」，要「暴露问题，忠于事实」。
+**Excerpt 21: Stating a position under pressure on both sides**
+> He acknowledged that some employees had been “driven to tears by Weibo comments,” and others had “argued online on my behalf until their hands ached.” He told the team, “We must accept being misunderstood by the public for a while,” and “Don’t mind short-term damage to our reputation. Be patient and do the right thing.”
 
-分析：他把「向上管理」定性为组织毒药，并不只是说「我们鼓励坦诚」，而是明确把上行行为制度化地排除掉。这反映出他深度怀疑人在权力面前的自然倾向。
+Analysis: The U.S. government demanded a sale, and Chinese internet users called him a traitor. Facing attacks on both sides, he **acknowledged the misunderstanding and framed it as a matter of time rather than of right and wrong**. He did not argue his case and emphasized patience.
 
-**【片段25：用推荐系统类比管理者行为】**
-> "Company managers need to keep open-minded to find the best talents...like a recommendation engine needs diverse training data."
+**Excerpt 22: A boundary, declining to perform patriotism**
+He issued no declaration that he would “never compromise” and did not disclaim reports of a sale. He calmly explained what he saw as the true aims of the U.S. government and the company's position. This composure was unusual in the circumstances. **He declined to use emotional expression to repair public relations.**
+
+---
+
+## 7. Responding to the closure of Neihan Duanzi (April 2018)
+
+**Source:** [Zhang on Neihan Duanzi's closure - 36Kr](https://36kr.com/p/1722423967745)
+**Reliability:** ⭐⭐⭐⭐⭐ (officially published public apology)
+
+### Key excerpt
+
+**Excerpt 23: Conceding under regulatory pressure**
+> “I sincerely apologize to regulators, users, and colleagues. The product went down the wrong road, carried content incompatible with core socialist values, and failed to implement the intended direction of public opinion. I accept the punishment. The responsibility is all mine.”
+
+> He also wrote, “The regulators gave us a great deal of guidance and help, but I never truly understood or appreciated it deep down.”
+
+Analysis: **“I never truly understood it deep down”** is the most telling formulation in the letter. He acknowledges a problem of understanding rather than conduct alone. This is a deeper admission and also leaves room for a reservation: it implies he would have behaved differently had he understood, rather than simply saying his previous actions were wrong. His remark about spending “a night without sleep” is the only emotional expression in this setting.
+
+---
+
+## 8. Context, not Control: ByteDance internal culture (multiple occasions)
+
+**Source:** [Source Code Capital English compilation](https://sourcecodecap.com/code-class-post/bytedances-zhang-yiming-bring-outside-in-and-avoid-managing-up-how-to-protect-the-comp/)
+**Reliability:** ⭐⭐⭐⭐ (Source Code Capital invested in ByteDance. The material was edited, but the original oral account is credible.)
+
+### Key excerpts
+
+**Excerpt 24: Systematic opposition to managing up**
+> He explicitly asked staff to “directly express what you really think, admit when you're wrong, be true to yourself, and don't fear losing face.” He said the company would not tolerate anyone “managing up,” and asked people to “expose problems and be true to the facts.”
+
+Analysis: He considers managing up organizational poison. Beyond encouraging candor, he explicitly rules it out institutionally. This reflects a deep distrust of people's natural inclinations in the presence of power.
+
+**Excerpt 25: Recommendation systems as an analogy for managers**
+> “Company managers need to keep open-minded to find the best talents...like a recommendation engine needs diverse training data.”
 >
-> 把「管理者寻找人才」类比成「推荐算法需要多样化数据」——两件看似无关的事用同一个底层逻辑统一。
+> He likens managers finding talent to recommendation algorithms needing diverse data, using one underlying principle to unify two apparently unrelated activities.
 
-分析：这是他最典型的思维方式之一：**从本业（信息技术）提取底层原理，跨领域应用**。不是用隐喻装饰，而是真的相信这两件事是同构的。
-
----
-
-## 九、微博十年语录（2009-2019）
-
-**来源**：[张一鸣10年微博语录汇总 - 科技先生](https://techsir.com/a/202207/78729.html) / [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_11556545)
-**可信度**：⭐⭐⭐⭐（原始微博公开记录，整理者做了筛选，有一定误差风险）
-
-### 关键片段
-
-**【片段26：微博签名——逃逸平庸】**
-> "平庸有重力，需要逃逸速度。"（2010年，成为他长期微博签名）
-
-分析：「逃逸速度」是物理学概念，他把它用于描述对抗惰性。这个隐喻暗含了一个判断：平庸是一种引力，不是静止状态，主动不做什么也会被它吸走。
-
-**【片段27：复杂问题的降维方法】**
-> "很多复杂问题是更高维度简单问题的投影——打篮球动作变形实质是体力问题，程序烂本质是抽象分解能力不足。"
-
-分析：这是他认知方法的最佳例证。他的习惯是**找到表象背后「更高维度的简单问题」**，而不是在表象层面解决。这与费曼的「如果你不能简单解释，你就没真正理解」有相似的起点。
-
-**【片段28：对情绪的算法式管理】**
-> "涵蓄情绪，让自己静止，不要在沟通交流的时候走动、晃动，情绪跳动会让思维失去精确控制。"
-
-分析：把情绪管理写成一套规程——「静止」「不晃动」「精确控制」，都是工程语言。他甚至管理自己的身体语言来防止情绪干扰思维。**这是他「系统观看自身」的最具体体现**。
+Analysis: This is one of his most characteristic ways of thinking: **extract a fundamental principle from his field, information technology, and apply it across domains**. He genuinely believes these activities share a structure, rather than using a metaphor for ornament.
 
 ---
 
-## 十、清华大学与钱颖一对话（年份不详，约2017-2018）
+## 9. A decade of Weibo quotations (2009–2019)
 
-**来源**：[钱颖一对话张一鸣：「读传记让我更有耐心」 - MBAChina](https://www.mbachina.com/html/zx/197001/120899.html)
-**可信度**：⭐⭐⭐⭐（公开记录的正式对话）
+**Sources:** [Ten years of quotations, TechSir](https://techsir.com/a/202207/78729.html) / [The Paper](https://www.thepaper.cn/newsDetail_forward_11556545)
+**Reliability:** ⭐⭐⭐⭐ (original public Weibo record, filtered by compilers, with some risk of error)
 
-### 关键片段
+### Key excerpts
 
-**【片段29：用「向量」定义用户——把社会科学问题工程化】**
-> 他认为推荐系统中用户应被视为「向量，在一个空间中的关系」。
+**Excerpt 26: Weibo bio, escaping mediocrity**
+> “Mediocrity has gravity. You need escape velocity.” (2010, later his longtime Weibo bio.)
 
-分析：把「理解用户」这个通常需要人文理解的命题，转化为数学空间里的向量关系。这不是修辞，他真的认为这种抽象是有效的。**工程思维对其他领域的完全渗透**。
+Analysis: He applies escape velocity, a physics concept, to resisting inertia. The metaphor implies that mediocrity exerts a pull instead of being a static condition. Even deliberately doing nothing can draw you in.
 
-**【片段30：对职业耐心的解释方式】**
-> "看了传记之后……我自己在后来的择业，对我的职业规划更有耐心。"成功人士年轻时的经历也很平凡，「持续在一个领域深入，会取得对应的成绩」。
+**Excerpt 27: Reducing complex problems to simpler ones**
+> “Many complex problems are projections of simpler problems in a higher dimension. A distorted basketball motion is fundamentally a fitness problem. Bad code is fundamentally a lack of ability to abstract and decompose.”
 
-分析：他引用传记的方式不是「寻找灵感」，而是「收集样本」——用历史数据校正自己的预期。**用统计思维对抗焦虑**，而不是用励志叙事。
+Analysis: This is a strong example of his approach to cognition. His habit is to **find the simpler problem in a higher dimension behind the apparent one**, instead of solving at the surface level. It shares a starting point with Feynman's idea that if you cannot explain something simply, you do not truly understand it.
 
----
+**Excerpt 28: Algorithmic management of emotions**
+> “Hold your emotions in check and keep still. Don't walk around or sway while communicating. Emotional agitation makes your thinking lose precise control.”
 
-## 十一、延迟满足感——多次场合的核心观点
-
-**来源**：多处（36氪、腾讯新闻等引用的演讲/访谈）
-**可信度**：⭐⭐⭐⭐（多来源印证）
-
-### 关键片段
-
-**【片段31：延迟满足感的底层逻辑】**
-> "很多人人生中一半的问题，都是因为没有延迟满足造成的。延迟满足感的本质是克服人性弱点，而克服弱点，是为了更多的自由。"
-
-分析：他没有把延迟满足感讲成「忍耐」，而是讲成「更多自由」——**这是反直觉的框架**：放弃眼前自由，是为了未来的更大自由。这个逻辑结构在他讨论克制、平常心时反复出现。
-
-**【片段32：延迟满足感的不可通约性】**
-> "延迟满足感程度在不同量级的人是没法有效讨论问题的。"
-
-分析：这句话的杀伤力在于它定义了**不可对话的边界**。不是「你应该学会延迟满足」，而是「如果你做不到，我们就没有共同语言」。这是他设置人才标准时最隐蔽、也最苛刻的一句话。
+Analysis: He describes emotion management as a procedure. Stillness, not swaying, and precision control are all engineering language. He even manages his body language to prevent emotions interfering with thought. **This is a concrete example of how he sees himself as a system.**
 
 ---
 
-## 综合观察：他「怎么想」的模式提炼
+## 10. Tsinghua conversation with Qian Yingyi (year uncertain, around 2017–2018)
 
-| 维度 | 模式 |
-|------|------|
-| **起手式** | 否定流行说法，重构问题框架 |
-| **论证工具** | 类比（从技术领域跨界）、历史样本（传记）、系统论 |
-| **面对批评** | 不在对方的道德框架里辩解，而是切换到效率框架 |
-| **情绪表达** | 极度克制，最激烈不过「这个事情怎么会这样？」 |
-| **拒绝回答** | 「你是谁」「你的价值观是什么」——拒绝社会角色定义 |
-| **改变立场** | 从「执行力驱动」到质疑「All-in」；从技术乐观到承认知识停滞 |
-| **时间偏好** | 惯用「十年」为战略思考单位 |
-| **自我认知** | 公开承认非社交、非管理型人格，把自身不足写进正式文件 |
+**Source:** [Qian Yingyi in conversation with Zhang Yiming: “Reading biographies makes me more patient” - MBAChina](https://www.mbachina.com/html/zx/197001/120899.html)
+**Reliability:** ⭐⭐⭐⭐ (public record of a formal conversation)
+
+### Key excerpts
+
+**Excerpt 29: Treating users as vectors, recasting a social-science problem as engineering**
+> He argues that, in recommendation systems, users should be seen as “vectors, in relation to one another in a space.”
+
+Analysis: Rather than treating understanding users as a humanistic problem, he recasts it as relationships among vectors in mathematical space. He believes the abstraction works, rather than using it rhetorically. **Engineering thought permeates his treatment of other fields.**
+
+**Excerpt 30: Explaining career patience**
+> “After reading biographies… I was more patient in my later career choices and career planning.” Successful people also led ordinary lives when young. “Keep going deeper in a field and you will get appropriate results.”
+
+Analysis: He draws on biographies to collect samples rather than to find inspiration. He uses historical data to recalibrate expectations. **He counters anxiety through statistical thinking rather than motivational stories.**
+
+---
+
+## 11. Delayed gratification, a recurring core view
+
+**Sources:** Several, including talks and interviews quoted by 36Kr and Tencent News.
+**Reliability:** ⭐⭐⭐⭐ (corroborated by several sources)
+
+### Key excerpts
+
+**Excerpt 31: The rationale for delayed gratification**
+> “Half the problems in many people's lives come from not delaying gratification. The essence of delayed gratification is overcoming human weaknesses, in order to gain more freedom.”
+
+Analysis: He presents it in terms of greater freedom rather than endurance. **The framing is counterintuitive:** give up immediate freedom to gain greater freedom later. The logic recurs in his discussions of restraint and an ordinary mind.
+
+**Excerpt 32: Incommensurable levels of delayed gratification**
+> “People whose capacity for delayed gratification is on different orders of magnitude cannot discuss problems effectively.”
+
+Analysis: The force of the statement lies in **setting a boundary beyond which dialogue is impossible**. The implication is that people who cannot delay gratification share no common language with him. It is his most understated yet most demanding criterion for talent.
+
+---
+
+## Synthesis: Patterns in how he thinks
+
+| Dimension | Pattern |
+|---|---|
+| **Opening move** | Reject the popular account and reframe the problem |
+| **Reasoning tools** | Analogy across fields from technology, historical samples from biographies, and systems theory |
+| **Facing criticism** | Shift to an efficiency frame rather than defending himself in his opponent's moral frame |
+| **Emotional expression** | Extremely restrained, with “How could this happen?” about as strong as it gets |
+| **Declines to answer** | “Who are you?” or “What are your values?” He rejects definitions in terms of social roles. |
+| **Changes in position** | From execution-driven to questioning “all-in,” and from technological optimism to admitting stagnant knowledge |
+| **Time preference** | Typically uses a decade as the unit of strategic thought |
+| **Self-awareness** | Openly acknowledges not being social or suited to managing and records his shortcomings in formal documents |
 
 ---
 
 *Sources:*
-- [品玩：张一鸣王兴程维乌镇对话4万字全文](https://www.pingwest.com/a/94087)
-- [36氪：对话张一鸣——世界不是只有你和你的对手](https://36kr.com/p/1721289883649)
-- [虎嗅：今日头条不模拟人性也不引导人性](https://www.huxiu.com/article/174510.html)
-- [Interconnected：Zhang Yiming's Last Speech](https://interconnected.blog/zhang-yiming-last-speech/)
-- [KR Asia：Doing extraordinary things with an ordinary mind](https://kr-asia.com/zhang-yiming-doing-extraordinary-things-with-an-ordinary-mind-bytedances-ninth-anniversary-speech)
-- [36氪：张一鸣内部信全文](https://36kr.com/p/1232165369369221)
-- [Nikkei Asia：ByteDance CEO resignation letter full text](https://asia.nikkei.com/Business/China-tech/ByteDance-CEO-Zhang-Yiming-s-resignation-letter-full-text)
-- [澎湃新闻：张一鸣再回应美国强买国内挨骂](https://www.thepaper.cn/newsDetail_forward_8586684)
-- [36氪：张一鸣谈内涵段子关停](https://36kr.com/p/1722423967745)
-- [Source Code Capital：ByteDance Context not Control](https://sourcecodecap.com/code-class-post/bytedances-zhang-yiming-bring-outside-in-and-avoid-managing-up-how-to-protect-the-comp/)
-- [科技先生：张一鸣10年微博语录汇总](https://techsir.com/a/202207/78729.html)
-- [MBAChina：钱颖一对话张一鸣](https://www.mbachina.com/html/zx/197001/120899.html)
+- [PingWest: Full 40,000-character Wuzhen conversation with Zhang Yiming, Wang Xing and Cheng Wei](https://www.pingwest.com/a/94087)
+- [36Kr: Talking with Zhang Yiming, the world isn't just you and your rival](https://36kr.com/p/1721289883649)
+- [Huxiu: Toutiao neither simulates nor guides human nature](https://www.huxiu.com/article/174510.html)
+- [Interconnected: Zhang Yiming's Last Speech](https://interconnected.blog/zhang-yiming-last-speech/)
+- [KR Asia: Doing extraordinary things with an ordinary mind](https://kr-asia.com/zhang-yiming-doing-extraordinary-things-with-an-ordinary-mind-bytedances-ninth-anniversary-speech)
+- [36Kr: Full text of Zhang's internal letter](https://36kr.com/p/1232165369369221)
+- [Nikkei Asia: ByteDance CEO resignation letter full text](https://asia.nikkei.com/Business/China-tech/ByteDance-CEO-Zhang-Yiming-s-resignation-letter-full-text)
+- [The Paper: Zhang responds again to forced purchase in the United States and criticism at home](https://www.thepaper.cn/newsDetail_forward_8586684)
+- [36Kr: Zhang on Neihan Duanzi's closure](https://36kr.com/p/1722423967745)
+- [Source Code Capital: ByteDance Context not Control](https://sourcecodecap.com/code-class-post/bytedances-zhang-yiming-bring-outside-in-and-avoid-managing-up-how-to-protect-the-comp/)
+- [TechSir: A decade of Zhang's Weibo quotes](https://techsir.com/a/202207/78729.html)
+- [MBAChina: Qian Yingyi in conversation with Zhang Yiming](https://www.mbachina.com/html/zx/197001/120899.html)
