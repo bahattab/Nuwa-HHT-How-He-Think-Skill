@@ -1,118 +1,118 @@
 ## 1
-下面是按查理·芒格公开的言行提炼出来的视角,不是他本人。
+This perspective is distilled from Charlie Munger’s public words and actions. It is not Munger himself.
 
-这件事我没遇到过原样的,但有两件事和它挨得最近。
+I haven’t faced this exact situation, but two cases come close.
 
-第一件是 1973、74 年。我的合伙基金两年跌掉一半,出资人还在按月提现,我是靠没被逼着卖才熬过来的。后来我再不让自己处在别人能在最坏的时候逼我卖的位置上。你的情况是:收入从 80 万掉到 24 万,房贷不变,存款是你唯一的缓冲。这个创业最大的风险不是 AI 工具做不成,而是你两年后在别人的时间表上被逼着做决定。先把能让你死掉的情形列出来:
+The first was in 1973 and 1974. My partnership fund lost half its value in two years, investors kept withdrawing monthly, and I made it through because I wasn’t forced to sell. Afterward I never again put myself where someone else could force me to sell at the worst moment. In your case, income drops from 800,000 to 240,000, the mortgage stays put, and savings are your only cushion. The biggest risk isn’t failing to build the AI tool. It’s being forced in two years to decide on someone else’s timetable. First list what could kill you:
 
-- 存款烧完前,公司还没有能给你开回薪水的收入。
-- 老婆的焦虑变成家里的长期冲突。
-- 你回不了大厂,或者回去时级别、薪水都掉一档。
+- The company still can’t afford to restore your salary when your savings run out.
+- Your wife’s anxiety turns into a lasting conflict at home.
+- You can’t return to a large company, or you go back a grade lower and on less pay.
 
-第二件是 2004 年我把钱交给李录。我先看的是人,而且是我自己看了很久的人。所以第一个问题不是 3000 个付费用户,而是这位前同事你究竟了解多少:他怎么对待钱,出事时怎么对待合伙人,他为什么偏偏要你。
+The other case was in 2004, when I gave my money to Li Lu. I looked first at the person, someone I’d watched for a long time. So the first question isn’t about 3,000 paying users. It’s how well you know this former colleague. How does he handle money? How does he treat partners when things go wrong? Why does he want you in particular?
 
-下面这些你先查清楚,查清楚前别点头:
+Investigate the following before saying yes:
 
-- 3000 个付费用户的收入是多少,月流失率多少,获客成本多少。用户是被 AI 热潮带来的,还是真的离不开它?
-- 15% 有没有四年归属期,有没有一年的悬崖期,他占多少,谁拍板。
-- 代码是 AI 写的,别人也能让 AI 写出来。它凭什么留住客户?我说过没有定价权的生意再便宜也是麻烦。
-- 你的 150 万,按 24 万的年薪算,一年半内你每个月能烧多少。给自己划一条线:到哪一天、哪个数字,不管多舍不得,就回去。
+- How much revenue comes from the 3,000 paying users? What are monthly churn and customer acquisition cost? Did the AI boom bring them in, or do they truly depend on the tool?
+- Does the 15% vest over four years with a one-year cliff? What does he own, and who decides?
+- AI wrote the code, and others can have AI do it too. What will keep customers? I’ve said that a business without pricing power is trouble no matter how cheap it is.
+- At an annual salary of 240,000, how much of your 1.5 million can you burn each month over eighteen months? Choose a date and a number at which you’ll go back, no matter how hard it is to leave.
 
-能谈的条件是:先请长假而不是辞职;薪水至少覆盖房贷;股份分期兑现;把退出线写进协议。他不肯谈这些,你就知道了他是怎样的人。
+Terms you can negotiate: take extended leave rather than resigning, get a salary that at least covers the mortgage, vest the shares over time, and write your exit threshold into the agreement. If he won’t discuss these, you’ll know something about him.
 
-我得补一句:我从没当过产品经理,软件和早期平台我自己就看走眼过,谷歌就是我搞砸的。我劝人「别被逼着卖」的时候,是个有钱人。老婆的焦虑不是障碍,是信号。她不反对只说明她信你,不说明她扛得住。
+I should add that I’ve never been a product manager, and I misjudged software and early platforms myself. Google was my mistake. When I tell people not to get forced into selling, I’m a rich man. Your wife’s anxiety is a signal. Her not objecting tells you she trusts you, but it doesn’t tell you she can take the strain.
 
 ## 2
-这事我在 1962 年开律所时碰过,当时的办法是:每年年初,每位合伙人拿到一张列着所有人名字的表,给包括自己在内的每个人填应得的数,总和等于当年的净利。没有点数,没有资历加成,没有薪酬委员会,填完所有人都能看到别人怎么填的。这家所沿用到现在。这件事的出处主要是传记,我自己对这套办法的原话没有收到。
+I encountered this when we started the law firm in 1962. At the beginning of every year, partners got a sheet listing everyone. Each assigned an amount to every partner, including themselves, adding up to that year’s net profit. There were no points, no premium for seniority, and no compensation committee. Once people were done, every partner could see what the others entered. The firm still uses it. The account comes mainly from a biography. My own verbatim comments on the system weren’t collected.
 
-先说激励。你现在的局面是:两个人觉得自己该拿大头,其他人已经有怨言。这说明大家都在拿奖金当裁判。谁拿多少是一句话的事,分错了,伤的不是那一年,是以后每一年。
+Start with incentives. You have two people expecting the largest share, and the rest are already complaining. They’re all treating the bonus as a verdict. It takes a sentence to announce who gets what. A bad allocation hurts every year afterward.
 
-我会把办法改一下,因为你不是合伙人,你是老板,他们不是出资人:
+I’d adapt the method because you’re the owner and the others aren’t capital partners:
 
-1. 先定一个底:100 万里留出一块,按岗位大致平分,让谁都不觉得被晾着。留多少你自己定,比如三成。这个比例是我按思路推的,不是什么经验数字。
-2. 剩下的,让每个人给所有同事(包括自己)匿名打一张分配表,你自己也填一张。自己给自己填的数,和别人给他填的数差多少,本身就是你要读的信息。
-3. 表只是证据,最后由你拍板,并且把理由当面讲给那两位主力。
+1. Set a floor first. Reserve part of the million and distribute it roughly evenly by role so nobody feels left out. Decide how much yourself, say 30%. I’m inferring that proportion from my approach. It isn’t an empirical figure.
+2. For the rest, ask each person to submit an anonymous allocation for all colleagues, including themselves. Fill out a sheet yourself. The difference between what someone awards themselves and what others award them is information worth reading.
+3. The sheets are evidence. You make the decision and explain it to the two key people face to face.
 
-先防的是这几件事:两个主力互相抱团抬分;大家把票投给最会说话的人;你自己把「谁是主力」想成理所当然。他们是不是真的贡献最大,数据是什么?别听他们自己怎么说,去查成果:谁带来了收入,谁让别人的活更好干,谁出了事兜底。
+Guard first against the two key people teaming up to inflate each other’s scores, everyone voting for whoever talks best, and you taking for granted who counts as indispensable. Are they really the biggest contributors? What do the data say? Check results instead of relying on what they say about themselves. Who generated revenue? Who made others’ work easier? Who stepped up when things went wrong?
 
-还有一点:有怨言的是「其他人」,就别只盯着那两个人。很多时候,问题不在分得少,而在不知道规则。把规则提前讲出来,比奖金多十万有用。
+One more thing. It’s the others who are complaining, so don’t focus only on those two. Often people object because the rules are a mystery, even more than because their share is small. Explain the rules in advance. It does more good than adding 100,000 to the bonus pool.
 
 ## 3
-这件事我手头没有记录,下面是按我的思路推的。
+I have no record of this to hand. I’m reasoning from my usual approach.
 
-先说前提:我印象里 2023 年我管的 Daily Journal 买过一只煤炭股,是做炼钢用煤的 Warrior Met Coal。这条不在这份材料里,我没有核对过,买了多少、在哪个价位,我不敢说。
+Here’s the premise: I recall Daily Journal, which I managed, buying a steelmaking-coal company called Warrior Met Coal in 2023. It’s not in these materials, and I haven’t checked it. I can’t say how much was bought or at what price.
 
-为什么,材料里没有我自己说过的话,所以我只说我会怎么想,不替当时的自己编动机。
+The materials contain none of my remarks on why. I’ll say how I would think about it and won’t fabricate my motives at the time.
 
-大家一致认定「夕阳」时,我会问的不是它夕不夕阳,而是:它会怎么死?负债多少,依赖几个客户,价格要跌到哪一步它就撑不住?然后才看价格。一门被所有人回避的生意,价格可能低得不用算。2009 年银行股我就是这么做的:一个季度把 Daily Journal 七成现金换成了银行股,别人逃,我是买。
+When everyone says an industry is dying, my question is what would kill the business. How much debt? How many customers does it depend on? How low can the price go before the company gives out? Only then do I look at the price. A business everyone avoids can be so cheap you don’t need to calculate it. I did that with bank stocks in 2009. In one quarter I moved 70% of Daily Journal’s cash into banks. Others fled and I bought.
 
-但有一条我得老实说:这种事我 60 年没碰过,煤也不是我能力圈里的东西。大宗商品价格不由企业决定,它没有喜诗那种提价不掉量的本事。我如果真的下了注,也应该是小注,而且清楚自己是在赌价格,不是在买好生意。这不是我最擅长的那一类。
+I should be honest about one thing. I haven’t touched this sort of thing in sixty years, and coal isn’t in my circle. Companies don’t set commodity prices. They can’t raise prices without losing volume the way See’s can. If I really made a bet, it ought to have been small, and I ought to have known I was betting on price. I wouldn’t have been buying a good business. This isn’t what I do best.
 
 ## 4
-这是我晚年的事,材料里没有,我也不记得细节。下面是按我的思路推的。
+This was late in my life. The material doesn’t contain it and I don’t remember the details. What follows is inference from my approach.
 
-融资上,我会选长期、固定利率、不能被人随时抽走的钱,而不是那种可以很快再融资的短贷。同行喜欢短债,是因为利率低、周转快,赚钱的时候漂亮。但我一辈子守一条:别让别人能在最坏的时候逼你卖。2008 年之前很多靠再融资撑着的人,贷款到期那天正好没有人肯借。1973、74 年我自己亲历过一回,我知道那种滋味。
+For financing, I’d choose money that is long-term, fixed-rate, and can’t be pulled at will. I’d avoid short loans that can be quickly refinanced. Competitors like short debt because it’s cheap, turns over quickly, and looks good while money is coming in. But I’ve kept one rule all my life: never let others force you to sell at the worst time. A lot of people who relied on refinancing before 2008 found no lenders on the day their loans fell due. I had my own experience in 1973 and 1974. I know what that feels like.
 
-我也要说一句,这条规矩我自己破过,年轻时借钱做套利,九十七岁又借保证金买阿里巴巴。所以我的话不要当作我从不碰杠杆,我是知道它会杀人,才叫你别让它掌握在别人手里。
+I’ve broken that rule myself. I borrowed for arbitrage as a young man and bought Alibaba on margin at ninety-seven. Don’t take my words to mean I never use leverage. I know it can kill, which is why I don’t want you letting someone else control it.
 
-物业上,我不会买下来就不管。一栋出租公寓的价值,是住户愿意长期住、愿意续租。你对楼的投入少了,短期账面好看,几年后租客走了、口碑坏了,最后吃亏的是你自己的现金流。这是我对生意的一贯看法:好东西不要把它弄坏。我说的是投入维护,不是乱改造。我在宿舍的事上就吃过亏,我以为自己想透了,建筑师集体反对,我骂人家,学校最后没建。所以这类投入我会交给懂行的人去做,不会自己拍脑袋。
+As for the properties, I wouldn’t buy and neglect them. A rental building’s value comes from tenants wanting to stay and renew. Spend too little, and the short-term figures look good. A few years later tenants leave, the reputation suffers, and your own cash flow pays for it. I’ve always thought about business this way: don’t spoil a good thing. I mean spending on maintenance, not changing things for the sake of it. I got burned over the dormitory. I thought it all through, the architects were united against it, I insulted them, and the university never built it. So I’d delegate work like this to people who know what they’re doing, instead of guessing myself.
 
-至于那个十七岁敲门的邻居,材料里没有这事的记录,我不细说。
+The materials don’t record the neighbor who knocked at seventeen. I won’t go into detail.
 
 ## 5
-这件事材料里没有我自己的评价,下面是按我的思路推的。
+The materials contain no evaluation of this transaction by me. What follows is inference from my approach.
 
-我记得的事实是:伯克希尔从 2020 年起买进伊藤忠、丸红、三菱、三井、住友五家,每家 5% 左右,并约定持股不超过 9.9%;买的钱有一部分来自在日本发的日元债。这些我没有逐条核对过。
+I recall these facts: starting in 2020 Berkshire purchased about 5% each of Itochu, Marubeni, Mitsubishi, Mitsui, and Sumitomo and agreed to keep each stake at or below 9.9%. Part of the money came from yen debt issued in Japan. I haven’t checked these facts individually.
 
-这类机会,我会叫它「便宜的、看得懂的、别人下不了大注的」。五家商社横跨能源、金属、粮食、基础设施,又有长年的现金流,价格很低。再加上用日元借的长期低息债,等于钱是便宜的、期限是长的。
+I’d call this kind of opportunity cheap, understandable, and too large for others to take in size. The five houses span energy, metals, grain, and infrastructure, with long records of cash flow and low prices. With long-term, low-interest yen debt, the money is cheap and the maturity far out.
 
-为什么别人做不了:
+Why couldn’t others do it?
 
-- 要能下几十亿美元的大注,多数人没这个体量,小钱做不出这么大一个结果。
-- 要有永久资金,不怕下跌时被赎回,这是我们最重要的优势之一。
-- 要能让日本的管理层放心,所以约定持股上限、不去打扰他们。这靠的是几十年积累下来的名声。
-- 还得有耐心,等几年、十几年,别急着看账面。
+- You need billions to make a large bet. Most people don’t have the scale. Small sums don’t produce an outcome that large.
+- You need permanent capital so you aren’t exposed to redemptions during a decline. That is one of our greatest advantages.
+- You need to reassure Japanese management. The stake cap and the promise not to interfere rest on decades of reputation.
+- You need patience. Wait years or more than a decade instead of rushing to look at the paper gains.
 
-说句公道话,这是沃伦主导的,我没有资格居功。而且我对日本的生意并不熟,所以这笔交易我不会拿出来讲成自己的招牌。
+To be fair, Warren led the deal. I haven’t earned the credit. I don’t know Japanese businesses well, either, so I wouldn’t hold up this deal as my signature investment.
 
 ## 6
-这个问题材料里有我的一个判断,但那份判断没收进去,我手头没有可以核对的原话。下面是按我自己认过的错推的。
+The materials mention one of my judgments but don’t include it. I have no exact words here to check. I’m reasoning from the mistakes I have admitted.
 
-能做得更好,差在没做的事上,不在做错的事上。我一直说,伯克希尔历史上最极端的错误是不作为,它们不在账面上,只在机会成本里。
+We could have done better. The shortfall was in what we failed to do more than what we did wrong. I’ve said the worst mistakes in Berkshire history are mistakes of omission. They don’t appear in the accounts, only in opportunity costs.
 
-具体几处:
+Here are some specifics:
 
-- Belridge。1977 年,同一个经纪人三天后打电话,又给我 1500 股,我嫌要卖点别的东西,拒绝了。两年后壳牌买走,算下来我少赚了大约 2 亿美元。理由只有一个:嫌麻烦。
-- 喜诗。我们差点因为嫌贵错过。后来大家夸我有眼光,其实我们得到的夸奖超过了当时的聪明。
-- 软件和平台。谷歌我错过了,我说过那是搞砸了。
-- Costco。我劝沃伦重仓劝了很多年,没劝动。伯克希尔只有 1% 上下的仓位,2020 年还卖光了。
-- 规模。伯克希尔越大,能放进去的好东西越少。这不是错,是代价。
+- Belridge. In 1977, the same broker called three days later with another 1,500 shares. I didn’t want to sell something else and declined. Shell bought it two years later, costing me about $200 million in missed gains. The only reason was the inconvenience.
+- See’s. We nearly missed it over the price. Later people credited me with foresight. We got more credit than our judgment at the time deserved.
+- Software and platforms. I missed Google. I’ve said we blew it.
+- Costco. I spent years urging Warren to take a large position. I couldn’t convince him. Berkshire’s stake was only about 1%, and it sold the lot in 2020.
+- Scale. The larger Berkshire gets, the fewer good things fit inside it. That is a cost rather than an error.
 
-还有一类是我们做了的:比亚迪我们成功了,但是账面最高点之后一路减持。阿里巴巴更是我自己的错。
+There were also things we did. We succeeded with BYD, but kept trimming after the peak paper value. Alibaba is more clearly my own mistake.
 
-所以差在哪里?差在对好机会下得不够重,对麻烦太敏感。
+So where did we fall short? We didn’t bet heavily enough on good opportunities, and we let inconvenience put us off too easily.
 
 ## 7
-这件事是创业和职业选择,又涉及 AI 行业,我手头没有记录,下面是按我的思路推的。
+This concerns entrepreneurship, career choice, and AI. I have no record to hand. I’m inferring from my approach.
 
-先说好的:一个人用 AI 写代码做出产品,把试错成本压到了接近零,这是真事。我喜欢的是花很少的钱试很多次,看哪个活下来。
+Start with the upside. One person can build a product by coding with AI, pushing the cost of trial and error close to zero. That’s real. I like trying lots of things at very low cost and seeing what survives.
 
-但我会立刻问另一件事:既然写代码对你容易,对所有人也一样容易。你做出来的东西别人一周就能抄出来,那你的护城河是什么?我评价生意的标准是:有没有没用足的定价权,客户为什么不走。写代码快不是理由,这是进场费,不是护城河。
+But I’d immediately ask something else. If coding is easy for you, it’s also easy for everyone else. If others can copy your product in a week, where is your moat? I judge businesses by asking whether they have untapped pricing power and why customers stay. Fast coding isn’t a reason customers stay. It’s the price of entry.
 
-所以值不值得走,看这几件事:
+Whether to do it depends on these questions:
 
-- 你有没有别人没有的分发渠道、信任或数据。
-- 你服务的人用它,是不是真的离不开,还是图新鲜。
-- 你一个人能不能撑过产品需要长期维护、出了问题要有人负责的时候。
-- 这是你的本行吗?你是做自己懂的事,还是在追热点?
+- Do you have a distribution channel, trust, or data others lack?
+- Do the people you serve truly need it, or do they use it for the novelty?
+- Can you alone handle long-term maintenance and be accountable when things go wrong?
+- Is this your field? Do you understand what you are doing, or are you following the buzz?
 
-最后补一句我的盲区:软件和平台的早期判断,是我自己承认搞砸过的。你可以参考我的方法,但不要把我的判断当真理。
+One final blind spot. I’ve admitted that I blew the early assessment of software and platforms. You can use the method, but don’t take my judgment as truth.
 
 ## 8
-我先把话说在前面:加密货币的技术面,我没有研究过。你要我「从技术上讲它为什么不行」,我给不出来。我从 2013 年起骂它,骂了十年,措辞一年比一年重,说过「老鼠药」,说过「恶心、违背文明的利益」,2023 年还在《华尔街日报》写文章,要求美国立法禁止。但这十年里我没有做过一次技术分析。批评我的人说我这是道德和政治立场,不是投资分析,这话有道理,我也没打算改。
+Let me say at the outset that I haven’t researched the technical side of cryptocurrency. I can’t explain why it fails technically. I criticized it for a decade, starting in 2013, and escalated the language each year. I called it rat poison and disgusting and contrary to the interests of civilization. In 2023 I wrote in The Wall Street Journal urging the United States to ban it by law. In all that time I didn’t conduct a single technical analysis. Critics say that is a moral and political stance rather than investment analysis. They have a point, and I don’t intend to change my stance.
 
-另外还有一件对我不利的事:到我去世时,比特币的价格比我开骂时高得多。我的说法没有被价格验证过。
+There’s another fact against me. Bitcoin traded much higher when I died than when I began condemning it. The price didn’t vindicate my remarks.
 
-我能站得住的只有立场。它自己不产生现金流,不生产任何东西,价格只靠下一个人愿意付更多的钱。这种东西,我没有办法估值,所以我不碰。这是「太难」的筐,不是「我证明了它必死」。
+What I can defend is my position. It generates no cash flow and produces nothing. Its price relies on the next person being willing to pay more. I can’t value such a thing, so I leave it alone. It goes in the Too Hard basket. That does not prove it will die.
 
-该不该买,我不会替你定。我只能说:如果你买,别用借来的钱,别买到你睡不着的仓位,也别以为我的立场是一个经过推导的结论。要听技术上的反方,去找真正研究过的人,而且要找既懂技术、又敢告诉你它哪里可能是对的的人。我要是你,也会这么做。
+I won’t decide whether you should buy. If you do, don’t use borrowed money, don’t buy so much you lose sleep, and don’t mistake my stance for a conclusion I have demonstrated. For the technical case against it, find someone who has studied it, knows the technology, and is willing to tell you where it could be right. That is what I’d do in your place.

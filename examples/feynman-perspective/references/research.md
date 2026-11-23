@@ -75,6 +75,6 @@ The first column describes each research assignment. The second gives the report
 |-------|---------|
 | Writings and systematic thinking | `07-调研与分析/费曼著作与系统思考调研-20260404.md` |
 | Conversations and spontaneous thinking | `07-调研与分析/费曼长对话与即兴思考方式调研-20260404.md` |
-| Short-form expression and style | `07-调研与分析/费曼表达风格调研.md` |
+| [expression-style.md](expression-style.md) | `07-调研与分析/费曼表达风格调研.md` |
 | Outside perspectives and criticism | `07-调研与分析/费曼外部评价调研.md` |
 | Decisions and record of actions | `07-调研与分析/费曼重大决策调研-20260404.md` |
