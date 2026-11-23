@@ -1,284 +1,284 @@
-# 张雪峰 - 长对话与即兴思考
+# Zhang Xuefeng — Long-form conversations and spontaneous thinking
 
-> 调研日期：2026-04-05
-> 调研范围：采访、综艺辩论、直播互动、公开对话
-> 来源标准：权威媒体采访、B站原始视频、综艺节目原始片段（排除知乎/微信公众号）
+> Research date: 2026-04-05
+> Scope: interviews, variety-show debates, livestream interactions, and public conversations
+> Source standards: interviews by authoritative media, original Bilibili videos, and original variety-show excerpts (excluding Zhihu and WeChat official accounts)
 
-## 重要背景
+## Important background
 
-张雪峰（本名张子彪），1984年5月18日出生于黑龙江齐齐哈尔富裕县，2026年3月24日因心源性猝死在苏州逝世，享年41岁。他是中国最具影响力的教育类网红，全网粉丝超4000万，2023年当选江苏省人大代表。
-
----
-
-## 重要采访/播客
-
-### 1. 新浪财经CEO邓庆旭深度对谈（2025年7月）
-
-**背景**：这是张雪峰生前最重要的深度对话之一，涉及人生意义、死亡、个人价值等哲学话题。
-
-**关键对话**：
-- 邓庆旭问：当你六七十年以后去世了，你的墓碑上写什么字？
-- 张雪峰答（大意）：人生真好玩儿，下辈子还来。人活着就是为了体验那些你没有体验过的美好。
-- 张雪峰还半开玩笑地说：等我死那一天，我估计微博一定会有一个我的热搜，叫「张雪峰死了」。如果足够幸运或足够努力，很有可能会成为中国人一代的记忆。
-
-**分析**：这段对话展现了张雪峰在轻松语境下对死亡的坦然态度。他用调侃的方式讨论严肃话题，这与他在直播中的风格一脉相承。回过头看，这段话有了令人唏嘘的预言色彩。
-
-### 2. 界面新闻深度采访（2024年1月）
-
-**背景**：新闻学争议和文科言论风波之后，界面新闻记者赴苏州采访。标题为「风波之后的张雪峰：倔强的寒蝉」。
-
-**关键对话片段**：
-- 被问对网红身份的认知时，他说（大意）：一个网红无非两个结果，要么不红了，要么被嘎巴就没有了。随即补充：因为害怕也没有用。
-- 关于评价专业的方法论：评价一个专业，我们不能极端地看前3%，也不能只看后5%，我们要看的是中间的20%—50%。
-- 关于焦虑：我什么都不焦虑，你焦虑它干嘛，你又能怎样？你要做好你现在该做好的事情就完了。
-- 关于物质欲望：我没有任何金钱消费欲望，够用就行。
-- 被问害不害怕失去一切时，他快速回应「不怕」。但他的员工武亮私下透露：他实际上「很害怕」。
-
-**采访铁律**：张雪峰坚持所有采访全程录像，这是他的铁律。他认为一些媒体稿件曾曲解他的本意，所以需要用视频留证。
-
-**分析**：这篇采访揭示了张雪峰「台前豁达/台后紧张」的双面性。他在采访中展示的不怕、不焦虑，与员工描述的「其实很害怕」形成张力。他的录像策略也说明他对媒体有深层不信任。
-
-### 3. 《人物》杂志采访
-
-**背景**：《人物》杂志对张雪峰做过深度特写。
-
-**关键片段**：
-- 张雪峰在采访中坦承：理想主义已经没了。
-- 谈到走红视频（7分钟解读34所985高校）时表示，这段视频并不是为「出圈」准备的，是朋友把他的演讲刻成光盘，拿到一些偏远高校播放后传到了网上。
-
-### 4. 中国新闻周刊采访（2023年6月9日）
-
-**背景**：新闻学争议爆发后的回应性采访。
-
-**关键回应**：
-- 关于「打晕不报新闻学」的原话争议，他解释（大意）：80%学新闻传播的学生未从事本行业，互联网的发展使得人人都可是自媒体，情况已经变了。
-- 对未来发言的态度：之后说话肯定是要更谨慎。不过，我也想让大家多关注我说过的真话，但这个世界上的真话，往往是不被人待见的。
-- 补充：以后没搞清楚情况不会说话。
-
-**分析**：张雪峰的回应策略是承认措辞不当，但坚持观点正确。他把争议框架从「我错了」转换为「真话不被待见」，将批评者放到了「不愿听真话」的位置。
-
-### 5. 三联生活周刊采访（约2024年4-5月）
-
-**背景**：记者在苏州工业园区峰学蔚来办公楼采访。
-
-**关键片段**：
-- 张雪峰在采访中滔滔不绝地讲起一位搞笑视频网红的流量变现模式，还说（大意）：你们真该去采访采访他。
-- 采访中他展现的姿态是「商业坦诚」而非「学术严肃」。
+Zhang Xuefeng, born Zhang Zibiao on May 18, 1984, in Fuyu County, Qiqihar, Heilongjiang, died suddenly from a cardiac cause in Suzhou on March 24, 2026, aged 41. He was China's most influential education influencer, with more than 40 million followers across platforms. In 2023, he was elected a deputy to the Jiangsu Provincial People's Congress.
 
 ---
 
-## 综艺辩论名场面
+## Key interviews and podcasts
 
-### 1. 《演说家》怼马丁：「所以你不是世界500强」（2017年）
+### 1. In-depth conversation with Sina Finance CEO Deng Qingxu (July 2025)
 
-**背景**：在北京卫视《演说家》节目中，张雪峰做了关于「大学生为什么要考研」的演讲，与嘉宾马丁发生激辩。
+**Background:** This was one of Zhang's most important in-depth conversations during his lifetime, touching on philosophical topics such as the meaning of life, death, and personal worth.
 
-**对话还原**：
-- 马丁（企业家嘉宾）反驳说考研不重要、经验更重要，声称：我自己公司的员工，没有一个重点的。
-- 张雪峰立即回击：所以你不是世界企业500强！
-- 张雪峰进一步论证：中国几乎所有500强企业都说学历不重要，但他们会去齐齐哈尔大学招聘吗？不会！他们只在清华、北大招聘！
+**Key exchange:**
+- Deng Qingxu asked what inscription Zhang would like on his gravestone when he died sixty or seventy years later.
+- Zhang replied, in substance: Life is a lot of fun. I'd come back in my next life. We live to experience the good things we haven't experienced yet.
+- Zhang also said half-jokingly: On the day I die, I reckon there'll definitely be a trending topic about me on Weibo called “Zhang Xuefeng is dead.” If you're lucky enough or work hard enough, you may well become part of a generation's collective memory in China.
 
-**分析**：这是张雪峰最经典的辩论名场面。他的回击策略是「以对方的论据反击对方」：你说你的员工不是重点大学出来的 → 你的公司也不是重点企业。逻辑上虽然有跳跃（公司规模与学历政策不等价），但在综艺语境下极具杀伤力。他善于把辩论对手的具体情境转化为打击工具。
+**Analysis:** The exchange shows Zhang's ease in talking about death in an informal setting. He used banter to discuss a serious topic, consistent with his livestream style. In hindsight, the exchange took on a poignant, almost prophetic quality.
 
-### 2. 《演说家》怼张召忠（局座）
+### 2. Jiemian News in-depth interview (January 2024)
 
-**背景**：张召忠（军事评论员，人称「局座」）在节目中质疑张雪峰的考研观点。
+**Background:** Following the journalism controversy and the uproar over his remarks on the humanities, a Jiemian News reporter traveled to Suzhou to interview him. The piece was titled “Zhang Xuefeng after the uproar: the stubborn cicada in the cold.”
 
-**对话大意**：
-- 张雪峰恭敬但坚定地对张召忠说：局座，时代不一样了。您那会儿毕业还行，现在不一样了。您能理解现在的环境...
+**Key excerpts:**
+- Asked how he understood his status as an influencer, he said, in substance: There are only two ways it ends for an influencer. Either people lose interest, or snap, you're gone. He immediately added that being afraid wouldn't help anyway.
+- On how to evaluate a major: When we evaluate a major, we can't focus on the top 3% at one extreme or look only at the bottom 5%. What we need to see is the middle 20%–50%.
+- On anxiety: I'm not anxious about anything. Why worry about it, and what can you do about it anyway? Just do well what you need to do right now.
+- On material desires: I have no desire to spend money. Having enough is fine.
+- Asked whether he was afraid of losing everything, he quickly answered, “No.” His employee Wu Liang privately disclosed that he was actually “very afraid.”
 
-**分析**：面对地位远高于自己的「局座」，张雪峰的策略是「尊重身份，否定时代」：不是你错了，是你的时代过去了。这种「把人和观点分开，否定语境而非否定人」的技巧让他能与高位者辩论而不显冒犯。据B站视频描述，这是张召忠在节目中「唯一被怼被说服的人」。
+**Interview rule:** Zhang insisted that every interview be filmed in full. This was his fixed rule. He believed some media articles had misrepresented what he meant, so he needed video as evidence.
 
-### 3. 《奇葩说》/《奇葩大会》出场
+**Analysis:** The interview exposes the two sides of Zhang: easygoing in public and tense behind the scenes. His professed lack of fear or anxiety contrasts with his employee's account that he was “actually very afraid.” His recording strategy also indicates a deep distrust of the media.
 
-**背景**：张雪峰参加了《奇葩大会》第二季。
+### 3. Renwu magazine interview
 
-**关键发言**：
-- 他在节目中坦言（大意）：热搜能带来流量，而流量能让更多人听到我的内容。
-- 这种对流量的直率承认，在当时的综艺语境中显得非常「不装」。
+**Background:** Renwu magazine ran an in-depth profile of Zhang.
 
-### 4. 《快乐大本营》争议（2017年）
+**Key excerpts:**
+- Zhang admitted during the interview that his idealism was gone.
+- Discussing the video that made him famous, a seven-minute guide to 34 Project 985 universities, he said it had not been made to reach a wider audience. A friend put his lecture on discs and played it at several remote universities before it made its way online.
 
-**背景**：在模拟求职环节中，张雪峰对询问「五险一金」的应聘者评价为「没追求」，引发检察日报发文批评。
+### 4. China Newsweek interview (June 9, 2023)
 
----
+**Background:** This interview was a response to the journalism controversy after it erupted.
 
-## 直播中的即兴互动
+**Key responses:**
+- On the controversy over his remark about knocking a child out to stop them applying to study journalism, he explained, in substance: 80% of students who study journalism and communication do not work in the industry. The development of the internet means anyone can publish their own media now. The situation has changed.
+- On how he would speak in the future: I'll definitely have to be more careful about what I say. But I also want people to pay more attention to the truths I've told. The truth often isn't welcome in this world.
+- He added that he would refrain from speaking in the future until he understood the situation.
 
-### 1. 2025年6月「含泪告别」直播
+**Analysis:** Zhang's response was to admit poor wording while maintaining that his view was correct. He shifted the frame from “I was wrong” to “the truth isn't welcome,” casting his critics as people unwilling to hear the truth.
 
-**背景**：2025年5月31日，高考志愿填报直播结束时。
+### 5. Lifeweek interview (around April–May 2024)
 
-**关键言行**：
-- 宣布暂停直播两个月，眼含热泪向屏幕前的家长和考生深深鞠躬
-- 原话大意：不管以后发生啥事，希望大家记住，我对得起大家。
-- 提到：干我这个行当不容易的，我动了太多的人的蛋糕了。
-- 还说：这可能是我最后一次在网上出现了。
-- 8月直播再见，要是不顺利就9月1号见。
+**Background:** A reporter interviewed Zhang at the Fengxue Weilai office building in Suzhou Industrial Park.
 
-**后续**：不到一周后（6月6日），撤回停播决定，官宣6月15日-30日连续15场直播连麦。
-
-**分析**：这场告别直播展现了张雪峰极为罕见的情绪脆弱面。「我动了太多人的蛋糕」暗示他感受到了来自教育体制内的压力。但不到一周就撤回停播决定，说明要么压力解除了，要么商业逻辑最终战胜了恐惧。这个「告别又回归」的戏剧性转折，本身就是他直播生涯的缩影。
-
-### 2. 直播咨询的典型互动模式
-
-张雪峰的直播核心是与家长连麦，帮助解答志愿填报问题。他的典型互动方式：
-
-- **快速追问法**：你孩子多少分？什么省的？想学什么？家里做什么的？——通过连续追问快速建立信息框架
-- **压迫式提问**：你能不能接受你的孩子工作十年后，收益要比当年分数没他高的人更低？——用极端场景迫使家长做出选择
-- **段子化表达**：把枯燥的专业信息转化为段子，如「能源与动力工程专业就是烧锅炉的」「劝人学医天打雷劈」
-
-### 3. 回应网友质疑身体状况
-
-**背景**：网友指出他直播中嘴唇发紫，质疑是否心脏不好。
-
-- 张雪峰回应（大意）：跑半马的人，不会心脏不好。
-
-**分析**：他倾向于用简单断言否定健康担忧。从后来的结局看，这种回应方式反映了他对自身身体信号的忽视或否认。
+**Key excerpts:**
+- In the interview, Zhang spoke at length about how one comedy video influencer monetized traffic. He added, in substance: You really ought to interview him.
+- He came across in the interview as candid about business rather than academically solemn.
 
 ---
 
-## 关键争议回应与立场变化
+## Notable variety-show debates
 
-### 1. 新闻学争议（2023年6月）
+### 1. Reply to Ma Ding on I Am a Speaker: “That's why you're not in the global top 500” (2017)
 
-**争议原话**：孩子非要报新闻学，我一定把他打晕，随便报个别的专业都比新闻强。
+**Background:** On Beijing Satellite TV's I Am a Speaker, Zhang gave a talk on why university students should take the postgraduate entrance examination. He had a heated exchange with guest Ma Ding.
 
-**回应策略**：承认措辞激烈，但坚持逻辑正确。用数据（80%新闻毕业生不从事本行业）支撑论点。
+**Reconstructed exchange:**
+- The entrepreneur Ma Ding countered that experience mattered more than taking the postgraduate exam and said he had no employees from elite universities.
+- Zhang shot back immediately: That's why your company isn't in the global top 500!
+- Zhang continued: Almost every top-500 company in China says qualifications don't matter. But do they go to Qiqihar University to recruit? They don't! They only recruit at Tsinghua University and Peking University!
 
-### 2. 「文科都是舔」争议（2023年12月）
+**Analysis:** This is Zhang's signature debate moment. He used his opponent's premise against him: your employees didn't come from elite universities, and your company isn't among the elite companies either. There is a logical leap (company size and hiring policy on qualifications are distinct), but the reply landed hard in a variety-show setting. He was skilled at turning an opponent's specific circumstances into a rhetorical weapon.
 
-**争议原话**：所有文科都是服务业。什么是服务业？总结一个字：舔。就是爷我给你笑一个。
+### 2. Challenging Zhang Zhaozhong (“the Bureau Chief”) on I Am a Speaker
 
-**道歉方式**（12月9日）：公开道歉，但解释逻辑是「服务业没什么不好的，我也是服务业」。穿上写着「我错了，我道歉」的T恤。
+**Background:** The military commentator Zhang Zhaozhong, known as the “Bureau Chief,” challenged Zhang Xuefeng's views on postgraduate exams on the program.
 
-**分析**：这是典型的「重新定义而非认错」策略——把「舔」重新框架为「服务业」，再说「服务业没什么不好」，于是道歉变成了重申。张雪峰自己也说过（大意）：这就像在公共汽车上不小心撞到了别人，你说「对不起」，但你真的有错吗？不过是一种做人的态度。
+**Exchange in substance:**
+- Zhang Xuefeng respectfully but firmly said: Bureau Chief, times have changed. It was all right when you graduated, but things are different now. You can understand the environment we're in now…
 
-### 3. 禁言后的立场转变（2023年12月-2024年初）
+**Analysis:** Confronted with someone of much higher standing, Zhang deferred to the person while challenging the applicability of his era: the point was that his era had passed. Separating the person from the argument and challenging its context allowed Zhang to debate a senior figure without seeming offensive. A Bilibili video's description calls Zhang Xuefeng the only person on the show who challenged and persuaded Zhang Zhaozhong.
 
-**背景**：被禁言近一个月后复出。
+### 3. Appearances on Qipa Shuo / Qipa Conference
 
-**关键变化**：张雪峰突改口开始在直播中赞赏「文科大有可为」，并列举成功案例。这被外界认为是被迫的立场调整。
+**Background:** Zhang appeared in season two of Qipa Conference.
 
-**分析**：这是张雪峰唯一一次明显的、被外力驱动的立场转变。他的核心信念可能没有改变（从后来的直播判断），但表达方式变得更加委婉和策略性。
+**Key remarks:**
+- He said candidly on the show, in substance: A trending topic can bring traffic, and traffic lets more people hear what I have to say.
+- This open admission about traffic came across as strikingly unpretentious in the variety-show setting of the time.
 
-### 4. 西南大学兽医专业道歉（2018年1月）
+### 4. Happy Camp controversy (2017)
 
-**背景**：在演讲中调侃西南大学兽医专业，被指号召学生不要报考。
-
-**处理方式**：在微博发文道歉，态度相对真诚。这是他早期较少遭遇大规模争议时的反应。
-
-### 5. 污言秽语被封禁（2025年9月-12月）
-
-**背景**：9月24日多平台账号被禁止关注，12月3日中央网信办通报。
-
-**回应**：处罚期已过，已经深刻反省，谢谢大家的关心支持！以后不会了。
+**Background:** During a mock interview, Zhang described a job applicant who asked about the five social insurances and housing provident fund as “unambitious.” Procuratorial Daily published a criticism in response.
 
 ---
 
-## 被追问时的回答方式分析
+## Spontaneous livestream exchanges
 
-### 模式一：「简单断言+不展开」
-- 害怕失去一切吗？→ 「不怕。」
-- 焦虑吗？→ 「不焦虑，焦虑了又能怎样？」
-- 心脏有问题吗？→ 「跑半马的人不会心脏不好。」
+### 1. Tearful farewell livestream (June 2025)
 
-### 模式二：「用数据/事实碾压」
-- 新闻学有前途吗？→ 「80%的毕业生没有从事本行业。」
-- 评价专业看什么？→ 「不看前3%，不看后5%，看中间20%—50%。」
-- 学历重要吗？→ 「500强去齐齐哈尔大学招聘吗？」
+**Background:** At the conclusion of a gaokao application livestream on May 31, 2025.
 
-### 模式三：「重新定义问题」
-- 你说文科是「舔」是不是侮辱？→ 「我也在舔啊，服务业没什么不好的。」
-- 你的建议太功利了？→ 「我服务的是大多数普通家庭的孩子。」
+**Key words and actions:**
+- He announced a two-month pause in livestreaming and, with tears in his eyes, bowed deeply to the parents and exam candidates watching.
+- His remarks in substance: Whatever happens from now on, I hope you remember that I did right by you.
+- He said his line of work was difficult and that he had taken a slice of too many other people's pie.
+- He also said that this might be his last appearance online.
+- He said he would see viewers on a livestream in August, or on September 1 if things didn't go well.
 
-### 模式四：「自我暴露式幽默消解」
-- 对严肃话题用段子化处理
-- 用东北口音和夸张表情缓冲犀利内容
-- 「突然和黄渤共情」（配电影截图，台词为「没完了吗你」）
+**Follow-up:** Less than a week later, on June 6, he withdrew his decision and officially announced 15 consecutive live call-in sessions between June 15 and June 30.
 
----
+**Analysis:** The farewell showed an unusually vulnerable side of Zhang. “I've taken a slice of too many people's pie” suggests that he felt pressure from within the education system. Yet he reversed the decision in less than a week, suggesting either that the pressure abated or that business considerations ultimately overcame his fear. The dramatic farewell and return captures his livestreaming career in miniature.
 
-## 即兴类比与比喻集
+### 2. Typical livestream consultation patterns
 
-| 比喻 | 原始语境 | 分析 |
-|------|----------|------|
-| 考研像黑屋洗衣服，灯亮前你不知道洗没洗干净，但认真洗过一定光亮 | 考研备考鼓励 | 用具象生活场景解释抽象的不确定性 |
-| 社会就是一个大筛子，用学历筛掉不努力的孩子 | 学历价值观 | 把抽象的社会分层转化为物理动作 |
-| 在关公面前耍大刀 | 回应质疑者 | 传统俗语的自然运用 |
-| 能源与动力工程就是烧锅炉的 | 专业解读 | 把学术名称还原为最朴素的职业描述 |
-| 所以你不是世界500强 | 反驳企业家 | 用对方的逻辑框架反击对方 |
-| 一个网红无非两个结果，要么不红了，要么被嘎巴就没有了 | 谈网红生涯 | 东北方言「嘎巴」让严肃话题变得轻松 |
+The core of Zhang's livestreams was taking live calls from parents and answering questions about university and major preferences. His typical techniques included:
 
----
+- **Rapid follow-ups:** What did your child score? Which province are they from? What do they want to study? What does the family do? The consecutive questions quickly establish a framework for the information.
+- **Pressure questions:** Could you accept that after ten years at work your child earns less than someone who originally scored lower? An extreme scenario forces the parents to choose.
+- **Presenting information as jokes:** He turned dry facts about majors into punchlines, such as “Energy and power engineering is just firing boilers” and “Tell someone to study medicine and heaven will strike you with lightning.”
 
-## 拒绝回答/回避的领域
+### 3. Answering online concerns about his health
 
-1. **具体政治话题**：参加省人代会时「听得多说得少，记下许多笔记」，公开场合几乎不谈政治立场
-2. **对特定媒体的回应**：争议期间面对部分记者，直接回复「我不回应，谢谢关心」
-3. **家庭隐私**：虽然偶尔提及女儿，但刻意保持家庭生活的低调
-4. **批评同行**：几乎不点名批评其他教育从业者
-5. **收入细节**：虽然说过「财富自由」，但对具体商业数据保持模糊
+**Background:** Online viewers pointed out that his lips looked purple on a livestream and wondered whether he had a heart problem.
+
+- His response, in substance: Someone who runs half-marathons won't have a bad heart.
+
+**Analysis:** He tended to dismiss health concerns with simple assertions. In light of what happened later, this manner of replying reflects disregard or denial of his body's signals.
 
 ---
 
-## 对话风格DNA总结
+## Responses to major controversies and changes in position
 
-### 核心特征
-1. **速度碾压**：语速极快，信息密度高，不给对手/听众思考空间
-2. **功利直白**：把所有教育问题还原为「就业→收入→阶层」的逻辑链
-3. **段子化包装**：用东北式幽默包裹尖锐观点，降低攻击性
-4. **弱者视角固化**：始终以「普通家庭孩子」为服务对象定位自己，把批评者放到「既得利益者」的位置
-5. **选择性坦诚**：对流量、对商业、对自身局限性坦诚；对恐惧、对健康问题回避
+### 1. Journalism controversy (June 2023)
 
-### 辩论中的独特技巧
-- **借力打力**：用对方的论据反击对方（「你不是500强」）
-- **否定语境而非否定人**：「局座，时代不一样了」
-- **重新定义而非认错**：「服务业没什么不好的」
-- **极端案例压迫**：「你能接受你孩子十年后...？」
+**Controversial words:** If my child insisted on applying to study journalism, I'd knock them out. Pick any other major and it'd be better than journalism.
 
----
+**Response strategy:** He admitted the wording was strong but stood by his reasoning. He supported it with data claiming that 80% of journalism graduates do not work in the industry.
 
-## 来源索引
+### 2. Controversy over “the humanities are all about sucking up” (December 2023)
 
-### 权威媒体深度采访
-- [界面新闻]「风波之后的张雪峰：倔强的寒蝉」(2024-01) https://www.jiemian.com/article/10635199.html
-- [界面新闻]「张雪峰：寒门讲师的商业跃迁」(2026-03) https://www.jiemian.com/article/14158150.html
-- [三联生活周刊]「讲现实的张雪峰离世，他留下的生意与争议」(2026-03) https://www.lifeweek.com.cn/h5/article/detail.do?artId=264171
-- [36氪]「直播间里再无张雪峰」(2026-03) https://36kr.com/p/3738115126919425
-- [投中网]「直播间里再无张雪峰」(2026-03) https://www.chinaventure.com.cn/news/78-20260326-390661.html
-- [21经济网]「从寒门北漂到全网升学指路官」(2026-03) https://www.21jingji.com/article/20260326/herald/e7302f9dfd83337e6d6fa83ebfc53c95.html
-- [蓝鲸财经]「从北漂寒门到苏州富豪」(2026-03) https://www.lanjinger.com/d/1774367947898013743
-- [36氪]「倒在41岁的张雪峰，留下了三个关键词」(2026-03) https://www.36kr.com/p/3737860581998592
-- [澎湃新闻]「张雪峰，危」(2023-06) https://www.thepaper.cn/newsDetail_forward_23648636
+**Controversial words:** All humanities are the service industry. What's the service industry? One word: sucking up. It means, sir, let me give you a smile.
 
-### 综艺节目原始视频（B站）
-- [B站]《演说家》张雪峰搞笑演讲 - 大学生为什么要考研（完整版）https://www.bilibili.com/video/av12938458/
-- [B站] 局座张召忠唯一被怼被说服的人是张雪峰 https://www.bilibili.com/video/BV1LuXEByE2U/
+**Apology (December 9):** He apologized publicly, while explaining that there was nothing wrong with the service industry and that he was also in it. He wore a T-shirt saying, “I was wrong. I apologize.”
 
-### 停播/告别事件
-- [21经济网]「张雪峰含泪鞠躬，宣布暂停！」(2025-06) https://www.21jingji.com/article/20250602/herald/3f98b821cdf60049034a8fcaa0db27e1.html
-- [新浪财经]「张雪峰含泪鞠躬」(2025-06) https://finance.sina.com.cn/wm/2025-06-03/doc-ineyuprc3413460.shtml
+**Analysis:** This was a classic reframing strategy in place of an admission of error. He redefined “sucking up” as “the service industry,” then said there was nothing wrong with the service industry. The apology thus became a restatement. Zhang himself said, in substance: It's like accidentally bumping into someone on the bus. You say “sorry,” but are you really at fault? It's just a way to treat people.
 
-### 争议与回应
-- [新浪新闻] 张雪峰新闻学争议专题 https://www.sina.cn/news/detail/5280328157761346.html
-- [新浪新闻] 张雪峰文科言论风波专题 https://www.sina.cn/news/detail/5280193797423214.html
-- [西部网] 盘点张雪峰「网红之路」(2023-12) http://m.cnwest.com/tianxia/a/2023/12/11/22143362.html
-- [观察者网] 多个账号被禁止关注回应 (2025-09) https://www.guancha.cn/politics/2025_09_25_791376.shtml
+### 3. Shift in position after being muted (December 2023–early 2024)
 
-### 维基百科
-- [维基百科] 张雪峰条目 https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%B3%B0
+**Background:** He came back after being muted for almost a month.
 
-### 金句/语录汇编
-- [新浪财经] 张雪峰综艺金句汇总 https://cj.sina.com.cn/articles/view/7879776328/1d5abd84806801e4uo
-- [网易] 张雪峰经典语录：句句都是人间清醒 https://c.m.163.com/news/a/KOUBSJLJ0516BMPB.html
-- [搜狐] 张雪峰10大金句 https://www.sohu.com/a/1000953521_121980168
+**Key change:** In a sudden reversal, Zhang began praising the humanities on livestreams as a field with great potential and listed success stories. Outside observers viewed it as a forced change in stance.
+
+**Analysis:** This was Zhang's only clear change of position driven by external pressure. Judging from subsequent livestreams, his core beliefs may not have changed, but he expressed them more tactfully and strategically.
+
+### 4. Apology over Southwest University's veterinary program (January 2018)
+
+**Background:** He mocked Southwest University's veterinary program in a speech and was accused of urging students not to apply.
+
+**Response:** He posted an apology on Weibo that came across as relatively sincere. This was early in his career, before he had often faced controversies on a large scale.
+
+### 5. Restrictions for vulgar language (September–December 2025)
+
+**Background:** On September 24, users were prevented from following his accounts on multiple platforms. The Cyberspace Administration of China issued a notice on December 3.
+
+**Response:** The penalty period is over. I've reflected deeply on it. Thank you all for caring and supporting me! It won't happen again.
 
 ---
 
-## 调研局限性说明
+## How he responded to follow-up questions
 
-1. **播客数据缺失**：张雪峰几乎没有参加过小宇宙等播客平台的长对话节目，他的内容主要在抖音/快手/B站等视频平台
-2. **直播实录难获取**：大量直播片段以短视频形式二次剪辑传播，完整直播录像较难获取
-3. **引语精确度**：部分引语来自媒体转述和二次加工，标注为「大意」的部分可能与原话有出入
-4. **「他说过的」vs「别人转述的」**：界面新闻、三联生活周刊等采访中的引语可信度最高；社交媒体传播的「金句」存在加工可能
+### Pattern 1: Simple assertion without elaboration
+- Are you afraid of losing everything? → “No.”
+- Are you anxious? → “No. What good would it do to be anxious?”
+- Do you have a heart problem? → “Someone who runs half-marathons won't have a bad heart.”
+
+### Pattern 2: Overwhelming the question with data or facts
+- Is there a future in journalism? → “80% of graduates aren't working in the industry.”
+- What do you look at when evaluating a major? → “Not the top 3% or the bottom 5%. Look at the middle 20%–50%.”
+- Do qualifications matter? → “Do top-500 companies go to Qiqihar University to recruit?”
+
+### Pattern 3: Redefining the question
+- Isn't calling the humanities “sucking up” insulting? → “I'm sucking up too. There's nothing wrong with the service industry.”
+- Isn't your advice too utilitarian? → “I serve children from the vast majority of ordinary families.”
+
+### Pattern 4: Defusing tension with self-revealing humor
+- Treat serious topics as material for jokes.
+- Use a Northeastern accent and exaggerated expressions to soften sharp content.
+- “I suddenly feel what Huang Bo was feeling” (with a screenshot from a film showing the line “Are you ever going to stop?”).
+
+---
+
+## Spontaneous analogies and metaphors
+
+| Analogy | Original context | Analysis |
+|---|---|---|
+| Studying for postgraduate exams is like washing clothes in a dark room. Until the light comes on, you don't know if they're clean, but if you washed them carefully, they'll come out bright. | Encouraging students preparing for the postgraduate exam | Explains abstract uncertainty with a concrete everyday scene |
+| Society is a big sieve. It uses qualifications to sift out children who don't work hard. | Value placed on qualifications | Turns abstract social stratification into a physical action |
+| Brandishing a broadsword in front of Guan Yu. | Replying to critics | Natural use of a traditional idiom about showing off before a master |
+| Energy and power engineering is just firing boilers. | Explaining a major | Reduces an academic label to the plainest occupational description |
+| That's why you're not in the global top 500. | Rebutting an entrepreneur | Turns the opponent's logical frame against them |
+| There are only two ways it ends for an influencer. Either people lose interest, or snap, you're gone. | Discussing an influencer's career | The Northeastern expression “ga ba,” the sound of snapping, lightens a serious topic |
+
+---
+
+## Areas he avoided or declined to answer
+
+1. **Specific political topics:** At provincial People's Congress meetings, he “listened more than he spoke and took copious notes.” He rarely discussed political positions in public.
+2. **Interactions with particular media outlets:** During controversies, he told some reporters directly, “I'm not responding. Thanks for your concern.”
+3. **Family privacy:** Although he occasionally mentioned his daughter, he deliberately kept family life low-profile.
+4. **Criticism of peers:** He rarely criticized other education professionals by name.
+5. **Income details:** Although he spoke of “financial freedom,” he remained vague about specific business figures.
+
+---
+
+## Signature conversational style
+
+### Core features
+1. **Overwhelming speed:** He spoke extremely fast and packed in information, giving the opponent or listener little room to think.
+2. **Blunt instrumentalism:** He reduced education questions to the chain “employment → income → social class.”
+3. **Jokes as packaging:** He wrapped sharp claims in Northeastern humor to blunt their aggression.
+4. **Fixed perspective of the disadvantaged:** He consistently positioned himself as serving children from ordinary families, while casting critics as people with vested interests.
+5. **Selective candor:** Candid about traffic, business, and his own limitations, but evasive about fear and health.
+
+### Distinctive debate techniques
+- **Use the opponent's force against them:** Turn their premise against them (“You're not in the top 500”).
+- **Challenge the context rather than the person:** “Bureau Chief, times have changed.”
+- **Redefine rather than admit error:** “There's nothing wrong with the service industry.”
+- **Apply pressure with extreme cases:** “Could you accept that after ten years your child…?”
+
+---
+
+## Source index
+
+### In-depth interviews and reporting by authoritative media
+- Jiemian News, “Zhang Xuefeng after the uproar: the stubborn cicada in the cold” (2024-01) https://www.jiemian.com/article/10635199.html
+- Jiemian News, “Zhang Xuefeng: a lecturer from modest beginnings makes a leap in business” (2026-03) https://www.jiemian.com/article/14158150.html
+- Lifeweek, “Zhang Xuefeng, who spoke of reality, dies, leaving a business and controversies behind” (2026-03) https://www.lifeweek.com.cn/h5/article/detail.do?artId=264171
+- 36Kr, “Zhang Xuefeng is gone from the livestream room” (2026-03) https://36kr.com/p/3738115126919425
+- ChinaVenture, “Zhang Xuefeng is gone from the livestream room” (2026-03) https://www.chinaventure.com.cn/news/78-20260326-390661.html
+- 21st Century Business Herald, “From a migrant in Beijing of modest means to a guide to higher education for the entire internet” (2026-03) https://www.21jingji.com/article/20260326/herald/e7302f9dfd83337e6d6fa83ebfc53c95.html
+- Blue Whale Finance, “From a migrant in Beijing of modest means to a wealthy man in Suzhou” (2026-03) https://www.lanjinger.com/d/1774367947898013743
+- 36Kr, “Zhang Xuefeng, who died at 41, left behind three keywords” (2026-03) https://www.36kr.com/p/3737860581998592
+- The Paper, “Zhang Xuefeng, in jeopardy” (2023-06) https://www.thepaper.cn/newsDetail_forward_23648636
+
+### Original variety-show videos (Bilibili)
+- Bilibili, Zhang Xuefeng's comic talk on I Am a Speaker: why university students should take the postgraduate exam (full version) https://www.bilibili.com/video/av12938458/
+- Bilibili, “Zhang Xuefeng is the only person who challenged and persuaded the Bureau Chief, Zhang Zhaozhong” https://www.bilibili.com/video/BV1LuXEByE2U/
+
+### Livestream pause and farewell
+- 21st Century Business Herald, “Zhang Xuefeng bows tearfully and announces a pause!” (2025-06) https://www.21jingji.com/article/20250602/herald/3f98b821cdf60049034a8fcaa0db27e1.html
+- Sina Finance, “Zhang Xuefeng bows tearfully” (2025-06) https://finance.sina.com.cn/wm/2025-06-03/doc-ineyuprc3413460.shtml
+
+### Controversies and responses
+- Sina News, special coverage of the Zhang Xuefeng journalism controversy https://www.sina.cn/news/detail/5280328157761346.html
+- Sina News, special coverage of the uproar over Zhang's humanities remarks https://www.sina.cn/news/detail/5280193797423214.html
+- CNWest, a look back at Zhang's path to internet fame (2023-12) http://m.cnwest.com/tianxia/a/2023/12/11/22143362.html
+- Guancha, response to follow restrictions on multiple accounts (2025-09) https://www.guancha.cn/politics/2025_09_25_791376.shtml
+
+### Wikipedia
+- Wikipedia, Zhang Xuefeng entry https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%B3%B0
+
+### Quotations and compilations
+- Sina Finance, compilation of memorable lines from Zhang's variety-show appearances https://cj.sina.com.cn/articles/view/7879776328/1d5abd84806801e4uo
+- NetEase, “Classic Zhang Xuefeng quotes: every line clear-eyed about life” https://c.m.163.com/news/a/KOUBSJLJ0516BMPB.html
+- Sohu, “Top ten memorable Zhang Xuefeng quotes” https://www.sohu.com/a/1000953521_121980168
+
+---
+
+## Research limitations
+
+1. **Lack of podcast data:** Zhang rarely took part in long-form conversation programs on podcast platforms such as Xiaoyuzhou. Most of his content appeared on video platforms such as Douyin, Kuaishou, and Bilibili.
+2. **Difficulty obtaining full livestream recordings:** Many livestream clips circulated as edited short videos. Full recordings were harder to obtain.
+3. **Quotation accuracy:** Some quotations come from media paraphrases and later editing. Portions labeled “in substance” may differ from what he said verbatim.
+4. **What he said versus what others reported him saying:** Quotations from interviews with Jiemian News and Lifeweek are the most credible. Memorable quotes circulated on social media may have been edited.
