@@ -1,42 +1,42 @@
-# Andrej Karpathy：表达DNA调研
+# Andrej Karpathy: Research on his expression patterns
 
-> 调研时间：2026-04-05
-> 数据来源：X/Twitter (@karpathy)、个人博客 karpathy.github.io、bearblog、GitHub README、YC AI Startup School演讲记录、Dwarkesh Patel访谈
+> Research date: 2026-04-05
+> Sources: X/Twitter (@karpathy), karpathy.github.io, bearblog, GitHub READMEs, the YC AI Startup School transcript, and the Dwarkesh Patel interview.
 
 ---
 
-## 一、标志性句式与高频用词
+## 1. Distinctive sentence structures and frequent words
 
-### 1.1 命名造词：用最简单的词，创造记忆点
+### 1.1 Coining memorable terms with simple words
 
-Karpathy有一种天赋：用口语化的短语命名复杂现象，一次性定义赛道。
+Karpathy has a knack for naming complex phenomena with conversational phrases that can define an entire category at once.
 
 > "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
-> ——2025年2月2日原推
+> — Original post, February 2, 2025
 
 > "The hottest new programming language is English."
-> ——2023年1月24日，6字定义一个范式
+> — January 24, 2023. Six words define a paradigm.
 
 > "LLMs are 'people spirits', stochastic simulations of people, where the simulator is an autoregressive Transformer."
-> ——YC AI Startup School，2025年6月
+> — YC AI Startup School, June 2025
 
-这三个例子共享同一种结构：**先命名（给个称号），再用一句话说清楚它是什么**。名字本身必须口语化、有画面感，定义句精准但不掉书袋。
+All three examples share the same structure: **give it a name, then explain what it is in a single sentence**. The name needs to be conversational and evocative. The definition is precise without sounding academic.
 
 ---
 
-### 1.2 软件版本升级框架：Software 1.0 / 2.0 / 3.0
+### 1.2 Software version upgrades: Software 1.0 / 2.0 / 3.0
 
-他喜欢用「版本号」类比来描述范式变迁，把抽象的技术演化变成可感知的升级：
+He uses version numbers to illustrate paradigm shifts, turning abstract technical evolution into recognizable upgrades.
 
 > "Software 1.0 is the code you write for the computer. Software 2.0 are basically neural networks... Software 3.0 is now LLMs, programmed in English."
 
-这种框架的力量：**让读者觉得自己正站在历史节点上**。他不说「AI改变了编程」，他说「这是第三次范式升级」。
+The framing **makes readers feel they are at a historical turning point**. He frames the change as the third paradigm shift, going beyond the general observation that AI changed programming.
 
 ---
 
-### 1.3 "Imo"（In my opinion）：标志性的主张开头
+### 1.3 "Imo" (In my opinion): a distinctive way to open a claim
 
-在X上，他频繁用「imo」来标记自己的判断——既是礼貌的hedge，也是一种「我说了，但我不强迫你接受」的姿态：
+On X, he frequently marks his judgment with "imo." It politely qualifies his claim and indicates that readers need not agree.
 
 > "Imo fair to say that software is changing quite fundamentally again."
 
@@ -44,9 +44,9 @@ Karpathy有一种天赋：用口语化的短语命名复杂现象，一次性定
 
 ---
 
-### 1.4 "I kind of feel like" / "I have a sense that"：刻意保留不确定性
+### 1.4 "I kind of feel like" / "I have a sense that": deliberately leaving room for uncertainty
 
-Karpathy在技术判断上极少斩钉截铁，尤其是预测性陈述：
+Karpathy rarely speaks with absolute certainty about technical judgments, especially predictions.
 
 > "When I see things like, '2025 is the year of agents,' I get very concerned. And I kind of feel like, you know, this is the decade of agents."
 
@@ -54,11 +54,11 @@ Karpathy在技术判断上极少斩钉截铁，尤其是预测性陈述：
 
 > "I don't have a super strong prediction...I have a very wide distribution here."
 
-这种不确定性不是软弱，而是**认知诚实**。他主动展示自己的置信区间。
+This uncertainty reflects **intellectual honesty**. He makes the range of his confidence visible.
 
 ---
 
-### 1.5 "It's kind of like" / "in some sense"：解释时爱用类比过渡
+### 1.5 "It's kind of like" / "in some sense": transitions to analogies in explanations
 
 > "Whenever I talk to ChatGPT or some LLM directly in text, I feel like I'm talking to an operating system through the terminal."
 
@@ -66,21 +66,21 @@ Karpathy在技术判断上极少斩钉截铁，尤其是预测性陈述：
 
 ---
 
-## 二、核心类比体系
+## 2. Core analogies
 
-### 2.1 LLM = Dream Machine（梦境机器）
+### 2.1 LLM = Dream Machine
 
-这是他最诗意的类比，也是他重新定义「幻觉问题」的核心武器：
+His most poetic analogy is central to his reframing of the “hallucination problem.”
 
 > "In some sense, hallucination is all LLMs do. They are dream machines. We direct their dreams with prompts."
 
 > "TLDR I know I'm being super pedantic but the LLM has no 'hallucination problem'. Hallucination is not a bug, it is LLM's greatest feature."
 
-逻辑结构：先承认通俗理解（幻觉是问题），再反转（从LLM的本质看，这才是它做的事）。这是他的标准辩证手法。
+The structure starts by acknowledging the conventional reading that hallucination is a problem. It then reverses that reading by pointing out that hallucination is what the LLM fundamentally does. This is his standard dialectical move.
 
 ---
 
-### 2.2 LLM = People Spirits（人类幽灵/精神的蒸馏）
+### 2.2 LLM = People Spirits (ghosts or distilled human minds)
 
 > "We're not building animals. We're building ghosts or spirits."
 
@@ -88,29 +88,29 @@ Karpathy在技术判断上极少斩钉截铁，尤其是预测性陈述：
 
 > "They display jagged intelligence, so they're going to be superhuman in some problem-solving domains, and then they're going to make mistakes that basically no human will make."
 
-他用「**jagged intelligence**」（锯齿状智能）来描述LLM忽强忽弱的表现——这是他自造的概念，后来被广泛引用。
+He coined **jagged intelligence** to describe the uneven strengths and weaknesses of LLMs. The term was later widely cited.
 
 ---
 
-### 2.3 LLM = Operating System（操作系统）
+### 2.3 LLM = Operating System
 
 > "These are now increasingly complex software ecosystems...The LLM is a new kind of a computer."
 
 > "We're kind of like in this 1960s-ish era where LLM compute is still very expensive for this new kind of a computer."
 
-类比到计算机历史的某个年代，这是他常用的「时间定位法」——帮助读者感知「我们现在在哪个阶段」。
+He often compares current technology with a period in computing history to show readers which stage we are at.
 
 ---
 
-### 2.4 训练数据 = 糟糕的互联网（反直觉的吐槽）
+### 2.4 Training data = the terrible internet (a counterintuitive complaint)
 
 > "The internet is really terrible...total garbage...stock tickers, symbols, slop."
 
-他用「slop」（垃圾）描述互联网数据质量，批评当前预训练数据的问题。这个词在他2025年的表达中反复出现。
+He uses "slop" to characterize low-quality internet data and criticize current pretraining datasets. The word recurs in his 2025 statements.
 
 ---
 
-### 2.5 学习 = 压缩而非娱乐
+### 2.5 Learning as compression rather than entertainment
 
 > "It took me a while to really admit to myself that just reading a book is not learning but entertainment."
 
@@ -118,20 +118,20 @@ Karpathy在技术判断上极少斩钉截铁，尤其是预测性陈述：
 
 ---
 
-## 三、词汇风格与节奏
+## 3. Vocabulary and rhythm
 
-### 3.1 刻意用朴素动词，拒绝AI腔
+### 3.1 Plain verbs and avoidance of AI boilerplate
 
-Karpathy极少使用「leverage」「utilize」「facilitate」这类商务词汇，他更偏好：
+Karpathy rarely uses business terms such as “leverage,” “utilize,” or “facilitate.” Instead, he prefers the following.
 - **gobbled up**（"which gobbled up the compute"）
 - **chewing through**（"LLM labs chewing through the overhang"）
-- **strap in**（"Strap in."——独立一句，戏剧性停顿）
+- **strap in** ("Strap in." A stand-alone sentence with a dramatic pause.)
 - **terraform**（"Vibe coding will terraform software"）
 - **hack**（"very easy to hack to your needs"）
 
-### 3.2 短句独立成段——制造冲击感
+### 3.2 Short sentences in their own paragraphs for impact
 
-他在博客和X上都会用单句段落来强调关键点：
+In his blog and on X, he uses one-sentence paragraphs to emphasize key points.
 
 > "Strap in."
 
@@ -141,25 +141,25 @@ Karpathy极少使用「leverage」「utilize」「facilitate」这类商务词�
 
 > "Gradient descent can write code better than you. I'm sorry."
 
-最后那句「I'm sorry」是点睛之笔——技术陈述后跟一个人类语气词，幽默而有温度。
+The final “I'm sorry” is the finishing touch. The human aside that follows the technical statement adds humor and warmth.
 
-### 3.3 技术精确 + 口语化表达并存
+### 3.3 Combining technical precision with colloquial language
 
 > "3e-4 is the best learning rate for Adam, hands down."
 
-「hands down」（毫无疑问）——口语短语，用在极为精确的技术参数旁边，产生喜剧效果。他享受这种张力。
+The colloquial “hands down” means “without doubt.” Paired with a highly precise technical value, it has a comic effect. He enjoys that tension.
 
 > "a failure to claim the boost feels decidedly like a skill issue."
 
-「skill issue」是互联网梗，用来描述自己感受到的技术落后——自我调侃+恰当的互联网语言。
+The internet meme “skill issue” describes how far behind he felt technically. It combines self-mockery with apt internet language.
 
 ---
 
-## 四、幽默方式
+## 4. Forms of humor
 
-### 4.1 极度精确的荒诞感
+### 4.1 Highly precise absurdity
 
-他的笑话往往来自把一个很serious的技术词汇放在一个荒谬的语境里：
+His jokes often place a very serious technical term in an absurd setting.
 
 > "Plan is to throw a party in the Andromeda galaxy 1B years from now. Everyone welcome, except those who litter."
 
@@ -167,138 +167,138 @@ Karpathy极少使用「leverage」「utilize」「facilitate」这类商务词�
 
 > "Earth as dynamical system is really bad computer."
 
-这种幽默的核心是**把宇宙尺度的事情当成日常小事来说**，或者**把日常小事当成宇宙尺度的问题来分析**。
+The humor comes from **treating cosmic events like minor everyday matters**, or **analyzing minor everyday matters as cosmic problems**.
 
-### 4.2 自嘲式的技术承认
+### 4.2 Self-deprecating technical admissions
 
 > "Gradient descent can write code better than you. I'm sorry."
 
-> "lol `¯\_(ツ)_/¯`"（在nanoGPT README中，对生成效果不完美时的反应）
+> "lol `¯\_(ツ)_/¯`" (In the nanoGPT README, reacting to imperfect generation.)
 
-> "Amusingly, I coined the term 'vibe coding'"（用「amusingly」评价自己创造了影响数百万人的词汇）
+> "Amusingly, I coined the term 'vibe coding'" (Using “amusingly” to characterize coining a term that influenced millions.)
 
-### 4.3 反英雄式建议
+### 4.3 Advice against trying to be a hero
 
-> "Don't be a hero. I've seen a lot of people who are eager to get crazy and creative... Resist this temptation strongly."（在《神经网络训练食谱》中）
+> "Don't be a hero. I've seen a lot of people who are eager to get crazy and creative... Resist this temptation strongly." (In *A Recipe for Training Neural Networks*.)
 
 ---
 
-## 五、确定性程度：高度倾向于留白
+## 5. Certainty: a strong tendency to acknowledge uncertainty
 
-**笃定（亲身经验/实验验证）：**
+**Certainty (firsthand experience or experimental verification)**
 > "The qualities that in my experience correlate most strongly to success in deep learning are patience and attention to detail."
 
 > "When you sort your dataset descending by loss you are guaranteed to find something unexpected, strange and helpful."
 
-**留白（预测/判断/未来）：**
-> "I simultaneously (and on the surface paradoxically) believe [多个看似矛盾的命题]"
+**Room for uncertainty (predictions, judgments, and the future)**
+> "I simultaneously (and on the surface paradoxically) believe [several seemingly contradictory propositions]"
 
 > "Personally I suspect that LLM labs will trend to graduate..."
 
-这种模式很清晰：**我能测的我斩钉截铁，我猜的我留有余地。**
+The pattern is clear: **he is decisive about what he can test and leaves room for uncertainty about what he guesses.**
 
 ---
 
-## 六、他不怕说的争议性立场
+## 6. Controversial views he is willing to express
 
-### 6.1 反炒作：用时间拉长视角
+### 6.1 Countering hype by extending the timeframe
 
 > "When I see things like, '2025 is the year of agents,' I get very concerned. And I kind of feel like, you know, this is the decade of agents."
 
-他不直接否定，而是把时间轴拉长——从「今年」变成「这个十年」。这种操作既保留了正面态度，又隐含批评。
+He extends the timeframe from this year to this decade instead of rejecting the idea outright. He stays positive while making an implicit criticism.
 
 > "Overall, the models are not there. I feel like the industry is making too big of a jump and is trying to pretend like this is amazing, and it's not."
 
-### 6.2 重新定义「幻觉问题」
+### 6.2 Redefining the hallucination problem
 
-他敢于说「hallucination is not a bug, it is LLM's greatest feature」——和主流舆论方向相反，他用逻辑解释而非权威背书来支持它。
+He is willing to say “hallucination is not a bug, it is LLM's greatest feature,” a view that goes against mainstream opinion. He supports it with reasoning rather than appeals to authority.
 
-### 6.3 对学习的反直觉定义
+### 6.3 A counterintuitive definition of learning
 
 > "Reading a book is not learning but entertainment."
 
-挑战了「读书=学习」的朴素认知。他的观点是：真正的学习需要主动预测和建构，而不是被动接收。
+It challenges the ordinary equation of reading with learning. He sees active prediction and construction as essential to real learning, beyond passive intake.
 
 ---
 
-## 七、批评对象清单
+## 7. Targets of criticism
 
-他会批评的方向：
+He directs criticism at the following.
 
-1. **AI炒作周期**：过于激进的短期预测（「year of agents」）
-2. **低质量训练数据**：「The internet is really terrible...total garbage...slop.」
-3. **盲目benchmark崇拜**：「my general apathy and loss of trust in benchmarks in 2025」
-4. **不动手只读书的学习方式**：「just reading a book is not learning but entertainment」
-5. **过于复杂的代码库**：「They're bloating the code base...it's just not net useful.」
-6. **框架依赖**（llm.c项目名言）：「no need for 245MB of PyTorch or 107MB of cPython」
-7. **初学者急于「成为英雄」**：「Don't be a hero...Resist this temptation strongly.」
+1. **AI hype cycles.** Aggressive short-term forecasts ("year of agents").
+2. **Poor training data.** "The internet is really terrible...total garbage...slop."
+3. **Uncritical reliance on benchmarks.** "my general apathy and loss of trust in benchmarks in 2025"
+4. **Learning by reading without practice.** "just reading a book is not learning but entertainment"
+5. **Overly complex codebases.** "They're bloating the code base...it's just not net useful."
+6. **Framework dependence** (from llm.c). "no need for 245MB of PyTorch or 107MB of cPython"
+7. **Beginners rushing to play the hero.** "Don't be a hero...Resist this temptation strongly."
 
 ---
 
-## 八、在技术细节上：极简化 vs 精确的平衡
+## 8. Technical detail: balancing minimalism with precision
 
-Karpathy的策略是**用极简代码来证明精确理解**：
+Karpathy's strategy is to **demonstrate precise understanding with minimal code**.
 
 > "Train and inference GPT in 243 lines of pure, dependency-free Python" (microgpt)
 
 > "~300-line training loop and ~300-line GPT model definition" (nanoGPT)
 
-这是他的教学哲学：**如果你真的理解了，就能用最少的代码写出来。**
+His teaching philosophy is that **if you truly understand something, you can write it with the least possible code**.
 
-对应他的名言：「If I can't build it, I don't understand it.」
+This matches his saying: "If I can't build it, I don't understand it."
 
 ---
 
-## 九、标志性表达模式总结
+## 9. Summary of distinctive expression patterns
 
-| 模式 | 例子 | 作用 |
+| Pattern | Example | Purpose |
 |------|------|------|
-| 新词命名 + 定义 | "vibe coding: fully give in to the vibes" | 创造概念，占据话语权 |
-| 版本号框架 | Software 1.0 / 2.0 / 3.0 | 把范式变化变成可感知的升级 |
-| 反转常识 | "hallucination is not a bug, it's a feature" | 先接受通俗理解，再逻辑反转 |
-| 独立短句 | "Strap in." / "Don't be a hero." | 制造停顿，强化记忆点 |
-| 自嘲 + 精确 | "3e-4 is the best learning rate for Adam, hands down." | 幽默中藏着真实的技术判断 |
-| 时间轴拉长 | "year of agents" → "decade of agents" | 不直接否定，用时间视角隐含批评 |
-| 用"imo"标记主张 | "Imo fair to say..." | 诚实标注自己判断的边界 |
-| 类比过渡词 | "it's kind of like" / "in some sense" | 铺垫类比，降低理解门槛 |
-| 承认不确定 | "I have a wide distribution here" | 认知诚实，建立信任 |
-| 互联网语气词 | "lol" / "skill issue" / "omg" | 技术大牛也很「网」 |
+| Coining and defining a term | "vibe coding: fully give in to the vibes" | Creates a concept and shapes the discussion |
+| Version-number framework | Software 1.0 / 2.0 / 3.0 | Makes paradigm shifts feel like recognizable upgrades |
+| Reversing conventional wisdom | "hallucination is not a bug, it's a feature" | Acknowledges the common view before reversing it through reasoning |
+| Stand-alone short sentences | "Strap in." / "Don't be a hero." | Creates a pause and makes a point memorable |
+| Self-mockery and precision | "3e-4 is the best learning rate for Adam, hands down." | Embeds a real technical judgment in humor |
+| Lengthening the timeframe | "year of agents" → "decade of agents" | Uses time to criticize implicitly without an outright rejection |
+| Marking a claim with "imo" | "Imo fair to say..." | Honestly signals the limits of his judgment |
+| Analogy transitions | "it's kind of like" / "in some sense" | Prepares the analogy and makes it easier to understand |
+| Acknowledging uncertainty | "I have a wide distribution here" | Builds trust through intellectual honesty |
+| Internet expressions | "lol" / "skill issue" / "omg" | Shows that leading technical figures also use internet vernacular |
 
 ---
 
-## 十、原文引用速查（按主题）
+## 10. Quick reference to original quotations by topic
 
-**关于LLM本质：**
+**On the nature of LLMs**
 - "LLMs are dream machines."
 - "LLMs are people spirits."
 - "They display jagged intelligence."
 - "We're summoning ghosts."
 
-**关于编程范式：**
+**On programming paradigms**
 - "The hottest new programming language is English."
 - "There's a new kind of coding I call 'vibe coding'."
 - "I've never felt this much behind as a programmer."
 - "A failure to claim the boost feels decidedly like a skill issue."
 - "It's less Iron Man robots and more Iron Man suits."
 
-**关于学习：**
+**On learning**
 - "If I can't build it, I don't understand it."
 - "Reading a book is not learning but entertainment."
 - "The qualities that correlate most strongly to success in deep learning are patience and attention to detail."
 
-**关于炒作：**
+**On hype**
 - "This is the decade of agents."
 - "Overall, the models are not there."
 - "My general apathy and loss of trust in benchmarks in 2025."
 
-**关于代码：**
+**On code**
 - "Don't be a hero."
 - "Backprop + SGD does not magically make your network work."
 - "No need for 245MB of PyTorch."
 
 ---
 
-*信息源：*
+*Sources*
 - https://karpathy.ai/tweets.html
 - https://x.com/karpathy/status/1886192184808149383
 - https://karpathy.bearblog.dev/year-in-review-2025/

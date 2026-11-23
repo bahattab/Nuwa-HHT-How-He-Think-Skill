@@ -1,34 +1,34 @@
-# 04 · 他者视角与批评（2026-11-09 升级：复用旧底稿＋核实）
+# 04 · External views and criticism (2026-11-09 upgrade: reuse and verification)
 
-主体沿用 `legacy-202604/调研-芒格外部批评与盲点分析.md`（科技盲区、加密货币、AI、Munger Hall、中国、Daily Journal 会计质疑、Giving Pledge、与索罗斯/达利欧/林奇对比、去世后的反思）。这里记核实、纠错和补充。
+The main analysis reuses `legacy-202604/调研-芒格外部批评与盲点分析.md` on his blind spots in technology, cryptocurrency, AI, Munger Hall, China, questions about Daily Journal accounting, the Giving Pledge, comparisons with Soros, Dalio and Lynch, and reflections following his death. This file records what was verified, corrected, or added.
 
-## 核实与纠错
+## Verification and corrections
 
-1. **Munger Hall**：2 亿美元附条件捐赠、McFadden 辞职、Goldberger「伪装成宿舍的监狱」、2023 年 8 月取消，均核实（来源见 05）。他骂的是 "idiot"（Architectural Record）和 "When an ignorant man leaves, I regard it as a plus"。旧底稿「密歇根的芒格宿舍被住户投诉」未核到可靠来源；可核实的是他本人对那栋楼的评价 "You never saw a happier bunch of students"（Business Insider 转述）。
-2. **「suck it in and cope」**是 2010 年 9 月在密歇根大学说的，旧底稿记在 2008 年；语境是为救助金融机构辩护、反对对个人普遍救助（见 05）。
-3. **阿里巴巴**：旧底稿的「真实原因是低估中国政治风险」「受李录影响」是外部评论的推断（Seeking Alpha、Yibao）；他本人给的原因见 05。数字（5 年 −59% 等）是 2024 年初的快照，此后阿里明显回升，不再引用。
-4. **「技术盲区」要加限定**：他错过 Google（2019 伯克希尔年会："I feel like a horse's ass for not identifying Google better… We screwed up"），但比亚迪正是一笔技术制造业投资，而且是他自认在伯克希尔最好的一笔。「他不碰科技」是简化。
-5. **投资记录的评价**。旧底稿说「实际投资记录远不如思想影响力」。可核实的记录：合伙基金 1962–75 年化 19.8%；Daily Journal 2009 年的银行股；李录基金 4–5 倍；比亚迪约 30 倍以上；Costco 持有三十年；阿里巴巴是亏损。说「晚年有一次显眼的错」成立，说「记录不突出」证据不足。
-6. **对中国的言论**：称赞中国禁止加密货币（2021 年 12 月悉尼一场会议上的话；2023 年 WSJ 文章里建议美国学中国的做法）；批评马云（"very arrogant"，Yahoo Finance 2025 转述）。批评者认为他对威权治理过于宽容。沿用旧底稿来源 https://fortune.com/2021/12/03/charlie-munger-criticizes-crypto-china/
-7. **财富与慈善**：去世时净资产约 26 亿美元；CNBC 最后访谈里说一半以上已传给后代、另有大量已捐出。拒签 Giving Pledge 沿用旧底稿。
+1. **Munger Hall.** The conditional $200 million donation, McFadden’s resignation, Goldberger’s characterization of the project as a prison disguised as a dormitory, and cancellation in August 2023 were verified (sources in 05). Munger’s insults were "idiot" (Architectural Record) and "When an ignorant man leaves, I regard it as a plus". No reliable source was found for the old research note’s claim that residents had complained about the Munger residence in Michigan. What could be verified was Munger’s own assessment: "You never saw a happier bunch of students" (as reported by Business Insider).
+2. **“Suck it in and cope.”** He said this at the University of Michigan in September 2010. The old notes dated it to 2008. He was defending bailouts for financial institutions and opposing blanket bailouts for individuals (see 05).
+3. **Alibaba.** The older notes’ claims that the real reason was underestimating Chinese political risk and that Li Lu influenced him are inferences by outside commentators (Seeking Alpha and Yibao). For the reasons Munger himself gave, see 05. The figures, such as −59% over five years, came from a snapshot in early 2024. Alibaba subsequently rebounded substantially, so those figures are no longer used.
+4. **Qualify the technology blind spot.** He missed Google (Berkshire annual meeting, 2019: "I feel like a horse's ass for not identifying Google better… We screwed up"). Yet BYD was an investment in technological manufacturing, and he considered it his best investment at Berkshire. Saying that he avoided technology oversimplifies.
+5. **Assessing his investment record.** The older notes said his investment track record was far less impressive than his influence as a thinker. The verifiable record includes the partnership’s annualized 19.8% return in 1962–75, Daily Journal’s bank stock purchases in 2009, a 4–5× return on the Li Lu fund, roughly 30× or more on BYD, a thirty-year holding in Costco, and a loss on Alibaba. The evidence supports saying he made one conspicuous late-life error. It is insufficient to say his record was unremarkable.
+6. **Statements about China.** He praised China’s cryptocurrency ban at a Sydney conference in December 2021. His 2023 WSJ article recommended that the US follow China’s lead. He criticized Jack Ma as "very arrogant" (reported by Yahoo Finance in 2025). Critics see him as overly tolerant of authoritarian governance. Source carried over from the older notes: https://fortune.com/2021/12/03/charlie-munger-criticizes-crypto-china/
+7. **Wealth and philanthropy.** His net worth at death was approximately $2.6 billion. In his final CNBC interview, he said more than half had already gone to his descendants and that he had also given away a substantial amount. His refusal to sign the Giving Pledge is carried over from the older notes.
 
-## 补充：亲近者的评价
+## Additional comments from people close to him
 
-- 巴菲特：芒格是伯克希尔的「建筑师」，自己是「总承包商」（2023 年致股东信悼文）；"Charlie and I have never had an argument"（2014）；称他 "abominable no-man"。
-- 巴菲特 2025 年信：芒格把拖延纠错叫 thumb-sucking（见 05）。
-- Zweig（WSJ）：他 99.5% 的时间什么都不做，一旦出手就砸大钱。
-- 李录：《穷查理宝典》中文版序（书生与商人）。未重读，仅列目。
-- 继子 Hal Borthwick（WSJ 2025）："To the day he died, his mind was running. He never stopped learning."
+- Buffett called Munger Berkshire’s “architect” and himself the “general contractor” in the tribute in Berkshire’s 2023 shareholder letter. In 2014 he said, "Charlie and I have never had an argument". He also called him the "abominable no-man".
+- Buffett’s 2025 letter: Munger called delaying the correction of a mistake “thumb-sucking” (see 05).
+- Zweig (WSJ): He did nothing 99.5% of the time and committed a large amount of money once he decided to act.
+- Li Lu: Preface to the Chinese edition of *Poor Charlie’s Almanack*, on the scholar and the businessman. Listed for reference only and not reread.
+- His stepson Hal Borthwick (WSJ, 2025): "To the day he died, his mind was running. He never stopped learning."
 
-## 批评者的核心论点（保留，不调和）
+## Critics’ main arguments (preserved without reconciliation)
 
-- Munchau（DL News）：对加密货币的反对是政治性的，「没有哪个他这个级别的投资人会对一个资产类别这样一刀切」。
-- City Journal：他的方法在最近十年的科技牛市里显得「近乎古雅」。
-- McFadden：Munger Hall 是「以单一捐赠人的愿景做的社会与心理实验」。
-- 2010 年舆论：一个靠救助受益的亿万富翁叫普通人忍着。
+- Munchau (DL News): His opposition to cryptocurrency was political. No investor of his stature would dismiss an entire asset class so categorically.
+- City Journal: His method seemed “almost quaint” during the past decade’s technology bull market.
+- McFadden: Munger Hall was a “social and psychological experiment based on the vision of a single donor.”
+- Public reaction in 2010: A billionaire who had benefited from bailouts told ordinary people to put up with hardship.
 
-## 和先验不一样的地方
+## Differences from prior knowledge
 
-- 推翻：「投资记录不突出、只是思想家」的说法站不住，可核实的几笔里只有阿里是亏的。
-- 加深：Munger Hall 的条件、数字、他回应的原话。
-- 加深：「suck it in」的时间和完整语境。
+- Correction: The view that his investment record was unexceptional and he was merely a thinker does not hold up. Among the several verifiable transactions, only Alibaba lost money.
+- Refinement: The terms and figures for Munger Hall, and his exact response.
+- Refinement: The timing and full context of “suck it in.”
