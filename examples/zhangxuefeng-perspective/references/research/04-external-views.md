@@ -1,70 +1,79 @@
-# 张雪峰 - 他者视角与批评
+# Zhang Xuefeng — Outside perspectives and criticism
 
-## 正面评价
+## Positive assessments
 
-### 信息破壁者
-- 帮助寒门学子打破信息不对称，让普通家庭获得以前只有精英家庭才有的择校信息
-- 用通俗语言将复杂的教育体系翻译给大众
+### Breaking down information barriers
 
-### 教学风格感染力
-- 干货+段子的混搭风格，让枯燥的专业分析变得生动
-- 极强的共情能力，能站在普通家庭的角度思考问题
+- He helped students from financially disadvantaged families overcome information asymmetry, giving ordinary households access to admissions guidance previously available only to elite families.
+- He explained the complexities of the education system to the public in plain language.
 
-### 推动志愿填报产业化
-- 将志愿填报从散兵游勇的小生意变成系统化产业
-- 峰学蔚来年营收超8亿，证明市场需求真实存在
+### Engaging teaching style
 
-## 批评与争议
+- His blend of practical advice and humor made otherwise dry analyses of university majors engaging.
+- His strong capacity for empathy helped him consider problems from the perspective of ordinary households.
 
-### 核心言论争议
-1. **新闻学事件（2023.5）**：「如果我是家长，孩子报新闻学我会打断他的腿」，引发全网讨论，多位新闻学教授回应反驳
-2. **文科服务业事件（2023.12）**：「所有的文科专业都叫服务业」，再度引爆争议
-3. **直播爆粗被网信办通报（2025）**：因直播中不当言论被中央网信办处罚，多平台限流
+### Turning admissions advice into an industry
 
-### 功利主义教育观批评
-- **教育窄化为职业培训**：批评者认为张雪峰将大学教育等同于职业培训，忽略通识教育价值
-- **剥夺底层追求理想的权利**：以「实用」之名劝退穷人家孩子的理想，实质是固化阶层
-- **精英也反对**：部分高校教授公开反驳，认为其言论过于简单化
+- He helped transform an informal trade in advice on submitting ranked university and major preferences into an organized industry.
+- The notes cite Fengxue Weilai's annual revenue of more than 800 million yuan as evidence of real market demand.
 
-### 商业模式争议
-- **贩卖焦虑**：通过制造教育焦虑来售卖高价服务（12999-18999元/人）
-- **饥饿营销**：高考季限量放号，制造供不应求假象
-- **前员工曝光**：有前员工指出培训不足，一线咨询师水平参差不齐
+## Criticism and controversies
 
-### 思维盲点（外部视角）
-- **自我矛盾**：自己本科是给排水专业，跨专业做了考研辅导→教育博主，恰恰是「专业不重要」的活证据
-- **预判能力局限**：早年曾推荐过新闻学，后来改口
-- **信息差悖论**：当所有人都按热门专业填报时，反而造成新的内卷
-- **绝对化思维**：将复杂的教育选择简化为几条硬规则，忽略个体差异
+### Controversial remarks
 
-## 与同行对比
+1. **Journalism controversy (May 2023).** “If I were a parent and my child applied to study journalism, I would break their legs.” The remark sparked online debate across China, and several journalism professors publicly rebutted it.
+2. **Liberal arts as a service industry (December 2023).** “Every liberal arts major belongs to the service industry.” The remark reignited controversy.
+3. **Cyberspace Administration notice over swearing on a livestream (2025).** The source says the Cyberspace Administration of China penalized Zhang for inappropriate livestream remarks and that several platforms restricted his reach.
 
-| 维度 | 张雪峰 | 其他志愿填报博主 |
-|------|--------|----------------|
-| 切入路径 | 从考研辅导转入志愿填报（独特） | 多从高考辅导/教育行业直接进入 |
-| IP强度 | 极致个人IP，自带争议流量 | 多为机构品牌 |
-| 风格 | 段子+毒舌+真诚 | 多为温和分析型 |
-| 争议策略 | 争议即流量，不回避冲突 | 多选择中立保守 |
+### Criticism of his utilitarian view of education
 
-## 中立分析
+- **Reducing education to job training.** Critics argue that Zhang equated university education with vocational training and overlooked the value of general education.
+- **Denying disadvantaged students the right to pursue aspirations.** Critics argue that discouraging children from poor households from pursuing their aspirations in the name of practicality reinforces class barriers.
+- **Opposition from elites.** Some university professors publicly rebutted his statements as oversimplified.
 
-- **钛媒体**定义：「时代最复杂的教育符号」
-- **虎嗅**总结：「感谢张雪峰，警惕张雪峰」
-- **三联生活周刊**：深度分析张雪峰现象折射的教育焦虑和阶层流动困境
+### Business model controversies
 
-## 重要背景
+- **Selling anxiety.** Critics accuse him of stoking education anxiety to sell expensive services priced at 12,999–18,999 yuan per person.
+- **Scarcity marketing.** Critics allege that releasing a limited number of slots during the gaokao season created the appearance that demand outstripped supply.
+- **Former employees' disclosures.** Former employees said training was inadequate and the competence of front-line advisers varied.
 
-张雪峰于2026年3月24日因心源性猝死去世，年仅41岁。去世后舆论出现两极分化：感恩他帮助了无数普通家庭 vs 反思他的功利主义教育观。
+### Blind spots identified by outside observers
 
-## 来源索引
+- **Self-contradiction.** His undergraduate major was water supply and drainage engineering. He moved outside that field into postgraduate entrance-exam tutoring and then education blogging, making him a living example of his own proposition that one's major does not matter.
+- **Limits of forecasting.** He recommended journalism earlier in his career and later reversed his position.
+- **Information gap paradox.** When everyone applies to popular majors, competition intensifies again.
+- **Absolutist thinking.** Reducing complex education choices to a handful of rigid rules overlooks individual differences.
 
-- 36氪 - 张雪峰商业分析 可信度：一手报道
-- 钛媒体 - 「时代最复杂的教育符号」分析 可信度：一手
-- 虎嗅 - 「感谢张雪峰，警惕张雪峰」 可信度：一手
-- 三联生活周刊 - 张雪峰现象深度分析 可信度：一手
-- 界面新闻 - 争议报道 可信度：一手
-- 21经济网 - 教育产业分析 可信度：一手
-- 蓝鲸财经 - 峰学蔚来商业模式分析 可信度：一手
-- 凤凰网 - 综合报道 可信度：一手
-- 科学网 - 高校教授回应 可信度：一手
-- 南方周末 - 新闻学争议深度报道 可信度：一手
+## Comparison with peers
+
+| Dimension | Zhang Xuefeng | Other admissions advice bloggers |
+|---|---|---|
+| Route into the field | Unusually, moved from postgraduate entrance-exam tutoring into advice on ranked admissions preferences | Typically enter directly from gaokao tutoring or the education sector |
+| Brand strength | Highly individual personal brand that attracts traffic through controversy | Typically institutional brands |
+| Style | Jokes, sharp remarks, and sincerity | Typically measured analysis |
+| Approach to controversy | Treats controversy as a source of traffic and does not avoid conflict | Usually adopt a neutral, conservative position |
+
+## Neutral analysis
+
+- **TMTPost** called him “the most complex symbol of education in his era.”
+- **Huxiu** summed up its assessment as “Thank Zhang Xuefeng, but be wary of Zhang Xuefeng.”
+- **Lifeweek** examined what the Zhang Xuefeng phenomenon revealed about education anxiety and barriers to social mobility.
+
+## Important background
+
+According to the source notes, Zhang Xuefeng died of sudden cardiac death on March 24, 2026, at the age of 41. Public reaction after his death polarized between gratitude for his help to countless ordinary families and reflection on his utilitarian approach to education.
+
+## Source index
+
+Assessments below reproduce the source document's classifications.
+
+- **36Kr:** Business analysis of Zhang Xuefeng. Firsthand reporting.
+- **TMTPost:** Analysis titled “The Most Complex Symbol of Education in His Era.” Primary source.
+- **Huxiu:** “Thank Zhang Xuefeng, but Be Wary of Zhang Xuefeng.” Primary source.
+- **Lifeweek:** In-depth analysis of the Zhang Xuefeng phenomenon. Primary source.
+- **Jiemian News:** Coverage of the controversies. Primary source.
+- **21st Century Business Herald:** Education industry analysis. Primary source.
+- **Blue Whale Finance:** Analysis of Fengxue Weilai's business model. Primary source.
+- **Ifeng:** General coverage. Primary source.
+- **ScienceNet:** Responses from university professors. Primary source.
+- **Southern Weekly:** In-depth coverage of the journalism controversy. Primary source.
