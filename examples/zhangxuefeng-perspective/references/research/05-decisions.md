@@ -1,172 +1,172 @@
-# 张雪峰 - 决策记录与行动
+# Zhang Xuefeng — Decisions and actions
 
-> 调研时间：2026-04-05
-> 来源：维基百科、36氪、钛媒体、界面新闻、21经济网、澎湃新闻、腾讯新闻、蓝鲸财经、CBNData、证券时报、新京报等
+> Research date: 2026-04-05
+> Sources: Wikipedia, 36Kr, TMTPost, Jiemian News, 21st Century Business Herald, The Paper, Tencent News, Blue Whale Finance, CBNData, Securities Times, Beijing News, and others
 
-## 关键决策时间线
+## Timeline of key decisions
 
-### 1. 进入考研辅导行业（2007）
-- **时间**：2007年
-- **背景**：张雪峰（本名张子彪）1984年出生于黑龙江齐齐哈尔市富裕县贫困家庭，2003年考入郑州大学给排水专业。大学期间帮同学搜集考研资料，在朋友（从事考研辅导代理招生）影响下接触行业
-- **决策**：毕业后北漂，进入考研辅导机构，月薪2500元，住海淀六郎庄村单人床小屋
-- **结果**：2008年正式登上讲台，凭借东北人的幽默感和「干货+段子」的讲课风格逐渐积累口碑
-- **言行一致性**：★★★★★ 他后来反复讲述的「寒门出身→靠教育改变命运」叙事，与早期经历完全吻合。他的职业选择本身就是他后来传播的核心信念的实践
+### 1. Entering the postgraduate exam preparation industry (2007)
+- **Date:** 2007
+- **Background:** Zhang Xuefeng, born Zhang Zibiao, was born in 1984 into a poor family in Fuyu County, Qiqihar, Heilongjiang. He entered Zhengzhou University's water supply and drainage program in 2003. He helped classmates gather postgraduate exam materials and discovered the industry through a friend who recruited students for a prep provider.
+- **Decision:** After graduating, he moved to Beijing and joined a postgraduate exam prep provider. He earned 2,500 yuan a month and rented a tiny room with a single bed in Liulangzhuang, Haidian.
+- **Outcome:** In 2008, he formally began teaching. His Northeastern humor and teaching style, combining practical information with jokes, gradually earned him a reputation.
+- **Consistency:** ★★★★★ The story he later told repeatedly, about coming from a poor family and changing his fate through education, fits his early experience. His career choice put a core belief he later promoted into practice.
 
-### 2. 短视频爆红出圈（2016）
-- **时间**：2016年6月
-- **背景**：移动短视频平台兴起，考研辅导行业竞争激烈但线上化不足
-- **决策**：一段《七分钟解读34所985高校》讲课视频被传上网，72小时播放破千万，全网累计超十亿。张雪峰敏锐抓住这次意外走红，全力投入短视频内容创作
-- **结果**：从考研圈内名师变为全网皆知的「考研界郭德纲」。同年9月出版首部考研指导书《你离考研成功，就差这本书》
-- **言行一致性**：★★★★☆ 这是一次被动走红后的主动决策。他抓住了流量窗口期，但这也标志着从「教师」到「网红教师」身份的转变起点
+### 2. Breaking out through a viral short video (2016)
+- **Date:** June 2016
+- **Background:** Mobile short-video platforms were emerging and the fiercely competitive exam preparation industry had a limited online presence.
+- **Decision:** A recording of his lecture “34 Project 985 universities explained in seven minutes” was uploaded. It exceeded 10 million views in 72 hours and one billion cumulative views across the internet. He quickly recognized the opportunity created by this unexpected success and committed fully to creating short videos.
+- **Outcome:** He went from a well-known exam prep teacher within the industry to the internet-famous “Guo Degang of postgraduate exams.” In September that year he published his first exam guide, *This Book Is All That Stands Between You and Postgraduate Exam Success*.
+- **Consistency:** ★★★★☆ An unexpected rise to prominence prompted an active decision. He seized the audience growth opportunity, which also marked the beginning of his transition from teacher to influencer-teacher.
 
-### 3. 从考研转向高考志愿填报（2019-2021）
-- **时间**：2019年开始探索，2021年正式转型
-- **背景**：考研辅导市场竞争日趋激烈，且天花板有限（考研人群约400万/年）；高考报志愿是更大的刚需市场（约1000万考生/年），且家长付费意愿强
-- **决策**：逐步将内容重心从考研辅导转向高考志愿规划、专业选择指导。在短视频平台大量输出「选专业」「选学校」类内容
-- **结果**：成功从「考研名师」转型为「升学规划顶流」，目标用户从大学生扩大到高中生及其家长群体，商业空间显著扩大
-- **言行一致性**：★★★★☆ 业务逻辑合理——他的核心能力是「用通俗语言讲学校和专业」，从考研延伸到高考是自然的。但批评者指出：考研辅导需要对院校专业有深入了解，高考志愿的信息密度更浅，这次转型更多是商业驱动而非能力驱动
+### 3. Shifting from postgraduate exam prep to gaokao application guidance (2019–2021)
+- **Date:** Began exploring in 2019 and formally pivoted in 2021.
+- **Background:** Competition in postgraduate exam prep intensified, and its market was bounded at around four million examinees annually. Ranking university and major choices after the gaokao addressed a larger essential need, with around ten million candidates a year and parents willing to pay.
+- **Decision:** He gradually shifted his content from exam prep to planning gaokao applications and choosing majors. He published large volumes of short videos about choosing majors and universities.
+- **Outcome:** He shifted from a celebrated exam teacher to a leading education planning influencer. His target audience expanded from university students to high school students and their parents, substantially increasing commercial opportunities.
+- **Consistency:** ★★★★☆ The business logic was reasonable. His core strength was explaining universities and majors in plain language, so extending from postgraduate exams to the gaokao was natural. Critics say postgraduate exam prep requires deep knowledge of institutions and programs, whereas application guidance is less information-intensive. They attribute the pivot more to commercial considerations than skills.
 
-### 4. 举家搬迁苏州、创办峰学蔚来（2021）
-- **时间**：2021年
-- **背景**：张雪峰北漂14年，女儿无法在北京落户，面临就学和高考问题。苏州新一线城市，交通便利、创业氛围好、新市民政策友好
-- **决策**：举家搬迁苏州，创办苏州峰学蔚来教育科技有限公司（注册于2021年5月13日）。不仅个人搬家，还为员工报销搬家费、对接学区房中介、推出「零息购房贷款」福利
-- **结果**：公司扎根苏州，张雪峰成为苏州城市代言人之一。峰学蔚来后来发展为涵盖升学规划、图书研发、研学、直播电商等多条业务线的教育科技公司
-- **言行一致性**：★★★★★ 这个决策高度一致——他一直对外传播「选择比努力重要」「不要死磕一线城市户口」的理念，自己搬到苏州就是身体力行。为员工提供搬家福利也体现了对团队的重视
+### 4. Moving his family to Suzhou and founding Fengxue Weilai (2021)
+- **Date:** 2021
+- **Background:** After 14 years in Beijing, Zhang could not register his daughter's household there, complicating schooling and the gaokao. Suzhou, a rising first-tier city, offered good transport, a supportive entrepreneurial environment and friendly policies for new residents.
+- **Decision:** He moved the whole family and founded Suzhou Fengxue Weilai Education Technology Co., Ltd., registered on May 13, 2021. He also reimbursed employees for moving costs, put them in contact with agents for homes in school catchment areas, and offered zero-interest home-purchase loans.
+- **Outcome:** The company established itself in Suzhou and Zhang became one of the city's ambassadors. The company later covered education planning, book development, educational study trips, livestream commerce and other business lines.
+- **Consistency:** ★★★★★ He consistently promoted the ideas that choice matters more than effort and that people should avoid fighting endlessly for household registration in a first-tier city. He put those ideas into practice by moving to Suzhou. Relocation benefits also reflected his concern for his team.
 
-### 5. 「新闻学之争」引爆全网（2023年6月）
-- **时间**：2023年5-6月
-- **背景**：高考季直播中，面对家长「孩子非要报新闻学怎么办」的提问
-- **决策**（原始言论）：「孩子非要报新闻学，我一定把他打晕，随便报个别的专业都比新闻强。」
-- **回应策略**：
-  - 重庆大学、四川大学、华中科技大学等高校新闻学院教授围攻，官媒点名批评
-  - 6月9日接受《中国新闻周刊》采访回应：解释原始语境是「新疆考生590分可以在华科任选电子信息/计算机等专业，却要选川大新闻学」，被断章取义
-  - 未直接道歉，而是补充语境、还原前提
-- **结果**：成为2023年度教育十大事件之一。反而带来更大流量和关注度。高考季志愿填报服务销量暴涨
-- **言行一致性**：★★★☆☆ 复杂。他的核心观点（普通家庭选专业要看就业前景）与他一贯立场一致。但表达方式过于极端化，且「被断章取义」的辩护只部分成立——即便有语境，「打晕」的措辞本身就有问题。这次争议也揭示了一个模式：**极端表达→引发争议→获得流量→商业变现**，这个循环是否有意为之，是外界持续争论的焦点
+### 5. The journalism dispute goes viral (June 2023)
+- **Date:** May–June 2023
+- **Background:** During a gaokao-season livestream, a parent asked what to do if their child insisted on journalism.
+- **Decision (original remark):** “If my child insisted on applying to study journalism, I'd knock them out. Pick any other major and it'd be better than journalism.”
+- **Response:**
+  - Journalism professors at Chongqing University, Sichuan University, Huazhong University of Science and Technology (HUST), and others criticized him, and state media singled him out.
+  - In a June 9 interview with *China Newsweek*, he explained the original context: a student from Xinjiang with a score of 590 could choose any HUST electronics and information or computer science program, yet wanted journalism at Sichuan University. He said the clip had been taken out of context.
+  - He gave no direct apology and instead supplied context and restated the premise.
+- **Outcome:** It became one of China's ten major education incidents of 2023. The controversy brought even greater attention and traffic. Sales of gaokao application services surged that season.
+- **Consistency:** ★★★☆☆ Mixed. The underlying position that ordinary families should weigh job prospects when choosing a major fits his established views. The expression was extreme, and the out-of-context defense only partly holds. Even with context, the language about knocking the child out was problematic. The incident also revealed a pattern: **extreme language → controversy → traffic → monetization**. Whether he intended the cycle remains contested.
 
-### 6. 过度劳累住院（2023年6月24日）
-- **时间**：2023年6月24日
-- **背景**：新闻学风波+高考志愿填报高峰期，双重压力叠加，长期每天工作十几小时、熬夜到凌晨、高频直播
-- **决策**：在微博公开发文称「因为过度劳累、胸闷心悸，大晚上的被医院收治强制住院」
-- **结果**：引发公众对其工作强度的关注。但据报道，住院期间仍在审核数千份志愿方案。出院后并未实质性减轻工作量
-- **言行一致性**：★★☆☆☆ 严重不一致。他多次在直播中告诫年轻人「身体是革命的本钱」「不要用命换钱」，但自己完全没有践行。2023年的住院是身体发出的明确警告信号，但他选择忽略，继续维持高强度工作模式，最终导致三年后的心源性猝死
+### 6. Hospitalization from overwork (June 24, 2023)
+- **Date:** June 24, 2023
+- **Background:** The journalism dispute coincided with peak gaokao application season. He had long worked more than ten hours a day, stayed up into the early morning, and livestreamed frequently.
+- **Decision:** On Weibo he wrote that he was “admitted to hospital late at night and made to stay because of overwork, chest tightness and palpitations.”
+- **Outcome:** The public took notice of his workload. According to reports, he still reviewed thousands of application plans in hospital. He did not substantially reduce his workload after discharge.
+- **Consistency:** ★★☆☆☆ Seriously inconsistent. In livestreams he often told young people that “your health is the foundation for everything” and “don't trade your life for money,” but he did not live by that advice. The notes describe his 2023 hospitalization as a clear physical warning he chose to ignore and attribute his sudden cardiac death three years later to continued overwork.
 
-### 7. 「文科都是服务业」风波与道歉（2023年12月）
-- **时间**：2023年12月
-- **背景**：直播中称文科都是服务业，「总结称一个字就是'舔'，就是'爷我给你笑一个'」
-- **决策**：
-  - 12月9日发文道歉：「做服务业没有不好，可是有的人心里过不去这道坎...非要恶意解读的，看了我的言论伤心了的，我向您们道歉」
-  - 道歉后改口开始赞赏文科大有可为，列举成功案例
-- **结果**：舆论暂时平息，但「服务业言论」被文科毕业博主起诉
-- **言行一致性**：★★☆☆☆ 道歉文措辞依然带有「你们太敏感了」的暗示（「非要恶意解读的」），不是真正的认错。后来改口赞赏文科更像是策略性调整而非观点转变，给人「风头过了就换个说法」的印象
+### 7. “The humanities are all service work” controversy and apology (December 2023)
+- **Date:** December 2023
+- **Background:** During a livestream he called all humanities service work, saying, “Sum it up in one word: sucking up. It's like, ‘Here, sir, let me give you a smile.’”
+- **Decision:**
+  - On December 9 he posted an apology: “There's nothing wrong with working in the service industry, but some people can't get past that… To those determined to interpret my remarks maliciously and those whose feelings were hurt, I apologize.”
+  - Afterward he changed his tone, praised the humanities' potential and cited success stories.
+- **Outcome:** The backlash temporarily subsided, but a blogger with a humanities degree sued over the service-industry remarks.
+- **Consistency:** ★★☆☆☆ The apology still implied “you're too sensitive” through the phrase about malicious interpretation, falling short of an admission of error. Praising the humanities afterward seemed more like a strategic adjustment than a change of view, giving the impression that he changed his wording once the uproar passed.
 
-### 8. 高价志愿填报服务爆卖（2024年高考季）
-- **时间**：2024年6月
-- **背景**：峰学蔚来已建立数百人高报师团队，张雪峰个人IP流量稳定
-- **决策**：推出11999元「梦想卡」和17999元「圆梦卡」，明确标注「非张雪峰本人亲自服务」，由团队高报师一对一完成
-- **结果**：2万个名额3小时售罄，单场直播营收破2亿元。2024年公司全年营收突破8亿元
-- **言行一致性**：★★★☆☆ 商业上极成功。但争议在于：用户付费的核心动因是「张雪峰」三个字的信任背书，实际服务者是无名高报师。他在内容中传播的是「不要被忽悠、要理性选择」，自己的商业模式却高度依赖情感信任和信息不对称
+### 8. High-priced application services sell out (2024 gaokao season)
+- **Date:** June 2024
+- **Background:** Fengxue Weilai had built a team of hundreds of gaokao application advisers. Zhang's personal brand drew a steady audience.
+- **Decision:** He launched the 11,999-yuan Dream Card and the 17,999-yuan Dream Fulfillment Card. Both said clearly that Zhang himself would not deliver the service. Advisers from the team provided it one-on-one.
+- **Outcome:** 20,000 places sold out in three hours and a single livestream brought in over 200 million yuan. The company's full-year revenue exceeded 800 million yuan in 2024.
+- **Consistency:** ★★★☆☆ Highly successful commercially. The controversy concerned customers buying on the strength of Zhang's name while unknown advisers did the work. His content urged people to avoid being fooled and choose rationally. His own business model depended heavily on emotional trust and asymmetric information.
 
-### 9. 进军创投领域（2024-2025）
-- **时间**：2024年7月首次，2025年2月再次
-- **背景**：公司现金流充沛（年营收8亿+，毛利率约70%）
-- **决策**：2024年7月，通过峰学蔚来出资1600万元成为苏州永鑫融耀创业投资基金LP（持股2.67%）；2025年2月，再出资1000万元入股苏州永鑫开拓二号（持股5.88%，第三大股东）
-- **结果**：间接参股中际旭创、昀冢科技、罗博特科、东微半导、纳芯微、知行汽车科技等已IPO企业，布局硬科技赛道
-- **言行一致性**：★★★★☆ 投资方向（半导体、硬科技）与他一贯推荐的理工科方向一致，「用钱投票」和「用嘴推荐」指向同一方向
+### 9. Moving into venture capital (2024–2025)
+- **Date:** First in July 2024 and again in February 2025.
+- **Background:** The company had strong cash flow, annual revenue above 800 million yuan and a gross margin around 70%.
+- **Decision:** In July 2024, through Fengxue Weilai he put 16 million yuan into Suzhou Yongxin Rongyao Venture Capital Fund as a limited partner, holding 2.67%. In February 2025 he invested another 10 million yuan in Suzhou Yongxin Kaituo No. 2, becoming the third-largest shareholder with 5.88%.
+- **Outcome:** He gained indirect interests in listed companies including Zhongji Innolight, Yunzhong Technology, Robotechnik, Oriental Semiconductor, Novosense and iMotion Automotive Technology, positioning himself in hard tech.
+- **Consistency:** ★★★★☆ His investments in semiconductors and hard tech aligned with his longstanding recommendation of science and engineering. Where he put his money matched what he advocated.
 
-### 10. 账号被禁止关注事件（2025年9月）
-- **时间**：2025年9月24日
-- **背景**：9月3日，张雪峰在组织员工观看九三阅兵后发表言论「若祖国统一战争枪声打响，我个人捐5000万，公司捐1个亿」，被指「消费爱国」「炒作流量」。此外，直播中存在不当言论、使用污言秽语
-- **决策**：账号被多平台（抖音、快手、微博、小红书、B站）同步禁止关注，团队回应「直播中出现不当言论违反平台规则，受到举报」
-- **结果**：禁言约28天后（10月22日解封），发微博「今天是接娃放学的家长」低调复出。12月3日进一步处罚期满后发文「处罚期已过，已经深刻反省，谢谢大家的关心支持！以后不会了」
-- **言行一致性**：★★☆☆☆ 这暴露了他的一个持续性问题：嘴巴比脑子快。他有意识地知道自己需要克制（复出后确实变得更谨慎），但在直播这种即兴环境中反复失控。「以后不会了」这类承诺已经重复多次
+### 10. Restrictions on following his accounts (September 2025)
+- **Date:** September 24, 2025
+- **Background:** On September 3, after organizing staff to watch the September 3 military parade, he said, “If the first shots of a war for national reunification are fired, I'll donate 50 million personally and the company will donate 100 million.” Critics accused him of exploiting patriotism and hyping traffic. Livestreams also included inappropriate remarks and vulgar language.
+- **Decision:** Douyin, Kuaishou, Weibo, Xiaohongshu and Bilibili simultaneously barred users from following his accounts. His team said inappropriate remarks in a livestream violated platform rules and had been reported.
+- **Outcome:** After about 28 days of being muted, the restrictions were lifted on October 22. He returned quietly with a Weibo post saying, “Today I'm just a parent picking up a child from school.” When a further penalty expired on December 3, he wrote, “The penalty period is over. I've reflected deeply. Thanks for your concern and support! It won't happen again.”
+- **Consistency:** ★★☆☆☆ This exposed a recurrent problem: he spoke before thinking. He knew he needed restraint and was indeed more cautious on returning, but repeatedly lost control in spontaneous livestreams. He had made promises such as “It won't happen again” many times.
 
-### 11. 心源性猝死离世（2026年3月24日）
-- **时间**：2026年3月24日
-- **背景**：长期高强度工作，2023年就因心脏问题住院但未实质性调整生活方式。2026年高考季前夕，再次进入高负荷工作状态
-- **事件**：在苏州因心源性猝死，抢救无效去世，终年41岁
-- **结果**：留下估值6-9.5亿元的商业版图（峰学蔚来估值5-8亿元，持股75%；研途教育约1.5亿元估值，持股10.86%；另有9家关联公司），全网4000万+粉丝。但作为极度依赖个人IP的公司，峰学蔚来面临巨大不确定性
-- **言行一致性**：这不是一个决策，而是所有「不健康决策」的最终后果。2023年身体已发出明确警告，他选择了忽视
-
----
-
-## 行为模式分析
-
-### 模式一：「争议即流量」循环
-**表现**：极端言论→舆论争议→全网讨论→流量暴涨→商业变现
-- 2023年「新闻学打晕」→ 志愿填报服务爆卖
-- 2023年「文科服务业」→ 道歉后热度不减
-- 2025年「捐5000万」→ 被封后复出更受关注
-
-**解读**：很难判断这是「有意策划」还是「性格使然」。从结果看，他从未因争议受到真正的商业损失，反而每次争议都扩大了受众面。但从性格看，他东北人直率的说话方式确实容易产生极端表达。两者可能兼有。
-
-### 模式二：「嘴上说要休息，身体却很诚实」
-**表现**：
-- 2023年住院后发微博说要休养，出院后继续审核方案
-- 多次在直播中告诫年轻人注意身体，自己每天工作十几小时
-- 2025年账号被封时本可彻底休息，28天后立刻复出
-
-**解读**：这反映了一种典型的「创业者悖论」——他既是IP的创造者也是IP的囚徒。峰学蔚来的商业模式100%依赖他的个人IP，一旦停播，公司的获客引擎就停转。他没有建立起「没有张雪峰也能运转」的组织能力
-
-### 模式三：道歉策略——「认态度不认事实」
-**表现**：
-- 新闻学争议：不道歉，补充语境，强调被断章取义
-- 文科服务业争议：道歉，但措辞中暗示「你们太敏感」
-- 账号被封：「已经深刻反省，以后不会了」
-
-**解读**：他的道歉是分级的。涉及核心观点（选专业要看就业）时绝不让步，只调整表达方式；涉及表达方式（措辞不当）时愿意道歉；涉及平台规则时完全配合。这种策略在商业上是有效的——核心用户要的就是「敢说真话」，道歉太彻底反而会失去人设
-
-### 模式四：商业决策的「实用主义」
-**表现**：
-- 2016年抓住短视频风口全力投入
-- 2021年判断高考志愿比考研辅导市场更大，果断转型
-- 2023年布局直播电商（注册「雪峰甄选」商标）
-- 2024年进军创投，投资硬科技
-- 每次业务扩张都紧跟时代趋势
-
-**解读**：张雪峰的商业直觉极强。他始终在追问「什么是下一个更大的市场」，并且行动果断。但每次扩张都加重了他的个人负担——因为所有新业务都需要他的IP背书
-
-### 模式五：「寒门叙事」的双刃剑
-**表现**：
-- 持续强调自己的贫困出身、北漂经历
-- 为普通家庭孩子提供「实用主义」的选择建议
-- 在直播中多次流泪，称自己「动了太多人的蛋糕」
-
-**解读**：寒门出身是真实的，为普通人发声的初心很可能也是真的。但随着商业帝国扩大（个人资产5-8亿），他的「寒门代言人」人设与实际身份之间的张力越来越大。批评者称他「含泪赚了几个亿」，支持者认为他确实帮助了无数家庭。这个矛盾从未真正解决
+### 11. Sudden cardiac death (March 24, 2026)
+- **Date:** March 24, 2026
+- **Background:** He had long worked intensively. Although hospitalized for heart issues in 2023, he made no substantial lifestyle change. Ahead of the 2026 gaokao season he was back to a heavy workload.
+- **Event:** He suffered sudden cardiac death in Suzhou. Resuscitation failed. He was 41.
+- **Outcome:** He left a business empire valued at 600–950 million yuan and more than 40 million followers across platforms. Fengxue Weilai was valued at 500–800 million yuan, of which he held 75%, and Yantu Education at around 150 million yuan, of which he held 10.86%. There were nine other affiliated companies. Fengxue Weilai faced major uncertainty because it was highly dependent on his personal brand.
+- **Consistency:** The notes frame his death as the culmination of unhealthy decisions, not a decision itself. They describe a clear warning in 2023 that he chose to ignore.
 
 ---
 
-## 核心矛盾总结
+## Behavioral patterns
 
-| 维度 | 他说的 | 他做的 | 一致性 |
-|------|--------|--------|--------|
-| 健康 | 「身体是革命的本钱」 | 每天工作十几小时，2023年住院后未减量 | ❌ 严重不一致 |
-| 选择 | 「选择比努力重要」 | 自己的每个转型决策都精准踩中趋势 | ✅ 高度一致 |
-| 专业 | 理工科就业好、文科服务业 | 投资硬科技、自己做的是文科属性的教育服务业 | ⚠️ 部分矛盾 |
-| 教育 | 为普通家庭说话、不要被忽悠 | 万元级服务、流量驱动的商业模式 | ⚠️ 有张力 |
-| 表达 | 多次承诺「以后不会了」 | 直播中反复出现极端/不当言论 | ❌ 不一致 |
+### Pattern 1: The “controversy means traffic” cycle
+**Observed behavior:** Extreme remarks → public controversy → widespread online discussion → traffic surge → monetization.
+- 2023 “knock the child out over journalism” remark → application guidance sold heavily.
+- 2023 “humanities are service work” remark → attention did not fade after the apology.
+- 2025 “donate 50 million” remark → drew more attention on returning after the ban.
+
+**Interpretation:** It is hard to tell whether the cycle was planned or a result of his personality. Looking at outcomes, controversy never caused him real commercial loss and each episode expanded his audience. His direct Northeastern style does lend itself to extreme wording. Both explanations may have applied.
+
+### Pattern 2: He said he would rest, but his behavior told a different story
+**Observed behavior:**
+- After hospitalization in 2023 he wrote on Weibo that he needed rest. Once discharged, he resumed reviewing plans.
+- In livestreams he repeatedly urged young people to take care of their health while working more than ten hours a day himself.
+- The 2025 account suspension could have given him a complete break. He returned immediately after 28 days.
+
+**Interpretation:** This reflects an entrepreneur's paradox: he created his personal brand and was also imprisoned by it. Fengxue Weilai's model relied 100% on his brand. When he stopped livestreaming, the company's customer acquisition engine stopped. He had not built organizational capacity to operate without him.
+
+### Pattern 3: Apologize for the manner without conceding the facts
+**Observed behavior:**
+- Journalism controversy: gave no apology, supplied context and stressed he was quoted out of context.
+- Humanities service-work controversy: apologized, but the wording hinted that his critics were “too sensitive.”
+- Account suspension: “I've reflected deeply. It won't happen again.”
+
+**Interpretation:** His apologies had levels. He did not concede a core view such as prioritizing jobs when choosing a major, but changed how he expressed it. He was willing to apologize for poor wording and fully complied when platform rules were at issue. The strategy worked commercially. The core audience wanted someone willing to “speak the truth,” and an overly complete apology would undermine that persona.
+
+### Pattern 4: Pragmatism in business decisions
+**Observed behavior:**
+- Seized the short-video opportunity in 2016 and committed fully.
+- In 2021 judged that gaokao application guidance had a larger market than postgraduate exam prep, and pivoted decisively.
+- Moved into livestream commerce in 2023, registering the “Xuefeng Selection” trademark.
+- Entered venture capital in 2024 and invested in hard tech.
+- Followed current trends in every business expansion.
+
+**Interpretation:** Zhang had very strong commercial instincts. He kept asking what the next, larger market was and acted decisively. Each expansion increased his personal burden because every new business needed the backing of his brand.
+
+### Pattern 5: The double edge of the humble-origins narrative
+**Observed behavior:**
+- Repeatedly highlighted his poor background and experience as a migrant to Beijing.
+- Offered pragmatic choice advice to children from ordinary families.
+- Cried on livestreams several times, saying he had “taken a slice of too many people's pie.”
+
+**Interpretation:** His poor childhood was real, and his original desire to speak for ordinary people may well have been genuine. As the empire expanded and personal assets reached 500–800 million yuan, the tension grew between his image as a champion of the poor and his actual status. Critics said he had “made hundreds of millions through tears.” Supporters argued that he genuinely helped countless families. The contradiction was never resolved.
 
 ---
 
-## 来源索引
+## Main contradictions
 
-1. [张雪峰 - 维基百科](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E9%9B%AA%E5%B3%B0)
-2. [张雪峰离世，一个时代最复杂的教育符号 - 钛媒体](https://www.tmtpost.com/7927689.html)
-3. [张雪峰：寒门讲师的商业跃迁 - 界面新闻](https://www.jiemian.com/article/14158150.html)
-4. [超级IP谢幕：张雪峰留下的商业版图将何去何从 - 21经济网](https://www.21jingji.com/article/20260327/herald/d3e8cd32d1a5bde9da3101dbe01ee0fd.html)
-5. [张雪峰走了，他的9家公司怎么办？ - 钛媒体](https://www.tmtpost.com/7928298.html)
-6. [8亿估值，张雪峰「清仓」 - 36氪](https://36kr.com/p/3737844414545922)
-7. [直播间里再无张雪峰 - 36氪](https://36kr.com/p/3738115126919425)
-8. [3小时狂揽2亿后，张雪峰的「吸金版图」又扩张了 - CBNData](https://www.cbndata.com/information/294197)
-9. [张雪峰离场：一个教育顶流，和他背后的焦虑时代 - 腾讯新闻](https://news.qq.com/rain/a/20260325A00GVU00)
-10. [张雪峰去世：从北漂寒门到苏州富豪，5年缔造4000万粉丝商业帝国 - 蓝鲸财经](https://www.lanjinger.com/d/1774367947898013743)
-11. [张雪峰去世了，但他留下了硬科技「遗产」 - 36氪](https://www.36kr.com/p/3739085585793030)
-12. [张雪峰跨界创投圈，旗下公司已投资1600万 - 新浪新闻](https://k.sina.com.cn/article_7857201856_1d45362c001903pivs.html)
-13. [盘点张雪峰「网红之路」：屡发争议言论收获满满流量 - 西部网](http://m.cnwest.com/tianxia/a/2023/12/11/22143362.html)
-14. [张雪峰团队再回应账号被禁止关注 - 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_31681614)
-15. [「讲现实」的张雪峰离世，他留下的生意与争议 - 三联生活周刊](https://mpre.lifeweek.com.cn/h5/article/detail.do?artId=264171)
-16. [张雪峰："网红导师"的争议、生意与时代 - 36氪](https://36kr.com/p/3481960480021381)
-17. [从寒门北漂到全网「升学指路官」 - 21经济网](https://www.21jingji.com/article/20260326/herald/e7302f9dfd83337e6d6fa83ebfc53c95.html)
-18. [张雪峰为何将公司搬到苏州 - 网易新闻](https://m.163.com/dy/article/KPB8F86L05562MJC.html)
-19. [考研名师张雪峰多个平台账号被禁止关注 - China Digital Times](https://chinadigitaltimes.net/chinese/721444.html)
-20. [「户晨风」「张雪峰」等网络名人账号被依法处置 - 新华网](http://www.news.cn/20251203/ea80ac65c89c471aaedddfa77b41e247/c.html)
+| Dimension | What he said | What he did | Consistency |
+|---|---|---|---|
+| Health | “Health is the foundation for everything.” | Worked more than ten hours a day and did not reduce his load after hospitalization in 2023 | ❌ Seriously inconsistent |
+| Choice | “Choice matters more than effort.” | Each pivot accurately anticipated a trend | ✅ Highly consistent |
+| Majors | Science and engineering lead to good jobs, and humanities are service work | Invested in hard tech but worked in an education service business with a humanities character | ⚠️ Partly contradictory |
+| Education | Speak for ordinary families and avoid being fooled | Sold five-figure services and used a traffic-driven business model | ⚠️ Tension |
+| Expression | Repeatedly promised “It won't happen again.” | Repeated extreme or inappropriate remarks on livestreams | ❌ Inconsistent |
+
+---
+
+## Source index
+
+1. [Zhang Xuefeng — Wikipedia](https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E9%9B%AA%E5%B3%B0)
+2. [Zhang Xuefeng dies, an era's most complex symbol in education — TMTPost](https://www.tmtpost.com/7927689.html)
+3. [Zhang Xuefeng: a lecturer from modest beginnings makes a leap in business — Jiemian News](https://www.jiemian.com/article/14158150.html)
+4. [A superstar brand exits: what will become of Zhang Xuefeng's business empire? — 21st Century Business Herald](https://www.21jingji.com/article/20260327/herald/d3e8cd32d1a5bde9da3101dbe01ee0fd.html)
+5. [Zhang Xuefeng is gone. What will happen to his nine companies? — TMTPost](https://www.tmtpost.com/7928298.html)
+6. [An 800-million-yuan valuation as Zhang Xuefeng “clears out” — 36Kr](https://36kr.com/p/3737844414545922)
+7. [Zhang Xuefeng is gone from the livestream room — 36Kr](https://36kr.com/p/3738115126919425)
+8. [After taking in 200 million in three hours, Zhang Xuefeng's money-making empire expands again — CBNData](https://www.cbndata.com/information/294197)
+9. [Zhang Xuefeng exits: an education superstar and the anxious era behind him — Tencent News](https://news.qq.com/rain/a/20260325A00GVU00)
+10. [Zhang Xuefeng dies: from a poor migrant in Beijing to a wealthy man in Suzhou, building an empire with 40 million followers in five years — Blue Whale Finance](https://www.lanjinger.com/d/1774367947898013743)
+11. [Zhang Xuefeng has died, leaving a hard-tech “inheritance” — 36Kr](https://www.36kr.com/p/3739085585793030)
+12. [Zhang Xuefeng enters venture capital as his company invests 16 million — Sina News](https://k.sina.com.cn/article_7857201856_1d45362c001903pivs.html)
+13. [Looking back at Zhang Xuefeng's rise: recurring controversies generated ample traffic — CNWest](http://m.cnwest.com/tianxia/a/2023/12/11/22143362.html)
+14. [Zhang Xuefeng's team responds again to follow restrictions — The Paper](https://www.thepaper.cn/newsDetail_forward_31681614)
+15. [Zhang Xuefeng, who spoke of reality, dies, leaving a business and controversies behind — Lifeweek](https://mpre.lifeweek.com.cn/h5/article/detail.do?artId=264171)
+16. [Zhang Xuefeng: the controversies, business and era of an “influencer mentor” — 36Kr](https://36kr.com/p/3481960480021381)
+17. [From a migrant in Beijing of modest means to a guide to higher education for the entire internet — 21st Century Business Herald](https://www.21jingji.com/article/20260326/herald/e7302f9dfd83337e6d6fa83ebfc53c95.html)
+18. [Why Zhang Xuefeng moved his company to Suzhou — NetEase News](https://m.163.com/dy/article/KPB8F86L05562MJC.html)
+19. [Users blocked from following the celebrated exam prep teacher Zhang Xuefeng on multiple platforms — China Digital Times](https://chinadigitaltimes.net/chinese/721444.html)
+20. [Accounts of online personalities including Hu Chenfeng and Zhang Xuefeng dealt with under the law — Xinhuanet](http://www.news.cn/20251203/ea80ac65c89c471aaedddfa77b41e247/c.html)
