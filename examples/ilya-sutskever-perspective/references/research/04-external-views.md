@@ -1,295 +1,295 @@
-# 外部评价与批评：Ilya Sutskever
+# Outside assessments and criticism of Ilya Sutskever
 
-> 调研日期：2026-04-05
-> 来源黑名单：已排除知乎、微信公众号、百度百科
-
----
-
-## 一、同行科学家评价
-
-### Geoffrey Hinton（导师、图灵奖得主）
-
-**【事实】** Hinton是Sutskever的博士导师，两人共同创建AlexNet（2012）。2023年两人共同获得Lifeboat Foundation Guardian Award，表彰他们为AI安全做出的个人牺牲。
-
-**【评价】** Hinton在2024年10月获得诺贝尔物理学奖后的采访中说：
-- "Ilya thought we should do it, Alex made it work, and I got the Nobel Prize."（关于AlexNet的贡献分配）
-- Hinton表达了对Sutskever罢免Altman决定的支持，称"Over time it turned out that Sam Altman was much less concerned with safety than with profits. I think that's unfortunate."
-- 分AlexNet收益时，Sutskever和Krizhevsky坚持Hinton应得更大份额（40%），Hinton评价："It tells you what kind of people they are, not what kind of person I am."
-
-**来源：** [Fortune: Nobel Prize Winner Hinton on Sutskever](https://fortune.com/2024/10/09/openai-sam-altman-geoffrey-hinton-nobel-prize-physics-ilya-sutskever-toronto/), [Lifeboat Foundation Guardian Award 2023](https://lifeboat.com/ex/guardian2023)
+> Research date: 2026-04-05
+> Sources excluded: Zhihu, WeChat Official Accounts, and Baidu Baike
 
 ---
 
-### Yann LeCun（Meta首席AI科学家、图灵奖得主）
+## 1. Assessments by fellow scientists
 
-**【事实】** LeCun和Sutskever在AI发展路线上存在根本分歧。两人都认为当前LLM的scaling已到极限，但对未来方向的判断截然不同。
+### Geoffrey Hinton (supervisor and Turing Award winner)
 
-**【评价】**
-- LeCun在2024年12月发推："I don't wanna say 'I told you so', but I told you so."——引用Sutskever关于scaling时代结束的言论，暗示Sutskever终于认同了他一直以来的观点。
-- LeCun的核心立场：LLMs是死胡同（"dead end"），需要全新的"世界模型"和JEPA架构；而Sutskever认为LLM是不完整的基础，需要更聪明的算法而非全盘推翻。
-- LeCun的原话："LLMs perform well at the language level, but they don't understand the world. They lack common sense and causal relationships and are just a stack of a large number of statistical correlations."
+**[Fact]** Hinton supervised Sutskever's doctorate, and they helped create AlexNet in 2012. In 2023, both received the Lifeboat Foundation Guardian Award for personal sacrifices in furtherance of AI safety.
 
-**来源：** [LeCun on X](https://x.com/ylecun/status/1856612196437930332), [abZ Global: Sutskever, LeCun and the End of Just Add GPUs](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
+**[Assessment]** Speaking in an interview after receiving the Nobel Prize in Physics in October 2024, Hinton said:
+- "Ilya thought we should do it, Alex made it work, and I got the Nobel Prize." (On who contributed what to AlexNet.)
+- Hinton backed Sutskever's decision to remove Altman: "Over time it turned out that Sam Altman was much less concerned with safety than with profits. I think that's unfortunate."
+- When they divided AlexNet proceeds, Sutskever and Krizhevsky insisted Hinton receive the larger share, 40%. Hinton said: "It tells you what kind of people they are, not what kind of person I am."
+
+**Sources:** [Fortune: Nobel Prize Winner Hinton on Sutskever](https://fortune.com/2024/10/09/openai-sam-altman-geoffrey-hinton-nobel-prize-physics-ilya-sutskever-toronto/), [Lifeboat Foundation Guardian Award 2023](https://lifeboat.com/ex/guardian2023)
 
 ---
 
-### Sam Altman（OpenAI CEO）
+### Yann LeCun (Meta chief AI scientist and Turing Award winner)
 
-**【事实】** Sutskever在2023年11月主导了罢免Altman的行动，随后表示后悔，2024年5月离开OpenAI。
+**[Fact]** LeCun and Sutskever fundamentally disagree on AI's trajectory. Both regard scaling current LLMs as having reached a limit, but they draw sharply different conclusions about what comes next.
 
-**【评价】**
-- Altman在Sutskever离职时称他是"easily one of the greatest minds of our generation, a guiding light of our field, and a dear friend."
+**[Assessment]**
+- In December 2024 LeCun tweeted: "I don't wanna say 'I told you so', but I told you so." Quoting Sutskever on the end of the scaling era, he implied Sutskever had finally come around to his longstanding position.
+- LeCun's central position: LLMs are a "dead end," and entirely new world models and JEPA architectures are needed. Sutskever sees LLMs as an incomplete foundation that needs smarter algorithms without discarding it wholesale.
+- In LeCun's words: "LLMs perform well at the language level, but they don't understand the world. They lack common sense and causal relationships and are just a stack of a large number of statistical correlations."
+
+**Sources:** [LeCun on X](https://x.com/ylecun/status/1856612196437930332), [abZ Global: Sutskever, LeCun and the End of Just Add GPUs](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
+
+---
+
+### Sam Altman (OpenAI CEO)
+
+**[Fact]** Sutskever led the effort to remove Altman in November 2023, later expressed regret, and left OpenAI in May 2024.
+
+**[Assessment]**
+- When Sutskever departed, Altman called him "easily one of the greatest minds of our generation, a guiding light of our field, and a dear friend."
 - "I am forever grateful for what he did here and committed to finishing the mission we started together."
-- 此前，Altman曾称Ilya为"one of the most respected researchers in the world"。
+- Altman previously called Ilya "one of the most respected researchers in the world".
 
-**【主观分析】** Altman的评价措辞极为优雅，但考虑到两人经历的权力斗争，这些话更可能是外交辞令而非完全真心。Axios的分析更直白："With Ilya Sutskever leaving OpenAI, doomers have lost the AI war."
+**[Subjective analysis]** Altman's choice of words was gracious. Given their power struggle, these remarks may have been diplomatic rather than entirely heartfelt. Axios put it more bluntly: "With Ilya Sutskever leaving OpenAI, doomers have lost the AI war."
 
-**来源：** [CNN: Ilya Sutskever Departs](https://www.cnn.com/2024/05/14/tech/openai-chief-scientist-ilya-sutskever-departs), [Benzinga: Altman on Sutskever](https://www.benzinga.com/news/24/05/38834519/openai-chief-scientist-ilya-sutskever-steps-down-ceo-sam-altman-calls-him-a-guiding-light-of-ai-fiel), [Axios: Doomers Lost](https://www.axios.com/2024/05/16/ai-openai-sam-altman-illya-sutskever)
+**Sources:** [CNN: Ilya Sutskever Departs](https://www.cnn.com/2024/05/14/tech/openai-chief-scientist-ilya-sutskever-departs), [Benzinga: Altman on Sutskever](https://www.benzinga.com/news/24/05/38834519/openai-chief-scientist-ilya-sutskever-steps-down-ceo-sam-altman-calls-him-a-guiding-light-of-ai-fiel), [Axios: Doomers Lost](https://www.axios.com/2024/05/16/ai-openai-sam-altman-illya-sutskever)
 
 ---
 
 ### Elon Musk
 
-**【评价】**
-- 称Sutskever为"a good human" with "a good heart"，是"the linchpin for OpenAI being successful"。
-- Musk曾说Sutskever的加盟是他与Google联合创始人Larry Page友谊破裂的关键原因："Really the breaking of the friendship was over OpenAI, and specifically I think the key moment was recruiting Ilya Sutskever."
-- 2023年11月事件后，Musk发出意味深长的质疑："Something scared Ilya enough to want to fire Sam. What was it?"
+**[Assessment]**
+- Called Sutskever "a good human" with "a good heart" and "the linchpin for OpenAI being successful".
+- Musk said Sutskever's recruitment was central to his falling out with Google co-founder Larry Page: "Really the breaking of the friendship was over OpenAI, and specifically I think the key moment was recruiting Ilya Sutskever."
+- After the November 2023 incident, Musk asked a pointed question: "Something scared Ilya enough to want to fire Sam. What was it?"
 
-**来源：** [Fortune: What Elon Musk Said About Sutskever](https://fortune.com/2023/11/18/elon-musk-ilya-sutskever-openai-leadership-upheaval-sam-altman/)
-
----
-
-### Yoshua Bengio（图灵奖得主）
-
-**【评价】** 称"It would be unlikely to find a better candidate than Ilya to be OpenAI's lead scientist."
-
-**来源：** [Fortune: Who is Ilya Sutskever](https://fortune.com/2023/11/18/who-is-ilya-sutskever-openai-leadership-shakeup-ai-safety/)
+**Sources:** [Fortune: What Elon Musk Said About Sutskever](https://fortune.com/2023/11/18/elon-musk-ilya-sutskever-openai-leadership-upheaval-sam-altman/)
 
 ---
 
-### Jeff Dean（Google首席科学家）
+### Yoshua Bengio (Turing Award winner)
 
-**【评价】** "Ilya has always been interested in language" 和 "Ilya has a strong intuitive sense about where things might go."
+**[Assessment]** "It would be unlikely to find a better candidate than Ilya to be OpenAI's lead scientist."
 
-**来源：** [Fortune: Who is Ilya Sutskever](https://fortune.com/2023/11/18/who-is-ilya-sutskever-openai-leadership-shakeup-ai-safety/)
-
----
-
-### Sergey Levine（Google同事）
-
-**【评价】** "He is somebody who is not afraid to believe."
-
-**来源：** [Fortune: Who is Ilya Sutskever](https://fortune.com/2023/11/18/who-is-ilya-sutskever-openai-leadership-shakeup-ai-safety/)
+**Sources:** [Fortune: Who is Ilya Sutskever](https://fortune.com/2023/11/18/who-is-ilya-sutskever-openai-leadership-shakeup-ai-safety/)
 
 ---
 
-## 二、2023年11月事件深度分析
+### Jeff Dean (Google chief scientist)
 
-### 核心事实
+**[Assessment]** "Ilya has always been interested in language" and "Ilya has a strong intuitive sense about where things might go."
 
-- Sutskever撰写了52页备忘录，开头直言："Sam exhibits a consistent pattern of lying, undermining his execs, and pitting his execs against one another."
-- 备忘录仅发给三位独立董事（Adam D'Angelo、Helen Toner、Tasha McCauley），未知会Altman。
-- 备忘录中的指控几乎全部来自同一个人：Mira Murati。Sutskever未向Brad Lightcap、Greg Brockman等被提及的高管独立核实。
-- 在危机高峰期，董事会曾严肃讨论与Anthropic合并，甚至考虑让Dario Amodei担任合并实体的CEO。但Sutskever对此"very unhappy"，因为他"really did not want OpenAI to merge with Anthropic"。
-- 2025年10月，Sutskever在Musk诉OpenAI案中做了近10小时的证词，承认"the board was inexperienced"在董事会事务上。
-
-### 动机分析
-
-**【事实性描述】** Sutskever的证词表明，他至少思考了一年才做出罢免决定，但实际执行过于仓促。
-
-**【外部分析】**
-- Zvi Mowshowitz认为Sutskever和Murati的驱动力是"ordinary business concerns, centrally Sam Altman's lying and mistreatment of employees"，而非纯粹的AI安全意识形态。
-- The Neuron的分析指出，对Sutskever而言，微软关系代表了生存性威胁——商业压力优先于安全的危险。
-- Decrypt的分析认为这是治理失败而非意识形态之争。
-
-**【Sutskever本人的说法】** 2025年离开后首次打破沉默时说："I had a big new vision"，将离开框架为追求新愿景而非被迫出局。
-
-**来源：** [The Neuron: Sutskever's Secret Memo](https://www.theneuron.ai/explainer-articles/ilya-sutskevers-secret-memo-and-the-plot-to-merge-openai-with-anthropic), [Decrypt: Inside the Deposition](https://decrypt.co/347349/inside-deposition-showed-openai-nearly-destroyed-itself), [Medium: The 52-Page Memo](https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c), [Calcalist: Sutskever Breaks Silence](https://www.calcalistech.com/ctechnews/article/sjp2u5oj11e), [Zvi Mowshowitz: Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board-ilyas)
+**Sources:** [Fortune: Who is Ilya Sutskever](https://fortune.com/2023/11/18/who-is-ilya-sutskever-openai-leadership-shakeup-ai-safety/)
 
 ---
 
-## 三、AI安全观点的批评
+### Sergey Levine (Google colleague)
 
-### 批评方向一：哲学方法论不严谨
+**[Assessment]** "He is somebody who is not afraid to believe."
 
-**【批评】** "Sutskever misdirects the industry toward searching for a ghost in the machine rather than solving the integration of multimodal world models."——批评者认为他的安全思维是浪漫主义而非工程思维。
-
-**【批评】** 关于Sutskever引用镜像神经元作为共情来源的说法，有批评者称这是"pop psychology nonsense from 2010 that has largely been debunked or heavily nuanced by neuroscientists."
-
-**来源：** [Medium: Ghost in the Machine Critique](https://medium.com/@haydarjawad/the-ghost-in-the-machine-a-critique-of-ilya-sutskevers-safe-superintelligence-manifesto-68c254c5fd18)
+**Sources:** [Fortune: Who is Ilya Sutskever](https://fortune.com/2023/11/18/who-is-ilya-sutskever-openai-leadership-shakeup-ai-safety/)
 
 ---
 
-### 批评方向二：对齐思想缺乏深度
+## 2. In-depth analysis of the November 2023 incident
 
-**【批评】** Zvi Mowshowitz的评价最为精确：Ilya的对齐思想"relatively shallow in key ways"。他"essentially despairs of having a substantive plan beyond 'show everyone the thing as early and often as possible' and hope for the best."
+### Central facts
 
-**【但也承认】** "He doesn't know where to go or how to get there, but does realize he doesn't know these things, so he's well ahead of most others." 以及 "He knows how to iterate, recognize something isn't working, and switch to a different plan."
+- Sutskever wrote a 52-page memo beginning: "Sam exhibits a consistent pattern of lying, undermining his execs, and pitting his execs against one another."
+- He sent it only to three independent directors, Adam D'Angelo, Helen Toner, and Tasha McCauley, and did not notify Altman.
+- Almost all its allegations came from one person: Mira Murati. Sutskever did not independently verify them with the executives named, including Brad Lightcap and Greg Brockman.
+- At the height of the crisis, the board seriously discussed a merger with Anthropic and even considered Dario Amodei as CEO of the combined entity. Sutskever was "very unhappy" because he "really did not want OpenAI to merge with Anthropic".
+- In October 2025, Sutskever gave nearly ten hours of testimony in Musk v. OpenAI and admitted that "the board was inexperienced" in board affairs.
 
-**来源：** [Zvi Mowshowitz: On Dwarkesh's Second Interview](https://thezvi.substack.com/p/on-dwarkesh-patels-second-interview)
+### Analysis of motives
+
+**[Factual account]** His testimony indicates that he considered removal for at least a year before making the decision, but the actual execution was too rushed.
+
+**[Outside analysis]**
+- Zvi Mowshowitz argues that Sutskever and Murati were driven by "ordinary business concerns, centrally Sam Altman's lying and mistreatment of employees", rather than by a purely ideological commitment to AI safety.
+- The Neuron argues that, for Sutskever, the Microsoft relationship posed an existential threat: the risk of commercial pressure prevailing over safety.
+- Decrypt characterizes it as a governance failure rather than an ideological battle.
+
+**[Sutskever's own account]** When he first broke his silence in 2025 after leaving, he said: "I had a big new vision". He framed his departure as pursuing that vision rather than being forced out.
+
+**Sources:** [The Neuron: Sutskever's Secret Memo](https://www.theneuron.ai/explainer-articles/ilya-sutskevers-secret-memo-and-the-plot-to-merge-openai-with-anthropic), [Decrypt: Inside the Deposition](https://decrypt.co/347349/inside-deposition-showed-openai-nearly-destroyed-itself), [Medium: The 52-Page Memo](https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c), [Calcalist: Sutskever Breaks Silence](https://www.calcalistech.com/ctechnews/article/sjp2u5oj11e), [Zvi Mowshowitz: Battle of the Board](https://thezvi.substack.com/p/openai-the-battle-of-the-board-ilyas)
 
 ---
 
-### 批评方向三：SSI的不透明性
+## 3. Criticism of his views on AI safety
 
-**【批评】** 多位评论者指出的核心矛盾：
+### Criticism 1: Lack of philosophical rigor
+
+**[Criticism]** "Sutskever misdirects the industry toward searching for a ghost in the machine rather than solving the integration of multimodal world models." The critic regards his safety thinking as romantic rather than engineering-oriented.
+
+**[Criticism]** Regarding Sutskever's appeal to mirror neurons as the source of empathy, a critic calls it "pop psychology nonsense from 2010 that has largely been debunked or heavily nuanced by neuroscientists."
+
+**Sources:** [Medium: Ghost in the Machine Critique](https://medium.com/@haydarjawad/the-ghost-in-the-machine-a-critique-of-ilya-sutskevers-safe-superintelligence-manifesto-68c254c5fd18)
+
+---
+
+### Criticism 2: Lack of depth on alignment
+
+**[Criticism]** Zvi Mowshowitz offers the most precise appraisal, calling Ilya's alignment thinking "relatively shallow in key ways". He "essentially despairs of having a substantive plan beyond 'show everyone the thing as early and often as possible' and hope for the best."
+
+**[Acknowledgment]** "He doesn't know where to go or how to get there, but does realize he doesn't know these things, so he's well ahead of most others." Also: "He knows how to iterate, recognize something isn't working, and switch to a different plan."
+
+**Sources:** [Zvi Mowshowitz: On Dwarkesh's Second Interview](https://thezvi.substack.com/p/on-dwarkesh-patels-second-interview)
+
+---
+
+### Criticism 3: SSI's opacity
+
+**[Criticism]** Central tension identified by several commentators:
 - "The company's extreme opacity makes external evaluation impossible; we must trust Sutskever's judgment without visibility into progress or setbacks."
 - "If they really get close to SSI, their incentive is to hold their cards close to their chest, but if they don't open the work to scrutiny, their safety claims become un-auditable vibes."
-- SSI被批评为"a capabilities lab with a safety aesthetic, not a safety lab that happens to touch capabilities."
+- SSI has been called "a capabilities lab with a safety aesthetic, not a safety lab that happens to touch capabilities."
 
-**来源：** [Dave Friedman: Does SSI Make Sense?](https://davefriedman.substack.com/p/does-ilya-sutskevers-safe-superintelligence), [Medium: Ghost in the Machine](https://medium.com/@haydarjawad/the-ghost-in-the-machine-a-critique-of-ilya-sutskevers-safe-superintelligence-manifesto-68c254c5fd18)
-
----
-
-### 批评方向四：言行矛盾
-
-**【批评】** "The strategic hypocrisy of declaring the end of scaling while raising billions to scale exposes a disconnect between public rhetoric and private action."——宣称scaling时代结束，却融了数十亿美元来做需要大规模计算的研究。
-
-**来源：** [Implicator: Sutskever Declares Scaling Era Dead](https://www.implicator.ai/ilya-sutskever-declares-the-scaling-era-dead-his-3-billion-bet-says-research-will-win/)
+**Sources:** [Dave Friedman: Does SSI Make Sense?](https://davefriedman.substack.com/p/does-ilya-sutskevers-safe-superintelligence), [Medium: Ghost in the Machine](https://medium.com/@haydarjawad/the-ghost-in-the-machine-a-critique-of-ilya-sutskevers-safe-superintelligence-manifesto-68c254c5fd18)
 
 ---
 
-## 四、SSI的外部评价
+### Criticism 4: Inconsistency between words and actions
 
-### 基本事实
+**[Criticism]** "The strategic hypocrisy of declaring the end of scaling while raising billions to scale exposes a disconnect between public rhetoric and private action." He declares the scaling era over while raising billions for research that requires large-scale computing.
 
-| 时间 | 事件 |
-|------|------|
-| 2024年6月 | 创立SSI，联合创始人：Daniel Gross、Daniel Levy |
-| 2024年9月 | 融资$1B，估值$5B（投资者：Sequoia、a16z、DST Global、SV Angel） |
-| 2025年3月 | 融资$2B，估值$32B（领投：Greenoaks；跟投：a16z、Lightspeed、DST Global） |
-| 2025年 | Alphabet和Nvidia参投，Google Cloud成为基础设施提供商 |
-| 至今 | 约20名员工，无公开产品，无收入 |
-
-### 正面评价
-
-- 投资者用脚投票：从$5B到$32B估值的跳跃，几乎完全基于Sutskever的个人声望和技术判断力。
-- Sutskever对SSI的定位清晰："One goal, one product: build a safe superintelligent AI with continual learning at its core."
-- 他告诉同事自己发现了一座"different mountain to climb"，不使用OpenAI的方法。
-- 他已拒绝Meta的收购尝试，Zuckerberg转而试图挖走SSI的CEO。
-
-### 负面评价与质疑
-
-- **无产品无收入但估值$32B**：这完全是"信仰溢价"，建立在Sutskever个人光环之上。
-- **极端不透明**：与OpenAI和Anthropic发布研究论文不同，SSI完全不公开研究进展。
-- **缺少部署反馈**："If SSI stays purely focused on its internal lab, they sacrifice that empirical safety signal that comes from real-world deployment feedback."
-- **小团队能否解决超级智能问题**：约20人的团队面对的是一个可能需要大规模工程的挑战。
-
-**来源：** [Calcalist: SSI raises $2B at $32B](https://www.calcalistech.com/ctechnews/article/hjfywdtajl), [TechCrunch: SSI $32B valuation](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/), [Calcalist: Zuckerberg hiring his CEO](https://www.calcalistech.com/ctechnews/article/81c8xgbrl)
+**Sources:** [Implicator: Sutskever Declares Scaling Era Dead](https://www.implicator.ai/ilya-sutskever-declares-the-scaling-era-dead-his-3-billion-bet-says-research-will-win/)
 
 ---
 
-## 五、个人性格与工作风格
+## 4. Outside assessments of SSI
 
-### 同事和熟人的描述
+### Basic facts
 
-| 描述者 | 评价 | 类型 |
-|--------|------|------|
-| Elon Musk | "a good human" with "a good heart" | 人格评价 |
-| Sergey Levine（Google同事） | "He is somebody who is not afraid to believe" | 思维特质 |
-| Jeff Dean（Google首席科学家） | "has a strong intuitive sense about where things might go" | 技术直觉 |
-| SSI发言人 | 处于"Monk Mode—heads down in the lab" | 工作状态 |
-| 公司内部描述 | "Everyone sits in one room, Ilya is working on the same problems as everyone else, no hierarchy, no formal meetings, no PowerPoints" | 管理风格 |
+| Date | Event |
+|---|---|
+| June 2024 | SSI founded with Daniel Gross and Daniel Levy. |
+| September 2024 | Raised US$1B at a US$5B valuation; investors included Sequoia, a16z, DST Global, and SV Angel. |
+| March 2025 | Raised US$2B at a US$32B valuation; Greenoaks led, with participation from a16z, Lightspeed, and DST Global. |
+| 2025 | Alphabet and Nvidia invested, and Google Cloud became an infrastructure provider. |
+| As of the research date | About 20 employees, no public product, and no revenue. |
 
-### 性格特征综合
+### Positive assessments
 
-**【事实性描述】**
-- 极度专注，倾向于深度研究而非公众曝光
-- 不惧改变想法——面对新信息时愿意调整立场
-- 在AlexNet收益分配上主动让利给导师，显示对师长的尊重
-- 一般回避媒体聚光灯
+- Investors voted with their feet. The valuation jump from US$5B to US$32B rests almost entirely on Sutskever's reputation and technical judgment.
+- Sutskever gave SSI a clear position: "One goal, one product: build a safe superintelligent AI with continual learning at its core."
+- He told colleagues he had found a "different mountain to climb" and would not use OpenAI's methods.
+- He rejected Meta's acquisition attempt. Zuckerberg then tried to recruit SSI's CEO.
 
-**【主观分析】**
-- 多方描述指向一个"纯粹的研究者"形象：对技术问题有近乎宗教般的热忱，但在政治和管理方面相对天真（52页备忘录事件中的信息验证失误是典型例证）。
-- TIME在2023和2024连续两年将他列入"AI领域100位最具影响力人物"。
+### Criticism and doubts
 
----
+- **US$32B valuation without products or revenue:** This is entirely a “faith premium,” grounded in Sutskever's personal aura.
+- **Extreme opacity:** OpenAI and Anthropic publish research papers, whereas SSI discloses no research progress.
+- **Lack of deployment feedback:** "If SSI stays purely focused on its internal lab, they sacrifice that empirical safety signal that comes from real-world deployment feedback."
+- **Can a small team solve superintelligence?** A team of about 20 people faces a challenge that could require large-scale engineering.
 
-## 六、学术地位与影响力
-
-### 量化指标
-
-**【事实】**
-- Google Scholar高被引研究者之一
-- NeurIPS Test of Time Award三连获（2022、2023、2024）——前所未有
-- 2026年获得美国国家科学院工业应用科学奖
-- 关键论文：AlexNet（2012）、Sequence-to-Sequence Learning（2014）、GPT系列、CLIP、DALL-E
-
-### 技术贡献评估
-
-**【事实性描述】** Sutskever在OpenAI的核心贡献：
-- 建立了OpenAI的scaling ethos（"规模即智能"路线）
-- 主导了从GPT到GPT-4的研发路径
-- 领导了推理模型（如o1）的研究
-- 参与了CLIP和DALL-E等多模态研究
-
-**【主观分析】** 讽刺的是，他在OpenAI期间最大力推动的"scaling ethos"，正是他在2024年NeurIPS演讲中宣告终结的东西。这不是自相矛盾，而是他认为scaling已经走到了极限——"Data is the fossil fuel of AI. It was created somehow, and now we use it, but we've achieved peak data."
+**Sources:** [Calcalist: SSI raises $2B at $32B](https://www.calcalistech.com/ctechnews/article/hjfywdtajl), [TechCrunch: SSI $32B valuation](https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/), [Calcalist: Zuckerberg hiring his CEO](https://www.calcalistech.com/ctechnews/article/81c8xgbrl)
 
 ---
 
-## 七、与其他AI领导者的对比
+## 5. Personality and working style
 
-### Sutskever vs LeCun：技术路线之争
+### Descriptions by colleagues and acquaintances
 
-| 维度 | Sutskever | LeCun |
-|------|-----------|-------|
-| 对LLM的态度 | 不完整的基础，需要更聪明的算法补充 | 死胡同，需要全新架构 |
-| 未来方向 | 超级智能agent、合成数据、持续学习 | 世界模型、JEPA、自监督学习 |
-| 核心分歧 | 相信LLM可以进化 | 相信LLM本质有缺陷 |
-| 共同点 | 都认为单纯scaling已经走到极限 |  |
+| Observer | Assessment | Type |
+|---|---|---|
+| Elon Musk | "a good human" with "a good heart" | Character |
+| Sergey Levine (Google colleague) | "He is somebody who is not afraid to believe" | Thinking trait |
+| Jeff Dean (Google chief scientist) | "has a strong intuitive sense about where things might go" | Technical intuition |
+| SSI spokesperson | In "Monk Mode—heads down in the lab" | Work mode |
+| Internal description | "Everyone sits in one room, Ilya is working on the same problems as everyone else, no hierarchy, no formal meetings, no PowerPoints" | Management style |
 
-### Sutskever vs Demis Hassabis：领导风格对比
+### Synthesis of personality traits
 
-| 维度 | Sutskever | Hassabis |
-|------|-----------|----------|
-| 背景 | 深度学习（Hinton学派） | 认知神经科学 + 强化学习 |
-| 技术路径 | 大语言模型 → scaling → 后scaling研究 | 游戏环境训练 → 强化学习 → AlphaGo/AlphaFold |
-| 组织方式 | 极小团队（~20人），无层级 | 大组织，体系化管理 |
-| 安全立场 | 激进——认为大型lab无法兼顾安全与商业化 | 稳健——在大组织内推动负责任开发 |
+**[Factual account]**
+- Extremely focused and drawn to deep research rather than public exposure.
+- Unafraid to change his mind and willing to reconsider when given new information.
+- Voluntarily ceded a larger share of AlexNet proceeds to his supervisor, showing respect for mentors.
+- Generally avoids the media spotlight.
 
-### Sutskever vs Sam Altman：理念分歧
-
-| 维度 | Sutskever | Altman |
-|------|-----------|-------|
-| 核心关注 | 安全优先、技术纯粹性 | 商业化、广泛部署、快速迭代 |
-| 对微软的态度 | 生存性威胁——商业压力侵蚀安全 | 关键合作伙伴——提供计算和资金 |
-| 根本冲突 | "你不能在同时发布GPT-5/6/7的情况下解决对齐问题" | AI的好处应通过快速部署传递给用户 |
+**[Subjective analysis]**
+- Several descriptions suggest a “pure researcher”: almost religiously enthusiastic about technical problems, but relatively naive about politics and management. The failure to verify information in the 52-page memo is a case in point.
+- TIME named him one of the 100 most influential people in AI in both 2023 and 2024.
 
 ---
 
-## 八、关键观点时间线（2024-2025）
+## 6. Academic standing and influence
 
-### NeurIPS 2024演讲
+### Quantitative indicators
 
-**【事实】** Sutskever提出"Pre-training as we know it will unquestionably end...because we have but one internet"。他将数据比作化石燃料："You could even say that data is the fossil fuel of AI."
+**[Facts]**
+- Among highly cited researchers on Google Scholar.
+- Unprecedented three consecutive NeurIPS Test of Time Awards, in 2022, 2023, and 2024.
+- Received the US National Academy of Sciences Award for the Industrial Application of Science in 2026.
+- Key papers: AlexNet (2012), Sequence-to-Sequence Learning (2014), the GPT series, CLIP, and DALL-E.
 
-**【反应】** Amplify Partners的分析认为"pretraining is far from dead; there are tons of other data sources available"，暗示Sutskever可能过于悲观。
+### Assessment of technical contributions
 
-### Dwarkesh Patel采访（2025年11月）
+**[Factual account]** Key contributions at OpenAI:
+- Established OpenAI's scaling ethos, the idea that scale is intelligence.
+- Led the research path from GPT to GPT-4.
+- Led research on reasoning models such as o1.
+- Participated in multimodal research including CLIP and DALL-E.
 
-关键观点：
-- **时代划分**：2012-2020是研究时代，2020-2025是scaling时代，2026+将回到研究时代。
-- **对LLM泛化能力的困惑**：不理解为什么LLM在benchmark上表现出色但实际应用中频繁失败，他称之为"jaggedness"。
-- **人类学习更优**："These models somehow just generalize dramatically worse than people. It's super obvious."
-- **超级智能时间线**：5到20年。
-- **对齐策略**：承认没有成熟的计划，只能"show everyone the thing as early and often as possible"然后希望最好的结果。
-
-**来源：** [Dwarkesh Patel: Sutskever Interview](https://www.dwarkesh.com/p/ilya-sutskever-2), [EA Forum: Highlights](https://forum.effectivealtruism.org/posts/iuKa2iPg7vD9BdZna/highlights-from-ilya-sutskever-s-november-2025-interview)
+**[Subjective analysis]** Ironically, the scaling ethos he pushed hardest at OpenAI is exactly what he declared over in his 2024 NeurIPS talk. This reflects his view that scaling has reached a limit rather than contradicting himself: "Data is the fossil fuel of AI. It was created somehow, and now we use it, but we've achieved peak data."
 
 ---
 
-## 九、争议总结
+## 7. Comparison with other AI leaders
 
-### 正面共识
-1. 技术实力无可置疑——NeurIPS三连Test of Time Award说明一切
-2. 对AI安全的关注是真诚的，不是作秀
-3. 个人品格受到广泛尊重（包括与他对立过的人）
-4. 技术直觉极强，多次在关键时刻判断正确
+### Sutskever and LeCun: Dispute over technical direction
 
-### 负面共识或争议
-1. **政治手腕不成熟**：52页备忘录事件暴露了信息验证和治理经验的严重不足
-2. **对齐方案缺乏实质**：最锐利的批评来自Zvi——"relatively shallow in key ways"
-3. **SSI的不透明与安全承诺矛盾**：号称解决安全问题，却拒绝任何外部审查
-4. **scaling立场的演变被质疑**：从OpenAI的scaling推手到宣告scaling时代终结，被批评为"strategic hypocrisy"
-5. **信仰溢价能持续多久**：$32B估值建立在零产品零收入基础上，完全依赖个人声望
-6. **AI安全观点的科学基础被质疑**：部分论据（如镜像神经元）被认为是过时的流行心理学
+| Dimension | Sutskever | LeCun |
+|---|---|---|
+| LLMs | Incomplete foundation that needs smarter algorithms | Dead end requiring an entirely new architecture |
+| Future direction | Superintelligent agents, synthetic data, and continual learning | World models, JEPA, and self-supervised learning |
+| Core difference | Believes LLMs can evolve | Believes LLMs have an inherent flaw |
+| Common ground | Both believe simple scaling has reached its limit | |
+
+### Sutskever and Demis Hassabis: Leadership styles
+
+| Dimension | Sutskever | Hassabis |
+|---|---|---|
+| Background | Deep learning, from the Hinton school | Cognitive neuroscience and reinforcement learning |
+| Technical path | LLMs → scaling → post-scaling research | Training in games → reinforcement learning → AlphaGo and AlphaFold |
+| Organization | Very small team of about 20, with no hierarchy | Large organization with systematic management |
+| Safety position | Radical: Large labs cannot reconcile safety and commercialization | Moderate: Promote responsible development within a large organization |
+
+### Sutskever and Sam Altman: Divergent philosophies
+
+| Dimension | Sutskever | Altman |
+|---|---|---|
+| Priority | Safety and technical purity | Commercialization, broad deployment, and rapid iteration |
+| Microsoft | Existential threat, because commercial pressure erodes safety | Key partner supplying compute and funding |
+| Fundamental conflict | “You can't solve alignment while simultaneously releasing GPT-5/6/7.” | AI's benefits should reach users through rapid deployment. |
+
+---
+
+## 8. Timeline of key views (2024–2025)
+
+### NeurIPS 2024 talk
+
+**[Fact]** Sutskever said "Pre-training as we know it will unquestionably end...because we have but one internet". He compared data to fossil fuel: "You could even say that data is the fossil fuel of AI."
+
+**[Response]** Amplify Partners argues that "pretraining is far from dead; there are tons of other data sources available", suggesting he may be too pessimistic.
+
+### Dwarkesh Patel interview (November 2025)
+
+Key points:
+- **Eras:** 2012–2020 was the age of research, 2020–2025 was the age of scaling, and 2026 onward will return to research.
+- **Puzzling LLM generalization:** He does not understand why benchmarks look good while real-world applications fail frequently. He calls this "jaggedness".
+- **Humans learn better:** "These models somehow just generalize dramatically worse than people. It's super obvious."
+- **Superintelligence timeline:** Five to twenty years.
+- **Alignment strategy:** Admits lacking a mature plan beyond "show everyone the thing as early and often as possible" and hoping for the best.
+
+**Sources:** [Dwarkesh Patel: Sutskever Interview](https://www.dwarkesh.com/p/ilya-sutskever-2), [EA Forum: Highlights](https://forum.effectivealtruism.org/posts/iuKa2iPg7vD9BdZna/highlights-from-ilya-sutskever-s-november-2025-interview)
+
+---
+
+## 9. Summary of controversies
+
+### Positive consensus
+1. His technical accomplishments are beyond dispute. Three consecutive NeurIPS Test of Time Awards speak for themselves.
+2. His concern for AI safety is sincere rather than performative.
+3. He is widely respected personally, including by people who have opposed him.
+4. He has strong technical intuition and has repeatedly judged major turning points correctly.
+
+### Negative consensus or points of controversy
+1. **Political inexperience:** The 52-page memo exposed serious deficits in information verification and governance experience.
+2. **Substantively weak alignment approach:** The sharpest criticism comes from Zvi: "relatively shallow in key ways".
+3. **Opacity conflicts with SSI's safety promise:** It claims to solve safety while refusing any outside scrutiny.
+4. **Questioned evolution on scaling:** His move from OpenAI scaling champion to declaring its era over has been criticized as "strategic hypocrisy".
+5. **How long can a faith premium last?** The US$32B valuation rests on no products and no revenue, relying entirely on personal reputation.
+6. **Scientific basis of his AI safety views under challenge:** Critics regard some arguments, such as mirror neurons, as outdated pop psychology.

@@ -6,7 +6,7 @@ Research date: 2026-04-04. The notes record five agents working in parallel and 
 
 | Track | Location | Contents |
 |---|---|---|
-| Writings and systematic thinking | `07-调研与分析/Elon-Musk-思想体系调研-20260404.md` | The Master Plan series, applying first principles, concepts Musk coined, recommended books, and analysis of contradictions |
+| Writings and systematic thinking | [writings-and-systematic-thinking-20260404.md](writings-and-systematic-thinking-20260404.md) | The Master Plan series, applying first principles, concepts Musk coined, recommended books, and analysis of contradictions |
 | Long-form conversations and spontaneous thinking | [spontaneous-thinking.md](spontaneous-thinking.md) | Podcasts, court testimony, the five-step algorithm, and extracted thinking patterns |
 | Decisions and actions | [decision-patterns-20260404.md](decision-patterns-20260404.md) | Key decisions at SpaceX, Tesla, X, xAI, and DOGE, a checklist comparing words and actions, and crisis behavior |
 | Short-form expression | Agent output, no file saved | Twitter style, statistics on 11,394 posts, changes before and after the acquisition, and public debates |
