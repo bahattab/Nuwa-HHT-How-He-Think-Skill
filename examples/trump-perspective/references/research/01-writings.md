@@ -1,332 +1,299 @@
-# 特朗普著作与核心思想论点调研
+# Donald Trump: Writings and central arguments
 
-> 调研日期：2026-04-05
-> 调研方向：特朗普出版著作、演讲、系统性长文中的核心论点
-> 可信度标注：★★★ 一手直接引用 | ★★ 经可靠二手整理 | ★ 分析/推论
+> Research date: 2026-04-05
+> Scope: Central arguments in Trump's published books, speeches, and extended writings.
+> Evidence scale: ★★★ direct primary quotation | ★★ reliable secondary synthesis | ★ analysis or inference.
 
----
+## 1. Overview of major publications
 
-## 一、著作概览
+### Major published titles
 
-### 特朗普已出版主要著作
+| Year | Book | Coauthor | Type |
+|---|---|---|---|
+| 1987 | *Trump: The Art of the Deal* | Tony Schwartz (ghostwriter) | Business memoir and negotiating philosophy |
+| 1990 | *Trump: Surviving at the Top* | Charles Leerhsen | Sequel |
+| 1997 | *Trump: The Art of the Comeback* | Kate Bohner | Account of rebuilding after bankruptcy |
+| 2004 | *Trump: How to Get Rich* | Meredith McIver | Business advice |
+| 2004 | *Trump: Think Like a Billionaire* | Meredith McIver | Business advice |
+| 2006 | *Trump 101: The Way to Success* | Meredith McIver | Self-help |
+| 2007 | *Think Big and Kick Ass in Business and Life* | Bill Zanker | Motivation and ambition |
+| 2008 | *Why We Want You to Be Rich* | Robert Kiyosaki | Coauthored financial education |
+| 2015 | *Crippled America: How to Make America Great Again* | Sole author | Campaign manifesto |
 
-| 年份 | 书名 | 合著者 | 性质 |
-|------|------|--------|------|
-| 1987 | *Trump: The Art of the Deal* | Tony Schwartz（代笔） | 商业回忆录+谈判哲学 |
-| 1990 | *Trump: Surviving at the Top* | Charles Leerhsen | 续集 |
-| 1997 | *Trump: The Art of the Comeback* | Kate Bohner | 破产重建回顾 |
-| 2004 | *Trump: How to Get Rich* | Meredith McIver | 商业建议 |
-| 2004 | *Trump: Think Like a Billionaire* | Meredith McIver | 商业建议 |
-| 2006 | *Trump 101: The Way to Success* | Meredith McIver | 自助类 |
-| 2007 | *Think Big and Kick Ass in Business and Life* | Bill Zanker | 动机/进取 |
-| 2008 | *Why We Want You to Be Rich* | Robert Kiyosaki | 合著财富教育 |
-| 2015 | *Crippled America: How to Make America Great Again* | 独著 | 竞选政治宣言 |
+**Important credibility caveat.** Tony Schwartz ghostwrote *The Art of the Deal*. According to publisher Howard Kaminsky, Schwartz said Trump had not written even a postcard for them. Trump gave conflicting accounts, first saying that he picked Schwartz to write the book and later that Schwartz had not written it and that he had. ★★★ (Primary: Schwartz interviewed by *The New Yorker* and NPR in 2016.)
 
-**重要注意（可信度问题）**：《艺术谈判》（The Art of the Deal）实际由代笔作者 Tony Schwartz 撰写。Schwartz 陈述："Trump没有写一张明信片给我们。"（来源：出版人 Howard Kaminsky）；Trump 自己前后矛盾——先说"我选择了 Schwartz 来写这本书"，后又说"Schwartz 没写，是我写的"。★★★（一手来源：Schwartz 接受 The New Yorker/NPR 采访，2016年）
+The principles in *The Art of the Deal* therefore reflect **Schwartz's observations of Trump** rather than Trump's own writing. The stories and business reasoning were approved by Trump and represent his public account of himself.
 
-因此《艺术谈判》中的原则反映了**Schwartz 对 Trump 的观察**，而非 Trump 亲笔，但书中的故事和商业逻辑经过 Trump 本人确认，代表其公开自我叙事。
+## 2. The Art of the Deal (1987): Eleven principles of negotiation
 
----
+> Source: Principles given after the first chapter, “Dealing: A Week in the Life of Donald Trump”.
+> Confidence: ★★. Schwartz ghostwrote the book, but Trump endorsed the principles and repeatedly invoked them in politics.
 
-## 二、《艺术谈判》（The Art of the Deal, 1987）：11条谈判原则
+### The eleven principles in full
 
-> 来源：书中第一章"Dealing: A Week in the Life of Donald Trump"之后的原则总结
-> 可信度：★★（Schwartz 代笔，但原则经 Trump 认可，并在其政治生涯中被反复引用）
+**1. Think big.** Avoid small goals. Trump says most people limit their aims because they fear big decisions, which amounts to fearing success. He calls his drive “controlled neurosis,” an obsessive focus on the direction of his work.
+> Original: “I like thinking big. I always have. To me it's very simple: if you're going to be thinking anyway, you might as well think big.”
 
-### 完整11条原则展开
+**2. Protect the downside and prepare for the worst.** Success involves structuring a deal so failure will not be fatal. He keeps escape routes, asks for guarantees, and includes exit clauses. Move incrementally and avoid catastrophic losses.
+> Logic: Most deals fail, so make each failure bearable.
 
-**1. 想大（Think Big）**
-不要小目标。Trump认为大多数人限制自己的目标是因为害怕大决策，本质上是害怕成功。他描述自己的驱动力为"controlled neurosis"（受控神经质）——对工作方向的偏执专注。
-> 原文："I like thinking big. I always have. To me it's very simple: if you're going to be thinking anyway, you might as well think big."
+**3. Maintain flexibility and keep backup plans.** Avoid putting everything on a single outcome. Keep plans B, C, and D available and avoid excessive attachment to one result. When New York housing development stalled, Trump turned to convention-center development, illustrating this principle.
 
-**2. 保护下行风险（Protect the Downside / Prepare for the Worst）**
-成功不是赌一把，而是结构性地确保失败不会致命。他谈判时始终留退路、要担保、设置退出条款。增量式推进，避免灾难性损失。
-> 逻辑：大多数交易会失败，所以要让每次失败都可以承受。
+**4. Know your market and audience.** Rather than depending on surveys and consultants' reports, use **intuition and intelligence from real people directly**. He says he trusts his own judgment more than any survey. He understands audience psychology instinctively and without relying on data.
 
-**3. 保持灵活性（Maintain Flexibility / Have a Backup Plan）**
-永远不要只押一手。同时保持 Plan B、C、D，不要对任何单一结果过于执着。Trump在纽约住宅开发遇阻后，转向会展中心开发，印证此原则。
+**5. Use leverage.** Avoid looking desperate. Present yourself as the solution to another party's problem, rather than as the party in need.
+> Original: “My style of deal-making is quite simple and straightforward. I aim very high, and then I just keep pushing and pushing and pushing to get what I'm after.”
 
-**4. 了解你的受众（Know Your Market / Know Your Audience）**
-不依赖市场调查和顾问报告，依赖**直觉和直接从真实的人那里获取情报**。"我信任自己的判断胜过任何调查。"对受众心理的把握是本能的，不是数据驱动的。
+**6. Improve a location through deal structure.** Challenge the real-estate rule “location, location, location.” The key is a creative deal structure that generates value in an ordinary location. Marketing and perception can change reality.
 
-**5. 使用杠杆（Use Leverage）**
-永远不要显得绝望。把自己定位为别人问题的解决方案，而非需求方。
-> 原文（书中）："My style of deal-making is quite simple and straightforward. I aim very high, and then I just keep pushing and pushing and pushing to get what I'm after."
+**7. Leverage media and promote.** Free coverage costs less and carries more credibility than ads. **Truthful hyperbole** is presented as harmless exaggeration that grabs attention and drives business.
+> Original: “I play to people's fantasies. People may not always think big themselves, but they can still get very excited by those who do... I call it truthful hyperbole. It's an innocent form of exaggeration—and it's a very effective form of promotion.”
 
-**6. 通过交易结构创造价值（Enhance Location Through Deal Structure）**
-挑战"位置、位置、位置"的传统房地产法则。关键不是找到完美位置，而是通过创造性的交易结构在普通位置上制造价值。营销和感知可以改变现实。
+**8. Fight back if you think you are right.** Success invites envy and attacks. Stand your ground even if it offends people. Giving up the fight leaves more regret. Even if you lose, you know you exhausted every option.
 
-**7. 宣传（Leverage Media / Promote）**
-免费媒体覆盖比广告更便宜、更有公信力。核心概念：**"Truthful Hyperbole"（真实的夸大）**——无害的夸张，捕捉注意力，推动商业。
-> 原文："I play to people's fantasies. People may not always think big themselves, but they can still get very excited by those who do... I call it truthful hyperbole. It's an innocent form of exaggeration—and it's a very effective form of promotion."
+**9. Deliver real value and offer a good product.** Marketing cannot substitute for substance indefinitely. Promotion can sustain the short term, but real delivery sustains the long term. Credibility rests on **keeping promises**.
 
-**8. 如果你认为自己是对的就要反击（Fight Back If You Think You're Right）**
-成功会招来妒忌和攻击。坚守立场，即便会得罪人。放弃战斗不如留有遗憾，哪怕最终输了，至少知道自己用尽了所有选项。
+**10. Keep costs low.** Negotiate every cent even on a multi-million-dollar project. Small expenses add up, so control them closely.
 
-**9. 提供真实价值（Deliver Real Value / Have a Good Product）**
-营销不能永远替代实质。短期可以靠宣传，长期靠真实交付。建立信用依赖于**兑现承诺**。
+**11. Enjoy the ride.** Negotiation is a game. Enjoying the process matters more than material outcomes. Focus on the present rather than dwelling on past or future.
 
-**10. 控制成本（Keep Costs Low / Contain Costs）**
-哪怕是数百万美元的项目，每一分钱都要谈判。积少成多，严格控制开支。
+### A paradox about negotiation
 
-**11. 享受过程（Enjoy the Ride / Have Fun）**
-谈判本身是一种游戏，享受过程比在意物质结果更重要。当下聚焦，不纠缠过去和未来。
+Trump says giving negotiating advice violates one of his own principles: great negotiators are born, not made. He views negotiation chiefly as instinct rather than a teachable technique. ★★★
 
-### 关于谈判的悖论
+## 3. His definition of winning and preoccupation with it
 
-书中同时存在一个自我矛盾：Trump 写道，提供谈判技巧本身就违背了他的一条原则——"伟大的谈判者是天生的，不是培养出来的"。他认为谈判主要靠本能，而非可学习的技术。★★★
+> Sources: Multiple books, speeches, and biography research.
+> Confidence: ★★★ primary quotations and ★★ biography research.
 
----
+### Central definition
 
-## 三、对"赢"（Winning）的定义与执念
+**Winning validates the person as well as producing material results.**
 
-> 来源：跨多本著作 + 演讲 + 传记研究
-> 可信度：★★★（一手引用）+ ★★（传记研究）
+2016 rally slogan: “We're going to win so much, you're going to be so sick and tired of winning.” ★★★
 
-### Trump 对"赢"的核心定义
+His political narrative uses winning and losing as the basic frame for America's position:
+- “America isn't winning anymore. We're losing to China on trade, to our enemies militarily, and to every country diplomatically.” (Recurring campaign speech.) ★★★
+- “Success cannot be measured only in money. It must also be measured in happiness.” (*The Art of the Comeback*, 1997.) ★★★
 
-**赢是个人验证，不仅是物质结果**
+### Psychology (secondary)
 
-竞选口号："We're going to win so much, you're going to be so sick and tired of winning."（2016年竞选集会）★★★
+Biographer Michael D'Antonio (*Never Enough*, 2015) grounds Trump's signature method in the firm belief that he is a singular, superior human being. Trump admits avoiding introspection because he might not like what he sees, and thinks most people are not worthy of respect. ★★
 
-他的政治叙事中，"赢"与"输"是理解美国处境的基本框架：
-- "美国不再赢了。我们在贸易上输给中国，在军事上输给我们的敌人，在外交上输给每一个国家。"（竞选演讲，反复出现）★★★
-- "成功不能只用钱来衡量，还要用幸福来衡量。"（*The Art of the Comeback*, 1997）★★★
+The “episodic man” analysis describes a person without a coherent life narrative who lives episode to episode and must win each present battle. On this analysis, truth for Trump is whatever helps him win in the moment. ★ (Secondary inference.)
 
-### 心理学视角（二手）
+### His father's influence
 
-传记作家 Michael D'Antonio (*Never Enough*, 2015) 认为：Trump 的商标方法基于"他是一个奇异且优越的人类"的牢固信念。他坦承避免自我反思"因为我可能不喜欢我所看到的"，并相信"大多数人不值得尊重"。★★
+Fred Trump used an extremely transactional upbringing: success was rewarded and failure ignored or punished. He reportedly told Donald that he was a king, but a king had to work harder than everyone else to prove his worth. ★★ (D'Antonio biography.)
 
-心理学分析："the episodic man"概念——Trump 缺乏连贯的人生叙事，逐集生活，每次都要赢得当下这场战役。"对 Trump 来说，真相是任何在当下能帮助赢得胜利的东西。"★（二手推论）
+### Winning themes repeated across books at least three times
 
-### 父亲的影响
+| Theme | Repeated appearances |
+|---|---|
+| America lost on trade | *Crippled America*, 2016 speeches, inaugural address |
+| We elected incompetent negotiators | *Crippled America*, campaign rallies, Twitter |
+| Winning requires toughness and the weak are exploited | *Art of the Deal*, *Art of the Comeback*, political speeches |
+| Retaliation is necessary for success | *Think Big and Kick Ass*, *Art of the Comeback* |
 
-Fred Trump 教育方式：极端的交易型教育——成功被奖励，失败被忽视或惩罚。曾对 Donald 说："你是一个国王，但国王必须比任何人更努力工作才能证明自己的价值。"★★（D'Antonio 传记）
+## 4. Media and information
 
-### 跨书重复的"赢"主题（重复≥3次）
+> Sources: *The Art of the Deal* (1987), *Think Big and Kick Ass* (2007), and campaign speeches.
+> Confidence: ★★★ for direct book quotations.
 
-| 主题 | 重复出现位置 |
-|------|-------------|
-| 美国在贸易中输了 | *Crippled America*, 2016年演讲, 就职演说 |
-| 我们选出了蠢蛋谈判者 | *Crippled America*, 竞选集会, Twitter |
-| 赢需要强硬，弱者被利用 | *Art of the Deal*, *Art of the Comeback*, 政治演讲 |
-| 报复是成功的必要组成 | *Think Big and Kick Ass*, *Art of the Comeback* |
+### 4.1 Truthful hyperbole
 
----
+This is one of the few concepts Trump personally names in *The Art of the Deal*:
 
-## 四、媒体与信息理论
+> “I call it truthful hyperbole. It's an innocent form of exaggeration—and it's a very effective form of promotion.”
 
-> 来源：*The Art of the Deal* (1987), *Think Big and Kick Ass* (2007), 竞选演讲
-> 可信度：★★★（书中直接引用）
+People want to believe something is the biggest, best, and most spectacular. Giving them that fantasy is presented as serving them. He frames it as harmless exaggeration rather than lying.
 
-### 4.1 "真实的夸大"理论（Truthful Hyperbole）
+### 4.2 Media as a tool to manipulate
 
-这是 Trump 在《艺术谈判》中**唯一亲自命名的概念之一**：
+Trump repeatedly discussed how he would “play the press”:
+- Media need a good story, and exaggeration and controversy can improve one.
+- Bad publicity can draw attention. The question is how to turn it into business opportunity.
+- Asked how to stay visible without paying for ads, Trump replied, “You make news.”
 
-> "I call it truthful hyperbole. It's an innocent form of exaggeration—and it's a very effective form of promotion."
+Key observation: “The press takes him literally, but not seriously; his supporters take him seriously, but not literally.” The distinction illustrates the different effects of truthful hyperbole across political audiences. ★★
 
-逻辑：人们想相信某件事是最大的、最棒的、最壮观的。如果你给他们这种幻想，你就是在为他们服务。这不是谎言，是一种"无害的夸大"。
+### 4.3 Politicizing “Fake News” after 2016
 
-### 4.2 媒体是可以被玩弄的工具
+Trump transformed the descriptive phrase into an offensive weapon:
+- He first used it against outlets that reported inaccurately about him.
+- It gradually became a label for any critical reporting.
+- Its practical function is to undermine adverse sources' credibility in advance.
 
-Trump 多次公开谈到他如何"play the press"：
-- 媒体需要好故事，你可以通过夸大、争议元素让故事更好
-- 坏宣传也能带来关注，关键是如何把它转化为商业机会
-- 在被问及如何在不花广告费的情况下保持知名度时，Trump 回答："你制造新闻。"
+This extends the media strategy in *The Art of the Deal*: control the story so others do not define you.
 
-关键观察："The press takes him literally, but not seriously; his supporters take him seriously, but not literally."——这个区分揭示了"Truthful Hyperbole"在政治语境中的不同受众效果。★★
+### 4.4 Recorded contradiction
 
-### 4.3 "Fake News"的政治化（2016年后）
+In 1987 Trump actively maintained relationships with reporters and made extensive use of the media. In politics he described the media as the “enemy of the people.”
 
-Trump 在政治生涯中将"Fake News"从描述性词汇改造为**攻击性武器**：
-- 最初用于批评对他错误报道的媒体
-- 逐渐扩展为任何批评他的媒体报道的标签
-- 实际功能：**预先破坏不利于他的信息来源的公信力**
+Two explanations are recorded without reconciliation:
+- A: He was always using the media, and his stance was itself strategic.
+- B: The media were allies in 1987 and became opponents after 2016, so his position shifted with his interests.
 
-这与《艺术谈判》中的媒体策略存在理论延续：你需要控制叙事，不被别人定义。
+## 5. America First: Underlying logic
 
-### 4.4 矛盾记录
+> Sources: *Crippled America* (2015), the April 2016 foreign-policy speech, and the January 2017 inauguration (official archive).
+> Confidence: ★★★ primary sources.
 
-Trump 在1987年时积极维护与记者关系，大力利用媒体；但在政治生涯中又将媒体描述为"人民的敌人"（"enemy of the people"）。
+### 5.1 Structure of the argument
 
-解释路径（仅记录，不调和）：
-- 路径A：他始终在"使用"媒体，立场本身就是策略
-- 路径B：1987年的媒体是他的盟友，2016年后成为他的对手，立场随利益翻转
+Trump's “America First” applies business negotiation globally rather than advocating isolationism.
 
----
+1. **Diagnosis:** Poor negotiators managed America and signed a series of bad deals.
+2. **Blame:** Career politicians, special interests, and globalist elites.
+3. **Remedy:** Apply business negotiating principles in place of diplomatic custom. Bargain hard, exchange benefits, and avoid paying for values.
 
-## 五、美国优先主义（America First）的底层逻辑
+From the inaugural address: “a small group in our nation's Capital has reaped the rewards of government while the people have borne the cost.” ★★★
 
-> 来源：*Crippled America* (2015), 2016年4月外交政策演讲, 2017年就职演说（官方存档）
-> 可信度：★★★（一手来源）
+### 5.2 Zero-sum view of trade
 
-### 5.1 核心论证结构
+A trade deficit means America is losing. Another country selling more than it buys means it is taking advantage of America. Tariffs are a retaliatory weapon.
 
-Trump 的"美国优先"不是孤立主义，而是**商业谈判思维的全球化应用**：
+Direct quotation (2024): “To me, the most beautiful word in the dictionary is tariff, and it's my favourite word.” ★★★
 
-1. **诊断**：美国被糟糕的谈判者管理，签了一系列烂协议
-2. **归因**：职业政客、特殊利益集团、全球主义精英
-3. **方案**：用商业谈判原则替代外交惯例——强硬要价、互利交换、不为价值观买单
+Recurring historical claim: “From 1789 to 1913 we were a tariff-backed nation, and the United States was proportionately the wealthiest it has ever been.” ★★★
+(That is his interpretation. Economists differ, and the notes only record his argument.)
 
-就职演说直接引用："a small group in our nation's Capital has reaped the rewards of government while the people have borne the cost." ★★★
+### 5.3 National narrative
 
-### 5.2 贸易零和观
+Three layers in the inauguration:
+- Globalization redistributed wealth from the American middle class to the rest of the world.
+- The forgotten men and women are the moral basis for policy change.
+- “This American carnage stops right here and stops right now,” his characterization of America's condition at the time. ★★★
 
-Trump 的贸易理念是标准的**零和博弈**：贸易逆差 = 美国在输；别国卖得多买得少 = 美国被占便宜；关税 = 以牙还牙的武器。
+The narrative directly applies leverage from *The Art of the Deal*: America lost its bargaining power and needs a tough leader to recover it.
 
-直接引用（2024年）："To me, the most beautiful word in the dictionary is tariff, and it's my favourite word." ★★★
+### 5.4 National interests precede values
 
-历史论述（反复出现）："From 1789 to 1913 we were a tariff-backed nation, and the United States was proportionately the wealthiest it has ever been." ★★★
-（注：这是他的历史诠释，经济学家有不同评价，此处仅记录其论点）
+April 2016 foreign-policy speech (primary):
 
-### 5.3 国族叙事框架
+> “No country has ever prospered that failed to put its own interests first. We will no longer surrender this country or its people to the false song of globalism. The nation-state remains the true foundation for happiness and harmony.” ★★★
 
-就职演说中的三层叙事：
-- 全球化把财富从美国中产"重新分配到全世界"
-- "被遗忘的男人和女人"是政策改革的道德依据
-- "This American carnage stops right here and stops right now"（对当时美国状态的定性）★★★
+Scholars identify five features of Trumpist foreign policy (★★, secondary):
+- Prefers bilateral rather than multilateral arrangements.
+- Seeks near-term economic gains over enduring commitments.
+- Takes a zero-sum view of international relations.
+- Is indifferent to partners' political systems.
+- Lacks an overarching strategic vision.
 
-这套叙事直接嫁接了《艺术谈判》中的"杠杆"概念：美国已经失去谈判筹码，需要强硬领导人拿回来。
+## 6. Moving business thinking into politics
 
-### 5.4 国家利益先于价值观
+> Sources: *Crippled America* (2015) and academic analyses.
+> Confidence: ★★ synthesis.
 
-2016年4月外交政策演讲（一手文本）：
+### 6.1 Self-image as the business president
 
-> "No country has ever prospered that failed to put its own interests first. We will no longer surrender this country or its people to the false song of globalism. The nation-state remains the true foundation for happiness and harmony." ★★★
+The main argument in *Crippled America*:
+- Career politicians fail because they play politics as politics.
+- America's problems are fundamentally management problems.
+- Successful business negotiators can solve problems governments cannot.
+- Outsider status is an asset.
 
-学术分析归纳 Trumpist 对外政策五特征（★★，二手）：
-- 偏好双边而非多边安排
-- 追求近期经济收益而非持久承诺
-- 零和国际关系观
-- 对伙伴国政治制度漠不关心
-- 无宏观战略愿景
+In the book, businesses of any size should pay no more than 15% tax. It treats tax reform as business pricing. ★★★ (Direct quote in the book.)
 
----
+### 6.2 Direct transfer of business principles
 
-## 六、商业思维迁移至政治决策
+| Business principle from The Art of the Deal | Political application |
+|---|---|
+| Open high to leave room | Start tariff negotiations with an extreme demand, then concede to the target |
+| Use leverage and never appear desperate | Threaten to leave alliances and reopen terms |
+| Always fight back | Attack and retaliate against critics |
+| All publicity is good publicity | Use controversial remarks as media strategy |
+| Control the narrative | Use “Fake News” to undermine the other side's credibility in advance |
 
-> 来源：*Crippled America* (2015), 学术分析文献
-> 可信度：★★（综合分析）
+### 6.3 Fundamental tension between business and political logic
 
-### 6.1 Trump 的自我定位：商人总统
+Scholars distinguish the two:
+- One can walk away from a business deal; countries cannot truly exit geopolitics.
+- Business counterparties can be replaced. Alliances have histories and costs of building trust.
+- A relationship can be closed out after a deal. International relations are a continuing game.
 
-*Crippled America* 核心论证：
-- 职业政客失败是因为他们把政治当政治玩
-- 美国的问题本质上是管理问题
-- 成功的商业谈判者可以解决政府无法解决的问题
-- "outsider"身份是资产，不是劣势
+The business logic works in some settings, such as bilateral trade talks, while creating systemic friction in others, such as multilateral alliances and values-based diplomacy. ★
 
-*Crippled America* 中的逻辑："任何规模的企业缴税不超过15%"——把税制改革当成企业定价问题处理。★★★（书中直接引用）
+## 7. Coined or repurposed concepts
 
-### 6.2 直接迁移的商业原则
+| Term or concept | First or main use | Function | Confidence |
+|---|---|---|---|
+| **Truthful Hyperbole** | *Art of the Deal* (1987) | Provides a theoretical justification for exaggerated promotion | ★★★ |
+| **MAGA** | 2015 campaign | Mobilizes supporters around an imprecise past golden age | ★★★ |
+| **America First** | April 2016 foreign-policy speech, formalized as policy | Reasserts national interests over multilateralism | ★★★ |
+| **Fake News** | After 2016, borrowed and politicized | Preemptively discredits opponents' information sources | ★★★ |
+| **Deep State** | First term, borrowed and mainstreamed | Explains resistance to policy and supplies someone to blame | ★★★ |
+| **Drain the Swamp** | Last three weeks of 2016 campaign, 79 tweets | Anti-elite mobilization slogan | ★★★ |
+| **The Forgotten Men and Women** | 2017 inauguration | Emotional anchor for the base | ★★★ |
 
-| 商业原则（来自 Art of the Deal） | 政治应用 |
-|----------------------------------|---------|
-| 开价要高，留出空间 | 关税谈判：先开极端高价，再"退让"到目标水平 |
-| 使用杠杆，从不显得绝望 | 外交谈判：威胁退出同盟，重新谈条件 |
-| 永远要反击 | 对批评者的攻击和报复 |
-| 任何宣传都是好宣传 | 争议言论作为媒体策略 |
-| 控制叙事 | "Fake News"标签预先破坏对手可信度 |
+**Note:** Trump did not originate “Drain the Swamp.” Nancy Pelosi used it in 2006, and it goes back to the nineteenth century. “Deep State” arose in analysis of Turkish politics in the 1990s. Trump's contribution was to mainstream and weaponize those terms and assign specific targets.
 
-### 6.3 商业逻辑与政治逻辑的根本张力（记录矛盾）
+## 8. Reading list and intellectual lineage
 
-学者指出根本区别：
-- 商业交易可以"走人"，国家无法真正退出地缘政治
-- 商业对手可以换，盟友关系有历史积累和信任成本
-- 交易完成后关系可以清算；国际关系是持续博弈
+> Sources: Books Trump mentions in books and interviews.
+> Confidence: ★★ public statements. How much he read is hard to verify.
 
-Trump 的商业逻辑在某些场景有效（双边贸易谈判），在其他场景产生系统性摩擦（多边联盟、价值观外交）。★
+### Books he says he read or recommends
 
----
+- *The Art of the Deal* and *Surviving at the Top*, his own books, listed as favorites.
+- Machiavelli's *The Prince*, recommended in *Trump 101*.
+- Sun Tzu's *The Art of War*, recommended in *Trump 101*.
+- Ralph Waldo Emerson's collected works, reportedly an early favorite.
+- *All Quiet on the Western Front*, called one of the greatest books of all time.
+- Several conservative political titles attacking Obama and Hillary Clinton, by Fox News hosts and others.
 
-## 七、自创术语与概念谱系
+The notes observe that many recommendations concern Trump himself or his opponents, or are classics on power and winning such as Machiavelli and Sun Tzu. ★★
 
-| 术语/概念 | 首次出现/主要使用 | 功能 | 可信度 |
-|-----------|------------------|------|--------|
-| **Truthful Hyperbole** | *Art of the Deal* (1987) | 为夸大宣传提供理论外衣 | ★★★ |
-| **MAGA** | 2015年竞选 | 动员性口号，指向模糊的过去黄金时代 | ★★★ |
-| **America First** | 2016年4月外交演讲，正式成为政策框架 | 重新定义国家利益优先于多边主义 | ★★★ |
-| **Fake News** | 2016年后（借用并政治化） | 预先破坏对手信息来源 | ★★★ |
-| **Deep State** | 第一任期内（借用并主流化） | 解释政策阻力，为失败归因 | ★★★ |
-| **Drain the Swamp** | 2016年竞选最后三周（79次 Tweet）| 反精英动员口号 | ★★★ |
-| **The Forgotten Men and Women** | 2017年就职演说 | 政治基本盘的情感锚点 | ★★★ |
+### Two defining influences
 
-**注**："Drain the Swamp"非 Trump 原创（Nancy Pelosi 2006年使用，可追溯至19世纪）；"Deep State"源于1990年代土耳其政治分析语境。Trump 的贡献是将这些词汇**主流化、武器化**，并赋予具体攻击对象。
+**Norman Vincent Peale (author of The Power of Positive Thinking)**
+- Trump worshiped at Peale's Marble Collegiate Church from childhood.
+- Peale taught thinking only of the best outcome and accentuating the positive while eliminating the negative.
+- Trump says Peale regarded him as his greatest student ever. This is not independently confirmed. ★
+- Influence: Maintain confidence under adversity and reframe problems as challenges that can be overcome.
+- Sources: CNBC (2020) and multiple biographies. ★★★
 
----
+**Roy Cohn (lawyer and adviser to McCarthy-era investigative committees)**
+- Trump's lawyer and mentor from 1973 to 1986.
+- Cohn's style was to refuse compromise, counter all criticism, and destroy opponents.
+- Biographers attribute the principles of never admitting error and always fighting back directly to Cohn.
+- Sources: Biography research. ★★
 
-## 八、推荐书单与智识谱系
+## 9. Additional points from The Art of the Comeback (1997)
 
-> 来源：Trump 在著作和采访中提及的书目
-> 可信度：★★（公开表述，真实阅读程度难以核实）
+> Source: Book excerpts via OnTheIssues.org.
+> Confidence: ★★★ primary.
 
-### Trump 自述读过/推荐的书
+- “I'm a firm believer in learning from adversity. The worst times often work to your advantage. My life is a study of this.”
+- “I'm a little paranoid. Over the years I've noticed that slightly paranoid people tend to be the most successful. Let a little paranoia rule you!”
+- “Passion is essential to success and coming back.”
+- He diagnosed his own failure as arrogance and laziness: “I was cocky and lazy,” his explanation of the 1990 bankruptcy.
+- “Contracts are extremely important in business and personal life,” implying that oral promises should not be trusted.
+- **The ten comeback principles explicitly include “Get Even,”** one of the book's success strategies.
 
-- *The Art of the Deal* / *Surviving at the Top*（自己的书，列为最爱）
-- *The Prince* by Machiavelli——在 *Trump 101* 中推荐
-- *The Art of War* by Sun Tzu——在 *Trump 101* 中推荐
-- Ralph Waldo Emerson 文集——早年据称喜爱
-- *All Quiet on the Western Front*——称之为"史上最伟大的书之一"
-- 多本攻击奥巴马、希拉里的保守派政治书籍（Fox News 主持人等人所写）
+## 10. Documented contradictions and inconsistencies
 
-观察：Trump 推荐的书大量是写他自己、批评他对手的书，以及强调权力和胜利的古典著作（马基雅维利、孙子）。★★
+> Confidence: ★★★ textual evidence.
 
-### 核心智识谱系：两个关键人物
+| Area | Position A | Position B |
+|---|---|---|
+| Iraq War | Supported it in an interview before 2003 | Said in the campaign he always opposed it |
+| Syrian refugees | Said in one 2015 interview humanitarian concerns required taking them in | Said the next day they could not be admitted |
+| Abortion | Earlier said he favored abortion rights | Supported restrictions in office |
+| Media | In 1987 cultivated and used the media | After 2016 called them the enemy of the people |
+| Debt | Borrowed heavily in personal business | Criticized the national debt in politics |
+| Authorship of The Art of the Deal | Said he chose Schwartz to write it | Said Schwartz did not write it and he did |
+| Trade protection | Used foreign steel in private business, as documented | Demanded American steel in policy |
 
-**Norman Vincent Peale（《积极思考的力量》作者）**
-- Trump 从小在 Peale 的大理石合唱团教堂（Marble Collegiate Church）做礼拜
-- Peale 核心教义：只思考最好的结果，"强调积极，消除消极"
-- Trump 称 Peale 视他为"有史以来最伟大的学生"（未经独立证实）★
-- 对 Trump 的影响：在逆境中维持自信；把现实问题重新框定为可战胜的挑战
-- 来源：CNBC (2020)，多篇传记研究 ★★★
+**Signs of stable beliefs** (repeated at least three times over time and unchanged with interests):
+- Poor negotiators have damaged America.
+- A trade deficit is proof of losing.
+- The strong are respected and the weak exploited.
+- Fight back and never show weakness.
 
-**Roy Cohn（律师，麦卡锡时代调查委员会顾问）**
-- Trump 的律师和导师（1973-1986年）
-- Cohn 风格：不妥协、反击一切批评、摧毁对手
-- 传记作者认为：永不认错、永远反击的原则直接来自 Cohn
-- 来源：传记研究 ★★
+## Source index
 
----
-
-## 九、*The Art of the Comeback* (1997) 补充要点
-
-> 来源：书中原文（via ontheissues.org）
-> 可信度：★★★（一手来源）
-
-- "我是一个坚定的逆境学习者。最坏的时代往往能变成你的优势——我的人生就是这种研究。"
-- "我有些偏执。我注意到多年来，稍微偏执的人往往是最成功的。让一点偏执主宰你！"
-- "激情是成功和回归的关键要素。"
-- 失败原因的自我诊断：自大和懈怠——"I was cocky and lazy"，1990年破产的归因
-- "合同在商业和个人生活中都非常重要"（暗示：不要相信口头承诺）
-- **复出十条中明确包括"报复（Get Even）"**——书中推荐的成功策略之一
-
----
-
-## 十、记录在案的矛盾与不一致
-
-> 可信度：★★★（有文本证据）
-
-| 领域 | 立场A | 立场B |
-|------|-------|-------|
-| 伊拉克战争 | 2003年前采访中支持 | 竞选中声称一直反对 |
-| 叙利亚难民 | 2015年某次采访：人道主义考虑应接收 | 次日：不能接收 |
-| 堕胎 | 早年自称支持堕胎权 | 执政后支持限制 |
-| 媒体态度 | 1987年：积极利用媒体，维护关系 | 2016年后："人民的敌人" |
-| 债务 | 个人商业中大量使用杠杆借贷 | 政治上批评国家债务 |
-| 《艺术谈判》著作权 | "我选择了 Schwartz 来写" | "Schwartz 没写，是我写的" |
-| 贸易保护主义 | 个人业务中使用外国钢材（有记录） | 政策上要求用美国钢材 |
-
-**稳定的"真信念"标志**（跨时间重复≥3次，不随利益改变）：
-- 美国被糟糕的谈判者带坏了
-- 贸易逆差是输的证明
-- 强者被尊重，弱者被利用
-- 要反击，永远不要示弱
-
----
-
-## 参考来源索引
-
-### 一手来源（★★★）
+### Primary sources（★★★）
 - Trump, Donald J. & Tony Schwartz. *Trump: The Art of the Deal*. Random House, 1987.
 - Trump, Donald J. & Kate Bohner. *Trump: The Art of the Comeback*. Times Books, 1997.
 - Trump, Donald J. *Crippled America: How to Make America Great Again*. Simon & Schuster, 2015.
@@ -335,19 +302,17 @@ Trump 的商业逻辑在某些场景有效（双边贸易谈判），在其他�
 - Trump UN General Assembly "America First" Policy Statement. [WhiteHouse.gov](https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-at-the-united-nations-general-assembly-outlining-america-first-foreign-policy/)
 - Tariff quote: "the most beautiful word in the dictionary is tariff." (2024 public statements, multiple outlets)
 
-### 可靠二手来源（★★）
-- Schwartz, Tony. NPR interview, July 2016. [链接](https://www.npr.org/2016/07/21/486924253/art-of-the-deal-ghostwriter-on-why-trump-should-not-be-president)
+### Reliable secondary sources（★★）
+- Schwartz, Tony. NPR interview, July 2016. [Interview](https://www.npr.org/2016/07/21/486924253/art-of-the-deal-ghostwriter-on-why-trump-should-not-be-president)
 - D'Antonio, Michael. *Never Enough: Donald Trump and the Pursuit of Success*. 2015.
 - Mary L. Trump. *Too Much and Never Enough*. Simon & Schuster, 2020.
 - Shortform Books: [The Art of the Deal: 11 Steps](https://www.shortform.com/blog/the-art-of-the-deal-11-steps/)
 - OnTheIssues.org: [Crippled America](https://www.ontheissues.org/Crippled_America.htm) | [Art of the Comeback](https://www.ontheissues.org/Archive/Art_of_Comeback_Principles_+_Values.htm)
 - CNBC: [Norman Vincent Peale influence](https://www.cnbc.com/2020/07/10/how-self-help-author-norman-vincent-peale-influenced-donald-trump.html)
 
-### 学术/分析来源（★）
+### Academic and analytical sources（★）
 - MIT Negotiation Journal: "Art of the Power Deal: The Four Negotiation Roles of Donald J. Trump" (2019). [Full PDF](https://direct.mit.edu/ngtn/article-pdf/35/1/65/2377432/nejo12265.pdf)
 - Brookings Institution: [Deconstructing Trump's Foreign Policy](https://www.brookings.edu/articles/deconstructing-trumps-foreign-policy/)
 - Wikipedia: [Trumpism](https://en.wikipedia.org/wiki/Trumpism) | [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal) | [Drain the swamp](https://en.wikipedia.org/wiki/Drain_the_swamp)
 
----
-
-*调研截止：2026-04-05 | 下一步建议：补充 Trump 演讲原文分析、对比 Trump 1.0 vs 2.0 政策一致性*
+*Research cutoff: 2026-04-05. Suggested follow-up: Analyze more original speech transcripts and compare policy consistency across Trump's first and second terms.*
