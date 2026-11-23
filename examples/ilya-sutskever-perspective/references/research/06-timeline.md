@@ -1,169 +1,171 @@
-# Ilya Sutskever 完整人物时间线
+# Ilya Sutskever: Complete timeline
 
-> 调研时间：2026-04-05
-> 信息源：Wikipedia、TechCrunch、CNBC、Calcalist Tech、Nature、MIT Technology Review、Fortune、Dwarkesh Podcast、NAS官网等
-> 排除源：知乎、微信公众号、百度百科
-
----
-
-## 一、早年与教育（1986-2012）
-
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 1986年 | 出生于苏联高尔基市（今俄罗斯下诺夫哥罗德），犹太家庭 | Wikipedia |
-| ~1991年（5岁） | 随家人移民以色列，居住在耶路撒冷 | Wikipedia |
-| 在以色列期间 | 就读以色列开放大学（Open University of Israel） | Wikipedia |
-| ~2002年（16岁） | 随家人移民加拿大；仅读了一个月高中，即以三年级本科生身份被多伦多大学录取 | Wikipedia |
-| 2005年 | 获多伦多大学数学学士学位 | Wikipedia |
-| 2007年 | 获多伦多大学计算机科学硕士学位 | Wikipedia |
-| 2012年夏 | 短暂在斯坦福大学做博士后（约两个月），导师Andrew Ng | Wikipedia |
-| 2012年9月 | 与Alex Krizhevsky、Geoffrey Hinton合作的AlexNet在ImageNet竞赛中大获全胜，开启深度学习革命 | Wikipedia, NeurIPS |
-| 2012年底 | 回到多伦多大学，加入Hinton创办的DNNResearch公司 | Wikipedia |
+> Research date: 2026-04-05
+> Sources: Wikipedia, TechCrunch, CNBC, Calcalist Tech, Nature, MIT Technology Review, Fortune, Dwarkesh Podcast, the NAS website, and others
+> Excluded sources: Zhihu, WeChat Official Accounts, and Baidu Baike
 
 ---
 
-## 二、Google Brain时期（2013-2015）
+## 1. Early life and education (1986–2012)
 
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 2013年3月 | Google以4400万美元收购DNNResearch（Hinton、Sutskever、Krizhevsky团队），三人加入Google Brain | Wikipedia, 多家媒体 |
-| 2013年 | 获多伦多大学计算机科学博士学位，导师Geoffrey Hinton | Wikipedia |
-| 2014年9月 | 与Oriol Vinyals、Quoc V. Le发表「Sequence to Sequence Learning with Neural Networks」论文（arXiv: 1409.3215），奠定机器翻译和对话系统基础 | arXiv |
-| 2013-2015年 | 在Google Brain期间参与TensorFlow开发，也是AlphaGo论文的联合作者之一 | Wikipedia |
-| 2014年 | 与Zaremba、Vinyals发表LSTM正则化论文（Recurrent Neural Network Regularization） | Semantic Scholar |
-
----
-
-## 三、OpenAI创立与早期（2015-2019）
-
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 2015年12月 | 与Sam Altman、Elon Musk、Greg Brockman等人联合创办OpenAI，担任联合创始人兼首席科学家 | Wikipedia, OpenAI |
-| 2015年 | 入选MIT Technology Review「35 Innovators Under 35」 | MIT Technology Review |
-| 2018年6月 | GPT-1发布——Sutskever推动的「大规模无监督预训练」路线的首个重大成果 | OpenAI, Wikipedia |
-| 2019年2月 | GPT-2发布，OpenAI以安全为由最初仅发布小模型，引发开放性争论 | OpenAI |
-| 2019年 | OpenAI LP成立——Altman、Sutskever、Brockman联合创建营利实体，在非营利架构下引入投资（微软等），以支付算力开支 | Wikipedia, Fortune |
-
-### 思想转折标记
-Sutskever在GPT-2时期已开始公开表达对AI安全的担忧。他在采访中表示：如果相信AGI将拥有极强能力，那么开源就不是好主意。这标志着他从「开放研究」向「谨慎发布」的转变。
+| Date | Event | Source |
+|---|---|---|
+| 1986 | Born to a Jewish family in Gorky, Soviet Union, now Nizhny Novgorod, Russia. | Wikipedia |
+| Around 1991 (age 5) | Moved to Israel with his family and lived in Jerusalem. | Wikipedia |
+| While in Israel | Attended the Open University of Israel. | Wikipedia |
+| Around 2002 (age 16) | Moved with his family to Canada. After a single month of high school, he was admitted to the University of Toronto as a third-year undergraduate. | Wikipedia |
+| 2005 | Earned a bachelor's degree in mathematics from the University of Toronto. | Wikipedia |
+| 2007 | Earned a master's degree in computer science from the University of Toronto. | Wikipedia |
+| Summer 2012 | Spent about two months as a postdoctoral researcher at Stanford University under Andrew Ng. | Wikipedia |
+| September 2012 | AlexNet, developed with Alex Krizhevsky and Geoffrey Hinton, won the ImageNet competition decisively and helped launch the deep learning revolution. | Wikipedia, NeurIPS |
+| Late 2012 | Returned to the University of Toronto and joined DNNResearch, a company founded by Hinton. | Wikipedia |
 
 ---
 
-## 四、GPT-3/4与安全转向（2020-2023）
+## 2. Google Brain (2013–2015)
 
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 2020年6月 | GPT-3发布（1750亿参数），Sutskever作为首席科学家主导研究方向 | OpenAI |
-| 2021年1月 | DALL-E发布，Sutskever是联合作者 | OpenAI |
-| 2021年1月 | CLIP发布，Sutskever是联合作者 | OpenAI |
-| 2022年 | 当选英国皇家学会院士（Fellow of the Royal Society, FRS） | Royal Society |
-| 2022年12月 | 获NeurIPS Test of Time Award（第一次，AlexNet论文） | NeurIPS |
-| 2022年11月30日 | ChatGPT发布，基于Sutskever团队的GPT-3.5，引爆全球AI热潮 | OpenAI |
-| 2023年3月 | GPT-4发布，Sutskever在采访中承认不公开更多信息的原因是「对竞争的恐惧和对安全的恐惧」 | Fortune |
-| 2023年7月5日 | **关键转折**：Sutskever与Jan Leike联合宣布成立OpenAI Superalignment团队，声明超级智能可能在十年内到来，承诺投入20%算力用于对齐研究 | OpenAI blog, TechCrunch |
-| 2023年10月 | 接受MIT Technology Review独家专访，讨论AI可能与人类融合的未来 | MIT Technology Review |
-| 2023年12月 | 获NeurIPS Test of Time Award（第二次，连续获奖） | NeurIPS |
-| 2023年 | 入选Time「AI领域100位最具影响力人物」 | Time |
+| Date | Event | Source |
+|---|---|---|
+| March 2013 | Google acquired DNNResearch, the team of Hinton, Sutskever, and Krizhevsky, for US$44 million. All three joined Google Brain. | Wikipedia, multiple outlets |
+| 2013 | Earned a PhD in computer science from the University of Toronto under Geoffrey Hinton. | Wikipedia |
+| September 2014 | Published “Sequence to Sequence Learning with Neural Networks” with Oriol Vinyals and Quoc V. Le (arXiv: 1409.3215), laying groundwork for machine translation and dialogue systems. | arXiv |
+| 2013–2015 | Helped develop TensorFlow at Google Brain and was one of the co-authors of the AlphaGo paper. | Wikipedia |
+| 2014 | Published the LSTM regularization paper “Recurrent Neural Network Regularization” with Zaremba and Vinyals. | Semantic Scholar |
 
 ---
 
-## 五、OpenAI董事会危机（2023年11月）
+## 3. Founding and early years of OpenAI (2015–2019)
 
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 2023年11月之前数周 | Altman缩减Sutskever在公司的角色；内部关于商业化速度的分歧加剧 | CNN, Fortune |
-| 2023年11月（日期不详） | Sutskever撰写52页备忘录，指控Altman「持续性说谎」「挑拨高管互斗」，通过「阅后即焚邮件」发送给三位独立董事 | Decrypt, The Information |
-| 2023年11月17日（周五） | OpenAI董事会投票罢免Sam Altman CEO职位，Sutskever是推动者之一 | 多家媒体 |
-| 2023年11月18日 | 董事会成员Helen Toner与Anthropic联系，讨论OpenAI与Anthropic合并可能，考虑Dario Amodei担任合并后CEO；Sutskever对此「非常不满」 | Sutskever证词, The Neuron |
-| 2023年11月19日（周日） | Sutskever在全员会议上称罢免Altman是「董事会在履职」 | 多家媒体 |
-| 2023年11月20-21日 | ~700/770名员工签署联名信要求Altman回归并威胁集体跳槽到微软；Sutskever对此「真心感到惊讶」，严重误判了员工忠诚度 | Sutskever证词 |
-| 2023年11月22日（周三） | OpenAI宣布Sam Altman回归CEO，Brockman回归总裁；Sutskever随后表达「后悔」参与了罢免行动 | 多家媒体 |
+| Date | Event | Source |
+|---|---|---|
+| December 2015 | Co-founded OpenAI with Sam Altman, Elon Musk, Greg Brockman, and others, serving as co-founder and chief scientist. | Wikipedia, OpenAI |
+| 2015 | Named to MIT Technology Review's “35 Innovators Under 35.” | MIT Technology Review |
+| June 2018 | GPT-1 was released, the first major result of the large-scale unsupervised pretraining approach Sutskever advocated. | OpenAI, Wikipedia |
+| February 2019 | GPT-2 was announced. Citing safety, OpenAI initially released only the small model, sparking a debate about openness. | OpenAI |
+| 2019 | Altman, Sutskever, and Brockman established the for-profit OpenAI LP within a nonprofit structure to bring in investors, including Microsoft, and cover computing expenses. | Wikipedia, Fortune |
 
-### 背景注记
-Sutskever在2023年11月时持有约40亿美元的已归属OpenAI股权。他在后来的证词中确认离开后仍持有股权且价值「有所增加」。
+### Intellectual turning point
 
----
-
-## 六、离开OpenAI与创办SSI（2024）
-
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 2024年5月14日 | Sutskever宣布离开OpenAI，表示将投入「对个人非常有意义」的新项目 | CNN, X/Twitter |
-| 2024年5月17日 | OpenAI正式解散Superalignment团队；共同负责人Jan Leike也已离职（加入Anthropic） | CNBC |
-| 2024年5月28日 | OpenAI在批评声中成立董事会安全委员会 | Bloomberg |
-| 2024年6月19日 | Sutskever宣布创办Safe Superintelligence Inc.（SSI），与Daniel Gross和Daniel Levy联合创办，设办公室于Palo Alto和Tel Aviv | 多家媒体 |
-| 2024年9月 | SSI披露已从SV Angel、DST Global、Sequoia Capital、a16z等融资10亿美元，估值约50亿美元 | Quartz, TechCrunch |
-| 2024年12月 | 获NeurIPS Test of Time Award（第三次，Seq2Seq论文，连续三年获奖，2022-2024） | NeurIPS |
-| 2024年12月15日 | 在NeurIPS 2024大会（温哥华）发表重要演讲，预言「预训练时代即将终结」，未来AI系统将像「活的数据中心」——自主实体 | NeurIPS, 多家媒体 |
-| 2024年 | 再次入选Time「AI领域100位最具影响力人物」 | Time |
+By the GPT-2 period, Sutskever had begun speaking publicly about AI safety concerns. In interviews, he said open-sourcing AGI was a bad idea if one believed it would be extremely capable. This marked a shift from open research to cautious release.
 
 ---
 
-## 七、SSI发展与近期动态（2025年4月-2026年4月）
+## 4. GPT-3/4 and the shift toward safety (2020–2023)
 
-| 时间 | 事件 | 来源 |
-|------|------|------|
-| 2025年2月初 | 报道称SSI正以200亿美元以上估值寻求新一轮融资 | SiliconAngle |
-| 2025年2月中 | 报道更新：SSI融资轮估值达300亿美元，由Greenoaks Capital领投 | SiliconAngle |
-| 2025年3月 | SSI完成新一轮融资，估值达300亿美元，累计融资额约30亿美元 | The AI Insider |
-| 2025年4月9日 | SSI与Google Cloud达成合作，使用Google TPU而非Nvidia GPU训练模型，成为Google Cloud最大的外部TPU客户 | TechCrunch |
-| 2025年4月12日 | 报道确认SSI估值达320亿美元，新增融资20亿美元，投资者包括Alphabet、NVIDIA、a16z、Lightspeed、DST Global，Greenoaks承诺5亿美元 | TechCrunch, Calcalist |
-| 2025年上半年 | Meta尝试收购SSI，被Sutskever拒绝 | CNBC, Globes |
-| 2025年6月19日 | CNBC报道Meta收购SSI失败后，转而挖人——成功招揽SSI联合创始人Daniel Gross和前GitHub CEO Nat Friedman | CNBC |
-| 2025年6月29日 | Daniel Gross正式离开SSI | Sutskever X/Twitter |
-| 2025年7月3日 | Sutskever自任SSI CEO，Daniel Levy升任总裁；Sutskever发声明：「我们有算力、有团队、知道该做什么」，明确拒绝出售 | TechCrunch, CNBC, Techmeme |
-| 2025年10月1日 | Sutskever在Musk诉OpenAI案中进行约10小时证词录取（deposition），披露52页备忘录、与Anthropic合并谈判等大量内幕 | Decrypt, TMTPost, The Information |
-| 2025年11月3日 | 证词细节公开：Sutskever确认他对Anthropic合并「非常不满」，证实持有已增值的OpenAI股权但拒绝透露具体金额 | Business Insider, Calcalist |
-| 2025年11月25日 | 接受Dwarkesh Patel第二次深度访谈，提出核心观点：「AI正从scaling时代进入research时代」（2012-2020研究时代→2020-2025规模时代→2026起新研究时代）；称LLM的泛化能力「不够」；表示SSI已有足够算力 | Dwarkesh Podcast |
-| 2025年12月 | SSI团队约20人，全部为研究员或工程师，无销售/市场/产品经理/BD岗位；尚未发布任何产品，称「我们的第一个产品就是安全的超级智能」 | Inc., Calcalist |
-| 2026年2月 | 美国国家科学院（NAS）宣布Sutskever获得2026年「工业科学应用奖」（Award for the Industrial Application of Science）——该奖项首次颁发给AI领域 | NAS官网 |
-| 2026年4月26日（预定） | NAS年会上正式颁奖（$25,000奖金） | NAS官网 |
-
-### SSI研究方向（截至2025年底）
-- 核心课题：**可扩展监督**（scalable oversight）——当AI能力超越人类理解时，如何验证AI在做我们想让它做的事
-- 使用Google TPU而非Nvidia GPU训练
-- 明确表示不急于发布产品，但承认如果超级智能时间线比预期更长，可能提前发布
-- Sutskever在Dwarkesh访谈中表示：再增加100倍规模会有差异，但不会产生变革性突破——关键瓶颈是想法（ideas），不是算力
+| Date | Event | Source |
+|---|---|---|
+| June 2020 | GPT-3 was released, with 175 billion parameters. Sutskever led the research direction as chief scientist. | OpenAI |
+| January 2021 | DALL-E was released. Sutskever was a co-author. | OpenAI |
+| January 2021 | CLIP was released. Sutskever was a co-author. | OpenAI |
+| 2022 | Elected a Fellow of the Royal Society (FRS). | Royal Society |
+| December 2022 | Received his first NeurIPS Test of Time Award, for the AlexNet paper. | NeurIPS |
+| November 30, 2022 | ChatGPT was released, based on GPT-3.5 from Sutskever's team, sparking a global wave of interest in AI. | OpenAI |
+| March 2023 | GPT-4 was released. Sutskever acknowledged in an interview that OpenAI withheld further information out of “fear of competition and fear of safety.” | Fortune |
+| July 5, 2023 | **Key turning point:** Sutskever and Jan Leike jointly announced OpenAI's Superalignment team. They said superintelligence could arrive within a decade and pledged 20% of computing power to alignment research. | OpenAI blog, TechCrunch |
+| October 2023 | Discussed a future in which AI might merge with humans in an exclusive interview with MIT Technology Review. | MIT Technology Review |
+| December 2023 | Received his second consecutive NeurIPS Test of Time Award. | NeurIPS |
+| 2023 | Named one of Time's 100 most influential people in AI. | Time |
 
 ---
 
-## 八、思想转折点梳理
+## 5. OpenAI board crisis (November 2023)
 
-| 时间 | 转折 | 证据 |
-|------|------|------|
-| 2019年（GPT-2发布） | 从「开放研究」→「谨慎发布」 | 公开表示如果相信AGI会极其强大，开源就是坏主意 |
-| 2023年7月 | 从「能力优先」→「安全优先」 | 成立Superalignment团队，投入20%算力，声明超级智能可能十年内到来 |
-| 2023年10月-11月 | 安全担忧转化为行动 | 撰写52页备忘录挑战Altman，推动董事会罢免CEO |
-| 2024年5-6月 | 从「体制内改革」→「独立建设」 | 离开OpenAI，创办SSI，使命单一：安全的超级智能 |
-| 2025年11月 | 从「规模主义」→「研究主义」 | 公开宣布scaling时代结束，关键瓶颈是科学思想而非算力 |
+| Date | Event | Source |
+|---|---|---|
+| Weeks leading up to November 2023 | Altman reduced Sutskever's role within the company, and internal disagreement about the speed of commercialization intensified. | CNN, Fortune |
+| November 2023 (exact date unknown) | Sutskever wrote a 52-page memo alleging that Altman “consistently lied” and “pitted executives against one another,” and sent it to three independent directors by self-deleting email. | Decrypt, The Information |
+| Friday, November 17, 2023 | OpenAI's board voted to remove Sam Altman as CEO. Sutskever was one of the proponents. | Multiple outlets |
+| November 18, 2023 | Board member Helen Toner contacted Anthropic about a possible merger and considered Dario Amodei as CEO of the merged company. Sutskever was “very unhappy” about this. | Sutskever's testimony, The Neuron |
+| Sunday, November 19, 2023 | At an all-hands meeting, Sutskever said firing Altman was “the board doing its job.” | Multiple outlets |
+| November 20–21, 2023 | About 700 of 770 employees signed a letter demanding Altman's return and threatening to move to Microsoft together. Sutskever was “genuinely surprised” and had badly misjudged employee loyalty. | Sutskever's testimony |
+| Wednesday, November 22, 2023 | OpenAI announced Altman's return as CEO and Brockman's as president. Sutskever subsequently expressed “regret” for participating in the dismissal. | Multiple outlets |
 
----
+### Background note
 
-## 九、关键论文与发表时间
-
-| 时间 | 论文 | 角色 |
-|------|------|------|
-| 2012年 | ImageNet Classification with Deep Convolutional Neural Networks（AlexNet） | 联合作者（与Krizhevsky, Hinton） |
-| 2014年9月 | Sequence to Sequence Learning with Neural Networks | 第一作者 |
-| 2014年 | Recurrent Neural Network Regularization | 联合作者（与Zaremba, Vinyals） |
-| 2016年 | Mastering the Game of Go with Deep Neural Networks and Tree Search（AlphaGo） | 联合作者之一 |
-| 2017年 | Learning Transferable Visual Models From Natural Language Supervision（CLIP前身工作） | 贡献者 |
-| 2018年 | Improving Language Understanding by Generative Pre-Training（GPT-1） | 贡献者/指导 |
-| 2019年 | Language Models are Unsupervised Multitask Learners（GPT-2） | 贡献者/指导 |
-| 2020年 | Language Models are Few-Shot Learners（GPT-3） | 贡献者/指导 |
-| 2021年 | DALL-E / CLIP | 联合作者 |
+In November 2023, Sutskever held about US$4 billion in vested OpenAI equity. In later testimony, he confirmed he still held the equity after leaving and that its value had “gone up.”
 
 ---
 
-## 十、重要荣誉与奖项
+## 6. Leaving OpenAI and founding SSI (2024)
 
-| 时间 | 荣誉 |
-|------|------|
-| 2015年 | MIT Technology Review「35 Innovators Under 35」 |
-| 2022年 | 当选英国皇家学会院士（FRS） |
-| 2022年12月 | NeurIPS Test of Time Award（AlexNet） |
-| 2023年12月 | NeurIPS Test of Time Award（连续第二年） |
-| 2023年 | Time「AI领域100位最具影响力人物」 |
-| 2024年12月 | NeurIPS Test of Time Award（Seq2Seq，连续第三年） |
-| 2024年 | Time「AI领域100位最具影响力人物」 |
-| 2026年2月宣布 | 美国国家科学院「工业科学应用奖」（AI领域首次） |
+| Date | Event | Source |
+|---|---|---|
+| May 14, 2024 | Sutskever announced he was leaving OpenAI to work on a new project that was “very personally meaningful.” | CNN, X/Twitter |
+| May 17, 2024 | OpenAI formally dissolved the Superalignment team. Co-lead Jan Leike had also resigned and joined Anthropic. | CNBC |
+| May 28, 2024 | Amid criticism, OpenAI formed a board safety committee. | Bloomberg |
+| June 19, 2024 | Sutskever announced Safe Superintelligence Inc. (SSI), co-founded with Daniel Gross and Daniel Levy, with offices in Palo Alto and Tel Aviv. | Multiple outlets |
+| September 2024 | SSI disclosed US$1 billion in funding from SV Angel, DST Global, Sequoia Capital, a16z, and others, at a valuation of about US$5 billion. | Quartz, TechCrunch |
+| December 2024 | Received a third NeurIPS Test of Time Award, for the Seq2Seq paper, his third win in three consecutive years, 2022–2024. | NeurIPS |
+| December 15, 2024 | In a major talk at NeurIPS 2024 in Vancouver, he predicted the end of the pretraining era and said future AI systems would resemble “living data centers,” or autonomous entities. | NeurIPS, multiple outlets |
+| 2024 | Again named one of Time's 100 most influential people in AI. | Time |
+
+---
+
+## 7. SSI developments and recent updates (April 2025–April 2026)
+
+| Date | Event | Source |
+|---|---|---|
+| Early February 2025 | Reports said SSI was seeking fresh funding at a valuation above US$20 billion. | SiliconAngle |
+| Mid-February 2025 | Updated reporting put SSI's funding-round valuation at US$30 billion and named Greenoaks Capital as the lead. | SiliconAngle |
+| March 2025 | SSI closed a new round at a US$30 billion valuation, bringing total funding to about US$3 billion. | The AI Insider |
+| April 9, 2025 | SSI partnered with Google Cloud to train models on Google TPUs rather than Nvidia GPUs, becoming Google Cloud's largest external TPU customer. | TechCrunch |
+| April 12, 2025 | Reports confirmed a US$32 billion valuation and US$2 billion in fresh funding. Investors included Alphabet, NVIDIA, a16z, Lightspeed, and DST Global, and Greenoaks committed US$500 million. | TechCrunch, Calcalist |
+| First half of 2025 | Meta tried to acquire SSI, but Sutskever declined. | CNBC, Globes |
+| June 19, 2025 | CNBC reported that Meta shifted to recruitment after the failed acquisition, hiring SSI co-founder Daniel Gross and ex-GitHub CEO Nat Friedman. | CNBC |
+| June 29, 2025 | Daniel Gross formally left SSI. | Sutskever's X/Twitter |
+| July 3, 2025 | Sutskever became CEO of SSI and Daniel Levy became president. Sutskever said, “We have the compute, we have the team, and we know what to do,” and explicitly refused to sell. | TechCrunch, CNBC, Techmeme |
+| October 1, 2025 | Sutskever gave about 10 hours of deposition testimony in Musk v. OpenAI, revealing the 52-page memo, the Anthropic merger discussions, and other internal details. | Decrypt, TMTPost, The Information |
+| November 3, 2025 | Details of the testimony became public. Sutskever confirmed he was “very unhappy” about the Anthropic merger and held OpenAI equity that had appreciated, but declined to give an exact value. | Business Insider, Calcalist |
+| November 25, 2025 | In his second in-depth interview with Dwarkesh Patel, he argued that AI was moving from the age of scaling to the age of research: research, 2012–2020 → scaling, 2020–2025 → renewed research, 2026 onward. He called LLM generalization inadequate and said SSI already had enough compute. | Dwarkesh Podcast |
+| December 2025 | SSI had about 20 staff, all researchers or engineers, and no sales, marketing, product management, or business development roles. It had released no product and said, “Our first product will be safe superintelligence.” | Inc., Calcalist |
+| February 2026 | The US National Academy of Sciences (NAS) announced that Sutskever would receive its 2026 Award for the Industrial Application of Science, the first time it went to AI. | NAS website |
+| April 26, 2026 (scheduled) | Award presentation at the NAS annual meeting, with a US$25,000 prize. | NAS website |
+
+### SSI research direction (as of the end of 2025)
+- Core topic: **Scalable oversight**. How can we verify that AI is doing what we intend once its capabilities exceed human understanding?
+- Trains on Google TPUs instead of Nvidia GPUs.
+- Explicitly says it is in no hurry to release a product, while acknowledging that it might release one earlier if the superintelligence timeline is longer than expected.
+- In the Dwarkesh interview, Sutskever said another 100-fold scale increase would make a difference without producing a transformative breakthrough. Ideas are the key bottleneck rather than computing power.
+
+---
+
+## 8. Intellectual turning points
+
+| Date | Shift | Evidence |
+|---|---|---|
+| 2019 (GPT-2 release) | From open research to cautious release | Publicly said open source was a bad idea if AGI would become extremely powerful. |
+| July 2023 | From prioritizing capabilities to prioritizing safety | Formed Superalignment, devoted 20% of compute, and said superintelligence could arrive within a decade. |
+| October–November 2023 | Acted on safety concerns | Wrote a 52-page memo challenging Altman and pressed the board to dismiss the CEO. |
+| May–June 2024 | From reform within the organization to building independently | Left OpenAI and founded SSI with the sole mission of safe superintelligence. |
+| November 2025 | From scaling to research | Publicly announced that the scaling era was over and that scientific ideas had become the key bottleneck rather than compute. |
+
+---
+
+## 9. Key papers and publication dates
+
+| Date | Paper | Role |
+|---|---|---|
+| 2012 | ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | Co-author with Krizhevsky and Hinton |
+| September 2014 | Sequence to Sequence Learning with Neural Networks | First author |
+| 2014 | Recurrent Neural Network Regularization | Co-author with Zaremba and Vinyals |
+| 2016 | Mastering the Game of Go with Deep Neural Networks and Tree Search (AlphaGo) | One of the co-authors |
+| 2017 | Learning Transferable Visual Models From Natural Language Supervision (described in the source as work preceding CLIP) | Contributor |
+| 2018 | Improving Language Understanding by Generative Pre-Training (GPT-1) | Contributor and adviser |
+| 2019 | Language Models are Unsupervised Multitask Learners (GPT-2) | Contributor and adviser |
+| 2020 | Language Models are Few-Shot Learners (GPT-3) | Contributor and adviser |
+| 2021 | DALL-E / CLIP | Co-author |
+
+---
+
+## 10. Major honors and awards
+
+| Date | Honor |
+|---|---|
+| 2015 | MIT Technology Review's “35 Innovators Under 35” |
+| 2022 | Elected a Fellow of the Royal Society (FRS) |
+| December 2022 | NeurIPS Test of Time Award (AlexNet) |
+| December 2023 | NeurIPS Test of Time Award (second consecutive year) |
+| 2023 | Time's 100 most influential people in AI |
+| December 2024 | NeurIPS Test of Time Award (Seq2Seq, third consecutive year) |
+| 2024 | Time's 100 most influential people in AI |
+| Announced February 2026 | NAS Award for the Industrial Application of Science (first for AI) |
