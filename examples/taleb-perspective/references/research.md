@@ -14,7 +14,7 @@ The original notes identify the location as `写作/07-调研与分析/`. The fi
 |---|---|---|
 | 塔勒布思想体系调研.md | The five Incerto volumes, 11 central arguments, 20+ terms coined by Taleb, intellectual lineage, recommended reading | 1. Writings and systematic thought |
 | [long-conversations.md](long-conversations.md) | Eight core primary interviews, 13 recurring analogies, reframing as a thinking pattern, change in the Bitcoin position | 2. Interviews and spontaneous thinking |
-| 塔勒布碎片表达与社交媒体人格调研.md | Expression patterns (seven coinages and four sentence patterns), five levels of attack, six central tensions, Taleb's account of writing | 3. Social media |
+| [social-media-expression.md](social-media-expression.md) | Expression patterns (seven coinages and four sentence patterns), five levels of attack, six central tensions, Taleb's account of writing | 3. Social media |
 | [outside-criticism.md](outside-criticism.md) | The “two Talebs,” unfalsifiability, and comparisons with Kahneman, Pinker, and Asness | 4. Outside perspectives |
 | 塔勒布重大决策与实际行动调研-20260404.md | Black Monday in 1987, Universa's 3612% return, early COVID warning, scoring alignment between conduct and statements | 5. Decisions |
 
