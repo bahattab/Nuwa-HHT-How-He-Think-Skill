@@ -1,108 +1,108 @@
-# X平台算法速查 + AI/科技赛道专精
+# X Algorithm Quick Reference + AI/Tech Niche Specialization
 
-> 按需加载：涉及算法规则、发帖参数、AI赛道定位、出海策略时读取。
+> Load as needed for algorithm rules, posting parameters, positioning in the AI niche, or reaching international audiences.
 
 ---
 
-## X平台算法速查（2026年4月）
+## X Algorithm Quick Reference (April 2026)
 
-### 互动权重公式（开源代码确认）
+### Engagement Weight Formula (Confirmed in the Open-Source Code)
 
-| 互动类型 | 权重倍数(vs Like) | 含义 | 来源 |
+| Engagement type | Weight (vs. Like) | Meaning | Source |
 |----------|-------------------|------|------|
-| 对话回复(Reply+作者互动) | **150x** | 你的回复被原帖作者回复/点赞 | 开源代码 |
-| 普通回复(Reply) | **27x** | 普通回复 | 开源代码 |
-| 个人主页点击 | **24x** | 用户点进你主页并互动 | 开源代码 |
-| 停留时间(>2min) | **20x** | 用户在你的帖子/对话上停2分钟+ | 开源代码 |
-| 书签(Bookmark) | **~20x** | 社区推测值，非精确 | 社区推测 |
-| 转发(Retweet) | **2x** | 2026版权重大幅降低 | 开源代码 |
-| 点赞(Like) | **1x** | 基准值 | 开源代码 |
+| Conversation reply (Reply + author engagement) | **150x** | The original author replies to or likes your reply | Open-source code |
+| Regular reply (Reply) | **27x** | A regular reply | Open-source code |
+| Profile click | **24x** | A user opens your profile and engages | Open-source code |
+| Dwell time (>2 min) | **20x** | A user spends at least 2 minutes on your post or conversation | Open-source code |
+| Bookmark | **~20x** | Community estimate, not an exact figure | Community estimate |
+| Repost (Retweet) | **2x** | Weight fell sharply in the 2026 version | Open-source code |
+| Like | **1x** | Baseline | Open-source code |
 
-### 负面信号
+### Negative Signals
 
-| 信号 | 惩罚 |
+| Signal | Penalty |
 |------|------|
-| 举报(Report) | -369x，几乎直接移除 |
-| 屏蔽/静音 | -74x |
-| 外部链接 | 触达降30-50%，非Premium几乎为零 |
-| >2个Hashtag | 触达降~40%，被判spam |
-| 重复内容 | 逐步降低，严重触发影子封禁 |
+| Report | -369x, effectively removing the post |
+| Block/mute | -74x |
+| External link | Reach drops by 30-50%, or to almost zero without Premium |
+| >2 hashtags | Reach drops by ~40%, and the post is classified as spam |
+| Repetitive content | Gradual reduction in reach, with serious cases triggering a shadowban |
 
-### 关键规则
+### Key Rules
 
-- **Engagement Velocity**：前15-30分钟的互动速度决定推文生死。15分钟内10+互动→指数扩散，<3互动→推文死亡
-- **时间衰减**：每6小时可见性减半
-- **Premium必要性**：4x关注者Feed加成 + 2x非关注者Feed加成 + TweepCred即时+100。非Premium发链接帖中位互动为零（2026.03数据）
-- **Grok语气评分**：2025年新增，正面/建设性内容获得更多分发
-- **外链解法**：主推文不放链接，第一条回复放链接
+- **Engagement Velocity**: The rate of engagement in the first 15-30 minutes determines whether a post takes off. At least 10 interactions within 15 minutes lead to exponential distribution, while fewer than 3 leave the post dead.
+- **Time decay**: Visibility halves every 6 hours.
+- **Why Premium matters**: A 4x boost in followers' feeds, a 2x boost in non-followers' feeds, and an instant +100 TweepCred boost. Link posts by non-Premium users have median engagement of zero (March 2026 data).
+- **Grok tone scoring**: Introduced in 2025. Positive or constructive content gets wider distribution.
+- **External-link workaround**: Leave the link out of the main post and put it in the first reply.
 
-### 最佳发帖参数
+### Optimal Posting Parameters
 
-| 参数 | 建议 |
+| Parameter | Recommendation |
 |------|------|
-| 时段 | 工作日9AM-2PM当地时间 |
-| 最佳日 | 周二、周三 |
-| 频率 | 3-5条/天，间隔2-3小时 |
-| Thread长度 | 8-12条推文（比短Thread高47%参与） |
-| 视频时长 | 15-30秒（最大化完播率） |
-| 推文字数 | 120-130字符最佳（短推文） |
+| Time window | 9 AM-2 PM local time on weekdays |
+| Best days | Tuesday and Wednesday |
+| Frequency | 3-5 posts per day, spaced 2-3 hours apart |
+| Thread length | 8-12 posts (47% more engagement than shorter threads) |
+| Video length | 15-30 seconds to maximize the completion rate |
+| Post length | 120-130 characters for short posts |
 
-### TweepCred（账户信誉分）
+### TweepCred (Account Reputation Score)
 
-- 范围：-128到+100
-- 新账户：-128起步
-- 正常分发门槛：+17
-- Premium订阅：即时+100加成
-- 影响因素：关注/粉丝比、互动质量、账户历史、Profile完整度、内容语气(Grok评分)
+- Range: -128 to +100
+- New account: Starts at -128
+- Threshold for normal distribution: +17
+- Premium subscription: Immediate +100 boost
+- Factors: Following-to-follower ratio, quality of engagement, account history, profile completeness, and content tone (Grok score)
 
 ---
 
-## AI/科技赛道专精
+## AI/Tech Niche Specialization
 
-### 账号分型
+### Account Types
 
-| 类型 | 代表 | 核心策略 | 适合谁 |
+| Type | Example | Core strategy | Suitable for |
 |------|------|---------|--------|
-| Build in Public型 | levelsio | 公开收入/过程/失败 | 正在做产品的开发者 |
-| Learn in Public型 | swyx | 学习笔记公开化 | 技术学习者/内容创作者 |
-| 技术教育型 | Karpathy | 低频高质深度教程 | 领域权威 |
-| AI Agent/工具型 | steipete | 产品迭代+技术观点 | 工具开发者 |
-| 开源项目型 | Exa | 病毒式副产品 | 开源维护者 |
-| AI新闻聚合型 | Rowan Cheung | 每日工具推荐/速报 | 内容策展者 |
+| Build in Public | levelsio | Share revenue, how the product is built, and failures openly | Developers building a product |
+| Learn in Public | swyx | Publish learning notes | People learning technical skills or creating content |
+| Technical education | Karpathy | Publish infrequent but high-quality, in-depth tutorials | Recognized experts |
+| AI agents and tools | steipete | Share product iterations and technical opinions | Tool developers |
+| Open-source projects | Exa | Create spin-off projects that spread widely | Open-source maintainers |
+| AI news aggregation | Rowan Cheung | Recommend tools daily and publish quick news updates | Content curators |
 
-### 内容效果矩阵
+### Content Performance Matrix
 
-| 内容类型 | 参与度 | 频率 | 关键 |
+| Content type | Engagement | Frequency | Key point |
 |---------|--------|------|------|
-| 新模型/产品速评 | 极高 | 有热点就发 | 速度>完美，0-1h内 |
-| Build in Public更新 | 高 | 每周2-3次 | MRR截图、功能上线 |
-| 技术Tutorial Thread | 高 | 每周1次 | 8-12条，有代码/截图 |
-| Demo视频/GIF | 高 | 有成果就发 | 15-30秒，假设静音 |
-| 争议观点(Hot Take) | 中-高 | 谨慎使用 | 需要有理有据 |
-| 论文解读Thread | 中 | 每周1次 | 简单语言拆解 |
-| 工具对比评测 | 中 | 每月2-3次 | 截图+测试结果 |
+| Quick review of a new model or product | Very high | Whenever there is a timely release | Speed over perfection. Publish within 0-1 hour. |
+| Build in Public update | High | 2-3 times per week | Share monthly recurring revenue (MRR) screenshots and feature launches |
+| Technical tutorial thread | High | Once a week | 8-12 posts with code or screenshots |
+| Demo video or GIF | High | Whenever there is something to show | 15-30 seconds. Assume viewers have the sound off. |
+| Controversial opinion (Hot Take) | Medium to high | Use sparingly | Back it with sound reasoning and evidence |
+| Thread explaining a research paper | Medium | Once a week | Explain it in plain language |
+| Comparative tool review | Medium | 2-3 times per month | Include screenshots and test results |
 
-### 花叔的定位建议
+### Positioning Recommendation for Hua Shu
 
-基于调研，花叔在X上的最佳差异化定位：
+Based on the research, Hua Shu's strongest way to stand out on X is:
 
-**「中国独立开发者，用AI做产品，把过程讲给全世界听」**
+**"An independent Chinese developer who builds products with AI and shares the process with the world."**
 
-理由：
-1. **独特视角**：中国AI生态的一手信息（DeepSeek、GLM等）对国际受众有独特价值
-2. **Build in Public天然匹配**：小猫补光灯App Store付费榜Top1的故事，在英文X上有极大传播潜力
-3. **Learn in Public叠加**：30万+中文粉丝的内容创作经验可以提炼成英文方法论
-4. **产品证明**：ship or shut up——AI赛道看的是你能不能做出东西，花叔有产品背书
+Reasons:
+1. **Distinctive perspective**: Firsthand information on China's AI ecosystem, including DeepSeek and GLM, offers particular value to international audiences.
+2. **Natural fit for Build in Public**: The story of the Cat Fill Light app reaching No. 1 on the App Store paid chart has strong potential to spread on English-language X.
+3. **Build on that with Learn in Public**: Hua Shu's experience creating content for more than 300,000 Chinese-language followers can be distilled into methods shared in English.
+4. **A product as proof**: "Ship or shut up." In AI, what matters is whether you can create something, and Hua Shu has a shipped product to show.
 
-**内容策略建议**：
-- 60%英文（主战场），40%中文（服务现有受众）
-- 英文内容不翻译中文，而是重新写（语境不同）
-- 新模型发布时中英同步响应（中文快评+英文深度Thread）
+**Recommended content strategy**:
+- 60% English (the main focus), 40% Chinese (for the existing audience)
+- Write English content from scratch instead of translating from Chinese, since the audience context differs.
+- Respond to new model releases in both languages at the same time, with a quick Chinese review and an in-depth English thread.
 
-### 中国开发者出海注意事项
+### Considerations for Chinese Developers Reaching International Audiences
 
-1. 英文写作不需要完美——AI赛道对非母语者更包容
-2. 发帖时间适配北美受众：Pacific Time 8-10 AM（北京时间23-01点）
-3. 开源贡献是最好的国际信任资产
-4. 双语分开运营，不混用
-5. 中国AI一手信息是差异化武器
+1. Your English does not have to be perfect. The AI community is more accepting of non-native speakers.
+2. Schedule posts for North American audiences at 8-10 AM Pacific Time (23:00-01:00 Beijing time).
+3. Open-source contributions are the best way to build trust internationally.
+4. Run the two language channels separately and do not mix languages.
+5. Use firsthand information about AI in China to stand out.

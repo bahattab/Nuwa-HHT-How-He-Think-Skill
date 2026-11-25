@@ -1,101 +1,101 @@
-# 质量检查 + 反模式 + 数据复盘 + 报告模板
+# Quality Checks + Antipatterns + Analytics Review + Report Template
 
-> 按需加载：场景C（审阅内容）、场景E（账号诊断）、数据复盘时读取。
-
----
-
-## 质量检查清单
-
-审阅已写的推文/Thread时，逐项检查：
-
-### 推文检查
-- [ ] Hook是否在2行内抓住注意力？
-- [ ] 是否回答了「给谁看/讲什么/为什么要读」？
-- [ ] 是否有具体性？（数字、时间、人名）
-- [ ] 是否能引发回复？（而非只是点赞）
-- [ ] 是否没有外部链接？（如需要，放第一条回复）
-- [ ] 发布时间是否在目标受众的活跃时段？
-
-### Thread检查
-- [ ] 第一条是否独立成文且引人入胜？
-- [ ] 是否遵循1/3/1节奏？
-- [ ] 每条tweet是否都推进了内容？（Rate of Revelation）
-- [ ] 是否有TL;DR总结？
-- [ ] 是否有明确CTA？
-- [ ] 长度是否在8-12条？
-- [ ] 是否用了bullet points而非大段文字？
-
-### 内容策略检查
-- [ ] 本周是否有至少1条Thread？
-- [ ] 是否在大号评论区留了高质量回复？
-- [ ] 是否有导流newsletter的CTA？
-- [ ] 是否响应了本周的AI热点？
-- [ ] 短推文和Thread的配比是否合理？
+> Load on demand for Scenario C (content review), Scenario E (account diagnosis), or an analytics review.
 
 ---
 
-## 反模式与避坑
+## Quality Checklist
 
-### 增长陷阱（别踩）
+When reviewing an existing post or thread, check each item:
 
-1. **买粉/互粉互赞群**：短期数据好看，长期TweepCred暴跌。算法检测到不自然的互动模式会降权，得不偿失
-2. **纯工具推荐合集**：AI赛道已是红海。「10 AI tools you need」这种帖子人人在发，没有差异化。要发就加你的实测数据和独特观点
-3. **只翻译国外AI新闻**：零差异化。要做就加你自己的take——「为什么这对中国开发者重要」或「我测了，实际效果是...」
-4. **过度追热点丢定位**：每个热点都蹭，粉丝不知道你到底是谁。热点要筛选：只蹭跟你定位相关的
-5. **只有hook没有substance**：标题党短期有效，长期掉粉。Hormozi说「超额交付」，承诺1个给3个
-6. **发帖不回复**：对话权重150x，你不回复等于放弃最大的算法杠杆
-7. **Thread太长不收**：超过15条tweet开始掉人。Sweet spot是8-12条
+### Post Checklist
+- [ ] Does the hook grab attention within 2 lines?
+- [ ] Does the post answer “Who is it for? What is it about? Why should they read it?”
+- [ ] Does it include specifics, such as numbers, times, or names?
+- [ ] Does it invite replies rather than just likes?
+- [ ] Is the post free of external links? (If needed, put them in the first reply.)
+- [ ] Will it go out when the target audience is active?
 
-### 平台级风险（需警觉）
+### Thread Checklist
+- [ ] Does the first post stand on its own and draw readers in?
+- [ ] Does the thread follow a 1/3/1 rhythm?
+- [ ] Does each post advance the content? (Rate of Revelation)
+- [ ] Is there a TL;DR summary?
+- [ ] Is there a clear call to action (CTA)?
+- [ ] Is the thread 8–12 posts long?
+- [ ] Does it use bullet points instead of walls of text?
 
-- **互动率整体下跌**：2024-2025年X全平台互动率暴跌48%。不是你的问题，是平台趋势
-- **Pay-to-play加剧**：非Premium用户的有机触达持续萎缩，外链帖几乎为零。Premium不是可选项，是必需品
-- **用户迁移**：部分创作者向Bluesky/Threads分散。但目前X仍是AI/tech内容的主战场
+### Content Strategy Checklist
+- [ ] Did you publish at least 1 thread this week?
+- [ ] Did you leave high-quality replies to posts by major accounts?
+- [ ] Is there a CTA that directs readers to the newsletter?
+- [ ] Did you respond to this week’s trending AI topics?
+- [ ] Is the mix of short posts and threads appropriate?
 
 ---
 
-## 数据复盘指引
+## Antipatterns and Pitfalls
 
-### 关键指标（按优先级）
+### Growth Traps to Avoid
 
-| 指标 | 看什么 | 健康值参考 |
+1. **Buying followers or joining follow-for-follow and like-for-like groups**: The numbers look good briefly, but TweepCred plummets in the long run. The algorithm downranks unnatural engagement patterns, so the trade-off is not worth it.
+2. **Publishing tool roundups with nothing of your own**: AI is already a crowded field. Everyone publishes posts like “10 AI tools you need,” so they do not stand out. Add your own test data and a distinct point of view if you publish one.
+3. **Only translating international AI news**: That gives readers nothing they cannot get elsewhere. Add your own take, such as “Why this matters to developers in China” or “I tested it, and here is what actually happened.”
+4. **Chasing trends at the cost of your positioning**: If you jump on every trend, followers will not know what you stand for. Pick only the trends that fit your niche.
+5. **Writing a hook without substance**: Clickbait works in the short term but costs you followers over time. Hormozi recommends overdelivering. Promise one thing and deliver three.
+6. **Posting without replying**: The weight assigned to conversations is 150×. By not replying, you give up your biggest lever with the algorithm.
+7. **Letting threads run too long**: Readers start dropping off beyond 15 posts. The sweet spot is 8–12.
+
+### Platform-Wide Risks to Watch
+
+- **Engagement is down across the platform**: X’s overall engagement rate fell by 48% from 2024 to 2025. That is a platform-wide trend that is not specific to your account.
+- **Increasing pay-to-play**: Organic reach for non-Premium users continues to shrink, and reach for posts with external links is almost zero. Premium is a necessity, not an option.
+- **User migration**: Some creators are spreading their activity across Bluesky and Threads. For now, X remains the main platform for AI and tech content.
+
+---
+
+## Analytics Review Guide
+
+### Key Metrics in Order of Priority
+
+| Metric | What to Measure | Benchmark |
 |------|--------|-----------|
-| Engagement Rate | 互动数/曝光数 | >2%良好, >5%优秀 |
-| Reply率 | 回复数/曝光数 | 越高越好(算法最重) |
-| Profile Visit率 | 主页访问/曝光数 | >1%说明人们想了解你 |
-| Follower增长 | 周净增粉丝数 | 冷启动期日均5-10，增长期日均20-50 |
-| 书签率 | 书签数/曝光数 | 高书签=高价值内容 |
-| Newsletter导流 | 新增订阅/周 | 有就是好的，持续追踪转化率 |
+| Engagement rate | Engagements / impressions | >2% is good, >5% is excellent |
+| Reply rate | Replies / impressions | Higher is better (the algorithm gives replies the greatest weight) |
+| Profile visit rate | Profile visits / impressions | >1% suggests people want to learn more about you |
+| Follower growth | Net new followers per week | 5–10 per day during the cold-start phase, 20–50 per day during the growth phase |
+| Bookmark rate | Bookmarks / impressions | A high bookmark rate indicates valuable content |
+| Newsletter referrals | New subscriptions per week | Any new subscriptions are a good sign. Keep tracking the conversion rate. |
 
-### 复盘节奏
+### Review Cadence
 
-- **每天**：扫一眼昨天发的内容数据，标记>500互动的高表现帖
-- **每周**：分析本周top 3推文，提取共性→更新模板库
-- **每月**：Review粉丝增长曲线、内容类型分布、Newsletter增长。调整下月内容策略
+- **Daily**: Scan the previous day’s performance and flag high-performing posts with >500 engagements.
+- **Weekly**: Analyze the week’s top 3 posts, identify their shared features, and update the template library.
+- **Monthly**: Review the follower growth curve, the distribution of content types, and newsletter growth. Adjust next month’s content strategy.
 
-### 诊断框架（推文数据差时）
+### Diagnostic Framework for Underperforming Posts
 
-按顺序排查：
-1. **算法层**：Premium开了吗？发帖时间对吗？有外链吗？
-2. **Hook层**：前2行有好奇缺口吗？有可信度锚点吗？
-3. **内容层**：每条tweet都在推进吗？有1/3/1节奏吗？
-4. **受众层**：粉丝量够触发Engagement Velocity吗？先在评论区借流量
+Check these in order:
+1. **Algorithm**: Is Premium enabled? Was the timing right? Is there an external link?
+2. **Hook**: Do the first 2 lines spark curiosity by leaving an open question? Do they give readers a reason to trust you?
+3. **Content**: Does each post advance the content? Is there a 1/3/1 rhythm?
+4. **Audience**: Do you have enough followers to build engagement velocity? If not, start by reaching people in other accounts’ replies.
 
 ---
 
-## 报告HTML模板要求
+## HTML Report Template Requirements
 
-诊断报告使用经济学人/报纸排版风格，必须包含：
-- **视觉风格**：衬线字体(Georgia)、暖纸色背景(#f5f0e8)、红色强调(#C7000A)、Grid布局
-- **数据可视化**：使用ECharts.js（CDN引入），至少包含话题分布图、时间分布图、互动漏斗
-- **必含板块**：
-  1. Banner + Masthead（一句话核心发现作为标题）
-  2. KPI Grid（4个核心指标大数字）
-  3. Lead（总结段，斜体，左侧红色border）
-  4. 内容ROI分析（按话题分类的互动对比）
-  5. 传播漏斗（点赞率/书签率/转推率/回复率）
-  6. 时间分析（最佳发布时段、发布节奏演变）
-  7. 品牌叙事（叙事角色分布与互动表现）
-  8. Top 5行动建议（编号红色圆圈 + 标题 + 正文 + 数据证据）
-  9. Footer（数据期间、样本量、分析时间）
-- **参考实现**：`user-data/AlchainHust/report_20260406.html`
+Use an Economist-style newspaper layout for the diagnostic report. Include the following:
+- **Visual style**: Serif typeface (Georgia), warm paper background (#f5f0e8), red accent (#C7000A), and a grid layout.
+- **Data visualization**: Load ECharts.js via CDN. Include at least a topic distribution chart, a time distribution chart, and an engagement funnel.
+- **Required sections**:
+  1. Banner + masthead (one sentence stating the main finding as the headline)
+  2. KPI grid (4 key metrics displayed as large numbers)
+  3. Lead (summary paragraph in italics with a red left border)
+  4. Content ROI analysis (compare engagement by topic)
+  5. Distribution funnel (like rate, bookmark rate, repost rate, and reply rate)
+  6. Timing analysis (best times to post and how posting cadence has changed)
+  7. Brand narrative (distribution of narrative roles and their engagement performance)
+  8. Top 5 recommendations (red numbered circles + title + description + supporting data)
+  9. Footer (data period, sample size, and time of analysis)
+- **Reference implementation**: `user-data/AlchainHust/report_20260406.html`
