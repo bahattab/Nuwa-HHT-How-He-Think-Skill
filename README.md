@@ -279,7 +279,7 @@ I've been doing something like this for a while — not distilling colleagues, b
 
 Nuwa doesn't copy people. It extracts cognitive operating systems.
 
-**Nuwa (女娲)**, the goddess in Chinese mythology who created humans from clay. Here the clay is public information, and what's created is not a person — it's a mirror.
+**Nuwa**, the goddess in Chinese mythology who created humans from clay. Here the clay is public information, and what's created is not a person — it's a mirror.
 
 ---
 
@@ -289,7 +289,7 @@ Huashu / Huasheng, AI Native Coder, indie developer. All products are built by A
 
 - WeChat Official Account: 花叔 (Huashu)
 - X: [@AlchainHust](https://x.com/AlchainHust)
-- Bilibili: [花叔](https://space.bilibili.com/14097567)
+- Bilibili: [Huashu](https://space.bilibili.com/14097567)
 - YouTube: [@Alchain](https://www.youtube.com/@Alchain)
 
 ## License
