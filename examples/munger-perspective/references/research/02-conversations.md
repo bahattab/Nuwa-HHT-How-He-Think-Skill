@@ -1,6 +1,6 @@
 # 02 · Extended conversations and spontaneous thinking (2026-11-09 update: reuse earlier notes and add the final year)
 
-Earlier material is in `legacy-202604/调研-芒格即兴思考方式.md` (qualification to hold an opinion, “I have nothing to add,” analogies, refusals to answer, and the chronology of his escalating language on cryptocurrency). This file adds several extended conversations from 2023 and verifies them.
+Earlier material is in `legacy-202604/spontaneous-thinking.md` (qualification to hold an opinion, “I have nothing to add,” analogies, refusals to answer, and the chronology of his escalating language on cryptocurrency). This file adds several extended conversations from 2023 and verifies them.
 
 ## Four extended conversations, grouped under 2023 (primary sources)
 

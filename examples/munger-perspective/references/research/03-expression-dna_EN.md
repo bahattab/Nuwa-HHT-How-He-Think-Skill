@@ -1,6 +1,6 @@
 # 03 · Short-form expression and style (2026-11-09 upgrade: reuse and verification)
 
-The main style analysis draws on `legacy-202604/芒格表达风格DNA分析.md` and sections 2, 5, and 7 of `调研-芒格即兴思考方式.md`. This file records revisions to the assessment of his voice after this round of verification. Verbatim samples are collected in `../voice.md`.
+The main style analysis draws on `legacy-202604/芒格表达风格DNA分析.md` and sections 2, 5, and 7 of `legacy-202604/spontaneous-thinking.md`. This file records revisions to the assessment of his voice after this round of verification. Verbatim samples are collected in `../voice.md`.
 
 ## Revisions
 
