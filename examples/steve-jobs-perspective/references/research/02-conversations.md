@@ -1,489 +1,489 @@
-# Steve Jobs：长对话与即兴思考调研
+# Steve Jobs: Research on Long Conversations and Thinking on the Spot
 
-> 调研日期：2026-04-05
-> 调研范围：1985-2010年间的重要访谈、公开对话、新闻发布会
-> 信息源：allaboutstevejobs.com、AllThingsD、CBS News、Fortune、Inc.、Fast Company、NPR、Engadget等权威科技媒体
+> Research date: 2026-04-05
+> Scope: major interviews, public conversations, and press conferences from 1985 to 2010
+> Sources: allaboutstevejobs.com, AllThingsD, CBS News, Fortune, Inc., Fast Company, NPR, Engadget, and other established technology outlets
 
 ---
 
-## 一、核心访谈索引
+## I. Index of Key Interviews
 
-| 访谈 | 时间 | 采访者/场合 | 重要性 |
+| Interview | Date | Interviewer or setting | Significance |
 |------|------|-------------|--------|
-| Playboy Interview | 1985.02 | David Sheff | 早期最深度的杂志采访，涵盖哲学和产品观 |
-| NeXT时期采访 | 1988-1990 | 多家媒体 | 被逐出Apple后的反思与苦涩 |
-| The Lost Interview | 1995 | Bob Cringely/PBS | 最坦诚的长访谈，回归Apple前两年 |
-| WWDC 1997 Q&A | 1997 | 观众互动 | 即兴回应侮辱的经典案例 |
-| D3 Conference | 2005 | Walt Mossberg & Kara Swisher | 讨论播客、iPod Phone前瞻 |
-| D5 Conference（独立） | 2007.05 | Walt Mossberg | iPhone发布前，Apple TV定位 |
-| D5 Conference（与Gates） | 2007.05 | Mossberg & Swisher | 与Gates的历史性联合访谈 |
-| iPhone Keynote | 2007.01 | Macworld发布会 | 产品发布演讲的巅峰 |
-| D8 Conference | 2010.06 | Mossberg & Swisher | 生前最后一次公开深度访谈 |
-| Antennagate发布会 | 2010.07 | 媒体记者 | 危机应对的典型案例 |
+| Playboy Interview | 1985.02 | David Sheff | His most in-depth early magazine interview, covering philosophy and his view of products |
+| NeXT-era interviews | 1988–1990 | Several outlets | Reflection and bitterness after his ouster from Apple |
+| The Lost Interview | 1995 | Bob Cringely/PBS | The most candid long interview, two years before his return to Apple |
+| WWDC 1997 Q&A | 1997 | Audience Q&A | A classic improvisational response to an insult |
+| D3 Conference | 2005 | Walt Mossberg & Kara Swisher | Podcasts and a look ahead to an iPod phone |
+| D5 Conference (solo) | 2007.05 | Walt Mossberg | Pre-iPhone launch, with discussion of Apple TV's positioning |
+| D5 Conference (with Gates) | 2007.05 | Mossberg & Swisher | Historic joint interview with Gates |
+| iPhone Keynote | 2007.01 | Macworld launch | The high point of his product launch presentations |
+| D8 Conference | 2010.06 | Mossberg & Swisher | His last in-depth public interview |
+| Antennagate press conference | 2010.07 | Reporters | A representative crisis response |
 
 ---
 
-## 二、被追问时的回答方式
+## II. How He Answered When Pressed
 
-### 2.1 直面挑战型：WWDC 1997「侮辱回应」
+### 2.1 Facing the challenge: Responding to an insult at WWDC 1997
 
-**背景**：Jobs刚回到Apple不久，一名观众在WWDC Q&A环节公开攻击他。
+**Background**: Not long after Jobs returned to Apple, an audience member publicly attacked him during the WWDC Q&A.
 
-**原始引语**：
-> 观众: "It's sad and clear that on several counts you've discussed, you don't know what you're talking about."
+**Original quotation**:
+> Audience member: "It's sad and clear that on several counts you've discussed, you don't know what you're talking about."
 >
-> （你在讨论的好几个方面，很明显也很可悲，你根本不知道自己在说什么。）
+> (In several areas you've discussed, it is both obvious and regrettable that you don't know what you're talking about.)
 
-**Jobs的回应**（先沉默约10秒，然后）：
+**Jobs's response** (after about ten seconds of silence):
 > "You know, you can please some of the people some of the time, but... One of the hardest things when you're trying to effect change is that people like this gentleman are right in some areas."
 >
-> （你知道，你不可能让所有人始终满意……当你试图推动变革时，最难的事情之一就是：像这位先生这样的人，在某些方面确实是对的。）
+> (You can't please everyone all the time. One of the hardest things about bringing change about is that people like this gentleman are right in some respects.)
 
-然后他做了关键转向：
+He then made the crucial pivot:
 > "You've got to start with the customer experience and work backwards to the technology. You can't start with the technology and try to figure out where you're going to try to sell it."
 >
-> （你必须从客户体验出发，然后反推到技术。你不能从技术出发，再试图想办法卖出去。）
+> (Start with the customer experience and work back to the technology, rather than starting with technology and looking for a way to sell it.)
 
-**即兴思维特征**：
-- 先承认对手有道理（"right in some areas"），解除对抗
-- 用10秒沉默控制情绪节奏
-- 不正面反驳具体技术细节，而是升维到更高的产品哲学
-- 把个人攻击转化为教学时刻
+**Improvisational traits**:
+- First acknowledges what the critic gets right (“right in some areas”), defusing the confrontation.
+- Uses ten seconds of silence to control the emotional pace.
+- Doesn't refute technical details head-on, but shifts the discussion to a higher-level product philosophy.
+- Turns a personal attack into a teaching moment.
 
-**可信度**：⭐⭐⭐⭐⭐（原始视频广泛流传，多家媒体验证）
-**来源**：[Inc.](https://www.inc.com/justin-bariso/20-years-ago-steve-jobs-demonstrated-the-perfect-w.html)、[Garry Tan's Blog](https://blog.garrytan.com/how-steve-jobs-handles-trolls-wwdc-1997)
+**Reliability**: ⭐⭐⭐⭐⭐ (original video widely circulated and corroborated by multiple outlets)
+**Sources**: [Inc.](https://www.inc.com/justin-bariso/20-years-ago-steve-jobs-demonstrated-the-perfect-w.html), [Garry Tan's Blog](https://blog.garrytan.com/how-steve-jobs-handles-trolls-wwdc-1997)
 
 ---
 
-### 2.2 反问与重新框定型：D8 Conference关于Gizmodo
+### 2.2 Questioning and reframing: Gizmodo at D8
 
-**背景**：2010年D8大会，Mossberg追问iPhone 4原型泄露事件和Apple对Gizmodo采取法律行动一事。
+**Background**: At D8 in 2010, Mossberg pressed Jobs about the leaked iPhone 4 prototype and Apple's legal action against Gizmodo.
 
-**原始引语**：
+**Original quotation**:
 > "I got a lot of advice from people that said, 'you've gotta just let it slide... You shouldn't go after a journalist because they bought stolen property and they tried to extort you.' ... I ended up concluding that the worst thing that could possibly happen... is if we change our core values and start letting it slide. I can't do that; I'd rather quit."
 >
-> （很多人劝我说，「你就算了吧……你不应该追究一个记者，虽然他买了赃物还试图敲诈你。」……我最终得出的结论是，最糟糕的事情不是追究他们，而是我们改变核心价值观、开始妥协。我做不到那样；我宁愿辞职。）
+> (Many people told me to let it go and not pursue a journalist even if he bought stolen property and tried to extort us. I concluded the worst outcome would be compromising our core values and letting it go. I couldn't do that. I'd quit first.)
 
-被追问Gizmodo编辑是否算记者时，Jobs插话：
+When asked whether a Gizmodo editor counted as a journalist, Jobs cut in:
 > "Well, a guy — who can say if he is a journalist."
 >
-> （嗯，一个家伙——谁说得准他算不算记者。）
+> (A guy, that is. Who can tell whether he's a journalist?)
 
-然后他用讲故事的方式重新框定整件事：
+He then reframed the entire episode as a story:
 > "This is a story that's amazing. It's got theft, it's got buying stolen property, it's got extortion. I'm sure there's sex in there somewhere... somebody should make a movie outta this."
 >
-> （这是个精彩的故事。有偷窃，有收购赃物，有敲诈勒索。我确定里面还有色情成分……应该有人拍部电影。）
+> (It's an amazing story: theft, buying stolen property, extortion, probably sex somewhere. Someone ought to make a movie out of it.)
 
-**即兴思维特征**：
-- 把法律争议重新框定为道德叙事（核心价值观 vs 息事宁人）
-- 用幽默化解紧张（"somebody should make a movie"）
-- 质疑提问的前提（"who can say if he is a journalist"）而非直接回答
-- 把决策升格为人格问题（"I'd rather quit"）
+**Improvisational traits**:
+- Recasts a legal dispute as a moral narrative: uphold core values or let the matter slide.
+- Defuses tension with humor (“somebody should make a movie”).
+- Challenges the question's premise rather than answering it directly (“who can say if he is a journalist”).
+- Raises the decision to a matter of personal integrity (“I'd rather quit”).
 
-**可信度**：⭐⭐⭐⭐⭐（D8原始视频完整保存）
-**来源**：[AllThingsD D8](https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/)、[Engadget](https://www.engadget.com/2010-06-01-steve-jobs-on-lost-iphone-4g-prototype-its-an-amazing-story.html)
+**Reliability**: ⭐⭐⭐⭐⭐ (full original D8 video preserved)
+**Sources**: [AllThingsD D8](https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/), [Engadget](https://www.engadget.com/2010-06-01-steve-jobs-on-lost-iphone-4g-prototype-its-an-amazing-story.html)
 
 ---
 
-### 2.3 承认错误+快速翻篇型：Antennagate
+### 2.3 Acknowledge the mistake and move on quickly: Antennagate
 
-**背景**：iPhone 4因天线设计缺陷引发大规模投诉，媒体称为"Antennagate"。Jobs召开紧急发布会。
+**Background**: The iPhone 4 antenna design drew widespread complaints and the press dubbed it “Antennagate.” Jobs called an emergency press conference.
 
-**原始引语**：
+**Original quotations**:
 > "We're not perfect. We know that. You know that. And phones aren't perfect either. We've been working our butts off to understand what the real problems are."
 >
-> （我们不完美。我们知道。你们也知道。手机也不完美。我们一直在拼命搞清楚真正的问题是什么。）
+> (We aren't perfect. We know it, and you know it. Phones aren't perfect either. We've worked extremely hard to identify the real problems.)
 
 > "We could have said 'hey, if you hold the phone in this certain way you might see some signal attenuation...' We're human. We make mistakes, and we figure it out fast."
 >
-> （我们本可以说「嘿，如果你用特定方式握手机，可能会看到信号衰减……」我们是人。我们会犯错，但我们很快就搞清楚了。）
+> (We could have said that holding the phone a certain way may weaken the signal. We're human, make mistakes, and work out what happened fast.)
 
-但同时坚持核心立场：
+At the same time, he held his ground:
 > "The data supports the fact that the iPhone 4 is the best smartphone in the world, and there is no Antennagate."
 >
-> （数据表明iPhone 4是世界上最好的智能手机，根本不存在所谓的Antennagate。）
+> (The data shows that the iPhone 4 is the best smartphone in the world and that there is no such thing as Antennagate.)
 
-**即兴思维特征**：
-- 先承认不完美（"We're not perfect"），建立共情
-- 立刻重新框定问题范围（所有智能手机都有问题，不只是iPhone）
-- 用数据反击叙事（"the data supports"）
-- 提供实际解决方案（免费保护壳）而非无限道歉
+**Improvisational traits**:
+- Leads with an admission of imperfection (“We're not perfect”) to build empathy.
+- Immediately reframes the scope: all smartphones have problems, not just the iPhone.
+- Counters the narrative with data (“the data supports”).
+- Offers a practical solution (free cases) instead of apologizing indefinitely.
 
-**可信度**：⭐⭐⭐⭐⭐（发布会完整录像）
-**来源**：[allaboutstevejobs.com](https://allaboutstevejobs.com/videos/keynotes/antennagate_2010)、[Engadget现场直播](https://www.engadget.com/2010-07-16-live-from-apples-iphone-4-press-conference.html)
+**Reliability**: ⭐⭐⭐⭐⭐ (complete video of the press conference)
+**Sources**: [allaboutstevejobs.com](https://allaboutstevejobs.com/videos/keynotes/antennagate_2010), [Engadget live coverage](https://www.engadget.com/2010-07-16-live-from-apples-iphone-4-press-conference.html)
 
 ---
 
-## 三、即兴类比和比喻
+## III. Improvised Analogies and Metaphors
 
-### 3.1 「心灵的自行车」（Bicycle for the Mind）
+### 3.1 “Bicycle for the Mind”
 
-**时间**：1981年，最早见于一次电视采访，后反复使用
+**When**: First found in a television interview in 1981, then used repeatedly.
 
 > "I read a study that measured the efficiency of locomotion for various species on the planet... and the Condor won... Humans came in with a rather unimpressive showing about a third of the way down the list. But then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And a man on a bicycle blew the Condor away, completely off the top of the charts. And that's what a computer is to me. It's the most remarkable tool that we've ever come up with, and it's the equivalent of a bicycle for our minds."
 >
-> （我读过一项研究，测量地球上各物种的运动效率……秃鹰赢了……人类的表现相当平庸，大概排在三分之一的位置。但后来《科学美国人》的人想到测试骑自行车的人的运动效率。骑自行车的人把秃鹰远远甩在后面，完全超出了图表的顶端。这就是电脑对我的意义。它是我们发明过的最了不起的工具，相当于我们心灵的自行车。）
+> (Jobs recalled a study measuring the movement efficiency of species. The condor won, while humans ranked roughly a third of the way down. But when someone at Scientific American tested a human on a bicycle, the rider beat the condor and went off the chart. Jobs saw the computer as our most remarkable invention, a bicycle for our minds.)
 
-**分析**：这是Jobs最经典的类比。他不说"电脑让人更聪明"（抽象），而是用一个具体的、可视化的科学实验来说明"工具如何放大人类能力"。
+**Analysis**: Jobs's most famous analogy. He doesn't say abstractly that computers make people smarter. He uses a concrete, visualizable experiment to show how tools amplify human capability.
 
-**来源**：[Fast Company](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
+**Source**: [Fast Company](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
 
 ---
 
-### 3.2 「木匠的抽屉背板」
+### 3.2 “The carpenter's drawer backing”
 
-**时间**：1985年Playboy采访
+**When**: The 1985 Playboy interview.
 
 > "When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back, even though it faces the wall and nobody will ever see it. You'll know it's there, so you're going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through."
 >
-> （当你是一个木匠，在制作一个漂亮的五斗柜时，你不会在背面用一块胶合板，尽管它朝着墙壁、没人会看到。你知道它在那里，所以你会在背面也用一块漂亮的木头。为了让你晚上睡得安心，审美和品质必须贯穿始终。）
+> (A carpenter making a beautiful chest wouldn't use plywood on the back, even though it faces the wall unseen. You know it's there, so you use beautiful wood for it too. To sleep well, the aesthetic and the quality must go all the way through.)
 
-**分析**：用木工手艺解释产品设计哲学。关键在于"For you to sleep well at night"——品质不是为了用户，而是为了创造者自己的良知。
+**Analysis**: Woodworking illustrates the philosophy of product design. The key phrase is “For you to sleep well at night.” Quality isn't for the user's sake but for the maker's own conscience.
 
-**来源**：[Playboy Interview, 1985](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
-
----
-
-### 3.3 「电话 vs 电报」：解释易用性革命
-
-**时间**：多次使用，1984年Macintosh发布前后
-
-> Jobs解释说，从波士顿到旧金山发一封电报需要大约3个小时，但人们不会花100个小时去学莫尔斯电码。电话，一种更易用的技术，因为使用起来极其简单而进入了几乎每个家庭。Jobs认为计算机行业正处于类似的时期，Macintosh就是第一部"电话"——真正有用且真正易用的东西。
-
-**分析**：通过历史类比让受众理解技术门槛的降低为什么是革命性的。
-
-**来源**：[Fast Company](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
+**Source**: [Playboy Interview, 1985](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
 
 ---
 
-### 3.4 「火车到汽车」：解释个人电脑革命
+### 3.3 “Telephone versus telegraph”: Explaining the usability revolution
 
-> Jobs把从集中式计算到个人电脑的转变比作从客运火车到汽车的转变——汽车赋予了个人交通自由，正如个人电脑赋予了个人使用计算力的自由，不必说服别人就能使用。
+**When**: Used repeatedly around the 1984 Macintosh launch.
 
-**来源**：[Fast Company](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
+> Jobs explained that a telegram from Boston to San Francisco took about three hours, but people wouldn't spend 100 hours learning Morse code. The easier telephone entered nearly every home because it was extremely simple to use. Jobs saw computing at a similar moment, with Macintosh as the first “telephone”: genuinely useful and easy to use.
+
+**Analysis**: A historical analogy shows the audience why lowering the barrier to using a technology is revolutionary.
+
+**Source**: [Fast Company](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
 
 ---
 
-### 3.5 「信息革命 = 石化革命」
+### 3.4 “From trains to cars”: Explaining the personal computer revolution
 
-**时间**：1985年Playboy采访
+> Jobs compared the transition from centralized computing to personal computers to the move from passenger trains to cars. The car gave individuals freedom of movement, and personal computers gave them freedom to use computing power without having to persuade someone else.
+
+**Source**: [Fast Company](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
+
+---
+
+### 3.5 “The information revolution equals the petrochemical revolution”
+
+**When**: The 1985 Playboy interview.
 
 > "We're living in the wake of the petrochemical revolution of 100 years ago. The petrochemical revolution gave us free energy — free mechanical energy, in this case. It changed the texture of society in most ways. This revolution, the information revolution, is a revolution of free energy as well, but of another kind: free intellectual energy."
 >
-> （我们生活在100年前石化革命的余波中。石化革命给了我们免费的能量——在这里是免费的机械能量。它在大多数方面改变了社会的质地。这场革命，信息革命，也是一场免费能量的革命，但是另一种：免费的智力能量。）
+> (We're living in the aftermath of the petrochemical revolution a hundred years ago. It gave us free mechanical energy and changed society in most respects. The information revolution likewise supplies free energy, but of the intellectual kind.)
 
-**分析**：把信息革命比作石化革命，用"free energy"统一两者——一个是"free mechanical energy"，一个是"free intellectual energy"。极其精炼的框架。
+**Analysis**: He equates the information and petrochemical revolutions through free energy: “free mechanical energy” versus “free intellectual energy.” A remarkably economical frame.
 
-**来源**：[Playboy Interview, 1985](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
+**Source**: [Playboy Interview, 1985](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
 
 ---
 
-### 3.6 「墨粉脑袋」（Toner Heads）：解释大公司衰落
+### 3.6 “Toner heads”: Explaining big-company decline
 
-**时间**：1995年Lost Interview
+**When**: The Lost Interview, 1995.
 
 > "The people at Xerox PARC used to call the people that ran Xerox 'toner heads.' These toner heads would come out to Xerox PARC and they just had no clue about what they were seeing."
 >
-> （施乐PARC的人过去管经营施乐的人叫「墨粉脑袋」。这些墨粉脑袋来到施乐PARC，完全不知道自己在看什么。）
+> (The Xerox PARC staff called Xerox's leaders “toner heads.” When the executives came to PARC, they had no idea what they were looking at.)
 
-Jobs接着解释公司衰落的机制：
+Jobs then explained how companies decline:
 > "The people that can make the company more successful are sales and marketing people. And they end up running the companies. And the product people get driven out of the decision-making forums... The companies forget what it means to make great products."
 >
-> （能让公司更成功的人是销售和营销人员。最终他们掌管了公司。而产品人员被赶出了决策论坛……公司忘记了做伟大产品意味着什么。）
+> (Sales and marketing staff can make a company more successful and end up running it. Product people are shut out of decisions, and the company forgets what it means to make great products.)
 
-**分析**：用一个生动的绰号（toner heads）浓缩了整个企业衰落理论。这不是学术分析，而是一个侮辱性的标签，却比任何MBA课程都更清晰地解释了创新者困境。
+**Analysis**: One vivid nickname, “toner heads,” condenses a whole theory of corporate decline. It's an insult rather than academic analysis, yet it explains the innovator's dilemma more clearly than any MBA course.
 
-**来源**：[NPR](https://www.npr.org/sections/alltechconsidered/2011/11/16/142373973/steve-jobs-dishes-on-the-tech-business-in-lost-interview-from-1995)、[Core77](https://www.core77.com/posts/27878/Marketing-n-Sales-vs-Product-Steve-Jobs-on-Why-Giants-Fall-cc-Tim-Cook-n-Co)
+**Sources**: [NPR](https://www.npr.org/sections/alltechconsidered/2011/11/16/142373973/steve-jobs-dishes-on-the-tech-business-in-lost-interview-from-1995), [Core77](https://www.core77.com/posts/27878/Marketing-n-Sales-vs-Product-Steve-Jobs-on-Why-Giants-Fall-cc-Tim-Cook-n-Co)
 
 ---
 
-### 3.7 「互联网DVD播放器」：定义Apple TV
+### 3.7 “An internet DVD player”: Defining Apple TV
 
-**时间**：2007年D5 Conference
+**When**: D5 Conference, 2007.
 
 > "We want to be a DVD player for the new Internet age. That's our motto for the Apple TV: a DVD player for the Internet."
 >
-> （我们想成为互联网时代的DVD播放器。这就是Apple TV的口号：互联网的DVD播放器。）
+> (We want to be a DVD player for the internet era. That's Apple TV's motto: an internet DVD player.)
 
-**分析**：用一个人人都懂的旧产品来定义一个全新品类。
+**Analysis**: A new category is defined by an old product everyone understands.
 
-**来源**：[AllThingsD D5](https://allthingsd.com/20070627/steve-jobs-the-entire-d5-interview-with-walt-mossberg/)
+**Source**: [AllThingsD D5](https://allthingsd.com/20070627/steve-jobs-the-entire-d5-interview-with-walt-mossberg/)
 
 ---
 
-## 四、改变立场的瞬间
+## IV. Moments When He Changed His Mind
 
-### 4.1 核心态度：「我不在乎自己是不是对的」
+### 4.1 Core attitude: “I don't care about being right”
 
-**时间**：1995年Lost Interview
+**When**: The Lost Interview, 1995.
 
 > "I don't really care about being right, you know? I just care about success. So you'll find a lot of people that will tell you that I had a very strong opinion and they presented evidence to the contrary and five minutes later I completely changed my mind. I don't mind being wrong and I'll admit I'm wrong a lot. It doesn't really matter to me too much. What matters to me is that we do the right thing."
 >
-> （我不在乎自己是不是对的，你知道吗？我只在乎成功。所以你会发现很多人会告诉你，我有非常坚定的观点，他们提出了相反的证据，五分钟后我就完全改变了想法。我不介意犯错，我会承认我经常犯错。这对我来说真的不太重要。对我来说重要的是我们做正确的事。）
+> (I care about succeeding, not being right. People will tell you I held strong views but changed them entirely within five minutes of seeing contrary evidence. I don't mind being mistaken and often admit it. What matters is doing what's right.)
 
-**分析**：这段话揭示了Jobs思维方式的核心悖论——他同时拥有极强的观点和极高的可逆性。Guy Kawasaki后来总结说：Jobs教会他"changing your mind, changing what you're doing and reversing yourself at an extreme is a sign of intelligence"（改变想法、改变做法、在极端情况下逆转自己，是智慧的标志）。
+**Analysis**: Jobs combined strong opinions with a great willingness to reverse them. Guy Kawasaki later said Jobs taught him that “changing your mind, changing what you're doing and reversing yourself at an extreme is a sign of intelligence.”
 
-**来源**：[CBS News](https://www.cbsnews.com/news/what-steve-jobs-revealed-in-a-lost-interview/)、[CNBC/Kawasaki](https://www.cnbc.com/2017/10/31/steve-jobs-taught-guy-kawasaki-this-surprising-lesson-about-intelligence.html)
-
----
-
-### 4.2 App Store大逆转：从封闭到开放
-
-**时间**：2007→2008
-
-2007年iPhone发布时，Jobs坚持封闭系统，不允许第三方应用。他的原始立场是Web应用就够了。
-
-一年后，他做了180度大转弯，开放了App Store。这是Jobs最大的公开立场逆转之一，证明了他说的"I don't care about being right"不是空话。
-
-**来源**：[CNBC](https://www.cnbc.com/2017/10/31/steve-jobs-taught-guy-kawasaki-this-surprising-lesson-about-intelligence.html)
+**Sources**: [CBS News](https://www.cbsnews.com/news/what-steve-jobs-revealed-in-a-lost-interview/), [CNBC/Kawasaki](https://www.cnbc.com/2017/10/31/steve-jobs-taught-guy-kawasaki-this-surprising-lesson-about-intelligence.html)
 
 ---
 
-### 4.3 从「我不苦涩」到坦然面对
+### 4.2 The App Store reversal: From closed to open
 
-**时间**：1988→1995→2005
+**When**: 2007 to 2008.
 
-1988年NeXT发布时：
+When the iPhone launched in 2007, Jobs insisted on a closed system with no third-party apps. He initially argued that web apps were enough.
+
+A year later he reversed course 180 degrees and opened the App Store. It was one of his biggest public reversals, showing that “I don't care about being right” wasn't empty talk.
+
+**Source**: [CNBC](https://www.cnbc.com/2017/10/31/steve-jobs-taught-guy-kawasaki-this-surprising-lesson-about-intelligence.html)
+
+---
+
+### 4.3 From “I'm not bitter” to acceptance
+
+**When**: 1988, then 1995, then 2005.
+
+At the 1988 NeXT launch:
 > "I'm not bitter; I'm not bitter."
 >
-> （我不苦涩；我不苦涩。）
+> (I'm not resentful. I'm not resentful.)
 
-重复否认本身就暗示了苦涩。他同时说：
+The repeated denial suggested bitterness. He also said:
 > "I spent 10 years trying to build something, and most of what I built has been dismantled."
 >
-> （我花了10年试图建造的东西，大部分已经被拆毁了。）
+> (Most of what I spent ten years trying to build has been taken apart.)
 
-但他试图保持外交姿态：
+But he tried to remain diplomatic:
 > "I'm still happy when they ship a Mac."
 
-到1995年Lost Interview和2005年Stanford演讲时，他已经能够把被开除重新框定为"最好的事情"——但1988年的原始采访显示，这个重新框定经历了多年的内心消化。
+By the 1995 Lost Interview and the 2005 Stanford speech he could reframe his firing as the best thing that happened to him. The 1988 interview shows that it took years for him to make peace with it.
 
-**来源**：[Newsweek 1988](https://www.newsweek.com/steve-jobs-comes-back-207006)
-
----
-
-## 五、拒绝回答的领域与回避策略
-
-### 5.1 健康问题：严格的隐私边界
-
-Jobs对健康问题几乎从不在采访中讨论。他被诊断出胰腺癌后，Apple的官方立场是"CEO有隐私权，只要他能继续履行职责，就没有披露义务"。
-
-Jobs推迟手术超过9个月，告知了董事会，但董事会选择保密。这是Jobs少数真正拒绝公开讨论的领域——他在产品问题上几乎从不回避，但在个人健康上划了一条硬线。
-
-**来源**：[Fortune](https://fortune.com/2008/03/05/the-trouble-with-steve-jobs/)
+**Source**: [Newsweek 1988](https://www.newsweek.com/steve-jobs-comes-back-207006)
 
 ---
 
-### 5.2 未来产品：「我不知道」的战略性使用
+## V. Subjects He Wouldn't Discuss and How He Deflected
 
-**时间**：2007年D5 Conference
+### 5.1 Health: A firm boundary of privacy
 
-被问到五年后口袋设备会有什么功能时：
+Jobs almost never discussed his health in interviews. After the diagnosis of pancreatic cancer, Apple's official position was that the CEO had a right to privacy and no obligation to disclose while he could perform his duties.
+
+He delayed surgery more than nine months and told the board, which chose to keep it private. It was one of the few matters he truly refused to discuss publicly. He almost never dodged product questions, but he drew a firm line around his health.
+
+**Source**: [Fortune](https://fortune.com/2008/03/05/the-trouble-with-steve-jobs/)
+
+---
+
+### 5.2 Future products: Using “I don't know” strategically
+
+**When**: D5 Conference, 2007.
+
+Asked what pocket devices would be able to do five years later, he said:
 > "I don't know. And the reason I don't know is because I wouldn't have thought that there would have been maps on it five years ago."
 >
-> （我不知道。我不知道的原因是，五年前我也不会想到上面会有地图。）
+> (I don't know, because five years ago I wouldn't have expected to find maps on them either.)
 
-**分析**：这不是回避，而是一种诚实+谦逊的混合体。他把"不知道"变成了一个关于创新不可预测性的洞察。
+**Analysis**: It isn't an evasion, but a blend of honesty and humility. He turns not knowing into an insight about how unpredictable innovation is.
 
-**来源**：[AllThingsD D5 transcript](https://allthingsd.com/20070531/d5-gates-jobs-transcript)
+**Source**: [AllThingsD D5 transcript](https://allthingsd.com/20070531/d5-gates-jobs-transcript)
 
 ---
 
-## 六、争论中的表现
+## VI. Behavior in Arguments
 
-### 6.1 刻意激怒测试法
+### 6.1 Testing candidates through deliberate provocation
 
-Jobs在面试中使用刻意激怒候选人的策略：
+Jobs deliberately provoked candidates in interviews:
 
 > He would "really piss somebody off in an interview to see how they react because, if your company is a meritocracy of ideas, with passionate people, you have a company with a lot of arguments."
 >
-> （他会「在面试中真的把某人惹毛」，看看他们怎么反应，因为「如果你的公司是一个思想精英制，有充满激情的人，你就会有一个充满争论的公司」。）
+> (He'd make someone furious in an interview to see how they'd respond, since a company where ideas win on merit and people care strongly will have a lot of arguments.)
 
-他寻找的是那些会"come right back and say, 'You're dead wrong and here's why'"（直接回来说「你完全错了，原因是这样」）的人。
+He was looking for people who would “come right back and say, 'You're dead wrong and here's why'.”
 
-**分析**：对Jobs来说，争论不是负面的。它是质量控制机制。他的挑衅是deliberate（刻意的），目的是测试对方是否有独立思考能力和勇气。
+**Analysis**: To Jobs, arguments weren't negative. They were a means of quality control. He provoked candidates deliberately to test their independent judgment and courage.
 
-**来源**：[The Ladders](https://www.theladders.com/career-advice/the-genius-way-steve-jobs-got-people-to-argue-with-him-and-succeed)
+**Source**: [The Ladders](https://www.theladders.com/career-advice/the-genius-way-steve-jobs-got-people-to-argue-with-him-and-succeed)
 
 ---
 
-### 6.2 与Adobe的Flash之战
+### 6.2 The Flash dispute with Adobe
 
-**时间**：2010年D8 Conference
+**When**: D8 Conference, 2010.
 
 > "We didn't set out to have a war over Flash. We made a technical decision. And it wasn't until the iPad that Adobe raised a stink. They came after us... That's why I wrote 'Thoughts on Flash'... We were getting tired of being trashed by Adobe in the press."
 >
-> （我们并没有打算跟Flash开战。我们做了一个技术决策。直到iPad，Adobe才大做文章。是他们先来找我们的……所以我才写了「关于Flash的思考」……我们受够了被Adobe在媒体上攻击。）
+> (We didn't intend to start a fight over Flash. It was a technical decision. Adobe objected only after the iPad and went after us, so I wrote “Thoughts on Flash.” We were tired of their attacks in the press.)
 
 > "We're just trying to make great products. We don't think Flash makes a great product, so we're leaving it out. Instead, we're going to focus on technologies that are in ascendancy."
 >
-> （我们只是想做伟大的产品。我们不认为Flash能造就伟大的产品，所以我们不用它。相反，我们要聚焦于上升中的技术。）
+> (We want to build great products. We don't think Flash makes one, so we're leaving it out and focusing on technologies that are gaining ground.)
 
-**分析**：Jobs的争论策略——先把自己定位为"被动防守"（"They came after us"），然后用产品质量的高地来证明决策的合理性。
+**Analysis**: Jobs first positions himself as defending against an attack (“They came after us”), then justifies the decision from the higher ground of product quality.
 
-**来源**：[AllThingsD D8](https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/)
+**Source**: [AllThingsD D8](https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/)
 
 ---
 
-### 6.3 对Google/Android的核爆级愤怒
+### 6.3 Thermonuclear anger at Google and Android
 
-**原始引语**（Walter Isaacson传记中引用，Jobs亲口对Isaacson说）：
+**Original quotation** (Jobs's words to Walter Isaacson, quoted in Isaacson's biography):
 
 > "I will spend my last dying breath if I need to, and I will spend every penny of Apple's $40 billion in the bank, to right this wrong. I'm going to destroy Android, because it's a stolen product. I'm willing to go thermonuclear war on this."
 >
-> （如果需要的话，我会用尽最后一口气，花光Apple银行里的400亿美元来纠正这个错误。我要摧毁Android，因为它是偷来的产品。我愿意为此发动热核战争。）
+> (If needed, I'd use my last breath and every penny of Apple's $40 billion to right the wrong. I intend to destroy Android, which I consider a stolen product. I'm ready for thermonuclear war over it.)
 
-但在公开场合，他的表达更有策略性。在D8上讨论Google时：
+His public comments were more strategic. Speaking about Google at D8, he said:
 > "We never saw ourselves as in a platform war with Microsoft, and maybe that's why we lost."
 >
-> （我们从来没有把自己看成是在跟Microsoft打平台战争，也许这就是我们输掉的原因。）
+> (We never thought of ourselves as fighting a platform war with Microsoft, and perhaps that's why we lost.)
 
-给Larry Page的直言建议：
+His blunt advice to Larry Page:
 > "Figure out what Google wants to be when it grows up. It's now all over the map."
 >
-> （搞清楚Google长大后想成为什么。它现在什么都做。）
+> (Decide what Google should become when it grows up. Right now it's all over the place.)
 
-**分析**：Jobs对竞争对手的评价呈现两面——私下的核爆级愤怒 vs 公开场合的策略性批评。公开场合他倾向于用"建议"的姿态（"figure out what you want to be"）而非直接攻击，这比愤怒更有杀伤力。
+**Analysis**: Jobs's criticism has two faces: thermonuclear anger in private and strategic criticism in public. In public he tends to frame it as advice rather than a direct attack, which makes it more damaging than anger alone.
 
-**来源**：[Fortune](https://fortune.com/2010/10/19/what-steve-jobs-said-about-google/)、[SearchEngineLand](https://searchengineland.com/grand-theft-android-jobs-bio-reveals-intense-anger-at-google-97903)
+**Sources**: [Fortune](https://fortune.com/2010/10/19/what-steve-jobs-said-about-google/), [SearchEngineLand](https://searchengineland.com/grand-theft-android-jobs-bio-reveals-intense-anger-at-google-97903)
 
 ---
 
-## 七、现实扭曲力场（Reality Distortion Field）的运作机制
+## VII. How the Reality Distortion Field Works
 
-### 7.1 定义与起源
+### 7.1 Definition and origin
 
-该术语由Apple工程师Bud Tribble于1981年首创，Andy Hertzfeld将其描述为：
+Apple engineer Bud Tribble coined the term in 1981. Andy Hertzfeld described it as:
 
 > Jobs's ability to convince himself, and others around him, to believe almost anything with a mix of charm, charisma, bravado, hyperbole, marketing, appeasement and persistence.
 >
-> （Jobs的能力——用魅力、气场、虚张声势、夸张、营销、安抚和坚持的混合物，说服自己和周围的人相信几乎任何事情。）
+> (Jobs could use charm, charisma, bravado, exaggeration, marketing, reassurance, and persistence to convince himself and others of almost anything.)
 
-Bill Gates在采访中说Jobs能对人"cast spells"（施咒）。
+In an interview, Bill Gates said Jobs could “cast spells” on people.
 
-### 7.2 经典案例
+### 7.2 Classic examples
 
-**Gorilla Glass事件**：Jobs说服Corning CEO Wendell Weeks在6个月内量产大猩猩玻璃。Weeks说做不到，Jobs说：
+**Gorilla Glass**: Jobs persuaded Corning CEO Wendell Weeks to mass-produce Gorilla Glass in six months. Weeks told him it couldn't be done. Jobs replied:
 > "Don't be afraid. You can do this."
 >
-> （不要怕。你做得到。）
+> (Don't be afraid. You can do it.)
 
-结果Corning真的做到了。
+Corning did it.
 
-**Mac启动时间**：1984年，Jobs要求工程师Larry Kenyon把启动时间缩短10秒。Kenyon说不可能。Jobs问他："如果这能救人一命呢？"然后在白板上算：500万用户每人浪费10秒 = 每年100个人的一生。几周后Kenyon把启动时间缩短了28秒。
+**Mac startup time**: In 1984 Jobs asked engineer Larry Kenyon to cut startup time by ten seconds. Kenyon said it was impossible. Jobs asked, “What if it could save somebody's life?” Then he worked it out on a whiteboard: ten seconds lost by each of five million users equals 100 lifetimes a year. Within weeks, Kenyon had cut startup time by 28 seconds.
 
-**分析**：RDF不是简单的催促或威胁。它的核心机制是**重新框定问题的重要性**——把"缩短10秒"变成"救100条命"，把"做不到的工程任务"变成"勇气问题"。
+**Analysis**: The field isn't simply pressure or intimidation. It works by **reframing the stakes**. “Cut ten seconds” becomes “save 100 lives,” and an “impossible engineering task” becomes a question of courage.
 
-**来源**：[Wikipedia](https://en.wikipedia.org/wiki/Reality_distortion_field)、[Medium/Gavin Lucas](https://gavinlucas22.medium.com/steve-jobs-reality-distortion-field-explained-5ac3c8e5f992)
+**Sources**: [Wikipedia](https://en.wikipedia.org/wiki/Reality_distortion_field), [Medium/Gavin Lucas](https://gavinlucas22.medium.com/steve-jobs-reality-distortion-field-explained-5ac3c8e5f992)
 
 ---
 
-## 八、修辞策略分析
+## VIII. Rhetorical Strategies
 
-### 8.1 三段式说服术（Persuasive Syllogism）
+### 8.1 The persuasive syllogism
 
-Jobs经常使用一个逻辑结构：大前提→小前提→结论。
+Jobs often used a logical structure: major premise, minor premise, and conclusion.
 
 > "The only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
 >
-> （真正满足的唯一方式是做你认为伟大的工作。而做伟大工作的唯一方式是热爱你所做的事。）
+> (To be truly satisfied, do what you believe is great work. To do great work, love what you do.)
 
-### 8.2 Ethos-Pathos-Logos的动态切换
+### 8.2 Switching among ethos, pathos, and logos
 
-学术研究发现，Jobs不是使用单一修辞风格，而是根据场景动态调整：
+Academic research found Jobs didn't rely on one rhetorical style, but adjusted dynamically to the situation:
 
-- 当**可信度低**（如SEC调查、不友好的媒体）时：高Pathos（情感）+ 低Logos（逻辑）
-- 当**可信度高**（如D Conference、Apple粉丝群体）时：低Pathos + 高Logos
+- When **credibility was low**, as with the SEC investigation or hostile media: high pathos (emotion) and low logos (logic).
+- When **credibility was high**, as at the D conferences or with Apple enthusiasts: low pathos and high logos.
 
-### 8.3 重新框定（Reframing）
+### 8.3 Reframing
 
-Jobs最强大的即兴能力之一是重新框定问题：
-- 把"business is war"的攻击性提问框架转变为"business is a journey"
-- 把产品缺陷转变为行业通病（Antennagate）
-- 把个人攻击转变为教学机会（WWDC 1997）
-- 把法律争议转变为价值观问题（Gizmodo事件）
+One of Jobs's strongest improvisational skills was reframing a problem:
+- Changes the aggressive frame “business is war” to “business is a journey.”
+- Recasts a product defect as an industry-wide problem (Antennagate).
+- Turns a personal attack into a teaching opportunity (WWDC 1997).
+- Recasts a legal dispute as a matter of values (Gizmodo).
 
-**来源**：[ResearchGate - Charismatic Leadership and Rhetorical Competence](https://www.researchgate.net/publication/262260256_Charismatic_Leadership_and_Rhetorical_Competence_An_Analysis_of_Steve_Jobs's_Rhetoric)
+**Source**: [ResearchGate - Charismatic Leadership and Rhetorical Competence](https://www.researchgate.net/publication/262260256_Charismatic_Leadership_and_Rhetorical_Competence_An_Analysis_of_Steve_Jobs's_Rhetoric)
 
 ---
 
-## 九、关键观点与金句集锦
+## IX. Key Views and Quotations
 
-### 关于创新与产品
+### On innovation and products
 > "Throughout the years in business, I found something which was I'd always ask why you do things. And the answers you invariably get are 'Oh, that's just the way it's done.' Nobody knows why they do what they do. Nobody thinks about things very deeply in business." — Lost Interview, 1995
 >
-> （这些年在商界，我发现了一件事：我总是问为什么要这样做。你得到的回答总是「哦，事情就是这么做的」。没人知道为什么要这么做。在商业中没人深入思考。）
+> (Over the years in business, I kept asking why things were done that way. The usual answer was “that's how it's done.” Nobody knew why and nobody thought very deeply about it.)
 
-### 关于财富
+### On wealth
 > "I was worth about over a million dollars when I was 23 and over $10 million when I was 24 and over $100 million when I was 25. And it wasn't that important because I never did it for the money." — Lost Interview, 1995
 
-### 关于Apple的衰落（1995年视角）
+### On Apple's decline, from the 1995 perspective
 > "Apple's dying today. Apple's dying a very painful death. It's on a glide slope to die."
 > "When I walked out the door at Apple, we had a 10-year lead on everybody else in the industry... the reason that they could catch up with it was because Apple stood still."
 
-### 关于团队管理
+### On managing teams
 > "When you get really good people, they know they're really good, and you don't have to baby people's egos so much, and what really matters is the work. The most important thing you can do for somebody who is really good is to point out to them when their work isn't good enough. And to do it very clearly and to articulate why."
 
-### 关于互联网的未来（1985年，惊人的先见之明）
+### On the future of the internet: Remarkable foresight in 1985
 > "The most compelling reason for most people to buy a computer for the home will be to link it into a nationwide communications network. We're just in the beginning stages of what will be a truly remarkable breakthrough for most people — as remarkable as the telephone." — Playboy, 1985
 
-### 关于Apple TV的定位
+### On positioning Apple TV
 > "The reason I call it a hobby is, a lot of people have tried and failed to make it a business. And it's a hard problem." — D5, 2007
 
 ---
 
-## 十、即兴思维特征总结
+## X. Summary of Improvisational Thinking
 
-基于以上访谈分析，Jobs的即兴思维呈现以下核心模式：
+The interviews point to these recurring patterns in how Jobs thought on his feet:
 
-### 10.1 五大即兴策略
+### 10.1 Five strategies for improvisation
 
-| 策略 | 描述 | 典型案例 |
+| Strategy | Description | Representative example |
 |------|------|----------|
-| **重新框定** | 不在对手设定的框架内回答，重新定义问题 | WWDC 1997侮辱回应、Antennagate |
-| **类比翻译** | 用所有人都懂的旧事物解释新事物 | 心灵的自行车、电话vs电报 |
-| **先承认再反击** | 先同意对手的部分观点，再转向自己的论点 | "people like this gentleman are right in some areas" |
-| **升维** | 把具体的技术/商业争论升格为哲学/道德/人格问题 | "I'd rather quit"（Gizmodo）、"救人命"（Mac启动时间） |
-| **战略性坦诚** | 主动承认不完美或不知道，反而增加可信度 | "I don't know"（D5）、"We're not perfect"（Antennagate） |
+| **Reframing** | Redefine the question rather than answer within the other party's frame | Response to the WWDC 1997 insult, Antennagate |
+| **Translation by analogy** | Use familiar things to explain new ones | The bicycle for the mind, telephone versus telegraph |
+| **Concede first, then counter** | Agree with part of the opposing view, then pivot to your argument | “people like this gentleman are right in some areas” |
+| **Raise the level** | Recast a concrete technical or business argument as a philosophical, moral, or personal one | “I'd rather quit” (Gizmodo), “saving lives” (Mac startup time) |
+| **Strategic candor** | Proactively admit imperfection or ignorance, thereby increasing credibility | “I don't know” (D5), “We're not perfect” (Antennagate) |
 
-### 10.2 争论中的行为模式
+### 10.2 Behavior during disagreements
 
-- **私下**：极端直接，不留情面（"thermonuclear war"）
-- **公开**：用"建议"和"观察"的姿态包装批评（"Figure out what Google wants to be"）
-- **被攻击时**：先暂停（10秒沉默），再升维到更高层面
-- **测试他人**：故意挑衅，寻找敢于反驳的人
-- **改变立场**：快速、果断、不解释为什么变（App Store逆转）
+- **In private**: Extremely blunt and unsparing (“thermonuclear war”).
+- **In public**: Wraps criticism in the guise of advice or an observation (“Figure out what Google wants to be”).
+- **When attacked**: Pauses first, sometimes for ten seconds, then raises the discussion to a higher level.
+- **Testing others**: Deliberately provokes them to find those who dare disagree.
+- **Changing his stance**: Quickly and decisively, without explaining why, as with the App Store reversal.
 
-### 10.3 与其他思想家的对比
+### 10.3 Comparison with other thinkers
 
-- **与费曼相似**：用最简单的方式解释复杂事物（类比的使用）
-- **与芒格相似**：用逆向思考诊断企业衰落（toner heads理论）
-- **独特之处**：Jobs的即兴思维有一种**表演性**——他不只是在思考，他在把思考变成一场表演，每个暂停、每个反问都是精心（或本能地）调控的节奏。
+- **Like Feynman**: Explains complex ideas as simply as possible through analogy.
+- **Like Munger**: Uses inversion to diagnose corporate decline, as in the “toner heads” theory.
+- **What sets Jobs apart**: His thinking on the spot is **performative**. He isn't just thinking. He makes thinking into a performance, with every pause and rhetorical question carefully or instinctively timed.
 
 ---
 
-## 参考来源汇总
+## Sources
 
-### 一手来源（⭐⭐⭐⭐⭐）
-- [The Lost Interview全文](https://www.danielscrivner.com/articles/steve-jobs-the-lost-interview) — Daniel Scrivner整理
-- [Playboy Interview 1985](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985) — allaboutstevejobs.com逐字记录
-- [D5 Gates-Jobs联合访谈全文](https://allthingsd.com/20070531/d5-gates-jobs-transcript) — AllThingsD官方transcript
-- [D8 完整访谈](https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/) — AllThingsD
-- [D5 Jobs独立访谈](https://allthingsd.com/20070627/steve-jobs-the-entire-d5-interview-with-walt-mossberg/) — AllThingsD
-- [WWDC 1997全文](https://sebastiaanvanderlans.com/steve-jobs-wwdc-1997/) — 完整transcript
+### Primary sources (⭐⭐⭐⭐⭐)
+- [The Lost Interview in full](https://www.danielscrivner.com/articles/steve-jobs-the-lost-interview) — compiled by Daniel Scrivner
+- [Playboy Interview 1985](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985) — verbatim transcript at allaboutstevejobs.com
+- [Full D5 Gates–Jobs interview](https://allthingsd.com/20070531/d5-gates-jobs-transcript) — official AllThingsD transcript
+- [Full D8 interview](https://allthingsd.com/20100607/steve-jobs-at-d8-the-full-uncut-interview/) — AllThingsD
+- [D5 solo interview with Jobs](https://allthingsd.com/20070627/steve-jobs-the-entire-d5-interview-with-walt-mossberg/) — AllThingsD
+- [WWDC 1997 in full](https://sebastiaanvanderlans.com/steve-jobs-wwdc-1997/) — full transcript
 
-### 权威分析（⭐⭐⭐⭐）
-- [Fast Company: Jobs的类比大师](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
-- [Inc.: WWDC 1997回应侮辱](https://www.inc.com/justin-bariso/20-years-ago-steve-jobs-demonstrated-the-perfect-w.html)
-- [Fortune: Jobs谈Google](https://fortune.com/2010/10/19/what-steve-jobs-said-about-google/)
-- [Fortune: Jobs的健康隐私](https://fortune.com/2008/03/05/the-trouble-with-steve-jobs/)
-- [NPR: Lost Interview分析](https://www.npr.org/sections/alltechconsidered/2011/11/16/142373973/steve-jobs-dishes-on-the-tech-business-in-lost-interview-from-1995)
-- [CBS News: Lost Interview报道](https://www.cbsnews.com/news/what-steve-jobs-revealed-in-a-lost-interview/)
-- [ResearchGate: 修辞能力学术分析](https://www.researchgate.net/publication/262260256_Charismatic_Leadership_and_Rhetorical_Competence_An_Analysis_of_Steve_Jobs's_Rhetoric)
+### Established analyses (⭐⭐⭐⭐)
+- [Fast Company: Jobs's mastery of analogies](https://www.fastcompany.com/3037014/how-steve-jobss-mastery-of-analogies-sent-apple-sky-rocketing)
+- [Inc.: Responding to an insult at WWDC 1997](https://www.inc.com/justin-bariso/20-years-ago-steve-jobs-demonstrated-the-perfect-w.html)
+- [Fortune: Jobs on Google](https://fortune.com/2010/10/19/what-steve-jobs-said-about-google/)
+- [Fortune: Jobs's health and privacy](https://fortune.com/2008/03/05/the-trouble-with-steve-jobs/)
+- [NPR: Analysis of The Lost Interview](https://www.npr.org/sections/alltechconsidered/2011/11/16/142373973/steve-jobs-dishes-on-the-tech-business-in-lost-interview-from-1995)
+- [CBS News: Coverage of The Lost Interview](https://www.cbsnews.com/news/what-steve-jobs-revealed-in-a-lost-interview/)
+- [ResearchGate: Academic analysis of rhetorical competence](https://www.researchgate.net/publication/262260256_Charismatic_Leadership_and_Rhetorical_Competence_An_Analysis_of_Steve_Jobs's_Rhetoric)
 
-### 综合参考（⭐⭐⭐）
-- [allaboutstevejobs.com](https://allaboutstevejobs.com/verbatim/interviews) — 最全面的Jobs访谈逐字记录库
-- [Bob Cringely的回忆](https://www.cringely.com/2011/10/21/the-steve-jobs-interview/) — 采访者本人的回顾
+### General references (⭐⭐⭐)
+- [allaboutstevejobs.com](https://allaboutstevejobs.com/verbatim/interviews) — the most comprehensive collection of verbatim Jobs interviews
+- [Bob Cringely's recollections](https://www.cringely.com/2011/10/21/the-steve-jobs-interview/) — the interviewer's own recollections
 - [Wikipedia: Reality Distortion Field](https://en.wikipedia.org/wiki/Reality_distortion_field)
-- [Thinkst: Jobs Masterclass分析](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
+- [Thinkst: Analysis of Jobs's masterclass](https://blog.thinkst.com/2020/07/a-steve-jobs-masterclass-from-decade-ago.html)
 
