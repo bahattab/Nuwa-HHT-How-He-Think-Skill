@@ -1,135 +1,135 @@
 ## 1
 
-先把问题倒过来想：这件事怎么会让你后悔？第一种，公司黄了，你花了两三年，收入骤降，存款被房贷一点点吃掉，婚姻在焦虑里变质。第二种，你没去，十年后看着前同事成功，心里一直在想「如果」。这两种后悔，第一种伤得更重，也更难恢复，第二种只是遗憾。
+First, invert the question: how might this make you regret your choice? First possibility: the company goes under. You spend two or three years there, your income falls sharply, the mortgage eats away at your savings, and anxiety changes your marriage for the worse. Second possibility: you don't go, and ten years later you watch your former colleague succeed and keep thinking, “What if?” The first kind of regret hurts more and is harder to recover from. The second is just a missed opportunity.
 
-算一笔账。年薪 80 万变成 24 万，每年少拿 56 万税前，实际少拿的钱可能在 35 到 40 万。你有 150 万存款、300 万房贷，月供大概两三万，工资 2 万刚好够还房贷，几乎没有生活余量，只能靠存款撑。粗算下来，存款能撑 3 到 4 年，这是你的跑道，不是无限的。
+Run the numbers. Going from 800,000 to 240,000 a year costs you 560,000 before tax. The actual difference might be 350,000 to 400,000. You have 1.5 million in savings and a 3 million mortgage. The monthly payment is about 20,000 to 30,000, and your 20,000 salary barely covers it, leaving almost nothing to live on. You would have to draw on your savings. Roughly speaking, those savings will last three to four years. That is your runway, and it is not unlimited.
 
-再看对方给的东西。3000 个付费用户听起来不错，但我要问：单价多少？留存如何？是靠朋友圈和折扣拉来的，还是真有人离不开它？AI 工具的护城河是什么？如果底层模型厂商下一次更新就把这个功能做进去了，3000 个用户一夜之间就没了。这是 AI 创业最大的坑：你做的东西，很可能是别人平台上的一个功能。
+Now look at what the other person is offering. Three thousand paying users sounds good, but I would ask: what is the price per user? What is retention like? Did they come through personal networks and discounts, or do people really depend on the tool? What is its moat? If the underlying model provider adds the feature in its next update, those 3,000 users could disappear overnight. That is the biggest pitfall in AI startups: what you build may just be a feature on someone else's platform.
 
-15% 股份也要看清楚：有没有 vesting（分期兑现，通常 4 年）？有没有 cliff（满一年才拿）？你来了才拿 15% 还是现在就给？合伙人拿多少？有没有融资稀释？如果这些条款含糊，那 15% 只是一句话，不是资产。
+Look carefully at the 15% stake as well. Is there vesting, typically over four years? Is there a cliff, so you get nothing until the end of the first year? Do you get the 15% only after joining, or is it granted now? What share does your partner get? Will fundraising dilute your stake? If the terms are vague, that 15% is a promise, not an asset.
 
-还有激励问题：他一个人做出了原型，说明他能干，但他为什么需要你？你的价值在哪——产品能力？那就要问他，你来之后具体负责什么，能不能先用兼职或顾问的方式试三个月。好的合伙关系经得起这个试探，经不起的，本身就是答案。
+There is also the question of incentives. He built a prototype on his own, so he is capable, but why does he need you? Where do you add value? Is it your product expertise? Then ask what you would actually be responsible for after joining and whether you can try it for three months part-time or as an adviser. A good partnership can withstand that test. If it can't, that is your answer.
 
-我的建议：别一步跳进去。第一，先提出用半年的时间做兼职或顾问，验证你们能不能一起干活。第二，看清数据：收入、留存、获客成本。第三，把条款写成书面文件，找律师过一遍。第四，和老婆把话摊开，定一个止损线，比如存款掉到 80 万、或者 18 个月内没有融资或盈利，就回去上班。她的焦虑是理性的，别当作需要说服的障碍，而要当作风险管理的一部分。
+My advice: don't jump in all at once. First, propose six months working part-time or as an adviser to see if you can work together. Second, get a clear look at the data: revenue, retention, and customer acquisition costs. Third, put the terms in writing and have a lawyer review them. Fourth, talk openly with your wife and set a stop-loss point. For example, go back to salaried work if savings fall to 800,000, or if there is no funding or profit within 18 months. Her anxiety is rational. Don't treat it as an objection to overcome. Treat it as part of managing the risk.
 
-如果这些都通过了，那 32 岁是尝试的好年纪，大厂产品经理的身份也不会因为你离开两年就失效。但如果对方不愿意给你时间验证，直接要你辞职，那我会选择不去。
+If all of that checks out, 32 is a good age to try, and leaving for two years won't erase your credentials as a product manager at a major firm. But if the other person won't give you time to test the arrangement and demands that you quit your job outright, I would pass.
 
 ## 2
 
-分钱这件事，最怕的是你自己没想清楚标准，就开始听别人说。
+The worst thing you can do when dividing money is start listening to everyone else before you know what your own criteria are.
 
-先问一个问题：这 100 万的目的是什么？是奖励过去的贡献，还是留住人、激励未来？这两个目的会导出不同的分法。你必须先自己回答，再去分。
+Start with one question: what is the purpose of this million? Is it meant to reward past contributions, or to retain people and motivate future performance? These two goals imply different ways of dividing it. You have to answer the question yourself before allocating anything.
 
-关于「两个主力觉得自己贡献最大」，我要提醒一件事：每个人都高估自己的贡献，这是人性里最稳定的偏差。你自己也会，所有人都会。他们觉得自己该拿大头，不是说谎，是真心这么认为，因为自己的工作看得见，别人的工作看不见。所以别指望靠问大家「你觉得你贡献多大」来得到公平答案。
+As for “the two key people think they contributed the most,” remember that everyone overestimates their own contribution. It is one of the most reliable biases in human nature. You do it too. Everyone does. They think they deserve the largest shares, and they aren't lying. They sincerely believe it because they see their own work and don't see what others do. Don't expect to arrive at a fair answer by asking everyone how much they think they contributed.
 
-其次，12 人团队里，怨言是最贵的东西。一个团队可以容忍收入有差距，但很难容忍规则不公开、不一致。所以我的原则是：差距可以有，但要让大多数人觉得合理。
+Second, in a team of 12, resentment is the most expensive thing. A team can tolerate unequal pay, but it has a hard time tolerating rules that are opaque or inconsistent. My principle is that differences are fine as long as most people consider them reasonable.
 
-我会这样做：
+Here is what I would do:
 
-第一，拿出一个基础部分，大约 40% 到 50%，按岗位和年限做比较平均的分配，让每个人都拿到一份不丢脸的钱。这部分传递的信息是：我们是一个整体，你的存在被认可。
+First, set aside a base portion, around 40% to 50%, and distribute it fairly evenly according to role and tenure so everyone gets an amount they can accept without embarrassment. This portion sends a message: we are one team, and we recognize your place in it.
 
-第二，拿出剩下的部分，按贡献分配，但标准要在分发之前就讲清楚，而且尽量用可观察的东西，比如项目成果、客户结果、关键问题的解决，而不是印象。
+Second, allocate the rest according to contribution, but explain the criteria before making the payments. Use observable evidence as much as possible, such as project results, outcomes for clients, and key problems solved, rather than impressions.
 
-第三，主力可以多拿，但别拿到让其他人觉得「我们是陪衬」。如果两个人拿了一半，那剩下 10 个人分一半，人均不到他们的四分之一，这样的差距会毁掉团队。我会让主力拿到普通人的 2 到 3 倍，不要更多。
+Third, the key contributors can get more, but not so much that everyone else feels like an extra. If two people take half and the other ten split the rest, each of the ten gets less than a quarter of what each of the two receives. A gap like that will destroy the team. I would give the key contributors two to three times what a typical teammate gets, no more.
 
-第四，如果主力真的重要，给他们的更好方式往往不是更多奖金，而是长期的东西：股权、分红权、职位、自主权。奖金是一次性的，长期激励才能绑住人。
+Fourth, if the key contributors are truly important, long-term benefits are often a better reward than a bigger bonus: equity, profit-sharing rights, a position, or autonomy. The bonus is a one-off. Long-term incentives are what keep people with you.
 
-最后，亲自一个一个谈，不要群发。告诉每个人你的标准和他们的位置。有怨言，当面听比背后传好。
+Finally, talk to each person yourself, one at a time. Don't send a group message. Explain the criteria and where each person stands. If someone has a grievance, it is better to hear it face to face than have it spread behind your back.
 
 ## 3
 
-先说一个前提：我没有替你做了什么「操作」的记录，我只能讲怎么想。
+First, a ground rule: I have no record of taking any action on your behalf. I can only explain how I would think about it.
 
-「夕阳行业」这个标签是个危险的东西。市场一致认为某个行业完了，价格就会反映这种悲观，有时候反映过头。真正的问题不是这个行业好不好，而是价格是否已经把最坏的情况算进去了。
+“Sunset industry” is a dangerous label. When the whole market thinks an industry is finished, the price reflects that pessimism, and sometimes it goes too far. The real question isn't whether the industry is good. It's whether the price already reflects the worst case.
 
-我会问几个问题。第一，这家公司能不能在需求下滑的时候还活着、还赚钱？煤炭企业的资本结构，有没有债务压力？第二，它是否有成本优势，在行业收缩的时候，低成本的生产者活得最久，高成本的先出局。第三，管理层怎么处理现金？是拿去盲目扩张，还是回购股票、分红？在一个衰退行业里，聪明的做法是收获现金、不追加投资，如果管理层这么做，股东就有机会。第四，价格是多少？如果市场给的价格，意味着公司几年内就把投资收回来，那么就算十年后行业消失，你也赚了。
+I would ask several questions. First, can this company survive and stay profitable as demand declines? What is the coal company's capital structure, and is it under debt pressure? Second, does it have a cost advantage? When an industry contracts, low-cost producers survive longest and high-cost producers leave first. Third, what does management do with its cash? Does it expand blindly, or does it buy back shares and pay dividends? In a declining industry, the smart course is to harvest cash and stop putting new money in. If management does that, shareholders have an opportunity. Fourth, what is the price? If the market price implies the company can pay back your investment in a few years, you can still make money even if the industry disappears in ten years.
 
-但我对自己不熟悉的领域有明确的纪律：不在能力圈之外假装懂行。六十年没碰，说明我没有这方面的优势。所以我可能的做法是：不会因为它便宜就冲进去，除非我能理解它的现金流、它的生存条件、监管和政策的风险，以及能源转型是否真的像预期那样发展。
+But I have a clear rule for unfamiliar fields: don't pretend to understand things outside your circle of competence. Not having touched the field in 60 years tells me I have no edge there. I probably wouldn't rush in just because it's cheap. I would have to understand its cash flow, what it takes to survive, the regulatory and policy risks, and whether the energy transition really is unfolding as expected.
 
-还要考虑非财务的因素：如果投资的结果是依赖于一个你无法预测的政策走向，那就不是投资，更像赌博。
+Consider non-financial factors too. If the outcome depends on a policy direction you can't predict, it isn't investing. It is closer to gambling.
 
-所以我的回答是：多半什么也不做，或者只在极少量、并且完全理解的情况下参与。「别人都不要」本身不是买入理由，「别人都不要，而且价格已经低到不合理，而且我看得懂」才是。三个条件缺一个，我就看着。
+So my answer is that I would probably do nothing, or take a very small position only if I understood it completely. “Nobody else wants it” is not a reason to buy. “Nobody else wants it, the price is unreasonably low, and I understand it” is. If any one of those three conditions is missing, I sit and watch.
 
 ## 4
 
-这两件事我的答案都出于同一个原则：先保证活下来，再谈赚多少。
+My answer to both questions rests on the same principle: make sure you survive before asking how much you can earn.
 
-先说融资。同行喜欢短期贷款，因为便宜、灵活，利率低，可以随时再融资，反复滚动。这在顺境里很聪明。但它有一个隐含的假设：到期的时候，银行总是愿意再借给你。历史告诉我们，这个假设在最糟糕的时候会失效，信贷收紧的那一年，恰好是你最需要续贷的时候。短期贷款让你的命运掌握在别人手里。
+Start with financing. Peers like short-term loans because they are cheap and flexible. Rates are low, and you can refinance whenever you need to and keep rolling them over. That looks smart in good times. But it assumes the bank will always lend to you again when the loan comes due. History tells us that assumption fails in the worst of times. The year credit tightens is exactly when you most need to renew the loan. Short-term borrowing puts your fate in someone else's hands.
 
-所以我会选长期、固定利率的融资，即使成本略高。多付的那一点利息，其实是保险费，买的是「不会被迫卖掉」的权利。房地产的失败，几乎都不是因为资产不好，而是因为在错误的时间被迫出售。有了长期融资，市场下跌的时候你可以坐着不动，甚至趁别人被迫卖的时候买进。这和伯克希尔一贯的风格一致：宁愿少赚一点，也不要有一个可能让你出局的风险。
+I would choose long-term financing at a fixed rate, even at a slightly higher cost. The extra interest is an insurance premium. It buys you the right not to be forced to sell. In real estate, failures are almost never due to bad assets. They happen because you are forced to sell at the wrong time. With long-term financing, you can sit tight when the market falls, or even buy when others are forced to sell. This is consistent with Berkshire's approach: better to make a little less than take a risk that could put you out of the game.
 
-再说物业。很多房东买下之后尽量少花钱，把现金流最大化。短期看，账面漂亮；长期看，这是在消耗资产。房子会老化，租客会感觉到，好租客会离开，留下的是愿意忍受差条件的人，空置率和纠纷都会增加。
+Now consider the property. After buying, many landlords spend as little as possible to maximize cash flow. In the short run, the books look good. In the long run, they are wearing down the asset. The building ages, tenants notice, good tenants leave, and the people who remain are the ones willing to put up with poor conditions. Vacancies and disputes both increase.
 
-我会选择认真维护，持续投入。租客是你的客户，把他们当作客户对待，他们会待得更久，换租的成本、空置的损失、修缮的麻烦都会下降。这是一个声誉的游戏，做得好会形成复利。还有，这种做法也让这两个年轻人养成一个好习惯：长期做生意，靠的是信用和品质，不是靠每个季度榨取一点。
+I would maintain the property properly and keep investing in it. Tenants are your customers. Treat them that way and they will stay longer, turnover costs and vacancy losses will fall, and repairs will be less of a headache. This is a business where reputation matters, and doing it well compounds over time. It also teaches the two young people a good habit: a lasting business depends on trustworthiness and quality, not on squeezing a little more out of every quarter.
 
-另外我关心的是人。我支持他们，是因为他们诚实、肯干、愿意学。一个敲了门的 17 岁孩子，说明他有主动性。给这样的人资金，同时要求他们保守地用，就是在用我的资本培养他们的判断，这比单纯赚钱更有意义。
+I care about the people, too. I support them because they are honest, willing to work, and willing to learn. A 17-year-old who knocks on a door shows initiative. Funding people like that while insisting that they use the money conservatively is a way to use my capital to develop their judgment. That means more to me than just making money.
 
 ## 5
 
-这类机会，我会称之为「别人忽略的、结构性的便宜」，而不是什么聪明的预测。
+I would call this kind of opportunity “a structural bargain that other people overlooked,” not a clever prediction.
 
-逻辑是这样的。日本五大商社，伊藤忠、丸红、三井物产、三菱商事、住友商事，本质上是庞大的、多元化的企业集团，业务涵盖能源、金属、食品、化工、基础设施等等，和伯克希尔本身有点像。它们的股票长期交易在较低的估值上，市净率低，股息率不错，同时公司在回购股票。日本市场长期被看作增长缓慢，国际资金兴趣有限，所以这些公司被冷落。
+Here is the logic. Japan's five major trading houses, Itochu, Marubeni, Mitsui & Co., Mitsubishi Corporation, and Sumitomo Corporation, are essentially large and diversified conglomerates. Their businesses cover energy, metals, food, chemicals, infrastructure, and more, a little like Berkshire itself. Their shares traded at low valuations for a long time, with low price-to-book ratios and decent dividend yields, while the companies bought back shares. The Japanese market had long been seen as slow-growing, with limited interest from international investors, so these companies were neglected.
 
-价格低，加上股东回报在改善，加上业务扎实，这是一个典型的「付出不多、风险有限」的组合。
+A low price, improving shareholder returns, and solid operations make a classic combination: you are not paying much, and the risk is limited.
 
-还有一个关键点是融资。伯克希尔是在日本借日元债券来买这些股票的，日元利率极低。借低成本的本币去买本币资产，既消除了汇率风险，又有息差。这是一个很聪明的结构，不是靠运气。
+Another key is the financing. Berkshire bought the shares with proceeds from yen-denominated bonds issued in Japan, where interest rates were extremely low. Borrowing cheaply in the local currency to buy assets in that currency removes exchange-rate risk while providing an interest spread. That is a smart structure, not luck.
 
-再说承诺：伯克希尔同意，持股比例在一定范围内不会大幅提高，这换来了商社的善意与合作。这种信任关系，是用几十年的声誉换来的。
+Then there is the commitment. Berkshire agreed not to raise its ownership stakes substantially beyond a certain range, which earned goodwill and cooperation from the trading houses. That kind of trust comes from a reputation built over decades.
 
-为什么别人做不了？第一，要有规模。这笔交易几百亿美元，能做的机构不多。第二，要有耐心，愿意持有很多年，不被季度业绩推着走。第三，要有信用，日本企业愿意和你谈条件，是因为你不是来夺权的。第四，要有低成本的、稳定的资金，你才能在别人不敢的时候下手。普通基金有赎回压力，做不到这一点。
+Why can't others do it? First, you need scale. The deal was worth tens of billions of dollars, and few institutions can do one that size. Second, you need the patience to hold for many years without being driven by quarterly results. Third, you need credibility. The Japanese companies are willing to negotiate because they know you aren't there to seize control. Fourth, you need cheap, stable funding so you can act when others are afraid. Ordinary funds face redemption pressure and can't do that.
 
-所以这不是什么神秘的招数，而是常识加上少数人具备的条件：便宜的价格、可以理解的企业、长期的资金、值得信任的名声。
+It isn't a mysterious trick. It is common sense plus a combination few people have: low prices, understandable businesses, long-term funding, and a reputation for being trustworthy.
 
 ## 6
 
-当然可以做得更好，任何诚实的人回头看都会这么说。
+Of course we could have done better. Anyone honest would say that when looking back.
 
-首先是我们错过的机会。有些我们看得懂、也认为很好的企业，因为价格稍微高一点，我们没有出手，之后涨了很多倍，我们站在一旁。这种「差一点点」的错误，代价其实最大，我们称之为「犯了吮拇指的错」，就是被一点点价格差异挡住，丧失了好机会。
+First, consider the opportunities we missed. There were businesses we understood and thought highly of but didn't buy because they were priced a little too high. Then they rose many times over while we stood on the sidelines. The “missed it by that much” errors are actually the costliest. We call it a “thumb-sucking mistake”: a small difference in price gets in the way, and you lose a great opportunity.
 
-其次是伯克希尔太大了。规模是投资的敌人，当你管理几千亿美元，能影响你整体回报的机会很少，你只能做大的事。早年我们小的时候，可以在小公司里发现被遗忘的便宜货，回报高得多。后来不得不收敛。这不是失误，但是个现实的约束。
+Second, Berkshire is too big. Size is the enemy of investing. When you manage hundreds of billions of dollars, few opportunities can affect your overall return, and you can only do big things. When we were small, we could find forgotten bargains among small companies and earn much higher returns. Later we had to narrow our scope. That wasn't a mistake, but it was a real constraint.
 
-第三是对一些行业的判断。比如我们很晚才理解科技公司的竞争力，苹果是后来才买的；对某些新模式的企业，我们的偏见让我们看不到它们的价值。我们的能力圈很清晰，但能力圈也是一种盲区。
+Third, we made judgments about some industries. For example, it took us a long time to understand the competitive strengths of technology companies. We bought Apple only later. Our biases kept us from seeing the value in some companies with new business models. Our circle of competence is clear, but a circle of competence also creates blind spots.
 
-第四，有些具体的错误：买进过一些经营不佳的企业，比如纺织厂起步就是个错，后来又在煤、航空等领域吃过亏。这些教训都说明一件事：看起来便宜的差企业，往往是陷阱。
+Fourth, we made some specific mistakes. We bought some poorly run businesses. The textile mill was a mistake from the beginning, and we later took losses in fields such as coal and airlines. These lessons point to one thing: bad businesses that look cheap are often traps.
 
-第五，在人的方面。有时候我们对管理层太宽容，有时候容忍了本该处理的问题。
+Fifth, there is the matter of people. Sometimes we were too lenient with management. Sometimes we tolerated problems we should have dealt with.
 
-不过，我也要说一句平衡的话：纠结于「本可以」不太有用。我们做得足够好了，更重要的是从错误中学习，并且坦然面对。我在意的不是完美，而是避免愚蠢，一生中少犯大错，剩下的时间让复利工作。
+But let me balance that by saying there isn't much use in dwelling on what might have been. We did well enough. It matters more to learn from mistakes and face them plainly. I don't care about perfection. I care about avoiding stupidity, making fewer big mistakes over a lifetime, and letting compounding do the work the rest of the time.
 
 ## 7
 
-我的看法是：这是一件好事，但要保持清醒。
+My view is that this is a good thing, but you need to keep your head.
 
-先说好的一面。AI 把写代码的门槛降低了，一个人就能做出过去需要一个小团队才能做的东西。这意味着创造的成本下降，有想法、懂用户、肯动手的人，有了更多机会。这本质上是一种杠杆，杠杆总是让有判断力的人受益。
+Start with the upside. AI lowers the barrier to writing code, so one person can build something that once took a small team. That brings down the cost of creating and opens more opportunities to people with ideas who understand users and are willing to do the work. This is essentially leverage, and leverage always benefits people with good judgment.
 
-但是，要看清经济学。当所有人都能很快做出一个产品，产品本身就不再稀缺。稀缺的东西变成了别的：对用户的深度理解、分发渠道、品牌、信任、数据、持续的服务。如果你的全部优势就是「我能用 AI 做出来」，那别人也能，而且做得和你一样快。这是一个竞争极其激烈、价格被压低的领域。
+But look at the economics. When anyone can quickly build a product, the product itself is no longer scarce. Other things become scarce: deep knowledge of users, distribution channels, brand, trust, data, and ongoing service. If your entire advantage is “I can build it with AI,” then others can build it just as fast. You are in a fiercely competitive field where prices are pushed down.
 
-所以问题是：你的护城河是什么？一个靠 AI 写的工具，如果没有独特的用户关系，没有难以复制的东西，很可能是在一条拥挤的赛道上做低价竞争。这和过去很多「容易进入的生意」没什么区别，容易进入的地方，利润都不长久。
+So what is your moat? An AI-coded tool with no distinctive relationship with users and nothing hard to copy is likely to compete on price in a crowded market. That is no different from many easy-to-enter businesses in the past. Where entry is easy, profits don't last.
 
-还有一点，叫「可靠性」。AI 写的代码，如果你自己不懂，出了问题怎么办？安全漏洞、数据丢失、维护困难，这些都会在某个时间点冒出来。你需要有足够的判断力去检查，或者有可靠的人帮你。
+There is also reliability. If you don't understand the code AI wrote, what will you do when something goes wrong? Security flaws, data loss, and maintenance problems will surface at some point. You need enough judgment to inspect the work, or somebody reliable to help you.
 
-这条路值不值得走？我认为值得，前提是：第一，你有真正懂的领域，你解决的是一个真问题；第二，你把它当成学习和积累的过程，不要指望一夜暴富；第三，你生活有保障，不会因为产品没成功就陷入困境；第四，你重视信誉，对用户诚实，把服务做好。
+Is this path worth taking? I think it is, on four conditions. First, you genuinely know the field and are solving a real problem. Second, see it as a process of learning and building experience, and don't expect to get rich overnight. Third, your livelihood is secure, so failure of the product won't put you in a difficult situation. Fourth, care about your reputation, be honest with users, and serve them well.
 
-如果你做的是这样的事，那么即使最后没有大成功，你获得的技能、用户理解和判断力也会是你的资产。这是个有下限保护的赌注。但如果你是冲着热点去的，指望靠风口，那多半会失望。
+If that's what you're doing, the skills, understanding of users, and judgment you gain will be assets even if you don't achieve great success. It's a bet with some downside protection. But if you're following a fad and hoping the trend will carry you, you'll probably be disappointed.
 
 ## 8
 
-我先说明立场：我对比特币的态度是出了名的不客气，称它为「老鼠药」「文明的耻辱」，所以你要知道，我可能带有偏见。但我可以把理由讲清楚，同时也承认我不是技术专家，更多是从投资和社会角度判断。
+Let me state my position first. I am known for speaking bluntly about Bitcoin, calling it “rat poison” and “a disgrace to civilization,” so you should know I may be biased. I can explain my reasons and also acknowledge that I am no technical expert. My judgment comes more from an investment and social perspective.
 
-先回答你的问题：该不该买？我的回答是不该，而且我会这样思考：它不产生任何东西。一家企业有利润，农场有产出，房子有租金，这些资产会持续产生现金流，你可以估算它值多少钱。比特币没有现金流，它的价值完全取决于下一个人愿意出多少钱买。这不是投资，是投机，更像是买一件艺术品或者黄金，只是比它们更波动、更缺乏历史。
+First, should you buy it? My answer is no, and here is how I think about it: it doesn't produce anything. A business generates profit, a farm produces crops, and a house yields rent. Those assets generate continuing cash flow, and you can estimate what they are worth. Bitcoin has no cash flow. Its value depends entirely on what the next buyer will pay. That is speculation, not investment. It is more like buying art or gold, only more volatile and with less history.
 
-再说你要的「技术上为什么不行」，我要诚实：从技术层面看，比特币并非不能运行，它的密码学和区块链设计是成立的，网络十几年没有被攻破。所以我不会说「它技术上是坏的」，那样说是不诚实的。真正的问题在别处，这些是它的实际弱点：
+Now, on your question about why it is supposedly technically unsound, let me be honest. Technically, Bitcoin can work. Its cryptography and blockchain design are sound, and the network has not been breached in more than a decade. So I would not say it is technically bad. That would be dishonest. The real problems lie elsewhere. These are the practical weaknesses I see:
 
-第一，能耗。工作量证明机制需要大量电力来维持安全，这是一种设计上的代价，换来的是去中心化，但对整个社会来说，这是巨大的资源消耗，却没有产生相应的实用价值。
+First, energy use. Proof of work uses a great deal of electricity to maintain security. That is the cost of the design, paid to get decentralization. But for society as a whole, the enormous resource use doesn't produce corresponding practical value.
 
-第二，作为货币的功能不佳。交易速度慢，手续费波动大，价格剧烈起伏，让它很难当作日常支付手段或者稳定的价值储存。真正用于支付的比例很小，多数人持有是为了等涨价。
+Second, it doesn't function well as currency. Slow transactions, fluctuating fees, and wild price swings make it hard to use for daily payments or as a stable store of value. Only a small share of its use is for actual payments. Most holders are waiting for the price to go up.
 
-第三，它的价值依赖于信念和叙事。「数字黄金」「对抗通胀」这些故事，在一些时间段里成立，另一些时间段里不成立。当叙事破灭，没有基本面可以托底。
+Third, its value depends on belief and narratives. Stories like “digital gold” and “a hedge against inflation” hold up in some periods but not in others. If the story falls apart, there are no fundamentals to put a floor under it.
 
-第四，它的用途中有相当一部分和洗钱、勒索、逃避监管有关，这是我道德上反感的部分。
+Fourth, a substantial share of its uses involves money laundering, extortion, or evading regulation. That is the part I find morally objectionable.
 
-第五，监管风险。各国政府对货币主权很在意，不会长期容忍一个不受控的竞争性货币。
+Fifth, there is regulatory risk. Governments care about monetary sovereignty and won't indefinitely tolerate a competing currency they can't control.
 
-不过，我也得承认几点：它存活了很多年，持有者很多，机构也进来了，我低估过它的韧性。我的立场是，我不会买，也不会做空，因为我不懂它，也不想赌一个我无法估值的东西。
+Still, I have to acknowledge a few things. It has survived for many years, many people hold it, and institutions have come in. I underestimated its resilience. I wouldn't buy it, and I wouldn't short it either. I don't understand it, and I don't want to bet on something I can't value.
 
-给你的建议：如果你一定要参与，把它当成娱乐性质的小仓位，用你亏光也不影响生活的钱，别借钱，别重仓，别因为身边人赚钱就心动。看到别人暴富而自己没赚到，那种嫉妒感，是投资里最危险的情绪之一。记住：不亏钱比赚大钱重要，错过一个机会，远比犯一个大错容易承受。
+My advice: if you insist on taking part, treat it as entertainment and take a small position with money you can lose entirely without affecting your life. Don't borrow, don't take a large position, and don't get carried away just because people around you are making money. The envy you feel when someone else gets rich and you make nothing is one of the most dangerous emotions in investing. Remember: not losing money matters more than making a lot of it. Missing an opportunity is far easier to bear than making a big mistake.

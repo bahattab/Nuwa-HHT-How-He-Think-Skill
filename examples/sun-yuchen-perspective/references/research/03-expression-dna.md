@@ -1,248 +1,249 @@
-# 孙宇晨（Justin Sun）表达DNA调研
+# Justin Sun’s Expression DNA — Research Notes
 
-> 调研时间：2026-04-07
-> 信息源：英文科技/财经媒体、中文科技媒体、SEC官方文件、X/Twitter公开内容
-> 黑名单：知乎、微信公众号、百度百科
-
----
-
-## 一、Twitter/X 发推风格
-
-### 账号概况
-- 英文主号：@justinsuntron（主力，面向全球加密社区）
-- 中文号：@sunyuchentron（面向中文受众，发推频率低于英文号）
-- 昵称持续变化，反映当前身份重心：
-  - 2021-2023："H.E. Justin Sun"（强调格林纳达WTO大使头衔）
-  - 2025后："H.E. Justin Sun 👨‍🚀 🌞"（加入宇航员emoji，纪念Blue Origin太空飞行）
-  - 中文号昵称"孙宇晨（去过太空版）🧑‍🚀"
-
-### 发推模式
-1. **极简型**：纯数字或单个emoji，如"4 😆"，制造悬念和解读空间，引发社区猜测
-2. **宣言型**：短句+感叹号，如"All in AI"，表态果断不留余地
-3. **炫耀型**：展示与权贵的合影/互动，如"特朗普送我了一块特朗普黄金陀飞轮腕表！"
-4. **市场喊单型**：直接喊话某个代币/项目，带$符号和#话题标签
-5. **蹭热点回应型**：在行业大事件发生后数小时内发推，通常带有"I'm willing to..."或"We should..."的句式
-
-### emoji使用特征
-- 高频emoji：🍌（香蕉，源自624万美元香蕉艺术品）、🚀（火箭）、🌞（太阳，谐音名字）、👨‍🚀（宇航员）、😍、😆
-- emoji作为品牌符号而非纯装饰，每个emoji都有来历和叙事
-- 极简推文中emoji是唯一内容载体
-
-### 中英文表达差异
-
-| 维度 | 英文Twitter | 中文Twitter/微博 |
-|------|-------------|------------------|
-| 语气 | 自信、国际范、像硅谷创业者 | 接地气、偶尔用网络用语、像币圈大佬 |
-| 人设 | 全球加密领袖+外交官+宇航员 | 90后创业先锋+马云弟子+爱国企业家 |
-| 内容 | TRON生态、DeFi、全球政策 | 个人生活、民族叙事、热点评论 |
-| 自称 | "H.E."、"Founder of TRON" | "孙哥"（社区称呼，半接受） |
-| 争议回应 | 正式声明、律师函口吻 | 更情绪化、偶尔直接怼 |
-
-**核心人设切换逻辑**：英文世界中他是"Crypto Statesman"（加密政治家），中文世界中他是"最会搞事的90后"。两套叙事互不干扰。
+> Research date: 2026-04-07
+> Sources: English-language technology and financial media, Chinese technology media, official SEC documents, and public X/Twitter content
+> Excluded sources: Zhihu, WeChat official accounts, and Baidu Baike
+> The source research notes discuss reported events, allegations, and interpretations. Timing alone does not establish causation.
 
 ---
 
-## 二、蹭热点方式
+## 1. Posting Style on Twitter/X
 
-### 反应模式（行业大事件后）
+### Account overview
+- Main English account: @justinsuntron (primary account, aimed at the global crypto community).
+- Chinese account: @sunyuchentron (aimed at Chinese-language readers, with less frequent posts than the English account).
+- His display name keeps changing to reflect the identity he is currently emphasizing:
+  - 2021–2023: “H.E. Justin Sun,” highlighting his title as Grenada’s ambassador to the WTO.
+  - From 2025: “H.E. Justin Sun 👨‍🚀 🌞,” adding an astronaut emoji to commemorate the Blue Origin flight.
+  - Chinese display name: “Justin Sun (the version that’s been to space) 🧑‍🚀.”
 
-孙宇晨的热点反应遵循一套固定公式：
+### Posting patterns
+1. **Minimalist:** A bare number or a single emoji, as in “4 😆,” leaves room for interpretation and gets the community guessing.
+2. **Declarative:** A short phrase and an exclamation mark, as in “All in AI,” leave no ambiguity about his position.
+3. **Boastful:** Displays photos or interactions with powerful figures, as in “Trump gave me a gold Trump tourbillon watch!”
+4. **Market calls:** Directly touts a token or project using a dollar-prefixed ticker and hashtags.
+5. **Newsjacking:** Posts within hours of a major industry story, usually with wording like “I'm willing to...” or “We should...”.
 
-1. **第一时间出现**：事件发生后1-6小时内必有动作
-2. **以行动而非观点切入**：不是"我怎么看"，而是"我要做什么"
-3. **金额锚定**：每次行动都带具体的大额数字，制造新闻标题
-4. **制造二次传播点**：初始行动后必有后续反转或加码
+### Emoji usage
+- Recurring emojis: 🍌 (banana, from the $6.24 million artwork), 🚀 (rocket), 🌞 (a pun on Sun), 👨‍🚀 (astronaut), 😍, and 😆.
+- Emojis are brand symbols rather than decorations, with a backstory and narrative for each.
+- In minimalist posts, the emoji may carry the entire message.
 
-### 经典蹭热点案例时间线
+### Differences between his English and Chinese expression
 
-| 时间 | 热点 | 孙宇晨的行动 | 营销效果 |
-|------|------|-------------|---------|
-| 2019 | 巴菲特慈善午餐 | 花456万美元拍下午餐 → 假装肾结石推迟 → 道歉"过度营销" → 最终赴宴 | 全球头条持续数月 |
-| 2021 | 格林纳达WTO代表 | 花15-35万美元获大使头衔 → 要求员工称"阁下" → 改Twitter名 | 获外交豁免权+身份背书 |
-| 2024.11 | 特朗普WLFI代币 | 斥资3000万美元成为最大买家 → 追加至7500万 → 获顾问职位 | 政治庇护+品牌合法化 |
-| 2024.11 | Cattelan香蕉艺术品 | 花624万美元拍下 → 召开新闻发布会吃掉香蕉 → 声称"大部分价值来自互联网" | 全球病毒式传播 |
-| 2025.08 | Blue Origin太空飞行 | 花2800万美元买座位（2021年竞拍）→ 成为"最年轻中国商业宇航员" → 改Twitter头衔 | 新身份标签 |
-| 2025.09 | WLFI代币争议 | 被WLFI冻结钱包 → 否认不当行为 → 表示愿意购买更多 | 持续占据加密新闻头条 |
+| Dimension | English-language Twitter | Chinese-language Twitter/Weibo |
+|---|---|---|
+| Tone | Confident, cosmopolitan, like a Silicon Valley founder | Down-to-earth with occasional internet slang, like a crypto insider |
+| Persona | Global crypto leader, diplomat, and astronaut | Entrepreneurial pioneer born in the 1990s, Jack Ma’s protégé, and patriotic entrepreneur |
+| Content | TRON ecosystem, DeFi, global policy | Private life, national narratives, commentary on trending topics |
+| Self-description | “H.E.,” “Founder of TRON” | “Brother Sun,” a community nickname he partly embraces |
+| Response to controversy | Formal statement or lawyer’s letter in tone | More emotional, sometimes directly confrontational |
 
-### 蹭热点核心策略
-- **钱是最好的新闻稿**：每次出手都是百万/千万美元级别，确保媒体必须报道
-- **制造反转**：初始事件→取消/推迟→道歉→最终完成，一个热点拆成3-4波传播
-- **把消费行为变成内容行为**：买香蕉不是买艺术品，是买一个全球传播的内容IP
-- **所有行动服务于"头衔收集"**：大使→顾问→宇航员→总理（Liberland），每个身份都是社交资本
-
----
-
-## 三、蹭名人方式
-
-### 巴菲特
-
-**策略：花大钱"买"合影，反复消费这段关系**
-
-- 2019年以456万美元拍下慈善午餐（历史最高价）
-- 宴前制造悬念（肾结石推迟、边控传闻）→ 事件本身比午餐更有话题
-- 宴席送巴菲特一部三星手机，预装了1个BTC和TRON代币
-- 此后在各种场合反复提及"我和巴菲特共进过晚餐"
-- 润色叙事：将巴菲特说的"blockchain has its value"无限放大
-
-### 马云
-
-**策略：师徒叙事，绑定中国最大商业IP**
-
-- 2015年成为马云湖畔大学首期学员中唯一的90后
-- 对外永远强调"Jack Ma's protégé"身份
-- 2018年毕业后向湖畔大学捐赠150万美元
-- 在Twitter上引用马云教导："The first lesson I learned from Jack Ma: Protecting the user"
-- 将马云的商业理念（用户第一）嫁接到TRON叙事中
-
-### 特朗普
-
-**策略：用真金白银买政治保护伞**
-
-- 2024年11月向WLFI投资3000万美元（彼时项目销售低迷，孙宇晨是救命稻草）
-- 2025年1月追加至7500万美元，获得WLFI顾问职位
-- 总计向特朗普加密生态投入超2.13亿美元
-- 参加特朗普私人晚宴，获赠特朗普金色腕表
-- 购买超1亿美元$TRUMP meme coin，成为最大持有者
-- 时间线与SEC撤诉高度重合（2025年2月SEC暂停诉讼→2026年3月以1000万美元和解）
-
-### 马斯克
-
-**策略：用金额表态，制造假想关系**
-
-- 公开声称"愿意花3000万美元和马斯克共处一小时"
-- 香蕉事件后声称"愿意把香蕉捐给马斯克，绑在SpaceX火箭上送往火星和月球"
-- 通过Blue Origin太空飞行间接蹭SpaceX/太空叙事
-
-### 名人蹭热点的底层逻辑
-- **核心公式**：大额支出 → 获得接近权 → 制造合影/互动 → 反复消费这段关系
-- **付费名人代言**：SEC指控他付费让Lindsay Lohan（1万美元）、Jake Paul（2.5万美元）等名人推广TRX/BTT，且指示他们不披露付费关系
-- **身份叠加**：每蹭一个名人/机构 = 收集一个新头衔/身份标签
+**How he switches personas:** In English, he is a “Crypto Statesman.” In Chinese, he is “the 1990s kid who knows best how to stir things up.” The two narratives operate separately.
 
 ---
 
-## 四、发币/NFT营销话术模式
+## 2. Riding Trending Stories
 
-### TRX/TRON核心话术
+### Response pattern after major industry events
 
-1. **"去中心化互联网"叙事**：TRON不只是区块链，是"下一代互联网基础设施"
-2. **对标以太坊**：长期将TRON定位为"以太坊杀手"，性能更强、费用更低
-3. **用户数据轰炸**："TRON has X million users"、"X billion transactions"——用绝对数字而非增长率
-4. **生态闭环叙事**：波场公链+TRX代币+USDD稳定币+BitTorrent应用+Poloniex/HTX交易所 = 完整商业帝国
+Sun’s response to a hot story follows a formula:
 
-### SunPump（Meme币发射平台）
+1. **Show up right away:** Make a move within one to six hours of the event.
+2. **Lead with an action instead of an opinion:** “Here is what I’m going to do,” not “Here is what I think.”
+3. **Anchor it in a dollar amount:** Attach a large, specific sum to every action to create a headline.
+4. **Create a second news hook:** Follow the initial action with a reversal or a bigger commitment.
 
-- 2024年8月推出，定位"TRON上的Pump.fun"
-- 降低发币门槛至零，吸引大量用户
-- 推行"零手续费meme交易"
-- 话术核心：让普通人也能参与meme文化+赚钱
+### Timeline of notable examples
 
-### NFT/艺术品收购
+| Date | Story | Sun’s action | Marketing effect |
+|---|---|---|---|
+| 2019 | Buffett charity lunch | Won the lunch for $4.56 million → postponed it citing kidney stones, which the research notes characterize as a pretext → apologized for “overmarketing” → eventually attended | Global headlines for months |
+| 2021 | Grenada WTO representation | Reportedly paid $150,000–350,000 for the ambassadorial title → asked employees to call him “Your Excellency” → renamed his Twitter account | Diplomatic immunity and the credibility attached to the title |
+| Nov. 2024 | Trump’s WLFI token | Became the largest buyer with $30 million → raised the investment to $75 million → became an adviser | Political protection and brand legitimacy, in the research notes’ interpretation |
+| Nov. 2024 | Cattelan’s banana artwork | Bought it for $6.24 million → ate the banana at a press conference → said “most of the value comes from the internet” | Went viral worldwide |
+| Aug. 2025 | Blue Origin spaceflight | Paid $28 million for the seat in the 2021 auction → became the “youngest Chinese commercial astronaut” → changed his Twitter title | A new identity label |
+| Sept. 2025 | WLFI token controversy | WLFI froze his wallet → he denied wrongdoing → said he was willing to buy more | Stayed in crypto headlines |
 
-- 624万美元香蕉（Cattelan《Comedian》）
-- 核心话术："Most of the value comes from the internet rather than the artwork itself"
-- 将传统艺术品的购买行为直接类比为NFT和区块链——"这就是一个概念，跟NFT一样"
-- 吃香蕉的行为 = 行为艺术 + meme制造 + 品牌传播的三合一
-
-### 营销话术通用模式
-
-| 话术类型 | 示例 | 底层逻辑 |
-|---------|------|---------|
-| 金额锚定 | "$30M investment"、"$6.2M banana" | 大数字自动成为新闻标题 |
-| 身份权威 | "H.E."、"Prime Minister"、"Astronaut" | 头衔越多，可信度幻觉越强 |
-| 名人背书 | "Lesson from Jack Ma"、"Dinner with Buffett" | 借力打力 |
-| 技术愿景 | "Decentralize the web"、"Internet 3.0" | 给投机行为包装理想主义外衣 |
-| FOMO制造 | "All in AI"、"This is the future" | 简短判断句制造紧迫感 |
-| 慈善洗白 | 太空飞行费用捐给教育基金会 | 用慈善叙事对冲争议 |
+### Core strategies for riding the news
+- **Money is the best press release:** Each move is worth millions or tens of millions of dollars, making it hard for the media to ignore.
+- **Create reversals:** Initial event → cancellation or postponement → apology → completion. One story yields three or four rounds of coverage.
+- **Turn spending into content:** Buying the banana was not just buying an artwork. It was buying a piece of content with worldwide reach.
+- **Every action serves the collection of titles:** Ambassador → adviser → astronaut → prime minister (Liberland). Each identity is social capital.
 
 ---
 
-## 五、高频用词与句式
+## 3. Leveraging Celebrity Proximity
 
-### 英文高频用词
-- "Decentralize"/"Decentralization" — TRON的核心叙事词
-- "All in" — 表达立场的万能句式
-- "Excited to announce" — 标准宣布句式
-- "I'm willing to..." — 蹭热点时的开场白
-- "The future of..." — 画饼句式
-- "$XXM" — 所有行动必须带具体金额
-- "H.E." — 自我尊称，从不省略
+### Buffett
 
-### 中文高频表达
-- "梦想"、"三十年前的儿时梦想" — 情怀包装
-- "All in XX" — 中英混搭的表态方式
-- "区块链将改变世界" — 宏大叙事
-- 感叹号大量使用（几乎每条推文都有）
+**Strategy: Spend heavily to “buy” a photo opportunity, then repeatedly draw on the association.**
 
-### 句式模板
-1. **宣布型**："Excited to announce that [行动] + [金额]"
-2. **表态型**："All in [领域]"
-3. **蹭热点型**："I'm willing to [做某事] for [名人/热点]"
-4. **回应争议型**："[否认] + [表示愿意做更多]"（如被冻结钱包后表示愿意买更多代币）
-5. **炫耀型**："[名人] gave me [礼物]！"
-6. **引用型**："The first lesson I learned from [名人]: [道理]"
+- Won the charity lunch in 2019 for $4.56 million, a record price.
+- Built suspense before the meal through the kidney-stone postponement and border-control rumors, making the story bigger than the meal itself.
+- Gave Buffett a Samsung phone preloaded with one BTC and TRON tokens at the dinner.
+- Later repeated “I had dinner with Buffett” on many occasions.
+- Embellished the story by giving outsized emphasis to Buffett’s remark that “blockchain has its value.”
 
-### 幽默方式
-- **不是段子型幽默，而是行为艺术型幽默**：花624万买香蕉然后吃掉
-- **自嘲式夸张**：知道外界觉得荒谬，但照做不误，用行动本身制造笑料
-- **数字荒诞感**：用极端金额做极端之事（2800万飞太空、624万吃香蕉）
-- **emoji传情**：用emoji替代文字表达情绪，保持距离感
+### Jack Ma
 
----
+**Strategy: Build a mentor–protégé narrative and tie it to China’s biggest name in business.**
 
-## 六、争议立场与应对策略
+- In 2015, he was the only person born in the 1990s in the first class of Jack Ma’s Hupan University.
+- Consistently describes himself publicly as “Jack Ma's protégé.”
+- Donated $1.5 million to Hupan after graduating in 2018.
+- Cited Ma’s lesson on Twitter: “The first lesson I learned from Jack Ma: Protecting the user”.
+- Grafted Ma’s user-first business philosophy onto the TRON narrative.
 
-### 核心争议清单
+### Trump
 
-| 争议 | 时间 | 性质 |
-|------|------|------|
-| SEC起诉：非法证券发行+市场操纵 | 2023.03 | 法律 |
-| 60万+次TRX洗盘交易指控 | 2023.03 | 法律 |
-| 付费名人代言不披露 | 2023.03 | 法律 |
-| 英国FCA指控HTX违规营销 | 2025-2026 | 监管 |
-| 前女友指控TRX拉盘割韭菜 | 2026.01 | 舆论 |
-| 买5000 Twitter粉丝/天 | 早期 | 舆论 |
-| BitTorrent收购尾款逾期 | 2019 | 商业 |
-| WLFI钱包被冻结 | 2025.09 | 商业 |
+**Strategy: Spend real money to buy political cover, in the research notes’ interpretation.**
 
-### 争议应对模式
-1. **沉默→否认→转移注意力**：不正面回应，用新的大额行动覆盖旧闻
-2. **用钱解决**：SEC案以1000万美元和解（2026年3月），不承认也不否认
-3. **把争议变成品牌**：外界称他"营销狂人"，他不回避，反而将其内化为个人品牌
-4. **政治庇护策略**：投入巨资于特朗普生态，SEC撤诉时间线与此高度吻合
-5. **身份迁移**：被中国调查 → 获格林纳达外交豁免权 → 定居海外
+- Invested $30 million in WLFI in November 2024, when weak sales made Sun a lifeline for the project.
+- Raised the investment to $75 million in January 2025, gaining an advisory position at WLFI.
+- Put more than $213 million in total into Trump’s crypto ecosystem.
+- Attended a private Trump dinner and received a gold-colored Trump watch.
+- Purchased more than $100 million in $TRUMP meme coins, becoming the largest holder.
+- The timing overlapped closely with the end of the SEC case (the SEC paused litigation in February 2025 → a $10 million settlement in March 2026).
 
-### 对批评者的态度
-- 从不与批评者正面辩论
-- 用"做更多"而非"解释更多"来回应（被冻结钱包→表示愿买更多）
-- 核心信念：只要TRON生态在增长，批评自然消散
+### Musk
+
+**Strategy: Use a dollar figure to signal intent and create an imagined connection.**
+
+- Publicly said he was “willing to spend $30 million to spend an hour with Musk.”
+- After the banana affair, said he was “willing to donate the banana to Musk, strap it to a SpaceX rocket, and send it to Mars and the Moon.”
+- Used his Blue Origin flight to tap indirectly into the SpaceX and space-travel narrative.
+
+### The logic behind celebrity newsjacking
+- **Core formula:** Large expenditure → access → photo or interaction → repeated use of the association.
+- **Paid endorsements:** The SEC alleged that he paid celebrities including Lindsay Lohan ($10,000) and Jake Paul ($25,000) to promote TRX/BTT and told them not to disclose the payments.
+- **Stacking identities:** Every association with a celebrity or institution adds a new title or identity label.
 
 ---
 
-## 七、总结：孙宇晨表达DNA的底层操作系统
+## 4. Token and NFT Marketing Patterns
 
-### 一句话定义
-**孙宇晨是加密世界的"注意力资本家"——他把每一分钱的支出都变成传播事件，用金额做标题，用荒诞做内容，用头衔做信用背书。**
+### Core TRX/TRON pitches
 
-### 五条核心规律
+1. **The “decentralized internet” narrative:** TRON is not just a blockchain, it is “the next generation of internet infrastructure.”
+2. **Benchmarking against Ethereum:** Has long positioned TRON as an “Ethereum killer” with higher performance and lower fees.
+3. **A barrage of user figures:** “TRON has X million users” and “X billion transactions” favor absolute numbers over growth rates.
+4. **The self-contained ecosystem narrative:** The TRON public blockchain, TRX token, USDD stablecoin, BitTorrent app, and Poloniex/HTX exchanges together form a business empire.
 
-1. **金额即内容**：所有行动必须带具体的大额数字，数字越大，传播力越强
-2. **身份即品牌**：大使→顾问→宇航员→总理，头衔是可叠加的社交资本
-3. **争议即流量**：从不回避争议，反而利用争议保持话题热度
-4. **名人即背书**：付费也好、捐赠也好，与名人的每次接触都会被反复消费
-5. **行动即表态**：不发长文分析，用一个具体行动（买入/捐赠/飞太空）表达所有立场
+### SunPump (meme-coin launch platform)
 
-### 与其他加密KOL的区别
-- **CZ（赵长鹏）**：技术叙事为主，相对低调
-- **Vitalik（V神）**：学术型，写长文
-- **SBF**：包装"有效利他主义"（已崩盘）
-- **孙宇晨**：纯营销驱动，把自己变成行走的广告牌，不装深度，直接用钱说话
+- Launched in August 2024 as “Pump.fun on TRON.”
+- Lowered the barrier to issuing tokens to zero to attract large numbers of users.
+- Promoted “zero-fee meme trading.”
+- Core pitch: Ordinary people can take part in meme culture and make money.
+
+### NFTs and art acquisitions
+
+- The $6.24 million banana, Cattelan’s *Comedian*.
+- Core pitch: “Most of the value comes from the internet rather than the artwork itself”.
+- Directly analogized buying traditional art to NFTs and blockchain: “It’s a concept, just like an NFT.”
+- Eating the banana combined performance art, meme creation, and brand promotion.
+
+### Common marketing patterns
+
+| Pitch | Example | Underlying logic |
+|---|---|---|
+| Dollar anchoring | “$30M investment,” “$6.2M banana” | Big numbers become headlines on their own |
+| Authority by title | “H.E.,” “Prime Minister,” “Astronaut” | More titles create a stronger illusion of credibility |
+| Celebrity endorsement | “Lesson from Jack Ma,” “Dinner with Buffett” | Borrow someone else’s standing |
+| Technological vision | “Decentralize the web,” “Internet 3.0” | Dress speculation in idealism |
+| Creating FOMO | “All in AI,” “This is the future” | Short declarations create urgency |
+| Reputation laundering through charity | Spaceflight proceeds donated to educational foundations | Use a charitable narrative to counter controversy |
 
 ---
 
-## 信息源
+## 5. Recurring Words and Sentence Patterns
+
+### Recurring English expressions
+- “Decentralize”/“Decentralization” — keywords in TRON’s core narrative.
+- “All in” — an all-purpose way to signal a position.
+- “Excited to announce” — standard announcement opener.
+- “I'm willing to...” — opener when jumping on the news.
+- “The future of...” — a lead-in to sweeping promises.
+- “$XXM” — every move needs a precise dollar amount.
+- “H.E.” — a self-applied honorific he never leaves out.
+
+### Recurring Chinese expressions
+- “Dream” and “a childhood dream from 30 years ago” — emotional framing.
+- “All in XX” — signaling a position with a mix of Chinese and English.
+- “Blockchain will change the world” — a grand narrative.
+- Heavy use of exclamation marks, in almost every post.
+
+### Sentence templates
+1. **Announcement:** “Excited to announce that [action] + [amount]”.
+2. **Position:** “All in [field]”.
+3. **Newsjacking:** “I'm willing to [do something] for [celebrity/trending story]”.
+4. **Response to controversy:** “[Denial] + [willingness to do more]” (e.g., offering to buy more tokens after a wallet freeze).
+5. **Boast:** “[Celebrity] gave me [gift]!”
+6. **Quotation:** “The first lesson I learned from [celebrity]: [principle]”.
+
+### Humor
+- **Performance art rather than jokes:** Pay $6.24 million for a banana and then eat it.
+- **Self-deprecating exaggeration:** Knowing it looks absurd, he does it anyway and lets the action itself supply the humor.
+- **Numerical absurdity:** Spend extreme sums on extreme things ($28 million to go to space, $6.24 million to eat a banana).
+- **Emotion through emoji:** Uses emoji instead of words to convey emotion while keeping his distance.
+
+---
+
+## 6. Controversies and Response Strategies
+
+### Main controversies
+
+| Controversy | Date | Nature |
+|---|---|---|
+| SEC suit alleging unlawful securities offerings and market manipulation | Mar. 2023 | Legal |
+| Allegation of more than 600,000 TRX wash trades | Mar. 2023 | Legal |
+| Failure to disclose paid celebrity endorsements | Mar. 2023 | Legal |
+| UK FCA allegations of irregular HTX marketing | 2025–2026 | Regulatory |
+| Former girlfriend’s allegations of a TRX pump-and-dump at retail investors’ expense | Jan. 2026 | Public controversy |
+| Claims of buying 5,000 Twitter followers a day | Early years | Public controversy |
+| Late final payment for the BitTorrent acquisition | 2019 | Business |
+| Frozen WLFI wallet | Sept. 2025 | Business |
+
+### How he responds to controversy
+1. **Silence → denial → redirect attention:** Avoid a direct response and displace the old story with another big-money move.
+2. **Resolve it with money:** Settled the SEC case for $10 million in March 2026 without admitting or denying the allegations.
+3. **Turn controversy into a brand:** He embraces the “marketing maniac” label instead of shying away from it.
+4. **Political protection:** The research notes point to the close timing between his heavy investments in Trump’s ecosystem and the end of the SEC litigation.
+5. **Shift identities:** Investigation in China → diplomatic immunity through Grenada → relocation abroad.
+
+### Attitude toward critics
+- Does not debate critics head-on.
+- Responds by “doing more” instead of “explaining more,” as when he offered to buy more after his wallet was frozen.
+- Underlying belief: As long as the TRON ecosystem grows, criticism will fade by itself.
+
+---
+
+## 7. The Operating System Behind Justin Sun’s Expression
+
+### In one sentence
+**Justin Sun is an “attention capitalist” in crypto. He turns every dollar spent into a publicity event, using money as the headline, absurdity as the content, and titles as a credential.**
+
+### Five core rules
+
+1. **Money is content:** Every action must come with a large, specific amount. The larger the figure, the further the story travels.
+2. **Identity is the brand:** Ambassador → adviser → astronaut → prime minister. Titles are social capital you can stack.
+3. **Controversy is traffic:** He does not avoid controversy. He uses it to stay in the conversation.
+4. **A celebrity is an endorsement:** Whether the contact came through payment or a donation, he makes repeated use of it.
+5. **Action is a statement:** Instead of long analysis, he takes one visible action (buying, donating, or going to space) to signal his entire position.
+
+### Comparison with other crypto influencers
+- **CZ (Changpeng Zhao):** Focuses on technology and keeps a comparatively low profile.
+- **Vitalik Buterin:** Academic in style, writes long essays.
+- **SBF:** Branded himself around “effective altruism” before his collapse.
+- **Justin Sun:** Driven entirely by marketing, he makes himself a walking billboard. He does not pretend to be profound and lets money do the talking.
+
+---
+
+## Sources
 
 - [CoinCodex: Who Is Justin Sun?](https://coincodex.com/article/79752/who-is-justin-sun/)
-- [PANews: 揭秘营销狂人孙宇晨](https://www.panewslab.com/en/articles/t4c6fv2z)
+- [PANews: Inside Justin Sun’s Relentless Marketing](https://www.panewslab.com/en/articles/t4c6fv2z)
 - [Bloomberg: Trump's Crypto Project Was a Bust Until Justin Sun Stepped In](https://www.bloomberg.com/news/articles/2024-11-29/trump-s-crypto-project-was-a-bust-until-justin-sun-stepped-in)
 - [Washington Post: Chinese entrepreneur invested $30M in Trump's crypto project](https://www.washingtonpost.com/politics/2024/12/03/trump-crypto-chinese-entrepreneur/)
 - [SEC Press Release: Charges Against Justin Sun](https://www.sec.gov/newsroom/press-releases/2023-59)
@@ -251,8 +252,8 @@
 - [SCMP: Why Jack Ma's protégé Justin Sun has 1.3 million Weibo followers](https://www.scmp.com/magazines/style/news-trends/article/3016486/why-jack-mas-protege-justin-sun-has-13-million-weibo)
 - [Slate: The nefarious truth behind the crypto billionaire who bought the $6.2 million banana](https://slate.com/technology/2024/12/justin-sun-banana-art-crypto-billionaire-criminal-comedian-maurizio-cattelan.html)
 - [CoinDesk: Tron's Justin Sun Gets $4.5M Dinner With Warren Buffett](https://www.coindesk.com/markets/2020/02/06/trons-justin-sun-finally-gets-45m-dinner-with-warren-buffett)
-- [新浪财经: 孙宇晨——流量、争议、以及自由主义](https://finance.sina.com.cn/blockchain/roll/2024-10-15/doc-incsrkft4397799.shtml)
-- [36氪: 孙宇晨和被称为骗子的90后创业者](https://36kr.com/p/1723814707201)
+- [Sina Finance: Justin Sun — Traffic, Controversy, and Liberalism](https://finance.sina.com.cn/blockchain/roll/2024-10-15/doc-incsrkft4397799.shtml)
+- [36Kr: Justin Sun and the 1990s-Born Entrepreneur Called a Fraud](https://36kr.com/p/1723814707201)
 - [Justin Sun Wikipedia](https://en.wikipedia.org/wiki/Justin_Sun)
 - [Axios: Trump family's World Liberty Financial breaks with Justin Sun](https://www.axios.com/2025/09/05/trump-justin-sun-world-liberty-financial)
 - [CCN: Did Justin Sun Pump and Dump TRX Retail Investors?](https://www.ccn.com/news/crypto/did-justin-sun-scam-trx-retail-investors-alleged-ex-girlfriend-binance/)
