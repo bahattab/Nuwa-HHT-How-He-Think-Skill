@@ -1,15 +1,15 @@
-# Promo Assets · 宣传素材
+# Promotional assets
 
-Brand & marketing assets for nuwa-skill, made with [huashu-design](https://github.com/alchaincyf/huashu-design) skill.
+Brand and marketing assets for Nuwa, made with the [huashu-design](https://github.com/alchaincyf/huashu-design) skill.
 
-| Asset | File | Spec |
+| Asset | File | Specifications |
 |---|---|---|
-| **Project Deck** | `deck/女娲deck-粗野编辑.pdf` | 16:9 · 10 pages · vector |
-| **Hero Film** | `hero/nuwa-hero-alchemy.mp4` | 1920×1080 · 60fps · 18s · with audio |
-| **Hero (web)** | `hero/nuwa-hero-alchemy.gif` | 540px · 1.75MB · for embeds |
-| **Landing Page** | `landing/女娲landing-编辑长文.pdf` · `.png` | 1440-wide scroll |
-| **Quote Cards** | `cards/card-{1-naval,2-musk,3-jobs}.png` | 1080×1080 ×3 |
+| **Project deck** | [PDF](deck/nuwa-project-deck.pdf) | 16:9 · 10 pages · vector |
+| **Hero film** | [MP4](hero/nuwa-hero-alchemy.mp4) | 1920×1080 · 60 fps · 18 s · with audio |
+| **Hero animation for the web** | [GIF](hero/nuwa-hero-alchemy.gif) | 540 px · 1.75 MB · for embeds |
+| **Landing page** | [PDF](landing/nuwa-landing-page.pdf) · [PNG](landing/nuwa-landing-page-full.png) | 1440-pixel-wide scroll |
+| **Quote cards** | [Naval](cards/card-1-naval.png) · [Musk](cards/card-2-musk.png) · [Jobs](cards/card-3-jobs.png) | Three cards, each 1080×1080 |
 
-All content verified against the repo: 22.9k stars · 14 perspective skills + 1 topic skill · 50+ runtimes. The core message held throughout: **not role-playing — extracting a cognitive operating system.**
+The figures were checked against the repository when the assets were prepared: 22.9k stars, 14 perspective skills, one topic skill, and 50+ runtimes. All the assets share the same message: **extract a cognitive operating system instead of role-playing.**
 
-MIT © 花叔 Huashu
+MIT © Huashu · [Arabic](README_AR.md)

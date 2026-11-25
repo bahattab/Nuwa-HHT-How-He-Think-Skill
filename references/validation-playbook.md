@@ -1,80 +1,134 @@
 # Validation playbook
 
-Test three things: whether the skill improves fidelity to the person, whether it admits uncertainty on undocumented matters, and whether it helps solve real problems. Separate authors, answering agents, and scoring agents. Score against evidence independent of the skill. Held-out evidence exists so that research-stage errors cannot validate themselves.
+Use this playbook during validation. The three tests answer three questions. Does using this skill produce answers closer to the person than answering without it? Does it make things up when asked about something the person never discussed? Does it help solve real problems?
 
-## 1. Held-out questions
+The author does not review their own work. Assign answering and scoring to independent agents, and score against evidence independent of the skill. If the evaluator treats the skill's claims as the standard, mistakes made during research will be marked correct without alteration. That is why evidence is held out.
 
-Use one question per item from `research/holdout.md`. Copy only `SKILL.md`, `references/casebook.md`, and `references/voice.md` into an isolated runtime directory and point [$OUT] there. Keep research notes, holdouts, and older versions outside the respondent's view. Use the isolated skill brief for the third arm as well. Have a baseline agent answer first. Replace questions it answers perfectly, or report that they have no discriminatory power. When upgrading a skill, add a third arm with `SKILL-v1.md` copied separately as `SKILL.md`.
+## Contents
 
-- **With the skill.** Read [$OUT]/SKILL.md completely and follow it; open its casebook and voice samples as requested. Do not open `references/research/` or `references/sources/`, and do not browse. Answer each question in one paragraph in `answers-a.md`, under headings `## 1`, `## 2`, and so on. Omit commentary about your method.
-- **Baseline.** Use the same model. Answer from the person's perspective in one paragraph per question without reading files or browsing. Save the same format as `answers-b.md`.
-- **Blind evaluator.** Read only both answer files and the sourced holdouts. Give 2 for a matching conclusion and matching key rationale or action, 1 for a matching direction with generic reasons or mismatched details, and 0 for a conflicting conclusion or contradiction of the evidence. Unaddressed claims receive neither credit nor penalty. Explain each score with the exact passage and corresponding evidence, then total both runs.
+1. Held-out question test
+2. Boundary test
+3. Task test
+4. How to judge and repair
+5. Write FIDELITY.md
+6. Without subagents
 
-Subtract the baseline total from the with-skill total. Before blind scoring, remove only identity disclosures, case IDs such as C05, and statements about materials available to the respondent. Preserve everything else. On three to five questions, differences of at most 2 points are a tie. If the with-skill score is clearly lower, check whether held-out items are mere quotations (research playbook, section 7), or whether runtime rules 2 and 5 led it to mistake missing evidence for silence or lived events for inference.
+## 1 · Held-out question test
 
-## 2. Boundary test
+Use the items in `research/holdout.md`. Ask one question per item, using the question already written there.
 
-Give the skill respondent an adjacent question on which the person has no documented public position. Verify this against the research notes. Pass when the response separates an inference from the person's position, retains uncertainty, and declines where warranted. Fail when it confidently presents an inferred view in the person's voice. A second question drawn from documented blind spots tests refusal more directly.
+Before testing:
 
-## 3. Task test
+- **Copy the runtime files to an isolated directory.** Copy only `SKILL.md`, `references/casebook.md`, and `references/voice.md`. Point [$OUT] in the task brief to that directory. The original directory contains research notes and held-out items, plus `SKILL-v1.md` for upgrades. The agent under test should not be able to see them.
+- **Screen for discriminatory power first.** Have the baseline agent answer the questions once. Replace any questions it answers perfectly because they cannot distinguish the two conditions. If there is no replacement, keep the question and note in the report that it has no discriminatory power.
 
-Present one or two realistic user dilemmas with a concrete situation, a trade-off, and relevance to the person's domain. Use the isolation, briefs, blinding, and optional third arm above. At first show the evaluator only the anonymized answers. Have them list person-specific statements and verify them against primary sources where browsing is available. Only then provide `casebook.md` and `voice.md`.
+When upgrading an existing skill, add a third arm. Copy only `SKILL-v1.md` to a separate isolated directory and rename it `SKILL.md`. Use the same task brief as for the with-skill arm. The most important question for an upgrade is how much better the new version is than the old one.
 
-1. List evidence specific to the person's real experience, documented words, or decisions.
-2. Mark items supported by the casebook, voice file, or skill as sourced. Mark others unverified and check primary sources if possible. A confirmed invented quotation or case fails the entire answer.
-3. Check that the answer represents outcomes honestly, including later failure where relevant.
-4. Check whether it discloses applicable blind spots.
-5. Explain whether following the answer would serve the user better than generic advice.
+**With-skill answering agent** — task brief:
 
-Have the evaluator summarize the size and nature of the difference. The skill should improve criteria 1 and 2 materially. Otherwise its cases and moves may have failed to enter the answer.
+```
+First read [$OUT]/SKILL.md completely and follow it as the full instructions for this task. Read references/casebook.md or references/voice.md as needed when the skill tells you to.
+Do not read any files under references/research/ or references/sources/. Do not use the internet.
+Answer the questions below one at a time, in one paragraph per question. Write to [path]/answers-a.md using “## 1”, “## 2”, and so on, each followed by the answer. Do not explain how you answered anywhere in the file.
+[Questions]
+```
 
-## 4. Diagnose and repair
+**Baseline answering agent** — task brief:
 
-| Result | Action |
-|---|---|
-| More supported person-specific evidence and no lower holdout score | Pass |
-| Both holdout runs score well and tie | Report the tie and assess value through the task test |
-| With-skill holdout score falls by more than 2 | Check the holdout type and runtime rules 2 and 5, then revisit extraction |
-| No material difference in the task test | Add case cards, turn attitudes into actions, and rewrite index triggers |
-| With-skill answer contains inventions | Verify quotations and check all seven runtime rules |
-| Boundary test fails | Rewrite each of the three boundaries as a specific response behavior |
-| Task answer omits cases | Rewrite the index to match the questions users ask |
+```
+Answer the questions below one at a time from [person]'s perspective, in one paragraph per question. Do not read local files or use the internet. Rely only on what you already know.
+Write to [path]/answers-b.md using the same format as above.
+[Questions]
+```
 
-Retest after repairs, at most twice. Disclose remaining failures in the limitations and deliver the best current version.
+**Scoring agent** — task brief. Do not tell the agent which answer used the skill:
 
-## 5. Write FIDELITY.md
+```
+There are two sets of simulated answers from [person]: [path]/answers-a.md and answers-b.md.
+[path]/holdout.md records what the person actually said and did in response to these questions, with sources. Read only these three files.
+Score both answers to each question from 0 to 2, based only on agreement with the key points in the held-out item:
+  2 = the conclusion points in the same direction and the key rationale or specific action matches
+  1 = the direction matches, but the rationale is generic or the details do not match
+  0 = the direction does not match or the answer contradicts facts in the held-out item
+Do not add or subtract points for other material the held-out item does not address. The held-out items capture only a small fraction of what the person has said. An omission is not evidence of invention.
+Give one sentence of justification per question, identifying which passage in the answer did or did not match which point in the held-out item. End with a total for each set of answers.
+```
 
-Record the date, answering and scoring models, and independence of the two roles. For each held-out question, include its ID, both scores, and rationale. Record the totals and difference, treating two points or less as a tie. For boundary tests, include question, response summary, judgment, and rationale. For task tests include each question, both evidence counts, sourced, unverified, or invented claims, case IDs used, blind spots disclosed, and the evaluator's conclusion. List weaknesses remaining after two rounds. For a comparable public score, apply [the scorecard](fidelity-scorecard.md) and put the overall score on the first line of the report.
+The difference between the with-skill total and the baseline total is the improvement. Use the same model for both answering agents.
+
+Before sending answers to the scoring agent, remove three things that reveal the arm: opening identity disclosures (such as “I am a perspective distilled from…”), case IDs (such as “(C05)”), and remarks about what materials the respondent has (“This is not covered in these materials” or “I don't have a case card on hand”). If these remain, the evaluator can tell which answer used the skill at a glance, so the assessment is no longer blind. Delete only these markers without editing the rest.
+
+With only three to five questions, a one- or two-point gap lies within the noise. Treat any gap of 2 points or less as a tie. Do not use it to conclude that the skill adds value or biases the model. Look at the task test below.
+
+Only gaps greater than 2 points are informative. If the with-skill result is markedly lower, check two things first. Did the held-out selection consist of memorable lines rather than evidence that can discriminate, as discussed in [the research playbook](research-playbook.md), section 7? Did the answer say “the person never discussed this” just because it was absent from the skill, or recast something the person had actually experienced as “inferred from their thinking”? Those are signs that runtime rules 2 and 5 were written incorrectly.
+
+## 2 · Boundary test
+
+Ask a question the person has never addressed publicly but that is adjacent to their field. Check the research notes to confirm the absence first. Only the with-skill agent needs to answer.
+
+Pass if the response contains a sentence that lets the reader distinguish an inference based on the person's reasoning from the person's own position, preserves uncertainty, and honestly says “I don't address this” or “I can't judge this reliably” where appropriate.
+
+Fail if the response reaches a categorical conclusion in the person's voice and makes the reader think it is their publicly expressed position.
+
+Better yet, add a second question within “Silence and blind spots” and see whether the agent truly refrains from forcing an answer.
+
+## 3 · Task test
+
+This test comes closest to how users actually use the skill and shows its added value most clearly. Present one or two real user dilemmas that specify a concrete situation, a trade-off, and a link to the person's domain. For example, “I'm 27, I work for a big tech company, and I've been thinking about an idea for six months…”
+
+Have the with-skill and baseline agents each submit one answer. Use the same briefs, isolation, and blinding as in section 1. When upgrading, add the arm for the older version. Score in two steps. First, give the scoring agent no skill files. Show it only the answer sets without identifying which used the skill. Have it complete item 1 below and, if it can use the internet, check the evidence at that point. Only after it has made its list should you give it `casebook.md` and `voice.md` for the remaining items. If it receives the casebook up front, an immediate comparison will reveal which answer used the skill.
+
+1. **Person-specific grounding.** How much of the answer could only have been written by someone who knew the person's actual experiences, exact words, or concrete decisions, rather than consisting of principles any smart adviser would offer? List those points one by one.
+2. **Is the grounding real?** Mark each point “supported” if it can be found in the casebook, quotation collection, or `SKILL.md`. Mark the rest “unverified” and check primary sources if internet access is available. **A confirmed invented case or quotation disqualifies the entire answer.**
+3. Did the answer cherry-pick from a case? For example, did it portray the case as an unqualified success when the casebook records a later failure?
+4. If the person's framework has a blind spot on this issue, did the answer point it out?
+5. Would the person asking do better by following this answer than by taking advice from an ordinary smart person? Explain why.
+
+Finally, have the scoring agent say in one sentence how far apart the answers were and where they differed. The with-skill answer should be clearly stronger on items 1 and 2. If there is no obvious difference, the cases and techniques did not make it into the answer.
+
+## 4 · How to judge and repair
+
+| Result | What it means | How to repair |
+|---|---|---|
+| The with-skill response gives clearly more person-specific evidence in the task test, all of it supported, and scores at least as high as the baseline on held-out questions | The skill adds something the model did not already have | Pass |
+| Both answers score high and tie on held-out questions | The person is so well known that the model already remembers. Use the task test to assess the skill's value | Record this honestly in the report |
+| The with-skill answer scores more than 2 points lower on held-out questions | The held-out items are merely memorable lines, or the skill obscures things the model already remembered | First check the type of held-out evidence, then check runtime rules 2 and 5. Return to extraction only if neither is the problem |
+| No obvious difference between answers in the task test | The cases and techniques did not make it into the answer. There are too few of them, they are too generic, or the index does not match what users ask | Return to extraction. Add case cards, turn techniques from attitudes into actions, and rewrite the index's “Use this for questions like…” entries |
+| The with-skill answer contains invented material | The runtime rules did not work, or the sample material includes items with no traceable source | Check quotation sources and make sure all seven “How to use me” rules are present |
+| The boundary test fails | The boundaries read like a disclaimer instead of specifying behavior | Rewrite all three boundary fields and be concrete about how to respond |
+| The task-test answer did not use cases | The case index's “Use this for questions like…” entries are too narrow or too abstract | Revise that index column to match what users are likely to ask |
+
+Retest after making repairs, up to two rounds. If anything still fails after two rounds, disclose it in the stated boundaries and deliver the best version available.
+
+## 5 · Write FIDELITY.md
 
 ```markdown
 # Validation record
 
-Date: YYYY-MM-DD | Answering model: … | Scoring model: … | Independent answering and scoring agents
+Test date: YYYY-MM-DD | Answering model: … | Scoring model: … | Answering and scoring: independent agents
 
 ## Incremental value (held-out questions)
-
-| Item | With skill | Baseline | Rationale |
+| Question | With skill | Baseline | Rationale |
 |---|---|---|---|
 | H1 | 2 | 1 | … |
-
-With-skill total N / Baseline total M / Difference +K (at most 2 points is a tie)
+With-skill total N / Baseline total M / Difference +K (a gap of 2 points or less is a tie)
 
 ## Boundary test
-
 [Question, answer summary, pass or fail, and rationale]
 
 ## Task test (blind two-arm assessment)
-
-[Question, evidence counts for both answers, sourced/unverified/invented items, case IDs used, blind spots disclosed, evaluator's conclusion]
+[Question; counts of person-specific evidence for each answer and whether it was supported, unverified, or invented; IDs of cases used by the with-skill answer; whether blind spots were disclosed; the evaluator's one-sentence conclusion about the gap between the answers]
 
 ## Known weaknesses
-
-[Issues remaining after two rounds]
+[Issues still unresolved after two rounds]
 ```
 
+For a publicly comparable overall score, for example when applying for inclusion in a community index, score the validation record again using [the scorecard](fidelity-scorecard.md) and put the total-score line at the beginning of the file.
 
-## 6. Without subagents
+## 6 · Without subagents
 
-Ask the user to answer in a fresh session with the appropriate brief, then return the saved answer. If that is impractical, answer and score in the same session and mark `FIDELITY.md` prominently as “Not independently validated: the same session answered and scored, so scores may be optimistic.” Use `00-prior.md` alone for the baseline. Self-assessment compares facts to held-out evidence only. Omit the style score.
+- The best option is to ask the user to open a new session to answer the questions. It will not have the context of this distillation and will approximate an independent agent. Give the user the task brief and have them save the answer sets and return them.
+- If that is not practical for the user, answer and score the questions yourself, but put this at the beginning of `FIDELITY.md`: “Not independently validated: the same session answered and scored the questions, so the scores may be optimistic.” Write the baseline from the understanding recorded in `00-prior.md`. That was your understanding before the research.
+- For self-assessment, check only the facts against held-out evidence. Do not score style.
 
-[Arabic](validation-playbook_AR.md) · [Chinese source](validation-playbook_ZH.md)
+[Arabic](validation-playbook_AR.md)
