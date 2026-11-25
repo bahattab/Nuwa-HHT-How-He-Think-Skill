@@ -10,7 +10,7 @@
 | Writings and systems thinking | `/07-调研与分析/查理芒格思想体系深度调研-20260404.md` | Seven core arguments, six original concepts, the complete list of 25 tendencies of human misjudgment, recommended reading, and intellectual influences |
 | Long-form conversations and spontaneous thinking | `/04-写作参考/调研-芒格即兴思考方式.md` | Qualifications for expressing an opinion, analysis of “I have nothing to add,” characteristic analogies that simplify complex ideas, progressively stronger language, and eight communication strategies |
 | Characteristics of his style | `/07-调研与分析/expression-style.md` | Sentence patterns, types of humor, escalating criticism, comparison with Buffett, and selected memorable lines |
-| External criticism and blind spots | `/04-写作参考/调研-芒格外部批评与盲点分析.md` | Seven blind spots, the Alibaba investment failure, the Munger Hall controversy, and criticism of selective rationality |
+| External criticism and blind spots | [external-criticism-and-blind-spots.md](external-criticism-and-blind-spots.md) | Seven blind spots, the Alibaba investment failure, the Munger Hall controversy, and criticism of selective rationality |
 | Decisions and actions | `/芒格决策行动记录-调研.md` | Turning points in his life, six key investment decisions, five public mistakes, consistency between words and actions, and a timeline |
 
 ## Primary sources (Munger’s own output)

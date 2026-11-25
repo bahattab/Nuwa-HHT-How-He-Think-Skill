@@ -1,6 +1,6 @@
 # 04 · External views and criticism (2026-11-09 upgrade: reuse and verification)
 
-The main analysis reuses `legacy-202604/调研-芒格外部批评与盲点分析.md` on his blind spots in technology, cryptocurrency, AI, Munger Hall, China, questions about Daily Journal accounting, the Giving Pledge, comparisons with Soros, Dalio and Lynch, and reflections following his death. This file records what was verified, corrected, or added.
+The main analysis reuses `legacy-202604/external-criticism-and-blind-spots.md` on his blind spots in technology, cryptocurrency, AI, Munger Hall, China, questions about Daily Journal accounting, the Giving Pledge, comparisons with Soros, Dalio and Lynch, and reflections following his death. This file records what was verified, corrected, or added.
 
 ## Verification and corrections
 
