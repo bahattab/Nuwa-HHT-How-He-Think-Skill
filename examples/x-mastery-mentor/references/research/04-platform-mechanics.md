@@ -1,415 +1,415 @@
-# X/Twitter 平台算法机制调研
+# Research on X/Twitter's Recommendation System
 
-> 调研日期：2026-04-06
-> 数据时效：覆盖2023年首次开源至2026年1月第二次开源的完整演变
-> 信息分级：🟢 官方公布/开源代码可查 | 🟡 权威媒体报道/数据分析 | 🔴 社区测试推测
+> Research date: 2026-04-06
+> Coverage: From the first open-source release in 2023 to the second release in January 2026.
+> Evidence tiers: 🟢 Official disclosures or inspectable source code | 🟡 Established media coverage or data analysis | 🔴 Inferences from community tests.
 
 ---
 
-## 一、推荐算法架构演变
+## 1. Evolution of the Recommendation Architecture
 
-### 1.1 三阶段管线（Pipeline）
+### 1.1 The Three-Stage Pipeline
 
-🟢 **来源：GitHub开源代码**
+🟢 **Source: Open-source GitHub code**
 
-X的推荐系统采用三阶段管线架构，从2023年首次开源（`twitter/the-algorithm`）到2026年Grok版本（`xai-org/x-algorithm`）一脉相承：
+X has used the same three-stage recommendation architecture from the first open-source release in 2023 (`twitter/the-algorithm`) to the 2026 Grok version (`xai-org/x-algorithm`).
 
-| 阶段 | 功能 | 技术实现 |
+| Stage | Function | Implementation |
 |------|------|----------|
-| **候选获取（Candidate Sourcing）** | 从数亿帖子中筛选约1500个候选 | in-network（关注者内容）+ out-of-network（ML检索） |
-| **排序（Ranking）** | 对候选内容预测互动概率并打分 | Phoenix（Grok transformer模型） |
-| **过滤与混排（Filtering & Blending）** | 去重、多样性保障、插入广告 | Home Mixer编排层 |
+| **Candidate sourcing** | Selects around 1,500 candidates from hundreds of millions of posts | In-network content from followed accounts and out-of-network ML retrieval |
+| **Ranking** | Predicts engagement probabilities and scores candidates | Phoenix (Grok transformer model) |
+| **Filtering and blending** | Deduplicates, ensures diversity, inserts ads | Home Mixer orchestration layer |
 
-- 来源：[GitHub - xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | [GitHub - twitter/the-algorithm](https://github.com/twitter/the-algorithm)
+- Sources: [GitHub - xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | [GitHub - twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 
-### 1.2 Grok全面接管推荐（2025年10月→2026年1月开源）
+### 1.2 Grok Takes Over Recommendations (October 2025 to January 2026 Open Release)
 
-🟢 **来源：Elon Musk推文 + GitHub发布**
+🟢 **Sources: Elon Musk's posts and the GitHub release**
 
-**时间线：**
-- **2025年9月**：Musk宣布「The algorithm will be purely AI by November」，承诺每两周开源一次
-- **2025年10月**：Grok开始全面替代传统启发式规则（heuristics）
-- **2025年11月**：Following feed也改为Grok排序
-- **2026年1月20日**：xAI在GitHub发布`xai-org/x-algorithm`，Rust重写版本正式开源
+**Timeline:**
+- **September 2025**: Musk announced, “The algorithm will be purely AI by November,” and pledged to release the code every two weeks.
+- **October 2025**: Grok began to replace traditional heuristics across the system.
+- **November 2025**: The Following feed switched to Grok ranking as well.
+- **January 20, 2026**: xAI released `xai-org/x-algorithm` on GitHub, opening the Rust rewrite.
 
-**关键变化：**
-- 从Scala重写为**Rust（62.9%）+ Python（37.1%）**混合架构
-- 核心transformer架构来自Grok-1，适配推荐场景
-- Grok会「阅读每一条帖子、观看每一条视频」（日处理1亿+内容）
-- 承诺每4周推送代码更新+开发者说明
+**Key changes:**
+- Rewritten from Scala into a hybrid architecture using **Rust (62.9%) and Python (37.1%)**.
+- The core transformer architecture comes from Grok-1 and is adapted to recommendations.
+- Grok reads each post and watches each video, processing over 100 million items daily.
+- The team pledged to push code updates and developer notes every four weeks.
 
-- 来源：[Elon Musk推文](https://x.com/elonmusk/status/1969081066578149547) | [@XEng推文](https://x.com/XEng/status/2013471689087086804) | [TechCrunch报道](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/) | [Social Media Today](https://www.socialmediatoday.com/news/x-formerly-twitter-switching-to-fully-ai-powered-grok-algorithm/803174/)
+- Sources: [Elon Musk post](https://x.com/elonmusk/status/1969081066578149547) | [@XEng post](https://x.com/XEng/status/2013471689087086804) | [TechCrunch coverage](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/) | [Social Media Today](https://www.socialmediatoday.com/news/x-formerly-twitter-switching-to-fully-ai-powered-grok-algorithm/803174/)
 
-### 1.3 四大核心模块（2026开源版）
+### 1.3 Four Core Modules (2026 Open-Source Release)
 
-🟢 **来源：GitHub仓库代码和README**
+🟢 **Sources: Repository code and README**
 
-| 模块 | 语言 | 功能 |
+| Module | Language | Role |
 |------|------|------|
-| **Home Mixer** | Rust | 编排层，接收gRPC请求，协调整个Pipeline |
-| **Thunder** | Rust | 内存级帖子存储，消费Kafka事件，提供亚毫秒级in-network内容查询 |
-| **Phoenix** | Python/JAX | Grok transformer排序引擎，预测互动概率 |
-| **Candidate Pipeline** | Rust | 可复用框架：Sources获取→Hydrators富化→Filters过滤→Scorers打分→Selector返回TopN |
+| **Home Mixer** | Rust | Orchestration layer that receives gRPC requests and coordinates the pipeline |
+| **Thunder** | Rust | In-memory post store that consumes Kafka events and supports sub-millisecond in-network queries |
+| **Phoenix** | Python/JAX | Grok transformer ranker that predicts engagement probabilities |
+| **Candidate Pipeline** | Rust | Reusable framework: Sources retrieve → Hydrators enrich → Filters filter → Scorers score → Selector returns the top N |
 
-- 来源：[xai-org/x-algorithm README](https://github.com/xai-org/x-algorithm/blob/main/README.md) | [Phoenix README](https://github.com/xai-org/x-algorithm/blob/main/phoenix/README.md) | [DeepWiki分析](https://deepwiki.com/xai-org/x-algorithm)
+- Sources: [xai-org/x-algorithm README](https://github.com/xai-org/x-algorithm/blob/main/README.md) | [Phoenix README](https://github.com/xai-org/x-algorithm/blob/main/phoenix/README.md) | [DeepWiki analysis](https://deepwiki.com/xai-org/x-algorithm)
 
-### 1.4 Promptable Feeds（可提示式Feed）
+### 1.4 Promptable Feeds
 
-🟡 **来源：Musk推文 + 媒体报道**
+🟡 **Sources: Musk's posts and media reports**
 
-用户可以用自然语言指令调整Feed，例如输入「Show me more tech innovations, less politics」。这是Grok直接嵌入推荐引擎的产物。
+Users can adjust their feed with natural-language instructions, such as “Show me more tech innovations, less politics.” This follows from embedding Grok directly in the recommendation engine.
 
-- 2025年9月Musk宣布该功能
-- 2026年1月开源版中包含promptable feeds接口
-- 来源：[WebProNews](https://www.webpronews.com/xs-promptable-algorithm-musks-bid-to-hand-users-the-feed-controls/) | [Social Media Today](https://www.socialmediatoday.com/news/x-formerly-twitter-moving-to-personalized-ai-powered-algorithm/760698/)
+- Musk announced the feature in September 2025.
+- The January 2026 open-source release includes a promptable feeds interface.
+- Sources: [WebProNews](https://www.webpronews.com/xs-promptable-algorithm-musks-bid-to-hand-users-the-feed-controls/) | [Social Media Today](https://www.socialmediatoday.com/news/x-formerly-twitter-moving-to-personalized-ai-powered-algorithm/760698/)
 
 ---
 
-## 二、互动权重公式
+## 2. Engagement Weights
 
-### 2.1 精确权重（开源代码可查）
+### 2.1 Exact Weights (Verifiable in the Open Code)
 
-🟢 **来源：xai-org/x-algorithm 开源代码 + Social Media Today确认**
+🟢 **Sources: xai-org/x-algorithm open code and confirmation from Social Media Today**
 
-X是唯一两次开源推荐算法的主流社交平台，互动权重完全公开：
+X is the only major social platform to open-source its recommendation algorithm twice, making its interaction weights public.
 
-| 互动类型 | 权重 | 相对倍数（vs Like） | 说明 |
+| Interaction | Weight | Relative to a like | Description |
 |----------|------|---------------------|------|
-| **对话回复**（Reply + 作者互动） | +75 | **150x** | 你的回复被原帖作者回复/点赞 |
-| **回复（Reply）** | +13.5 | **27x** | 普通回复 |
-| **个人主页点击** | +12.0 | **24x** | 用户点进你的主页并点赞或回复 |
-| **对话深入点击** | +11.0 | **22x** | 用户点进对话并回复或点赞 |
-| **停留时间（Dwell > 2min）** | +10.0 | **20x** | 用户点进对话并停留超过2分钟 |
-| **转发（Retweet）** | +1.0 | **2x** | 转发 |
-| **点赞（Like）** | +0.5 | **1x（基准）** | 基准值 |
-| **书签（Bookmark）** | ~+10 | **~20x** | 社区分析推测，非官方精确值 |
+| **Conversational reply** (reply plus author engagement) | +75 | **150×** | The original author replies to or likes your reply |
+| **Reply** | +13.5 | **27×** | An ordinary reply |
+| **Profile click** | +12.0 | **24×** | A user opens your profile and likes or replies |
+| **Click into conversation** | +11.0 | **22×** | A user opens the conversation and replies or likes |
+| **Dwell time over two minutes** | +10.0 | **20×** | A user enters the conversation and stays over two minutes |
+| **Repost** | +1.0 | **2×** | A repost |
+| **Like** | +0.5 | **1× (baseline)** | Reference value |
+| **Bookmark** | ~+10 | **~20×** | Community estimate, not an exact official figure |
 
-**核心洞察：对话深度碾压一切。** 一条引发作者互动的回复链，价值超过150个点赞。
+**Key insight: Depth of conversation matters most.** A reply chain that earns a response from the author is worth more than 150 likes.
 
-⚠️ **关于不同版本的权重数据**：
-- 2023年首次开源的权重和2026年版本略有不同
-- 早期社区分析引用的「Reply 27x, Retweet 40x」等数据来自2023版本的简化计算
-- 2026版本中Retweet权重显著降低（从~20x降至~2x），对话权重进一步提升
-- 本文档以2026年开源版为准
+⚠️ **About weights in different versions:**
+- Weights in the initial 2023 release and the 2026 version differ slightly.
+- Figures such as “Reply 27×, Retweet 40×” in early community analyses came from simplified calculations based on the 2023 version.
+- In 2026, repost weight fell sharply, from about 20× to about 2×, and conversations gained more weight.
+- This document uses the 2026 open-source release as its reference.
 
-- 来源：[Social Media Today](https://www.socialmediatoday.com/news/x-formerly-twitter-open-source-algorithm-ranking-factors/759702/) | [posteverywhere.ai源码分析](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works) | [Typefully分析](https://typefully.com/blog/x-algorithm-open-source)
+- Sources: [Social Media Today](https://www.socialmediatoday.com/news/x-formerly-twitter-open-source-algorithm-ranking-factors/759702/) | [posteverywhere.ai source-code analysis](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works) | [Typefully analysis](https://typefully.com/blog/x-algorithm-open-source)
 
-### 2.2 负面信号（惩罚机制）
+### 2.2 Negative Signals and Penalties
 
-🟢 **来源：开源代码**
+🟢 **Source: Open code**
 
-| 负面信号 | 惩罚权重 | 效果 |
+| Negative signal | Penalty weight | Effect |
 |----------|----------|------|
-| **举报（Report）** | -369x | 几乎直接移除分发 |
-| **屏蔽/静音/Show Less** | -74x | 大幅降低对该用户的推荐 |
+| **Report** | −369× | Nearly stops distribution altogether |
+| **Block, mute, or Show Less** | −74× | Greatly reduces recommendations to that user |
 
-🟡 **来源：媒体分析**
+🟡 **Source: Media analysis**
 
-| 负面信号 | 惩罚效果 |
+| Negative signal | Effect |
 |----------|----------|
-| **外部链接** | 触达降低30-50%；非Premium账户自2025年3月起链接帖中位互动为零 |
-| **多于2个Hashtag** | 触达降低约40%，被判定为spam信号 |
-| **重复内容/链接** | 逐步降低可见度，严重时触发影子封禁 |
+| **External links** | Reach decreases 30–50%; median engagement on link posts from non-Premium accounts has been zero since March 2025 |
+| **More than two hashtags** | Reduces reach by around 40% and is treated as a spam signal |
+| **Repeated content or links** | Gradually reduces visibility, potentially triggering a shadowban in severe cases |
 
-- 来源：[posteverywhere.ai](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works) | [Tweet Archivist](https://www.tweetarchivist.com/how-twitter-algorithm-works-2025)
+- Sources: [posteverywhere.ai](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works) | [Tweet Archivist](https://www.tweetarchivist.com/how-twitter-algorithm-works-2025)
 
 ---
 
-## 三、Premium订阅的可见性加成
+## 3. Premium Subscription Visibility Boost
 
-### 3.1 算法加成倍数
+### 3.1 Algorithmic Multipliers
 
-🟢 **来源：开源代码确认**
+🟢 **Source: Open-source code**
 
-| 场景 | Premium加成 | 说明 |
+| Context | Premium multiplier | Description |
 |------|-------------|------|
-| **In-network（关注者Feed）** | **4x** | 你的帖子在关注你的人Feed中出现概率×4 |
-| **Out-of-network（非关注者Feed）** | **2x** | 你的帖子在不关注你的人Feed中出现概率×2 |
+| **In-network (followers' feeds)** | **4×** | Four times as likely to appear in feeds of people who follow you |
+| **Out-of-network (non-followers' feeds)** | **2×** | Twice as likely to appear in feeds of people who do not follow you |
 
-### 3.2 实际效果数据
+### 3.2 Observed Results
 
-🟡 **来源：Buffer 1880万帖分析 + 媒体报道**
+🟡 **Sources: Buffer's analysis of 18.8 million posts and media coverage**
 
-- Premium账户每帖触达量约为普通账户的**10倍**
-- Premium+账户在2025年后差距进一步拉大
-- Premium回复在热门帖子讨论中默认排位更高（Q1 2026数据显示高30-40%回复曝光）
-- 非Premium账户发外部链接的帖子，自2026年3月起中位互动为零
+- Premium accounts get about **10 times** the reach per post of standard accounts.
+- The gap for Premium+ widened further after 2025.
+- Premium replies rank higher by default in popular discussions. Q1 2026 figures show 30–40% more reply impressions.
+- Since March 2026, posts with external links from non-Premium accounts have had zero median engagement.
 
-### 3.3 TweepCred与Premium的关系
+### 3.3 TweepCred and Premium
 
-🟡 **来源：Circleboom分析**
+🟡 **Source: Circleboom analysis**
 
-Premium订阅者获得即时+100 TweepCred加成，从-128起步变为-28起步，大幅缩短账号冷启动期。
+Premium subscribers receive an immediate +100 TweepCred boost, raising the starting score from −128 to −28 and substantially shortening the account's cold start.
 
-- 来源：[Circleboom](https://blog-content.circleboom.com/does-x-premium-boost-algorithm/) | [posteverywhere.ai](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works) | [Buffer数据](https://buffer.com/resources/data-best-content-format-social-media/)
+- Sources: [Circleboom](https://blog-content.circleboom.com/does-x-premium-boost-algorithm/) | [posteverywhere.ai](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works) | [Buffer data](https://buffer.com/resources/data-best-content-format-social-media/)
 
 ---
 
-## 四、TweepCred 账户信誉评分
+## 4. TweepCred Account Reputation Score
 
-🟢 **来源：开源代码中的TweepCred模块**
+🟢 **Source: TweepCred module in the open code**
 
-### 4.1 基本机制
+### 4.1 Basic Mechanism
 
-- 每个X账户都有一个不可见的信誉分：**TweepCred**
-- 范围：**-128 到 +100**
-- 新账户起始值：**-128**
-- 正常分发最低门槛：**+17**（低于此值内容被限流）
-- Premium订阅者即时获得**+100加成**
+- Every X account has a hidden reputation score: **TweepCred**.
+- Range: **−128 to +100**.
+- New accounts start at **−128**.
+- Minimum for standard distribution: **+17**. Content below that score is throttled.
+- Premium subscribers immediately get a **+100 boost**.
 
-### 4.2 影响因素
+### 4.2 Influencing Factors
 
-🟡 **来源：社区逆向分析**
+🟡 **Source: Community reverse engineering**
 
-TweepCred是类PageRank加权复合分，由以下因素决定：
+TweepCred is a weighted composite score like PageRank, based on the following factors:
 
-| 因素 | 方向 |
+| Factor | Effect |
 |------|------|
-| 关注/粉丝比例 | 关注远多于粉丝→负面 |
-| 互动质量 | 高质量对话→正面 |
-| 账户历史 | 老账户+一致行为→正面 |
-| 推文语言和Bio | 完整Profile→正面 |
-| 发帖风格一致性 | 突然大幅改变→负面 |
-| **Grok语气评分（2025新增）** | 正面/建设性内容→正面 |
+| Following-to-followers ratio | Following vastly more users than follow you → negative |
+| Engagement quality | High-quality conversations → positive |
+| Account history | Older account and consistent behavior → positive |
+| Tweet language and bio | Complete profile → positive |
+| Consistency of posting style | Sudden major shift → negative |
+| **Grok tone score (added in 2025)** | Positive and constructive content → positive |
 
-⚠️ **2025年新变化**：Grok AI现在会对每条帖子的**语气（sentiment）**进行评分，正面、有建设性的内容获得更多分发。
+⚠️ **New in 2025**: Grok AI now scores the **tone (sentiment)** of every post. Positive, constructive content is distributed more widely.
 
-- 来源：[Circleboom TweepCred分析](https://circleboom.com/blog/tweepcred-what-it-is-why-it-matters-and-how-to-increase-your-score-on-x-twitter/) | [Radaar](https://www.radaar.io/resources-121/blog-388/are-you-ready-to-discover-the-hidden-x-algorithm-secrets-behind-tweepcred-shadow-hierarchy-and-dwell-time-in-2025-15361/)
+- Sources: [Circleboom TweepCred analysis](https://circleboom.com/blog/tweepcred-what-it-is-why-it-matters-and-how-to-increase-your-score-on-x-twitter/) | [Radaar](https://www.radaar.io/resources-121/blog-388/are-you-ready-to-discover-the-hidden-x-algorithm-secrets-behind-tweepcred-shadow-hierarchy-and-dwell-time-in-2025-15361/)
 
 ---
 
-## 五、内容类型待遇
+## 5. Treatment of Content Types
 
-### 5.1 文字 vs 视频：X是唯一文字碾压视频的平台吗？
+### 5.1 Text vs. Video: Is X the Only Platform Where Text Beats Video?
 
-🟡 **来源：Buffer 4500万+帖分析 + 多家媒体**
+🟡 **Sources: Buffer's analysis of over 45 million posts and several media outlets**
 
-**结论：情况比较复杂，数据存在矛盾。**
+**Conclusion: The picture is complicated and the data conflict.**
 
-| 数据来源 | 结论 |
+| Data source | Finding |
 |----------|------|
-| Buffer 2025-2026数据 | 文字帖中位互动率（0.48%）略高于视频 |
-| 多家SEO/营销机构 | 原生视频获得约10x更多互动+算法偏好分发 |
-| 2026社媒策略报告 | 短视频（37%）和文字（36%）用户偏好几乎持平 |
+| Buffer data, 2025–2026 | Median engagement for text posts (0.48%) slightly exceeds video |
+| Several SEO and marketing agencies | Native video earns around 10× more engagement and preferential distribution |
+| 2026 social strategy report | User preferences for short video (37%) and text (36%) are nearly even |
 
-**更准确的说法**：X是主流社交平台中**文字帖子表现最接近甚至超过视频的平台**，但不能简单说「文字碾压视频」。算法层面，原生视频确实获得分发加权；但在实际互动率上，高质量文字帖表现不输视频。
+**More precisely**: Among major social platforms, **X is where text posts come closest to, or even surpass, video**. It is too simple to say text crushes video. Native video gets extra distribution weight, but good text posts can match video in actual engagement.
 
-### 5.2 各内容类型算法偏好
+### 5.2 How the Algorithm Treats Each Format
 
-🟡 **来源：综合多个分析**
+🟡 **Source: Synthesis of several analyses**
 
-| 内容类型 | 算法待遇 |
+| Format | Algorithmic treatment |
 |----------|----------|
-| **纯文字帖** | 互动率稳定最高，尤其适合引发对话 |
-| **原生视频（<2:20）** | 获得分发加权，完播率是关键信号 |
-| **图片帖** | 增加停留时间（dwell time），正面信号 |
-| **外部链接帖** | ⚠️ 严重惩罚：触达降低30-50%，非Premium几乎不可见 |
-| **引用转发（Quote Tweet）** | 比普通转发权重更高 |
-| **Thread（长推文串）** | 多条互动累积，整体效果好 |
+| **Text only** | Consistently the highest engagement rates, especially for sparking conversation |
+| **Native video under 2:20** | Distribution boost; completion rate is a key signal |
+| **Image post** | Increases dwell time, a positive signal |
+| **External-link post** | ⚠️ Heavy penalty: reach decreases 30–50%; nearly invisible for non-Premium accounts |
+| **Quote post** | More weight than a plain repost |
+| **Thread** | Engagement across several posts adds up, producing good overall results |
 
-- 来源：[Buffer](https://buffer.com/resources/data-best-content-format-social-media/) | [Sprout Social](https://sproutsocial.com/insights/twitter-algorithm/) | [SocialBee](https://socialbee.com/blog/twitter-algorithm/)
-
----
-
-## 六、关键时间窗口
-
-### 6.1 黄金30分钟与互动速度（Engagement Velocity）
-
-🟡 **来源：多家分析机构共识**
-
-- **前30分钟**是决定性窗口：这段时间的互动速度决定算法是否推入更大流量池
-- 更广义的**前2小时**也很关键
-- **速度 > 总量**：10分钟内获得100个赞 > 3天累积500个赞
-- 算法核心逻辑：早期互动 = 质量认证（quality stamp）
-
-### 6.2 停留时间（Dwell Time）
-
-🟢 **来源：开源代码中的权重定义**
-
-- 用户在你的帖子/对话上停留超过2分钟 = +10权重（约20x Like）
-- 短停留时间被视为低质量内容，导致算法抑制
-- 这意味着**让人想读完的长文**比**一划而过的短内容**更受算法青睐
-
-### 6.3 最佳发帖时间
-
-🟡 **来源：Buffer 100万帖分析 + Sprout Social + SocialPilot 5万账户分析**
-
-| 维度 | 建议 |
-|------|------|
-| **最佳时段** | 工作日 9AM-2PM（当地时间），次优 12PM-6PM |
-| **最佳日期** | 周二、周三、周四（周二最佳） |
-| **最差日期** | 周六 |
-| **发帖频率** | **3-5条/天**为最优区间，间隔2-3小时 |
-| **频率上限** | >5条/天增长反而放缓 |
-| **频率下限** | <1条/天增长显著不足 |
-
-⚠️ 以上为全球英文用户数据。中文创作者需根据目标受众时区调整（如面向中国读者，对应北京时间约 9PM-2AM EST）。
-
-- 来源：[Buffer](https://buffer.com/resources/best-time-to-post-on-twitter-x/) | [Sprout Social](https://sproutsocial.com/insights/best-times-to-post-on-twitter/) | [SocialPilot](https://www.socialpilot.co/insights/best-time-to-post-on-twitter) | [Tweet Archivist](https://www.tweetarchivist.com/twitter-posting-frequency-guide-2025)
+- Sources: [Buffer](https://buffer.com/resources/data-best-content-format-social-media/) | [Sprout Social](https://sproutsocial.com/insights/twitter-algorithm/) | [SocialBee](https://socialbee.com/blog/twitter-algorithm/)
 
 ---
 
-## 七、影子封禁（Shadow Ban）
+## 6. Key Time Windows
 
-### 7.1 四种类型
+### 6.1 The Golden 30 Minutes and Engagement Velocity
 
-🟡 **来源：shadowban检测工具 + 社区分析**
+🟡 **Source: Agreement across several analysts**
 
-| 类型 | 表现 |
+- **The first 30 minutes** are decisive: engagement speed tells the algorithm whether to push a post to a larger audience.
+- More broadly, **the first two hours** also matter.
+- **Velocity beats volume**: 100 likes in ten minutes beat 500 gathered in three days.
+- The algorithm's logic: early engagement acts as a quality stamp.
+
+### 6.2 Dwell Time
+
+🟢 **Source: Weight definitions in the open code**
+
+- A user spending over two minutes on your post or conversation adds +10 weight, about 20× a like.
+- Short dwell time is treated as a low-quality signal and leads to reduced distribution.
+- This means the algorithm favors **long pieces people want to finish** over **short pieces they scroll past**.
+
+### 6.3 Best Posting Times
+
+🟡 **Sources: Buffer's analysis of one million posts, Sprout Social, and SocialPilot's analysis of 50,000 accounts**
+
+| Dimension | Recommendation |
 |------|------|
-| **Search Suggestion Ban** | 用户名不出现在搜索建议中 |
-| **Search Ban** | 帖子不出现在搜索结果中 |
-| **Ghost Ban** | 回复对他人不可见 |
-| **Reply Deboosting** | 回复被折叠到「Show more replies」中 |
+| **Best hours** | Weekdays 9 a.m.–2 p.m. local time; 12–6 p.m. is next best |
+| **Best days** | Tuesday, Wednesday, and Thursday (Tuesday is best) |
+| **Worst day** | Saturday |
+| **Posting frequency** | **3–5 per day** is optimal, 2–3 hours apart |
+| **Upper limit** | Growth slows above five posts per day |
+| **Lower limit** | Growth is markedly weaker below one post per day |
 
-### 7.2 触发条件
+⚠️ The figures describe English-speaking users worldwide. Chinese-language creators should adjust for their audience's time zone (for example, the reference window for readers in Beijing time corresponds to approximately 9 p.m.–2 a.m. EST).
 
-🟡 **来源：Pixelscan + 多家指南**
+- Sources: [Buffer](https://buffer.com/resources/best-time-to-post-on-twitter-x/) | [Sprout Social](https://sproutsocial.com/insights/best-times-to-post-on-twitter/) | [SocialPilot](https://www.socialpilot.co/insights/best-time-to-post-on-twitter) | [Tweet Archivist](https://www.tweetarchivist.com/twitter-posting-frequency-guide-2025)
 
-| 行为 | 风险等级 |
+---
+
+## 7. Shadowbans
+
+### 7.1 Four Types
+
+🟡 **Sources: Shadowban testing tools and community analysis**
+
+| Type | Symptom |
+|------|------|
+| **Search Suggestion Ban** | Username does not appear in search suggestions |
+| **Search Ban** | Posts do not appear in search results |
+| **Ghost Ban** | Replies are invisible to others |
+| **Reply Deboosting** | Replies are collapsed under “Show more replies” |
+
+### 7.2 Triggers
+
+🟡 **Sources: Pixelscan and several guides**
+
+| Behavior | Risk |
 |------|----------|
-| 短时间大量关注/取关 | 🔴 高（大量取关可触发3个月shadowban） |
-| 1小时内点赞200+帖 | 🔴 高（自动化检测） |
-| 大量回复不关注的人 | 🟡 中 |
-| 重复发相同链接/hashtag | 🟡 中 |
-| 使用可疑第三方工具 | 🔴 高 |
-| 发布被多人举报的内容 | 🔴 高（-369x惩罚） |
+| Mass following or unfollowing in a short period | 🔴 High (mass unfollowing can trigger a three-month shadowban) |
+| Liking 200+ posts within an hour | 🔴 High (automation detection) |
+| Sending many replies to people outside your following list | 🟡 Medium |
+| Repeatedly posting the same link or hashtag | 🟡 Medium |
+| Using suspicious third-party tools | 🔴 High |
+| Publishing content that many people report | 🔴 High (−369× penalty) |
 
-### 7.3 检测方法
+### 7.3 Detection
 
-- 在线工具：[shadowban.yuzurisa.com](https://shadowban.yuzurisa.com/) 输入用户名即可检测4种限制
-- 人工验证：让不关注你的人搜索你的用户名或查找你的回复
+- Online tool: Enter a username at [shadowban.yuzurisa.com](https://shadowban.yuzurisa.com/) to check for all four restrictions.
+- Manual check: Ask someone who does not follow you to search for your username or look for your replies.
 
-### 7.4 恢复方法
+### 7.4 Recovery
 
-🟡 **来源：多家指南共识**
+🟡 **Source: Agreement across several guides**
 
-1. **立即停止**触发行为（不是逐渐减少，是完全停止）
-2. 删除重复、低质量、含过多链接/hashtag的帖子
-3. 断开可疑第三方应用授权
-4. **等待48-72小时**（自动shadowban通常在此期间解除）
-5. 完整恢复周期：**2-14天**
-6. 恢复期间保持正常、低频、高质量发帖
+1. **Stop the triggering behavior immediately**. Stop altogether instead of tapering off.
+2. Delete repetitive or low-quality posts and ones with excessive links or hashtags.
+3. Revoke access for suspicious third-party apps.
+4. **Wait 48–72 hours**. Automatic shadowbans usually lift during this interval.
+5. Full recovery takes **2–14 days**.
+6. During recovery, post normally, infrequently, and with an emphasis on quality.
 
-- 来源：[Pixelscan指南](https://pixelscan.net/blog/twitter-shadowban-2025-guide/) | [Tweet Archivist](https://www.tweetarchivist.com/twitter-shadowban-complete-guide-2025) | [Multilogin](https://multilogin.com/blog/twitter-shadow-bans/)
+- Sources: [Pixelscan guide](https://pixelscan.net/blog/twitter-shadowban-2025-guide/) | [Tweet Archivist](https://www.tweetarchivist.com/twitter-shadowban-complete-guide-2025) | [Multilogin](https://multilogin.com/blog/twitter-shadow-bans/)
 
 ---
 
-## 八、广告与有机增长的关系
+## 8. Advertising and Organic Growth
 
-### 8.1 付费 vs 有机表现
+### 8.1 Paid vs. Organic Performance
 
-🟡 **来源：WebFX + 媒体报道**
+🟡 **Sources: WebFX and media reports**
 
-| 指标 | 付费推广 | 有机发帖 |
+| Metric | Paid promotion | Organic posting |
 |------|----------|----------|
-| 平均CTR | 1-3% | 0.5-1.5% |
-| Premium账户触达 | — | 普通账户的~10x |
-| 非Premium链接帖互动 | — | 0（2026年3月后） |
+| Average click-through rate | 1–3% | 0.5–1.5% |
+| Premium account reach | — | About 10× that of ordinary accounts |
+| Engagement on link posts, non-Premium | — | 0 (after March 2026) |
 
-### 8.2 关键发现
+### 8.2 Key Findings
 
-🟡 **来源：多家分析**
+🟡 **Source: Several analyses**
 
-- 付费和有机算法**独立运行**，不存在「花钱就降有机流量」的惩罚
-- 但结构性趋势是：有机触达持续下降（全平台现象，不只X）
-- 通过广告获得的新关注者**会影响**后续有机帖子的表现（更多关注者→更多in-network分发）
-- Premium订阅本质上是**最低成本的「广告投放」**：4x/2x可见性加成远超同等价格的广告效果
+- The paid and organic algorithms **operate independently**. Paying does not trigger a reduction in organic traffic.
+- The structural trend is still declining organic reach, a widespread phenomenon rather than one unique to X.
+- New followers acquired through ads **do affect** later organic performance. More followers mean more in-network distribution.
+- Premium is effectively **the least expensive ad spend**. Its 4× and 2× visibility boosts outperform equivalent ad spending.
 
-- 来源：[WebFX](https://www.webfx.com/blog/social-media/x-twitter-marketing-benchmarks/) | [Avenue Z](https://avenuez.com/blog/2025-2026-x-twitter-organic-social-media-guide-for-brands/)
+- Sources: [WebFX](https://www.webfx.com/blog/social-media/x-twitter-marketing-benchmarks/) | [Avenue Z](https://avenuez.com/blog/2025-2026-x-twitter-organic-social-media-guide-for-brands/)
 
 ---
 
-## 九、Community Notes 的影响
+## 9. Impact of Community Notes
 
-### 9.1 对帖子表现的影响
+### 9.1 Impact on Post Performance
 
-🟢 **来源：华盛顿大学研究（2025年9月）**
+🟢 **Source: University of Washington research (September 2025)**
 
-| 指标 | 获得Community Note后变化 |
+| Metric | Change after a Community Note |
 |------|--------------------------|
-| 转发量 | **下降46%** |
-| 点赞量 | **下降44%** |
-| 浏览量 | 影响较小（Feed算法不会主动降权有Note的帖子） |
+| Reposts | **Down 46%** |
+| Likes | **Down 44%** |
+| Views | Small impact (feed algorithm does not actively downrank posts with a note) |
 
-### 9.2 关键细节
+### 9.2 Key Details
 
-- X**不会**在算法层面主动降低有Community Note帖子的分发
-- 下降主要来自**用户行为改变**：看到Note后用户减少转发和点赞
-- Note的**时效性**至关重要：48小时后才添加的Note几乎没有效果（内容已传播完毕）
-- 对**篡改媒体**（假照片/视频）的Note效果最大
+- X **does not actively reduce** the algorithmic distribution of posts with a Community Note.
+- The decline mainly comes from **changed user behavior**: after seeing a note, users repost and like less.
+- **Timing** is crucial. Notes added after 48 hours have almost no effect because the content has already circulated.
+- Notes addressing **manipulated media**, such as fake photos or video, have the largest effect.
 
-### 9.3 对创作者的启示
+### 9.3 Implications for Creators
 
-🔴 **推测/策略建议**
+🔴 **Inference and strategic advice**
 
-- 发布可能引发争议的事实性声明时，确保有来源
-- Community Note不直接降算法权，但**间接杀死互动**（转发-46%）
-- 被标注Note的帖子虽然浏览量不变，但传播力腰斩
-- 建设性、有来源的内容不太会被标注
+- Cite a source when publishing factual claims likely to cause controversy.
+- A Community Note does not directly lower the algorithmic weight, but **sharply reduces engagement indirectly** (reposts −46%).
+- A noted post may get the same views yet lose roughly half its ability to spread.
+- Constructive, sourced content is less likely to get a note.
 
-- 来源：[华盛顿大学研究](https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/) | [Wikipedia - Community Notes](https://en.wikipedia.org/wiki/Community_Notes)
+- Sources: [University of Washington study](https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/) | [Wikipedia - Community Notes](https://en.wikipedia.org/wiki/Community_Notes)
 
 ---
 
-## 十、对内容创作者的核心启示
+## 10. Key Implications for Creators
 
-### 10.1 算法优化优先级（按ROI排序）
+### 10.1 Optimization Priorities by Return on Investment
 
-| 优先级 | 策略 | 依据 |
+| Priority | Strategy | Rationale |
 |--------|------|------|
-| **P0** | 引发对话、回复每条评论 | 对话回复150x权重 |
-| **P0** | 订阅Premium | 4x/2x可见性+TweepCred加成+链接帖可见性 |
-| **P1** | 前30分钟互动引爆 | 互动速度决定分发量 |
-| **P1** | 写让人停下来读的长文 | Dwell Time 20x权重 |
-| **P2** | 工作日9AM-2PM发帖 | 数据验证的最佳时段 |
-| **P2** | 避免外部链接（或放评论区） | 30-50%触达惩罚 |
-| **P3** | 保持正面/建设性语气 | Grok语气评分影响分发 |
-| **P3** | 控制Hashtag≤2个 | >2个触发spam判定 |
+| **P0** | Start conversations and reply to each comment | Conversational replies carry 150× weight |
+| **P0** | Subscribe to Premium | 4×/2× visibility, a TweepCred boost, and visibility for link posts |
+| **P1** | Build engagement in the first 30 minutes | Engagement speed determines distribution |
+| **P1** | Write long posts worth stopping to read | Dwell time carries 20× weight |
+| **P2** | Post from 9 a.m. to 2 p.m. on weekdays | Best time according to the data |
+| **P2** | Avoid external links or put them in the comments | Reach penalty of 30–50% |
+| **P3** | Keep a positive, constructive tone | Grok's tone score affects distribution |
+| **P3** | Use no more than two hashtags | More than two triggers spam classification |
 
-### 10.2 绝对禁区
+### 10.2 Practices to Avoid
 
-| 行为 | 后果 |
+| Behavior | Consequence |
 |------|------|
-| 短时间大量关注/取关 | 3个月shadowban |
-| 使用自动化工具刷互动 | 账号信誉永久受损 |
-| 频繁发外部链接（非Premium） | 帖子几乎不可见 |
-| 发布被举报内容 | -369x惩罚，内容直接消失 |
-| 突然改变发帖模式 | TweepCred下降 |
+| Mass following or unfollowing in a short period | Three-month shadowban |
+| Using automation to inflate engagement | Permanent damage to account reputation |
+| Frequent external links on a non-Premium account | Posts are nearly invisible |
+| Posting content that gets reported | −369× penalty; content disappears |
+| Abruptly changing posting patterns | Lower TweepCred |
 
-### 10.3 X独特优势（相比其他平台）
+### 10.3 What X Offers That Other Platforms Do Not
 
-- **唯一两次开源算法的主流平台**：可以精确优化
-- **文字内容友好**：不像其他平台逼你做视频
-- **对话驱动**：真正奖励深度交流而非表面互动
-- **Promptable Feeds**：用户可自定义推荐，意味着高质量垂直内容有长尾价值
+- **Only major platform to open-source its algorithm twice**: Enables precise optimization.
+- **Text-friendly**: Unlike some platforms, it does not force you into video.
+- **Conversation-driven**: Rewards deep exchanges rather than shallow interactions.
+- **Promptable feeds**: Users can customize recommendations, giving good niche content lasting value.
 
 ---
 
-## 附录：信息源清单
+## Appendix: Source List
 
-### 官方/一手来源
-- [xai-org/x-algorithm GitHub](https://github.com/xai-org/x-algorithm) — 2026年1月开源的Grok版算法
-- [twitter/the-algorithm GitHub](https://github.com/twitter/the-algorithm) — 2023年首次开源版本
-- [Elon Musk推文（2025.09）](https://x.com/elonmusk/status/1969081066578149547) — 宣布算法将纯AI化
-- [@XEng推文（2026.01）](https://x.com/XEng/status/2013471689087086804) — 宣布开源新算法
+### Official and Primary Sources
+- [xai-org/x-algorithm GitHub](https://github.com/xai-org/x-algorithm) — Grok algorithm released as open source in January 2026.
+- [twitter/the-algorithm GitHub](https://github.com/twitter/the-algorithm) — First open-source release in 2023.
+- [Elon Musk post (September 2025)](https://x.com/elonmusk/status/1969081066578149547) — Announces a fully AI-driven algorithm.
+- [@XEng post (January 2026)](https://x.com/XEng/status/2013471689087086804) — Announces the open-source release of the new algorithm.
 
-### 权威媒体报道
+### Established Media Coverage
 - [TechCrunch: X open sources its algorithm](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/)
 - [Social Media Today: Key ranking factors](https://www.socialmediatoday.com/news/x-formerly-twitter-open-source-algorithm-ranking-factors/759702/)
 - [Social Media Today: Grok algorithm shift](https://www.socialmediatoday.com/news/x-formerly-twitter-switching-to-fully-ai-powered-grok-algorithm/803174/)
 
-### 数据分析
-- [Buffer: Best content format 2026（4500万+帖分析）](https://buffer.com/resources/data-best-content-format-social-media/)
-- [Buffer: Best time to post（100万帖分析）](https://buffer.com/resources/best-time-to-post-on-twitter-x/)
+### Data Analysis
+- [Buffer: Best content format in 2026 (45 million+ posts analyzed)](https://buffer.com/resources/data-best-content-format-social-media/)
+- [Buffer: Best time to post (one million posts analyzed)](https://buffer.com/resources/best-time-to-post-on-twitter-x/)
 - [Sprout Social: Twitter algorithm 2026](https://sproutsocial.com/insights/twitter-algorithm/)
-- [华盛顿大学: Community Notes研究](https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/)
+- [University of Washington: Community Notes study](https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/)
 
-### 社区深度分析
-- [posteverywhere.ai: 源码解读](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works)
-- [Typefully: 算法更新分析](https://typefully.com/blog/x-algorithm-open-source)
-- [Circleboom: TweepCred深度解读](https://circleboom.com/blog/tweepcred-what-it-is-why-it-matters-and-how-to-increase-your-score-on-x-twitter/)
-- [nibzard: Rust+Python架构分析](https://nibzard.github.io/twitter-algorithm-tufte/)
-- [ByteByteGo: 算法架构图解](https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x)
-- [Pixelscan: Shadowban指南](https://pixelscan.net/blog/twitter-shadowban-2025-guide/)
-- [DeepWiki: x-algorithm仓库分析](https://deepwiki.com/xai-org/x-algorithm)
+### In-Depth Community Analyses
+- [posteverywhere.ai: Source-code analysis](https://posteverywhere.ai/blog/how-the-x-twitter-algorithm-works)
+- [Typefully: Algorithm update analysis](https://typefully.com/blog/x-algorithm-open-source)
+- [Circleboom: In-depth TweepCred analysis](https://circleboom.com/blog/tweepcred-what-it-is-why-it-matters-and-how-to-increase-your-score-on-x-twitter/)
+- [nibzard: Rust and Python architecture analysis](https://nibzard.github.io/twitter-algorithm-tufte/)
+- [ByteByteGo: Illustrated algorithm architecture](https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x)
+- [Pixelscan: Shadowban guide](https://pixelscan.net/blog/twitter-shadowban-2025-guide/)
+- [DeepWiki: x-algorithm repository analysis](https://deepwiki.com/xai-org/x-algorithm)
