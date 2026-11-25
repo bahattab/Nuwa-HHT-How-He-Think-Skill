@@ -1,6 +1,6 @@
 # 01 · Writings and systems thinking (2026-11-09 update: reuse and verification)
 
-The main material reuses `legacy-202604/查理芒格思想体系深度调研-20260404.md`, which covers core arguments, the origins of his terminology, the list of 25 tendencies, recommended books, and his intellectual influences. This file records verification, corrections, and additions. It uses the same labels as 05.
+The main material reuses `legacy-202604/writings-and-systems-thinking.md`, which covers core arguments, the origins of his terminology, the list of 25 tendencies, recommended books, and his intellectual influences. This file records verification, corrections, and additions. It uses the same labels as 05.
 
 ## Primary texts (his own written and spoken work)
 
