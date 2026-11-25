@@ -1,44 +1,43 @@
-# 封存件
+# Held-out material
 
-2026-11-09 升级时挑选。四件都来自这次补搜到的材料，旧版 SKILL.md 和旧底稿 01–06 里没有展开过。
-这四件事的内容不写进 SKILL.md、casebook.md、voice.md，只当考题。
+Selected during the 2026-11-09 upgrade. All four items came from the additional search and were not covered in detail in the earlier SKILL.md or research files 01–06. Keep their contents out of SKILL.md, casebook.md, and voice.md. Use them only as test questions.
 
 ## H1
-- 出处：Walter Isaacson《Steve Jobs》（2011）第 30 章「The iTunes Store」，Jobs、Schiller、Fadell 的口述
-- 问题：2002 年前后，iPod 只能配 Mac 用，而且它正在带动 Mac 的销量。你的团队几乎所有人都主张让 iPod 支持 Windows。你当时怎么想、怎么处理的，最后怎么收场？
-- 他实际怎么说 / 怎么做：
-  - 一开始坚决反对，理由是 iPod 是拉人买 Mac 的理由，开放给 Windows 等于放弃这个杠杆。他回忆：「It was a really big argument for months, me against everyone else.」还说过 Windows 用户要用 iPod 得「over my dead body」
-  - 让步的方式是提条件：「Until you can prove to me that it will make business sense, I'm not going to do it.」Isaacson 评：这其实是他退让的方式
-  - 团队做了表格推演，结论是任何情景下 Mac 被蚕食的损失都抵不过 iPod 多卖的收入。他在会上说：「Screw it. I'm sick of listening to you assholes. Go do whatever the hell you want.」
-  - 先用第三方软件 MusicMatch 对接 Windows，体验很差；随后苹果自己做了 Windows 版 iTunes（2003 年 10 月）。他坚持的是：要做就得把整套体验握在自己手里
-- 为什么选它：有明确岔路；过程是「强硬反对→要证据→不体面地认输→认输后把做法收回到自己的原则上」，裸模型容易答成「果断拥抱开放」或「坚持封闭」
+- Source: Walter Isaacson, *Steve Jobs* (2011), chapter 30, “The iTunes Store,” drawing on accounts from Jobs, Schiller, and Fadell.
+- Question: Around 2002, the iPod worked only with Mac and was driving Mac sales. Almost everyone on your team wanted Windows support. What did you think, what did you do, and how did it end?
+- What he said or did:
+  - Initially he firmly opposed it because the iPod gave customers a reason to buy a Mac. Opening it to Windows would give up that leverage. He recalled, “It was a really big argument for months, me against everyone else.” He also said Windows users would get the iPod “over my dead body.”
+  - He made his concession conditional: “Until you can prove to me that it will make business sense, I'm not going to do it.” Isaacson regards this as how he backed down.
+  - The team's spreadsheet scenarios showed that the loss from cannibalizing Mac sales would never outweigh the additional iPod revenue. In the meeting he said, “Screw it. I'm sick of listening to you assholes. Go do whatever the hell you want.”
+  - Windows initially connected through the third-party MusicMatch software, which offered a poor experience. Apple then built iTunes for Windows, released in October 2003. Jobs insisted on taking responsibility for the entire experience once they decided to proceed.
+- Why select it: There were genuine alternatives. The sequence was strong opposition, a demand for proof, a graceless concession, then a return to his principles in the implementation. A model without the skill could default to “he decisively embraced openness” or “he stayed closed.”
 
 ## H2
-- 出处：WWDC 2005 主题演讲（2005-06-06）原片
-- 问题：2005 年，Mac 用了十多年 PowerPC 芯片，软件生态都建在上面，你公开嘲讽 Intel 也有好些年了。你为什么决定把整条 Mac 产品线换到 Intel？当着开发者你是怎么讲这件事的，事先做了哪些准备？
-- 他实际怎么说 / 怎么做：
-  - 理由从想做的产品倒推：他说往前看，有些想做的产品，照 PowerPC 未来的路线图做不出来
-  - 具体指标是每瓦性能（performance per watt），不是绝对性能；台上给了对比数字
-  - 当众认账：两年前他在同一个台上承诺过 3GHz 的 G5，没做到；G5 也一直放不进 PowerBook
-  - 准备：Mac OS X 从诞生起每个版本都秘密在 Intel 上编译，他的说法是它过了五年「secret double life」；整场演示用的就是一台 Intel Mac；给了 Rosetta 转译和开发者过渡机；宣布两年内完成过渡（实际一年多做完）
-- 为什么选它：有岔路（继续等 IBM、换 AMD、换 Intel）；理由具体（每瓦性能、笔记本），裸模型容易泛泛答成「Intel 更快更便宜」
+- Source: Original recording of the WWDC 2005 keynote (2005-06-06).
+- Question: By 2005, Macs had used PowerPC chips for over a decade, the software ecosystem depended on them, and you had publicly mocked Intel for years. Why did you move the full Mac line to Intel? How did you explain the decision to developers, and what preparation did you make?
+- What he said or did:
+  - He worked backward from the products he wanted to make. Looking ahead, some of those products would not be possible on the PowerPC roadmap.
+  - The metric was performance per watt rather than absolute performance. He gave comparative figures on stage.
+  - He publicly acknowledged that on the same stage two years earlier he had promised a 3 GHz G5 and had failed to deliver it. The G5 had also never fit in a PowerBook.
+  - Every version of Mac OS X had secretly been built on Intel since its creation. He called it a five-year “secret double life.” The whole demonstration ran on an Intel Mac. Apple supplied Rosetta translation and developer transition machines and announced a two-year transition, which took a little over a year.
+- Why select it: There were alternatives, including waiting for IBM, moving to AMD, and moving to Intel. The reasoning was specific to power efficiency and laptops. A model without the skill might just say Intel was faster and cheaper.
 
 ## H3
-- 出处：Victoria Barret，《Dropbox: The Inside Story Of Tech's Hottest Startup》，Forbes，2011-10；Drew Houston 的口述
-- 问题：2009 年底，一家做文件同步的小公司 Dropbox 增长很快，创始人只有二十多岁。你把他们请到苹果来。你怎么评价他们做的东西，你打算怎么办？对方不同意之后呢？
-- 他实际怎么说 / 怎么做：
-  - 当面夸他们做得好，同时判断 Dropbox 是「a feature, not a product」
-  - 提出收购（据报道是九位数报价）
-  - Houston 说公司不卖。他笑着告诉对方，那苹果会进入这个市场
-  - 2011 年 6 月发布 iCloud，把同步做成操作系统里的一项功能
-- 为什么选它：小事、有岔路（合作、收购、自己做、不管）；「功能不是产品」的判断来自端到端整合的思路，裸模型未必说得出他先收购、被拒后直说要自己做
+- Source: Victoria Barret, “Dropbox: The Inside Story Of Tech's Hottest Startup,” Forbes, 2011-10, drawing on Drew Houston's account.
+- Question: In late 2009, Dropbox was a rapidly growing small file-sync company with founders in their twenties. You invited them to Apple. How did you assess what they built, what did you propose, and what happened when they disagreed?
+- What he said or did:
+  - He praised their work in person but called Dropbox “a feature, not a product.”
+  - He proposed acquiring it, reportedly for a nine-figure sum.
+  - Houston said the company was not for sale. Jobs smiled and said Apple would enter the market.
+  - Apple introduced iCloud in June 2011, making synchronization an operating-system feature.
+- Why select it: A small decision with genuine alternatives: partnership, acquisition, building it in-house, or doing nothing. The distinction between feature and product reflects end-to-end integration. A model without the skill might miss that he first tried to acquire Dropbox and explicitly said he would build it after being turned down.
 
 ## H4
-- 出处：Betsy Morris 对 Jobs 的访谈，Fortune，2008-03（「On Apple's focus」一段）
-- 问题：2000 年前后 PDA（掌上电脑）很火，苹果被外界和内部催了好几年去做一款。你为什么最后没做？你当时的判断依据是什么？
-- 他实际怎么说 / 怎么做：
-  - 他的原话：「we were pressured for years to do a PDA, and I realized one day that 90% of the people who use a PDA only take information out of it on the road. They don't put information into it.」
-  - 推论：手机很快就能做「取信息」这件事，PDA 市场会缩到现在的一小部分，撑不起来
-  - 所以决定不进
-  - 他自己的事后评价：如果当时做了 PDA，就没有资源做 iPod，「We probably wouldn't have seen it coming.」
-- 为什么选它：判断依据是一个具体的使用观察（只取不存），不是口号；裸模型容易答成「聚焦」「不够好」之类的泛论
+- Source: Betsy Morris's interview with Jobs, Fortune, 2008-03, “On Apple's focus.”
+- Question: Around 2000, PDAs were popular, and Apple had been urged inside and outside the company for years to make one. Why did you choose not to? What evidence informed the decision?
+- What he said or did:
+  - His words: “we were pressured for years to do a PDA, and I realized one day that 90% of the people who use a PDA only take information out of it on the road. They don't put information into it.”
+  - He inferred that phones would soon handle retrieval, reducing the PDA market to a fraction of its size and leaving it unsustainable.
+  - He decided not to enter the market.
+  - In retrospect, he said that building a PDA would have left no resources for the iPod: “We probably wouldn't have seen it coming.”
+- Why select it: The decision drew on a concrete observation about retrieving and entering information. A model without the skill might answer with generic principles such as “focus” or “it wasn't good enough.”

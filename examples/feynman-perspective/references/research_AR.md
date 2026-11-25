@@ -73,8 +73,8 @@
 
 | الوكيل | ملفّ التقرير |
 |-------|---------|
-| المؤلّفات والتفكير المنهجيّ | `07-调研与分析/writings-and-systems-thinking_AR.md` |
-| الحوارات والتفكير العفويّ | `07-调研与分析/long-conversations-and-spontaneous-thinking_AR.md` |
-| [expression-style_AR.md](expression-style_AR.md) | `07-调研与分析/费曼表达风格调研.md` |
-| وجهات النظر الخارجيّة والنقد | `07-调研与分析/external-assessments_AR.md` |
-| القرارات وسجلّ الأعمال | `07-调研与分析/major-decisions_AR.md` |
+| المؤلّفات والتفكير المنهجيّ | [writings-and-systems-thinking_AR.md](writings-and-systems-thinking_AR.md) |
+| الحوارات والتفكير العفويّ | [long-conversations-and-spontaneous-thinking_AR.md](long-conversations-and-spontaneous-thinking_AR.md) |
+| [expression-style_AR.md](expression-style_AR.md) | [expression-style_AR.md](expression-style_AR.md) |
+| وجهات النظر الخارجيّة والنقد | [external-assessments_AR.md](external-assessments_AR.md) |
+| القرارات وسجلّ الأعمال | [major-decisions_AR.md](major-decisions_AR.md) |

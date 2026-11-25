@@ -1,34 +1,34 @@
-# 00 · 先验快照（盲写）
+# 00 · Prior snapshot (written blind)
 
-写于 2026-11-09，写之前没有读旧版 SKILL.md 和任何底稿，没有查资料。
+Written on 2026-11-09, before reading the previous SKILL.md or any research notes and without looking up sources.
 
-## 我认为他最核心的五个观点或做法
+## Five principles or practices I expect to be central
 
-1. **聚焦就是说不。** 1997 年回苹果后把几十条产品线砍成四格（消费/专业 × 台式/便携）。「我为没做的事和做了的事一样自豪。」
-2. **从用户体验倒推技术，不从技术出发找市场。** 1997 年 WWDC 回答台下质疑时讲的原话大意。
-3. **端到端控制。** 软硬件一体、封闭系统，为的是对整个体验负责；看不见的地方（机箱内部、电路板走线）也要做好看——来自养父做柜子背板的故事。
-4. **A 级人才只和 A 级人才共事。** 小团队、直接负责人（DRI）、不设损益中心的职能型组织；对平庸不留情面（「这是狗屎」）。
-5. **技术与人文的交叉口。** 产品是品味的产物；简洁是把复杂性吃透之后的简洁，不是删功能。
+1. **Focus means saying no.** After returning to Apple in 1997, he cut dozens of product lines down to four quadrants: consumer/professional × desktop/portable. “I'm as proud of what we don't do as I am of what we do.”
+2. **Work backward from the user experience to the technology.** Do not start with technology and look for a market. This paraphrases his answer to a critical question at WWDC 1997.
+3. **End-to-end control.** Integrate hardware and software in a closed system so you can take responsibility for the whole experience. Even unseen parts, such as the inside of a case or the traces on a circuit board, should look good. This comes from the story about his adoptive father making the backs of cabinets.
+4. **A players work only with A players.** Small teams, directly responsible individuals (DRIs), and a functional organization without profit-and-loss centers. He was blunt about mediocrity (“This is shit”).
+5. **The intersection of technology and the humanities.** Products reflect taste. Simplicity comes from fully understanding complexity; it does not just mean reducing features.
 
-## 三个最有把握的具体事实
+## Three specific facts I am most confident about
 
-- 1985 年在与 Sculley 的董事会之争中失势离开苹果，创办 NeXT；1996 年底苹果收购 NeXT，1997 年任临时 CEO。
-- 2005 年斯坦福毕业演讲讲了三个故事：连点成线、爱与失去、死亡。
-- 2007 年 1 月发布 iPhone；最初反对第三方原生应用，主张 Web App，2008 年才开 App Store。
+- In 1985 he lost the boardroom struggle with Sculley, left Apple, and founded NeXT. Apple acquired NeXT in late 1996, and Jobs became interim CEO in 1997.
+- At the 2005 Stanford commencement he told three stories: connecting the dots, love and loss, and death.
+- He introduced the iPhone in January 2007. He initially opposed native third-party apps and advocated web apps. The App Store opened in 2008.
 
-## 三个不太确定的
+## Three points I am less certain about
 
-- 「人们不知道自己要什么，直到你拿给他们看」这句话的准确出处和原文（BusinessWeek 1998？），以及他是否真的「从不做用户调研」。
-- 「Good artists copy, great artists steal」他引毕加索，毕加索是否真说过；他后来对安卓「热核战争」的态度和这句话如何并存。
-- 他在皮克斯的实际角色：是深度参与创作，还是主要做投资人和谈判者（与迪士尼的交易）。
+- The exact wording and source of “People don't know what they want until you show it to them” (BusinessWeek, 1998?), and whether he really never conducted user research.
+- He attributed “Good artists copy, great artists steal” to Picasso. Did Picasso actually say it, and how did Jobs reconcile it with his later talk of “thermonuclear war” against Android?
+- His actual role at Pixar: was he deeply involved in creative work, or primarily an investor and negotiator in the deal with Disney?
 
-## 大众对他最常见的一句话印象
+## The most common one-line public impression
 
-「一个靠直觉和现实扭曲力场、不听用户意见的完美主义暴君天才。」
+“A genius and perfectionist tyrant who relied on intuition and a reality distortion field and ignored user feedback.”
 
-## 我猜调研最可能改动先验的地方
+## Where I expect the research to change my priors
 
-- 他改主意的次数（iPod 上 Windows、App Store、视频 iPod、iPhone 尺寸、手写笔/小平板的表态）——大众印象是固执，实际可能是「强观点、被说服后翻得很快」。
-- NeXT 与皮克斯十年对他管理方式的改变（1985 年的他和 1997 年的他差别）。
-- 失败案例：Lisa、NeXT 硬件、Power Mac G4 Cube、MobileMe、Ping、Antennagate 的处理。
-- 具体工作方法：周一高管例会、Top 100、怎么评审产品、怎么准备发布会、怎么谈判（音乐版权、AT&T、迪士尼）。
+- How often he changed his mind: iPod on Windows, the App Store, video on the iPod, iPhone size, and his statements on styluses and small tablets. He is perceived as stubborn. The evidence may show that he held strong views and reversed quickly once persuaded.
+- How the decade at NeXT and Pixar changed his management, comparing Jobs in 1985 and in 1997.
+- Failures and his responses: Lisa, NeXT hardware, the Power Mac G4 Cube, MobileMe, Ping, and Antennagate.
+- Concrete practices: the Monday executive meeting, Top 100, product reviews, launch preparation, and negotiations over music rights, AT&T, and Disney.

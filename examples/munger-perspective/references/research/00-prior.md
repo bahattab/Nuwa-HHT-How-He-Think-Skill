@@ -1,33 +1,33 @@
-# 00 · 先验快照（查理·芒格）
+# 00 · Prior-knowledge snapshot (Charlie Munger)
 
-写于2026-11-09，写之前没有读旧版SKILL.md和旧底稿（盲写）。写的人：Fable 5.2，凭训练记忆。
+Written on 2026-11-09 by Fable 5.2, using only training recall without first reading the earlier SKILL.md or research notes (blind drafting).
 
-## 我认为他最核心的五个观点或做法
+## Five views or practices I consider central
 
-1. **多元思维模型格栅**：把各大学科最重要的几个模型（数学的复利与排列组合、心理学的误判、工程的冗余与临界点、生物的演化、会计）挂在一个格栅上，交叉使用；只会一门的人是「拿锤子的人」。
-2. **逆向思考**：「反过来想，总是反过来想」（借自雅可比）；先问怎样会失败、怎样会让生活悲惨，然后避开。「我只想知道我将来会死在哪里，这样我就不去那儿。」
-3. **人类误判心理学**：25种倾向（激励、避免不一致、社会认同、被剥夺超级反应……），多种倾向同向叠加产生lollapalooza效应；激励被他放在第一位。
-4. **能力圈＋耐心＋重仓**：大部分时间什么都不做，等到少数几个极好的机会下重注；「以合理价格买好公司，胜过以便宜价格买平庸公司」，他把巴菲特从格雷厄姆的捡烟蒂推向买优质企业。
-5. **避免愚蠢胜过追求聪明**：长期不做蠢事就能领先；嫉妒、怨恨、自怜、杠杆、酒精是他反复点名的自毁方式；「要得到你想要的东西，最可靠的办法是让自己配得上它」。
+1. **A latticework of mental models.** Take the most important models from major disciplines, including compounding and combinatorics from mathematics, misjudgment from psychology, redundancy and tipping points from engineering, evolution from biology, and accounting. Put them on a common lattice and use them together. Someone with only one discipline becomes the proverbial person with a hammer.
+2. **Inversion.** “Invert, always invert,” borrowed from Jacobi. Ask what would cause failure or misery, then avoid it. “All I want to know is where I’m going to die, so I’ll never go there.”
+3. **The psychology of human misjudgment.** Twenty-five tendencies include incentives, inconsistency avoidance, social proof, and deprival superreaction. Multiple tendencies reinforcing one another produce the Lollapalooza effect. Munger places incentives first.
+4. **Circle of competence, patience, and concentrated bets.** Do nothing most of the time and bet heavily when a few exceptional opportunities arise. Buying a good business at a fair price beats buying a mediocre business cheaply. Munger moved Buffett away from Graham’s cigar-butt bargains toward high-quality firms.
+5. **Avoiding stupidity beats trying to be clever.** Consistently avoiding foolish acts is enough to get ahead. Munger repeatedly singled out envy, resentment, self-pity, leverage, and alcohol as roads to self-destruction. “The safest way to try to get what you want is to try to deserve what you want.”
 
-## 三个我最有把握的具体事实
+## Three specific facts I am most confident about
 
-1. 1924年1月1日生于奥马哈，2023年11月28日去世，差34天满100岁；伯克希尔副董事长，Daily Journal董事长多年。
-2. 1972年通过蓝筹印花以2500万美元买下喜诗糖果，这是巴菲特接受「为品质付溢价」的转折案例。
-3. 1986年哈佛学校毕业演讲是「如何保证过上悲惨生活」（逆向版毕业致辞，借卡森的话头）；1994年南加大商学院演讲讲「普世智慧」；1995年哈佛演讲讲「人类误判心理学」。
+1. Born in Omaha on 1924-01-01 and died on 2023-11-28, thirty-four days short of 100. He was Berkshire Hathaway’s vice chairman and served for years as chairman of the Daily Journal.
+2. In 1972, Blue Chip Stamps acquired See’s Candies for $25 million. The acquisition was a turning point in Buffett’s acceptance of paying a premium for quality.
+3. The 1986 Harvard School commencement address was “How to Guarantee a Life of Misery,” an inverted commencement speech drawing on Carson. In 1994, Munger spoke about worldly wisdom at the USC business school. In 1995, he spoke at Harvard on the psychology of human misjudgment.
 
-## 三个我不太确定的
+## Three points I am less certain about
 
-1. 他早年合伙基金（Wheeler, Munger）1973–74年的回撤到底多大——印象是两年各跌三十个点左右、累计约一半，具体数字记不准。
-2. 他对比亚迪的投资是哪年、经谁介绍（印象是李录，2008年，伯克希尔买入约10%），他个人和家族先买的细节不确定。
-3. 他在阿里巴巴上的操作（Daily Journal 2021年买入、后来减半）和他事后原话怎么认错的，细节不确定。
+1. The exact 1973–74 drawdown of his early partnership fund, Wheeler, Munger. My recollection is roughly thirty percentage points in each year and roughly half cumulatively, but I do not recall the precise figures.
+2. The year and intermediary for the BYD investment. I recall Li Lu, 2008, and Berkshire buying about 10%. I am uncertain about the details of purchases he and his family made beforehand.
+3. The details of his Alibaba transactions, including the Daily Journal’s 2021 purchase and later halving of the position, and his exact words when he subsequently admitted the error.
 
-## 大众对他最常见的一句话印象
+## The most common one-sentence public impression
 
-「巴菲特背后那个毒舌的智慧老头，满口金句，讲多元思维模型和逆向思考。」
+“The sharp-tongued, wise old man behind Buffett, full of quotable lines about mental models and inversion.”
 
-## 我预感自己的偏向
+## Biases I anticipate in my account
 
-- 容易把他写成一本格言集：模型清单、偏差清单、金句，而不是他实际怎么做决定的。
-- 对他早年的失败、他被批评的地方（中国和中共的言论、阿里巴巴、UCSB无窗宿舍、对加密货币的激烈措辞）、他自己承认的错误记得少。
-- 对他作为律师、地产开发商、Daily Journal和Costco董事的具体做事方式几乎只有标签。
+- I may turn him into a collection of maxims, models, biases, and quotations instead of explaining how he actually made decisions.
+- I recall little about his early failures, the criticism he drew over remarks about China and the Chinese Communist Party, Alibaba, windowless UCSB dormitories, or his harsh language about cryptocurrency, and the errors he acknowledged.
+- I know almost nothing beyond his job titles about how he worked as a lawyer, property developer, and director at the Daily Journal and Costco.

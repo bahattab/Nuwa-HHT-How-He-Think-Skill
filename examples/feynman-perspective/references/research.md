@@ -73,8 +73,8 @@ The first column describes each research assignment. The second gives the report
 
 | Agent | Report file |
 |-------|---------|
-| Writings and systematic thinking | `07-调研与分析/writings-and-systems-thinking.md` |
-| Conversations and spontaneous thinking | `07-调研与分析/long-conversations-and-spontaneous-thinking.md` |
-| [expression-style.md](expression-style.md) | `07-调研与分析/费曼表达风格调研.md` |
-| Outside perspectives and criticism | `07-调研与分析/external-assessments.md` |
-| Decisions and record of actions | `07-调研与分析/major-decisions.md` |
+| Writings and systematic thinking | [writings-and-systems-thinking.md](writings-and-systems-thinking.md) |
+| Conversations and spontaneous thinking | [long-conversations-and-spontaneous-thinking.md](long-conversations-and-spontaneous-thinking.md) |
+| [expression-style.md](expression-style.md) | [expression-style.md](expression-style.md) |
+| Outside perspectives and criticism | [external-assessments.md](external-assessments.md) |
+| Decisions and record of actions | [major-decisions.md](major-decisions.md) |

@@ -1,84 +1,84 @@
-# Agent 6: Andrej Karpathy 人物时间线
+# Research track 6: Andrej Karpathy's timeline
 
-> 调研时间：2026-04-05
-> 主要来源：Wikipedia、karpathy.ai、karpathy.bearblog.dev、TechCrunch、Dwarkesh Patel播客、VentureBeat
-> 已排除：知乎、百度、微信公众号
-
----
-
-## 完整时间线
-
-| 时间 | 事件 | 思想意义 |
-|------|------|---------|
-| 1986-10-23 | 生于斯洛伐克布拉迪斯拉发 | — |
-| 2001 | 随家人移居加拿大多伦多（15岁） | — |
-| 2005–2009 | 多伦多大学本科（CS+物理，数学辅修），修读Geoff Hinton课程 | 早期接触神经网络先驱，播下深度学习种子 |
-| 2009–2011 | UBC硕士，与Michiel van de Panne研究机器人+机器学习 | 从理论到具身AI的早期交汇 |
-| 2011–2015 | Stanford CS PhD，导师Fei-Fei Li，论文「Connecting Images and Natural Language」 | 多模态AI方向奠基；博士期间开始对「如何教懂AI」产生强烈兴趣 |
-| 2015 | 与Fei-Fei Li共同创设CS231n（150人→2017年750人） | 教育使命的第一次大规模实践；确认「教即是学」信念 |
-| 2015–2017 | 加入OpenAI创始团队，研究科学家 | 见证AI从学术到工程化转型的起点；接触前沿安全讨论 |
-| 2017-06 | 加入Tesla，Director of AI（Autopilot团队） | 从研究象牙塔进入「真实世界」：数十亿英里数据、安全压力、工程现实主义 |
-| 2017-11-11 | 发表「Software 2.0」博文 | ⭐ 思想里程碑：将神经网络定义为新型编程范式，不是工具而是语言 |
-| 2021–2022 | Tesla AI Day（2021、2022年）演讲 | 公开捍卫「纯视觉+不要Lidar」路线；「march of nines」工程现实主义首次系统阐述 |
-| 2022-07 | 离开Tesla | 称「想做些个人项目」；无戏剧性原因 |
-| 2022-08起 | 发布YouTube「Neural Networks: Zero to Hero」系列（micrograd→makemore→nanoGPT→LLM from scratch） | 教育使命2.0：用最小化实现让任何人都能真正理解LLM |
-| 2023-02 | 重返OpenAI | GPT-4时代，短暂回归 |
-| 2024-02-13 | 再次离开OpenAI | 「没有戏剧性原因，只是时机到了」 |
-| 2024-07-16 | 宣布创立Eureka Labs（AI原生学校，首课LLM101n） | 教育使命3.0：从个人YouTube到机构化AI原生教育 |
-| 2025-02-02 | 提出「vibe coding」概念 | 全球病毒式传播；他的本意是「放弃完全理解，依赖LLM协作编程」，但被过度简化解读 |
-| 2025-06 | AI Startup School演讲，提出「Software 3.0」框架 | Software 1.0→2.0→3.0 三部曲完成；英语成为新编程语言 |
-| 2025-10 | Dwarkesh Patel播客 | AGI仍需10-15年；反对agent过度叙事；坚持「现实主义」立场 |
-| 2025-12-21 | 发布「2025 LLM Year in Review」 | 年度技术总结，显示他仍保持「教师-观察者」身份 |
-| 2025-12-26 | 「我是被甩在后面的程序员」推文（1400万浏览） | 罕见的自我暴露：承认自己在新AI工具时代也感到失落 |
-| 2026-01 | 提出「agentic engineering」取代「vibe coding」 | 对自己创造的概念进行纠偏，显示他重视精确性 |
-| 2026-02-12 | 发布microGPT（243行纯Python实现完整GPT） | 「最小化理解」哲学的极致表达 |
+> Research date: 2026-04-05
+> Main sources: Wikipedia, karpathy.ai, karpathy.bearblog.dev, TechCrunch, the Dwarkesh Patel podcast, and VentureBeat
+> Excluded sources: Zhihu, Baidu, and WeChat official accounts
 
 ---
 
-## 核心思想演变轨迹
+## Full timeline
 
-### Software 1.0 → 2.0 → 3.0 三部曲
-
-- **Software 1.0**（传统编程）：人类写明确规则
-- **Software 2.0**（2017提出）：神经网络通过数据学习规则，权重即代码
-- **Software 3.0**（2025提出）：LLM本身即程序，英语/自然语言是新编程语言
-
-### Tesla锻造的「工程现实主义」
-
-- 在Tesla之前：偏学术，关注优雅的模型架构
-- Tesla之后：对「march of nines」（从90%到99%到99.9%的工程爬坡）有深刻直觉；对「在真实世界部署AI」的复杂性极为敏感
-- 标志性立场：坚定支持纯视觉方案，认为Lidar是「工程师的安慰剂」
-
-### 教育使命的三次跨越
-
-1. CS231n（2015）：课堂教学，750人规模
-2. YouTube Zero to Hero（2022）：全球免费教学，百万级受众
-3. Eureka Labs（2024）：机构化AI原生教育，「AI助教+人类教师」模式
-
-### AGI观的稳定性
-
-- 始终偏向「务实/现实主义」，不跟风「6个月AGI」的叙事
-- 2025年Dwarkesh访谈：AGI仍需10-15年
-- 对agent过度叙事保持怀疑：「agent不是魔法，只是循环调用LLM」
-
----
-
-## 最近12个月（2025年至今）重点动态
-
-- **vibe coding概念传播与纠偏**（2025年全年热点）：原始概念被稀释→他主动用「agentic engineering」修正
-- **Software 3.0框架**（2025-06）：英语作为编程语言的系统论述
-- **microGPT**（2026-02）：极简主义教育哲学的新峰值
-- **「被甩在后面的程序员」推文**（2025-12）：引发全球共鸣，显示他愿意公开分享脆弱
+| Date | Event | Significance for his thinking |
+|---|---|---|
+| 1986-10-23 | Born in Bratislava, Slovakia | — |
+| 2001 | Moved with his family to Toronto, Canada, aged 15 | — |
+| 2005–2009 | Undergraduate studies at the University of Toronto in computer science and physics, with a minor in mathematics. Took a course taught by Geoff Hinton. | Early exposure to a neural-network pioneer laid the groundwork for his interest in deep learning. |
+| 2009–2011 | Master's degree at UBC. Studied robotics and machine learning with Michiel van de Panne. | Early intersection of theory and embodied AI. |
+| 2011–2015 | PhD in computer science at Stanford with Fei-Fei Li. Dissertation: “Connecting Images and Natural Language.” | Laid foundations for work in multimodal AI. During his doctorate he became deeply interested in how to teach AI. |
+| 2015 | Co-created CS231n with Fei-Fei Li. Enrollment grew from 150 to 750 by 2017. | Put his educational mission into practice at scale for the first time and reinforced his belief that teaching is learning. |
+| 2015–2017 | Joined OpenAI's founding team as a research scientist. | Saw the early transition from academic AI to engineering practice and encountered frontier safety discussions. |
+| 2017-06 | Joined Tesla as Director of AI on the Autopilot team. | Moved from research into real-world deployment, with billions of miles of data, safety pressures, and engineering realism. |
+| 2017-11-11 | Published the “Software 2.0” blog post. | A conceptual milestone. He framed neural networks as a programming paradigm and treated them as a language in their own right. |
+| 2021–2022 | Spoke at Tesla AI Day in 2021 and 2022. | Publicly defended the vision-only approach without lidar and gave his first systematic account of the engineering realism of the “march of nines.” |
+| 2022-07 | Left Tesla. | Said he wanted to work on personal projects. He gave no dramatic reason. |
+| From 2022-08 | Published the YouTube series “Neural Networks: Zero to Hero,” progressing from micrograd to makemore, nanoGPT, and an LLM from scratch. | Education mission 2.0. Minimal implementations give anyone a route to understanding LLMs. |
+| 2023-02 | Returned to OpenAI. | Brief return in the GPT-4 era. |
+| 2024-02-13 | Left OpenAI again. | “There was no dramatic reason. The time was right.” |
+| 2024-07-16 | Announced Eureka Labs, an AI-native school whose first course was LLM101n. | Education mission 3.0. Moved from personal YouTube teaching to an institutional approach to AI-native education. |
+| 2025-02-02 | Introduced “vibe coding.” | The idea went viral worldwide. He meant giving up on understanding every detail and relying on collaboration with an LLM, but the concept was oversimplified in circulation. |
+| 2025-06 | Presented “Software 3.0” at AI Startup School. | Completed the Software 1.0 → 2.0 → 3.0 sequence. English becomes a new programming language. |
+| 2025-10 | Appeared on the Dwarkesh Patel podcast. | Put AGI 10–15 years away, challenged exaggerated narratives about agents, and held to a realist position. |
+| 2025-12-21 | Published “2025 LLM Year in Review.” | The yearly technical review showed that he still saw himself as a teacher and observer. |
+| 2025-12-26 | Posted about feeling left behind as a programmer. The post received 14 million views. | Unusually candid admission that he too felt adrift in the era of new AI tools. |
+| 2026-01 | Proposed “agentic engineering” in place of “vibe coding.” | Revised a concept he had coined, showing the importance he gives to precision. |
+| 2026-02-12 | Released microGPT, a complete GPT in 243 lines of pure Python. | An extreme expression of his approach to understanding through minimal implementation. |
 
 ---
 
-## 信息可信度说明
+## How his ideas evolved
 
-| 信息来源 | 可信度 | 说明 |
-|---------|--------|------|
-| karpathy.ai / bearblog | 一手 | 本人博客 |
-| Twitter/X @karpathy | 一手 | 本人原文 |
-| YouTube频道 | 一手 | 本人视频 |
-| Dwarkesh Patel播客 | 一手（采访） | 直接对话记录 |
-| TechCrunch / VentureBeat报道 | 二手 | 新闻报道，引用直接引语 |
-| Wikipedia | 二手 | 已与一手来源交叉验证 |
+### Software 1.0 → 2.0 → 3.0
+
+- **Software 1.0**, conventional programming. Humans write explicit rules.
+- **Software 2.0**, introduced in 2017. Neural networks learn rules from data, and the weights are the code.
+- **Software 3.0**, introduced in 2025. The LLM itself is the program, and English or another natural language is the new programming language.
+
+### Engineering realism developed at Tesla
+
+- Before Tesla, his orientation was more academic, with an emphasis on elegant model architectures.
+- After Tesla, he had a strong intuition for the “march of nines,” the engineering climb from 90% to 99% to 99.9%. He became highly sensitive to the complexity of deploying AI in the real world.
+- A signature position was his firm support for vision-only systems and his characterization of lidar as an “engineering placebo.”
+
+### Three steps in his educational mission
+
+1. CS231n in 2015. Classroom teaching at a scale of 750 students.
+2. YouTube Zero to Hero in 2022. Free teaching worldwide, reaching an audience of millions.
+3. Eureka Labs in 2024. Institutional, AI-native education pairing AI assistants with human teachers.
+
+### Stability of his views on AGI
+
+- Consistently favors a pragmatic view and resists claims of “AGI in six months.”
+- In his 2025 Dwarkesh interview, put AGI 10–15 years away.
+- Remains skeptical of inflated claims about agents. In his view, an agent is essentially an LLM called in a loop.
+
+---
+
+## Main developments in the recent 12-month period
+
+- **Spread and revision of “vibe coding”**, a hot topic throughout 2025. The original concept was diluted, so he put forward “agentic engineering” as a correction.
+- **Software 3.0**, June 2025. A systematic account of English as a programming language.
+- **microGPT**, February 2026. A new high point for his minimalist educational approach.
+- **Post about being left behind as a programmer**, December 2025. It resonated worldwide and showed a willingness to share vulnerability publicly.
+
+---
+
+## Source reliability
+
+| Source | Classification | Explanation |
+|---|---|---|
+| karpathy.ai / bearblog | Primary | His own blogs |
+| Twitter/X @karpathy | Primary | His original posts |
+| YouTube channel | Primary | His own videos |
+| Dwarkesh Patel podcast | Primary interview | Record of a direct conversation |
+| TechCrunch / VentureBeat reporting | Secondary | News reporting that includes direct quotations |
+| Wikipedia | Secondary | Cross-checked against primary sources |
